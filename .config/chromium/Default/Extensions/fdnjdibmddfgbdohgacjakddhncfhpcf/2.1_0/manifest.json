@@ -1,0 +1,20 @@
+{
+   "background_page": "background.html",
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16-expand.png",
+      "16c": "icon-16-contract.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDErScaMyQ8/lEG+SgCEl6pIcaVMirLiB1z9zZBmlfs0dwg29K+JHkkKGgmVX06L0qxCEfBAdE/KSPRd4HkPBFayWuY1ypH4qr2+FRBonsknPzeXpA1vRUYDrftLLtEF/On4uVVCQBtGEIpjITFPMoBGar3zLwWS0sF05jOMOq5wQIDAQAB",
+   "name": "__MSG_extensionName__",
+   "page_action": {
+      "default_icon": "icon-16-expand.png",
+      "default_title": "__MSG_pageActionDefaultTitle__"
+   },
+   "permissions": [ "tabs", "http://*/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.1"
+}

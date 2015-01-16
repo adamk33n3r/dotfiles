@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="time_stamp" mtime="1421095744" schema="/schemas/apps/awn-applet-sysmon/time_stamp"/>
+	<entry name="dummy" mtime="1421095744" schema="/schemas/apps/awn-applet-sysmon/dummy"/>
+</gconf>

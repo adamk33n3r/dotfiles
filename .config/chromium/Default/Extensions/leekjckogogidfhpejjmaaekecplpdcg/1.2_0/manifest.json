@@ -1,0 +1,20 @@
+{
+   "background_page": "background.html",
+   "content_scripts": [ {
+      "js": [ "megaupload.js" ],
+      "matches": [ "http://www.megaupload.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "No More Countdowns - Automatic Downloads.",
+   "icons": {
+      "128": "icon-128x128.png",
+      "16": "icon-16x16.png",
+      "32": "icon-32x32.png",
+      "48": "icon-48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKPj9gTBOdhkLUc1rCJCJL/do/6gqQAky9fco7imrlPbvfExXn/iJt/9D6zHcJAW1SbbKRONfcbgS6ZXd1ZVS3R91ZH+5b2T/6fRlPr5Qd50ns2gdWTL9PVpNK6wayI0h0JVtO90qolHRKawQddghoH1ZTqR+iS0zjhIKAxcpLUwIDAQAB",
+   "name": "MegaUpload DownloadHelper",
+   "permissions": [ "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

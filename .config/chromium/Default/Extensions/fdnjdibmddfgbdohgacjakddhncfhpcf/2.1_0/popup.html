@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <style type="text/css">
+      body {
+        width: 226px;
+        margin: 5px;
+        font-family: Arial;
+        font-size: 14px;
+      }
+      #icon {
+        margin-right: 7px;
+        float: left;
+      }
+      p {
+        margin: 0px 0px 0px 53px;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="icon-48.png" id="icon" />
+    <p><script>document.write(chrome.i18n.getMessage("popupText"));</script></p>
+    <script>
+      chrome.extension.sendRequest({toggleExtensionState: true});
+    </script>
+  </body>
+</html>
+

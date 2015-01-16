@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="time_stamp" mtime="1421095745" schema="/schemas/apps/awn-applet-sysmon/applet/time_stamp" type="int" value="1421095745"/>
+	<entry name="icon_list" mtime="1421095744" schema="/schemas/apps/awn-applet-sysmon/applet/icon_list"/>
+	<entry name="dummy" mtime="1421095744" schema="/schemas/apps/awn-applet-sysmon/applet/dummy"/>
+	<entry name="render_bg" mtime="1421095745" schema="/schemas/apps/awn-applet-sysmon/applet/render_bg" type="bool" value="true"/>
+</gconf>

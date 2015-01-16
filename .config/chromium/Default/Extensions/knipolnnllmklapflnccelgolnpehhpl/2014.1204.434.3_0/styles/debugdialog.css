@@ -1,0 +1,63 @@
+/**
+ * Copyright 2010 Google Inc. All Rights Reserved.
+ * Author: amitabh@google.com (Amitabh Saikia).
+ */
+
+html, body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  font-family: arial, sans-serif;
+}
+
+
+#settings {
+  margin: 5px;
+  text-align: center;
+  z-index: 10;
+}
+
+#settingsButton {
+  background-color: #427fed;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  color: #fff;
+  font-weight: bold;
+  padding: 8px;
+  text-align: center;
+  width: 60%;
+}
+
+#signIn {
+  margin: 10px;
+}
+
+#signInMessage {
+  color: #737373;
+  font-size: 12px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+#signInButton {
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 10px;
+  width: 100%;
+  box-shadow: 0 1px 0 rgba(0,0,0,.05);
+  background-color: #427fed;
+  background-image: linear-gradient(top,transparent,transparent);
+  color: #fff;
+  cursor: default;
+  text-align: center;
+  white-space: nowrap;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  transition-duration: .218s;
+  transition-timing-function: ease-in-out;
+  min-width: 54px;
+  outline: 4px solid transparent;
+  padding: 7px 12px;
+}

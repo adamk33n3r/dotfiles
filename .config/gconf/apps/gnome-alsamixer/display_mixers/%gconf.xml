@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="Conexant_CX20751_2" mtime="1420749795" type="bool" value="true"/>
+	<entry name="Intel_Haswell_HDMI" mtime="1420749795" type="bool" value="false"/>
+</gconf>

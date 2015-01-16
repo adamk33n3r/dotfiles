@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=xautolock
+Comment=
+Exec=xautolock -time 10 -locker slock -lockaftersleep -notify 10 -notifier 'notify-send "blackout in T-10"'
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=false
+

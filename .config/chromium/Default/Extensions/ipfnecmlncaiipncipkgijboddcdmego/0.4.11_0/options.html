@@ -1,0 +1,71 @@
+<html>
+<head><title>Music Plus for Google Play Music Options</title></head>
+	<script src='scripts/jquery-1.6.1.min.js'></script>
+	<script src="scripts/options.js"></script>
+	<style>
+		body {
+			font-family: 'Proxima Nova',arial,sans-serif;
+			color:#666;
+			margin:0;
+			padding:0;
+		}
+
+		#container {
+			margin:25px;
+		}
+
+		h1 {
+			background:#666;
+			color:white;
+			font-size:26px;
+			font-weight:normal;
+			padding:10px;
+		}
+		.item {
+			margin:10px;
+		}
+
+		#notification {
+			position:absolute;
+			top:112px;
+			left:430px;
+			padding:12px;
+			width:300px;
+			background:#FFFEA8;
+			-webkit-border-radius: 10px;
+			font-size:13px;
+		}
+
+		.disabled {
+			opacity: .5;
+		}
+	</style>
+
+<body>
+	<h1>Music Plus for Google Play Music Settings</h1>
+	<div id="container">
+		<h3>Enable the features you'd like to use (or just <a href="#" class="enable_all">enable everything</a>)</h3>
+		<div class="item"><input type="checkbox" name="bios" value="Bios" id="bios"> <label for="bios">Include artist and album bios via Last.fm</label><br /></div>
+		<div class="item"><input type="checkbox" name="scrobble" value="Scrobble" id="scrobble"> <label for="scrobble">Scrobble tracks to Last.fm</label> by <a href="http://www.danielslaughter.com/projects/google-music-with-lastfm/">Daniel Slaughter</a><br /></div>
+		<div class="item">
+			<input type="checkbox" name="notifications" value="notifications" id="notifications"> <label for="notifications">Show notifications when tracks change</label><br />
+			<blockquote><input disabled type="checkbox" name="mini_player" value="mini_player" id="mini_player"> <label for="notifications">Use notification window as mini-player</label><br /></blockquote>
+		</div>
+		<!-- <div class="item"><input type="checkbox" name="shortcuts" value="shortcuts" id="shortcuts"> <label for="shortcuts">Enable global keyboard shortcuts</label> (Ctrl+Shift+P to play/pause, Ctrl+Shift+Left/Right for next/previous track)<br /></div> -->
+		<!--
+		<div class="item"><input type="checkbox" name="download" id="download" value="Download"> <label for="download">Insert a download button for currently playing track</label> by <a href="http://userscripts.org/scripts/show/105972">Chris Hendry</a><br /></div>
+		-->
+		<div class="item"><input type="checkbox" name="lyrics" id="lyrics" value="Lyrics"> <label for="lyrics">Fetch lyrics for currently playing track</label> by <a href="http://userscripts.org/scripts/show/105238">Chris Hendry</a><br /></div>
+		<div class="item"><input type="checkbox" name="support" id="support" value="Support"> <label for="support">Support this extension via Amazon (Thanks for enabling this!)</label><br /></div>
+		<p>Alternately, if you'd like to support development of this extension, please consider donating via PayPal:</p>
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+		<input type="hidden" name="cmd" value="_s-xclick">
+		<input type="hidden" name="hosted_button_id" value="78EUQRCU5M3H6">
+		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+		</form>
+
+	</div>
+	<div id="notification" style="display:none;">This is a notification</div>
+</body>
+</html>

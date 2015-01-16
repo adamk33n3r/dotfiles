@@ -1,0 +1,1961 @@
+{
+   "1008774365351112026": {
+      "message": "Kenmerk '$REL_NO_FOLLOW$' toevoegen ($LINK_START$Meer informatie$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normaal"
+   },
+   "1026450251988549367": {
+      "message": "Onlangs aangepast"
+   },
+   "1044946868924904798": {
+      "message": "No connection"
+   },
+   "1052242579040192537": {
+      "message": "Canadees Aboriginal"
+   },
+   "1061567929494389534": {
+      "message": "Radiozenders kunnen niet worden opgehaald. Probeer het opnieuw."
+   },
+   "1061598772078003048": {
+      "message": "Interlineair annotatie-eindteken"
+   },
+   "108743912460085743": {
+      "message": "Links-naar-rechts opheffen"
+   },
+   "113306301971655652": {
+      "message": "Links-naar-rechts-teken (LRM)"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuut}other{{TEXT} minuten}}"
+   },
+   "1233161892151828431": {
+      "message": "Cursief"
+   },
+   "1248987958177161816": {
+      "message": "HTML-bron bewerken"
+   },
+   "1275783181441501836": {
+      "message": "Paragraafscheidingsteken"
+   },
+   "128003684539571261": {
+      "message": "Valuta"
+   },
+   "129672981680457789": {
+      "message": "Hanunoo"
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1345511732360402048": {
+      "message": "Oudturks"
+   },
+   "1372788343021542418": {
+      "message": "Als u de minispeler wilt gebruiken, logt u in bij Google Play Music op internet."
+   },
+   "1382005717519484629": {
+      "message": "Witregels"
+   },
+   "142620397708685601": {
+      "message": "Aangepaste kleur invoeren, bijv. roze, #F00, #D015FF of rgb(100, 50, 25)"
+   },
+   "1430061825590893722": {
+      "message": "Deze link in een nieuw venster openen"
+   },
+   "1433391846042476830": {
+      "message": "Gisteren"
+   },
+   "1444145448465775598": {
+      "message": "Annuleren"
+   },
+   "1453708590388513852": {
+      "message": "Technisch"
+   },
+   "1483596119706515744": {
+      "message": "Lontare"
+   },
+   "1487523984872879956": {
+      "message": "Vierkant (em-spatie)"
+   },
+   "1494946186465201682": {
+      "message": "Annuleren"
+   },
+   "1504214836895903832": {
+      "message": "Kan geen verbinding maken"
+   },
+   "1558113021895652337": {
+      "message": "Bestand is beveiligd door DRM"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1573657685592390905": {
+      "message": "Map selecteren..."
+   },
+   "1595478688335662057": {
+      "message": "Een Google-gebruiker"
+   },
+   "1615800076127848008": {
+      "message": "Tai Le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{over # uur}=1{over # uur}other{over # uur}}"
+   },
+   "1635932785663944786": {
+      "message": "Nummer"
+   },
+   "1658346838703079243": {
+      "message": "Wijzigen"
+   },
+   "1686917835491599951": {
+      "message": "Onlangs toegevoegd aan Mijn bibliotheek"
+   },
+   "1700078784075267898": {
+      "message": "Google Play Music"
+   },
+   "1709114386311494800": {
+      "message": "Koppelen"
+   },
+   "1722592106949807025": {
+      "message": "Foutopsporingslogboeken opslaan"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "Over"
+   },
+   "1729815731089690989": {
+      "message": "Make sure you're connected to the Internet"
+   },
+   "1751129087972897649": {
+      "message": "Keizerlijk Aramees"
+   },
+   "1763795268257640974": {
+      "message": "Kan niet afmelden voor afspeellijst. Probeer het opnieuw."
+   },
+   "1781759902625939771": {
+      "message": "Onbekende artiest"
+   },
+   "1800865039213871505": {
+      "message": "Ga naar link: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play Music voor Chrome op $PLATFORM$-computers",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Sluiten"
+   },
+   "1819368767424033007": {
+      "message": "Historisch"
+   },
+   "182621168783940405": {
+      "message": "Rechts-naar-links-teken (RLM)"
+   },
+   "184252996364058487": {
+      "message": "0 minuten"
+   },
+   "1860075031180562077": {
+      "message": "Muzieksymbool eind frase"
+   },
+   "190045585254551934": {
+      "message": "Syloti Nagri"
+   },
+   "1914372876923825240": {
+      "message": "Koppelen aan:"
+   },
+   "192481666606780833": {
+      "message": "Kan muziek niet afspelen"
+   },
+   "1945037339176024290": {
+      "message": "Ingesloten"
+   },
+   "1947306462789680361": {
+      "message": "$NUM$ minuten geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Muzieksymbool begin frase"
+   },
+   "1962559411793600980": {
+      "message": "Avestisch"
+   },
+   "1981687300412326534": {
+      "message": "Han 9-Stroke Radicals"
+   },
+   "1989564869397178334": {
+      "message": "Kop"
+   },
+   "1996585593795647892": {
+      "message": "Link toevoegen of verwijderen"
+   },
+   "2005272211699610673": {
+      "message": "Instantmix"
+   },
+   "2026335465374096346": {
+      "message": "Klik om shuffle uit te schakelen"
+   },
+   "2032972931560484213": {
+      "message": "Door $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Geen spatiëring"
+   },
+   "2038618429165152799": {
+      "message": "Naamloos"
+   },
+   "2056726623536384731": {
+      "message": "Naar Google Play Music gaan"
+   },
+   "2080060559104348538": {
+      "message": "Zuid-Aziatische scripts"
+   },
+   "2088175644103984799": {
+      "message": "Khmer klinkerteken inherent Aq"
+   },
+   "2094349866819883967": {
+      "message": "En-streepje"
+   },
+   "2102825898069375693": {
+      "message": "Menu"
+   },
+   "2107375315384298887": {
+      "message": "Subscript"
+   },
+   "2109622269343579329": {
+      "message": "Ongeldig e-mailadres"
+   },
+   "2139683490477275175": {
+      "message": "Sluiten"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 nummers}=1{1 nummer}other{{NUM_SONGS_2} nummers}}"
+   },
+   "216513153459932308": {
+      "message": "Gedeelten/Gerelateerd"
+   },
+   "2173312720188441245": {
+      "message": "Koptisch"
+   },
+   "2203397136690479355": {
+      "message": "Bestand kan niet worden verwerkt"
+   },
+   "2205522058604794595": {
+      "message": "Afrikaanse scripts"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Music: mediamappen kiezen"
+   },
+   "2252825622480483246": {
+      "message": "Meroïtisch cursief"
+   },
+   "2299183036960756600": {
+      "message": "over $NUM$ dag",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Fout bij laden van volledige bibliotheek. Probeer het later opnieuw."
+   },
+   "2309894433432831059": {
+      "message": "Presentatievorm voor verticaal streepje (12-punts letterbreedte)"
+   },
+   "2321398646644344846": {
+      "message": "Morgen"
+   },
+   "2328554046256236832": {
+      "message": "Niet-ondersteund FLAC-bestand"
+   },
+   "2339250039074511222": {
+      "message": "Deze link kan niet worden getest."
+   },
+   "2339750206850776348": {
+      "message": "Lycisch"
+   },
+   "2376735487384008742": {
+      "message": "Golvend koppelstreepje"
+   },
+   "2378357177170124823": {
+      "message": "Decimaal"
+   },
+   "2382000105167193834": {
+      "message": "Gujarati"
+   },
+   "2389069046927902638": {
+      "message": "Google Play Music"
+   },
+   "2390557292924554291": {
+      "message": "Verbindingselement (breedte nul)"
+   },
+   "2434131766046654438": {
+      "message": "Lineair B"
+   },
+   "247847652023697955": {
+      "message": "Muzieksymbool begin boogje"
+   },
+   "249032153569378306": {
+      "message": "$NUM$ uur geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2506718393130237030": {
+      "message": "Niet-ondersteunde indeling"
+   },
+   "2512060739274636260": {
+      "message": "Nieuw Tai Lue"
+   },
+   "2513370824993175045": {
+      "message": "over $NUM$ dagen",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Muzieksymbool eind balk"
+   },
+   "2529924385478060648": {
+      "message": "Buhid"
+   },
+   "2530473232691534250": {
+      "message": "E-mailadres"
+   },
+   "2538866057253567409": {
+      "message": "Deseret"
+   },
+   "2544569632476723854": {
+      "message": "Voorwaarden"
+   },
+   "2550362371114851075": {
+      "message": "Normaal"
+   },
+   "2558836909854550547": {
+      "message": "Normaal"
+   },
+   "2565011230196288502": {
+      "message": "over $NUM$ minuut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2610851846609508423": {
+      "message": "Op basis van ASCII"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ nieuw)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2714752802779336020": {
+      "message": "Google Play Music"
+   },
+   "2722441731984880542": {
+      "message": "Klik om shuffle in te schakelen"
+   },
+   "272553825640256879": {
+      "message": "Volledige breedte koppelteken/min-teken"
+   },
+   "2728464858411473080": {
+      "message": "Leuk"
+   },
+   "2732888649509914313": {
+      "message": "Mongools"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Te veel bestanden in account"
+   },
+   "2787148143326073325": {
+      "message": "Sound Search"
+   },
+   "2801094315807039135": {
+      "message": "Tai Viet"
+   },
+   "2809945145618753350": {
+      "message": "4-per-em-spatie"
+   },
+   "2811509810457668932": {
+      "message": "Fonologie (X-IPA)"
+   },
+   "2840006222747077107": {
+      "message": "Mijn bibliotheek is leeg"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{# minuten geleden}=1{# minuut geleden}other{# minuten geleden}}"
+   },
+   "2881621988818346391": {
+      "message": "Ja"
+   },
+   "2881776379326317082": {
+      "message": "Altijd deze locatie gebruiken"
+   },
+   "2896688457548770791": {
+      "message": "Citaat"
+   },
+   "2910989560121976550": {
+      "message": "Deze link testen"
+   },
+   "2918448970074432239": {
+      "message": "HTML bewerken"
+   },
+   "29485262661698811": {
+      "message": "Arabisch einde van Ayah"
+   },
+   "2954874827338778826": {
+      "message": "Webadres"
+   },
+   "2968801718595938980": {
+      "message": "Hangul (Koreaans)"
+   },
+   "2972470287059252937": {
+      "message": "Smalle ruimte voor niet afbreken"
+   },
+   "2973169743818593793": {
+      "message": "Han 5-Stroke Radicals"
+   },
+   "29734255682325103": {
+      "message": "Rechts uitlijnen"
+   },
+   "2980847012388128321": {
+      "message": "Spatie (breedte nul)"
+   },
+   "2980960654248329234": {
+      "message": "Spatie (haardikte)"
+   },
+   "2982463607788408741": {
+      "message": "U bent uitgelogd van uw Google-account. Vernieuw de pagina om weer in te loggen."
+   },
+   "305389607483289974": {
+      "message": "Klik om te onderbreken"
+   },
+   "3054851848337350805": {
+      "message": "Superscript"
+   },
+   "305815942371229357": {
+      "message": "Geen suggesties"
+   },
+   "3067310196368927236": {
+      "message": "Hebreeuwse interpunctie Maqaf"
+   },
+   "308732574543176489": {
+      "message": "Kan afspeellijst niet wijzigen. Probeer het opnieuw."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} uur}other{{TEXT} uur}}"
+   },
+   "3099596419835786769": {
+      "message": "Middelgrote wiskundige spatie"
+   },
+   "311577748341232969": {
+      "message": "U heeft de nieuwste Adobe Flash Player nodig om muziek te luisteren."
+   },
+   "3125342991297920614": {
+      "message": "Kan het album niet openen. Probeer het opnieuw."
+   },
+   "3138864086144358473": {
+      "message": "Han 11..17-Stroke Radicals"
+   },
+   "314582171813087287": {
+      "message": "Vast koppelteken"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Weet u niet zeker wat u in het vak moet zetten?$END_BOLD$ Zoek eerst de pagina waarnaar u een link wilt opnemen. (Een $SEARCH_ENGINE_LINK$zoekmachine$END_LINK$ kan hierbij handig zijn.) Kopieer vervolgens het webadres vanuit het vak in de adresbalk van uw browser en plak dit in het bovenstaande vak.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3167418181223330667": {
+      "message": "Modifier"
+   },
+   "3182977091552629211": {
+      "message": "Beweeg over elke cel voor de tekennaam."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{# dagen geleden}=1{# dag geleden}other{# dagen geleden}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 nummers}=1{1 nummer}other{# nummers}}"
+   },
+   "3196641196902208501": {
+      "message": "Koppelen aan een e-mailadres"
+   },
+   "3225804441370198247": {
+      "message": "Al mijn nummers - $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing / Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "over $NUM$ minuten",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Geen"
+   },
+   "3237206613586329862": {
+      "message": "Lydisch"
+   },
+   "3242312278127054660": {
+      "message": "Rekenen - Alfanumeriek"
+   },
+   "3245264696956198335": {
+      "message": "Indeling"
+   },
+   "3299099956700438963": {
+      "message": "Amerikaanse scripts"
+   },
+   "3335728816495350082": {
+      "message": "Topnummers - $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3381844160250536550": {
+      "message": "Inloggen bij Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Hebreeuws"
+   },
+   "3390725557414108843": {
+      "message": "Han 4-Stroke Radicals"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Naar welke URL moet deze link verwijzen?"
+   },
+   "3445096196133856884": {
+      "message": "Khmer klinkerteken inherent Aa"
+   },
+   "3462013384451950074": {
+      "message": "over $NUM$ uur",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Luister overal naar al uw muziek. Voeg gewoon muziek van uw computer toe aan Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Interpunctie"
+   },
+   "3483193414050571677": {
+      "message": "Niet leuk"
+   },
+   "3483958460407305290": {
+      "message": "Doorhalen"
+   },
+   "3547729876847212201": {
+      "message": "En-spatie"
+   },
+   "3565556274692077023": {
+      "message": "Em-streepje"
+   },
+   "3601632218457952692": {
+      "message": "Yi-taal"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Leuk"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Minispeler van Google Play Music"
+   },
+   "3649938620817393740": {
+      "message": "Klein"
+   },
+   "3650710698506236041": {
+      "message": "Hexadecimale kleur"
+   },
+   "3688803517283872334": {
+      "message": "Halve breedte Hangul-opvulteken"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "3748613043647922063": {
+      "message": "Onzichtbaar scheidingsteken"
+   },
+   "3762887990641668199": {
+      "message": "Armeens"
+   },
+   "3770594827970207417": {
+      "message": "Tussenkop"
+   },
+   "3772706138160001780": {
+      "message": "Horizontale balk"
+   },
+   "3774172828626803355": {
+      "message": "Cherokee"
+   },
+   "3782346097595894324": {
+      "message": "De verbinding met de server is mislukt. Probeer het later opnieuw."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "De volgende vensters worden gesloten:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolitisch"
+   },
+   "3839679337223320857": {
+      "message": "Ingelogd als $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3867367359959377145": {
+      "message": "FOUT: '$COLOR$' is geen geldige kleur.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Log in bij Google Play Music op internet voordat u de Chrome-app gebruikt."
+   },
+   "3873111853443561979": {
+      "message": "Onderstrepen"
+   },
+   "3901889124080689046": {
+      "message": "Bestand kan niet worden geopend"
+   },
+   "3905371920037624514": {
+      "message": "Minder gebruikelijk"
+   },
+   "3936240281193464170": {
+      "message": "Vernieuwen"
+   },
+   "3964523220682082212": {
+      "message": "Fout bij laden van bibliotheek"
+   },
+   "3975141127799341224": {
+      "message": "Koppelen aan een pagina of bestand ergens anders op internet"
+   },
+   "3988935995558346502": {
+      "message": "Cyrillisch"
+   },
+   "3996699777412450193": {
+      "message": "Pijlen"
+   },
+   "3999655151577464071": {
+      "message": "Er is een probleem opgetreden bij het verwijderen van uw instantmix."
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "Han 6-Stroke Radicals"
+   },
+   "4044663630621281686": {
+      "message": "Arabisch teken Safha"
+   },
+   "4055580652532057510": {
+      "message": "naamloos"
+   },
+   "4061274470931156807": {
+      "message": "Ol Chiki"
+   },
+   "4082846773463542695": {
+      "message": "Kan uw computer niet identificeren."
+   },
+   "4087074177670472082": {
+      "message": "Interlineair annotatie-anker"
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4171773891797639122": {
+      "message": "Verbindingselement voor woorden"
+   },
+   "4183640380235728062": {
+      "message": "Herhalen uit. Klik om de herhalingsmodus te wijzigen."
+   },
+   "4194375141064658954": {
+      "message": "Er is een technisch probleem opgetreden"
+   },
+   "4204603140063905121": {
+      "message": "Hangul Jungseong-opvulteken"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ bij $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Annuleren"
+   },
+   "4275466320467620600": {
+      "message": "Altijd op de voorgrond"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4326462735503400283": {
+      "message": "Weer te geven tekst:"
+   },
+   "4329609792835264496": {
+      "message": "Spatie (smal)"
+   },
+   "4333644357236884202": {
+      "message": "Khmer"
+   },
+   "4338950182024656659": {
+      "message": "Geslacht en genealogisch"
+   },
+   "4357737589458300153": {
+      "message": "De technologie voor het coderen van MPEG Layer-3-audio is onder licentie van Fraunhofer IIS en Thomson. Advanced Audio Coding (AAC) wordt gebruikt onder een licentie die wordt beheerd door de Via Licensing Corporation. Google Play bevat bepaalde software van derden waarvoor kennisgevingen en/of aanvullende Algemene voorwaarden vereist zijn. Deze vereiste kennisgevingen en/of aanvullende voorwaarden voor software van derden zijn te vinden op onze $START_LINK$pagina met openbaarmakingen van derden$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Hoog gewaardeerd"
+   },
+   "4380903276097257721": {
+      "message": "Presentatievorm voor verticaal streepje (gemiddelde letterbreedte)"
+   },
+   "4396890764725725469": {
+      "message": "Opslaan"
+   },
+   "4405073953395157822": {
+      "message": "CJK Strokes"
+   },
+   "4417144592785193889": {
+      "message": "Overige Oost-Aziatische scripts"
+   },
+   "4439965029912183539": {
+      "message": "Latijn-1 - Uitgebreid"
+   },
+   "4440466521156769623": {
+      "message": "Muzieksymbool begin balk"
+   },
+   "4445783474627796041": {
+      "message": "Gereed"
+   },
+   "445149490695787423": {
+      "message": "Opnieuw inloggen"
+   },
+   "4451528286100219680": {
+      "message": "Links-naar-rechts ingesloten"
+   },
+   "4456793125873199230": {
+      "message": "Ik doe een gok-radio"
+   },
+   "4462494623248108758": {
+      "message": "Afspeellijst"
+   },
+   "4478641030934315579": {
+      "message": "Gewoon"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4494835774314426313": {
+      "message": "Kan laatste seed niet verwijderen"
+   },
+   "4548656448943532301": {
+      "message": "Muziekupload voltooid"
+   },
+   "4571105317747127957": {
+      "message": "Koppelteken met trema"
+   },
+   "4590981840116960737": {
+      "message": "Opmaak en witregels"
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "4629182899853078878": {
+      "message": "Radiostation"
+   },
+   "4629398054050196678": {
+      "message": "Muziek downloaden naar de volgende locatie:"
+   },
+   "466976558518570343": {
+      "message": "Javaans"
+   },
+   "4675864222674894697": {
+      "message": "Shavian"
+   },
+   "4688946070631035536": {
+      "message": "Spellingcontrole"
+   },
+   "470296860672943171": {
+      "message": "Variantkeuze"
+   },
+   "4706959263210678625": {
+      "message": "Variantkeuze - $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Google Play up-to-date houden wanneer ik nieuwe muziek aan deze locaties toevoeg"
+   },
+   "4750228681419116696": {
+      "message": "Malayalam"
+   },
+   "4754400438927203898": {
+      "message": "Muziek onderbroken"
+   },
+   "4776903542722844646": {
+      "message": "Klik om af te spelen"
+   },
+   "4815033911915598343": {
+      "message": "Regelafstand"
+   },
+   "4816571345301008062": {
+      "message": "Er is een probleem opgetreden bij het wijzigen van de naam van uw instantmix."
+   },
+   "4830715100444503860": {
+      "message": "Kharoshthi"
+   },
+   "4862238057869188402": {
+      "message": "Mixes kunnen niet worden opgehaald. Probeer het opnieuw."
+   },
+   "4878527640076219954": {
+      "message": "Tamil"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Music voor Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Thai"
+   },
+   "4920482241656423227": {
+      "message": "Achtergrondkleur van tekst"
+   },
+   "4921096453319030731": {
+      "message": "Oudsyrisch afkortingsteken"
+   },
+   "4924253230856131215": {
+      "message": "Zuid-Oost Aziatische scripts"
+   },
+   "496636435516411982": {
+      "message": "Kan nummer niet beoordelen. Probeer het opnieuw."
+   },
+   "498913874005297914": {
+      "message": "Vet"
+   },
+   "499152283823240992": {
+      "message": "Samaritaans"
+   },
+   "5003850562831597565": {
+      "message": "Onlangs geabonneerd"
+   },
+   "5009878480585609766": {
+      "message": "Han - Overig"
+   },
+   "5015096128854741514": {
+      "message": "Vervoer en kaarten"
+   },
+   "5018227417300461385": {
+      "message": "Koppelteken/minteken"
+   },
+   "5022153145769748172": {
+      "message": "Geen nummers in de prullenbak."
+   },
+   "5030096791460456147": {
+      "message": "De afbeelding die u probeert te slepen, is geblokkeerd door de hostsite."
+   },
+   "5032188163864418301": {
+      "message": "Pahlavi uit inscripties"
+   },
+   "5049432650728491454": {
+      "message": "Browsen door nieuwe releases, populairste items, afspeellijsten en genres"
+   },
+   "506090363255226122": {
+      "message": "Gedraaid/Gespiegeld"
+   },
+   "5071594083516657121": {
+      "message": "Bestand is te groot"
+   },
+   "5094769877856014729": {
+      "message": "Muzieksymbool eind boogje"
+   },
+   "5105404398573470156": {
+      "message": "Geometrische vormen"
+   },
+   "5113771261593769985": {
+      "message": "Cham"
+   },
+   "5115900738857721327": {
+      "message": "Combinatietekens: verbindingselement voor grafemen"
+   },
+   "5128240607770067472": {
+      "message": "Over…"
+   },
+   "5143432838919500349": {
+      "message": "Scannen..."
+   },
+   "5170992049958515620": {
+      "message": "Koppelteken"
+   },
+   "5187212874644392331": {
+      "message": "Versie: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Het is momenteel niet mogelijk om afbeeldingsbestanden te slepen en neer te zetten.\nSleep een afbeelding vanuit uw webbrowser."
+   },
+   "5199204386348402183": {
+      "message": "Osmanya"
+   },
+   "5219596981664772816": {
+      "message": "Han 3-Stroke Radicals"
+   },
+   "5232157483592334572": {
+      "message": "Tifinagh"
+   },
+   "5256846847077792168": {
+      "message": "Woord bewerken"
+   },
+   "5278374842872340790": {
+      "message": "Emoticons"
+   },
+   "5288571118300787017": {
+      "message": "Decodeerfout gedetecteerd in $SONG_TITLE$. Controleer het oorspronkelijke bestand en upload het bestand opnieuw. Doorgegaan.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "531478949469830505": {
+      "message": "Sora Sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{meer dan 0 dagen}=1{meer dan 1 dag}other{meer dan # dagen}}"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5373550672011878193": {
+      "message": "Runeschrift"
+   },
+   "537543696442379345": {
+      "message": "Instantmix starten"
+   },
+   "5378532290721565403": {
+      "message": "Nummer is met een ander Google Play Music-account gekocht"
+   },
+   "5394607018657314633": {
+      "message": "Lijnscheidingsteken"
+   },
+   "5402470227536486835": {
+      "message": "Klein em-streepje"
+   },
+   "5404910277282887798": {
+      "message": "Fenicisch"
+   },
+   "5408241503383428945": {
+      "message": "Overige Europese scripts"
+   },
+   "5432330868773114140": {
+      "message": "Radio starten"
+   },
+   "5451692331472585782": {
+      "message": "Alle nummers"
+   },
+   "5452036681614307719": {
+      "message": "Onzichtbaar plusteken"
+   },
+   "5455360062863417200": {
+      "message": "Volgend nummer"
+   },
+   "5464364716831469679": {
+      "message": "Onbekend album"
+   },
+   "548629550059508920": {
+      "message": "Kan niet uploaden omdat u al uploadt vanuit twee accounts."
+   },
+   "5497512316841934820": {
+      "message": "Ik doe een gok-mix"
+   },
+   "5497627646066282315": {
+      "message": "Verbinding maken"
+   },
+   "5501301484140201550": {
+      "message": "Ik doe een gok-radio"
+   },
+   "5518817744725858296": {
+      "message": "Artiest die live optreedt bij u in de buurt"
+   },
+   "5529194084754296998": {
+      "message": "6-per-em-spatie"
+   },
+   "5541835554879897802": {
+      "message": "Sommige tracks kunnen niet worden toegevoegd aan de verzameling. Probeer het opnieuw."
+   },
+   "5578390534357178026": {
+      "message": "Zorg ervoor dat u bent ingelogd bij Chrome met hetzelfde Google-account."
+   },
+   "5584189341216439776": {
+      "message": "Uw muziek toevoegen"
+   },
+   "5584467594910303696": {
+      "message": "Meroïtische hiërogliefen"
+   },
+   "5593848105713936399": {
+      "message": "Wachtrij"
+   },
+   "5594762259680838005": {
+      "message": "Onlangs aangeschaft"
+   },
+   "5612959352951118540": {
+      "message": "over $NUM$ uur",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Indeling"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Genres kunnen niet worden opgehaald. Probeer het opnieuw."
+   },
+   "5674048882417502526": {
+      "message": "Rechts-naar-links opheffen"
+   },
+   "5677606995605741055": {
+      "message": "Er is een probleem opgetreden bij het verwijderen van uw radiostation."
+   },
+   "569766142833422558": {
+      "message": "Google Play Music voor Chrome moet worden bijgewerkt. Dit gebeurt automatisch."
+   },
+   "5700613377997995103": {
+      "message": "Cijfer-koppelstreepje"
+   },
+   "5755038562791065032": {
+      "message": "3-per-em-spatie"
+   },
+   "5761798931116026691": {
+      "message": "Kan niet converteren naar MP3"
+   },
+   "5769804815976568558": {
+      "message": "Downloadlocatie selecteren"
+   },
+   "5773750119871048451": {
+      "message": "Annuleren"
+   },
+   "5775493454862732930": {
+      "message": "Armeens koppelteken"
+   },
+   "5784007894878825338": {
+      "message": "Vaste spatie"
+   },
+   "5889126665299129466": {
+      "message": "Als u de minispeler wilt gebruiken, moet u zijn ingelogd bij Chrome."
+   },
+   "5890243856676178044": {
+      "message": "Bengaals"
+   },
+   "5914500973755757025": {
+      "message": "Lao"
+   },
+   "5918806792833250096": {
+      "message": "Spijkerschrift"
+   },
+   "5930857699885919881": {
+      "message": "Niet-ondersteund ALAC-bestand"
+   },
+   "5969115558488445506": {
+      "message": "Subkop"
+   },
+   "5971001229987621398": {
+      "message": "Voorgestelde nieuwe release"
+   },
+   "5999484363963634214": {
+      "message": "Mandaïsch"
+   },
+   "601150082487101480": {
+      "message": "Laatst toegevoegd"
+   },
+   "6031749391396582225": {
+      "message": "Hangul-opvulteken"
+   },
+   "6042091568356544470": {
+      "message": "Functietoepassing"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "610635793308893528": {
+      "message": "Rechts-naar-links ingesloten"
+   },
+   "6125785068086103357": {
+      "message": "Kan nummer niet verwijderen. Probeer het opnieuw."
+   },
+   "6134905866550808378": {
+      "message": "Al mijn nummers - $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6205568685279927986": {
+      "message": "Redjang"
+   },
+   "6211429203092739745": {
+      "message": "Vorig nummer"
+   },
+   "6211690508928257569": {
+      "message": "Oud-Syrisch"
+   },
+   "6223487594388109285": {
+      "message": "Er is een probleem opgetreden bij het wijzigen van de naam van uw radiostation."
+   },
+   "6233107584508657559": {
+      "message": "Kan geen verbinding maken met Google"
+   },
+   "6238576599909606924": {
+      "message": "ongeldige url"
+   },
+   "6242354668932209396": {
+      "message": "Alle nummers worden herhaald. Klik om de herhalingsmodus te wijzigen."
+   },
+   "624368563085644372": {
+      "message": "Onzichtbaar vermenigvuldigingsteken"
+   },
+   "6264257099423315684": {
+      "message": "Naar welk e-mailadres moet deze link verwijzen?"
+   },
+   "630414199054820482": {
+      "message": "Interpunctie-spatie"
+   },
+   "6342787164312491730": {
+      "message": "Weer, scènes en sterrenbeelden"
+   },
+   "6352462755178724841": {
+      "message": "Opmaak verwijderen"
+   },
+   "6360340926892934518": {
+      "message": "Een map toevoegen"
+   },
+   "6376633306429460166": {
+      "message": "Saurashtra"
+   },
+   "6390744057286457578": {
+      "message": "Centreren"
+   },
+   "6397906195939852735": {
+      "message": "Kannada"
+   },
+   "6397910887534888858": {
+      "message": "Tekstkleur"
+   },
+   "6425912931786223127": {
+      "message": "am"
+   },
+   "6427041476637425542": {
+      "message": "Subscript"
+   },
+   "6447846965513034625": {
+      "message": "Objecten"
+   },
+   "6452850149519075219": {
+      "message": "Niet nu"
+   },
+   "6455550894777387014": {
+      "message": "Myanmar"
+   },
+   "6502885021177224543": {
+      "message": "Google Play Music: downloadmap kiezen"
+   },
+   "6504449653938065974": {
+      "message": "Aanbevolen afspeellijst"
+   },
+   "6510962485068569110": {
+      "message": "Ongedaan maken"
+   },
+   "653219508056341533": {
+      "message": "Mensen en emoties"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6568036879894576496": {
+      "message": "Muziek uit de volgende mappen wordt toegevoegd aan Google Play Music"
+   },
+   "6591282200798732887": {
+      "message": "Halve vierkant (en-spatie)"
+   },
+   "6593910762276333113": {
+      "message": "Flash downloaden"
+   },
+   "66116513409922755": {
+      "message": "Nee"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6641147067989080704": {
+      "message": "Kayah Li"
+   },
+   "6650739047421247577": {
+      "message": "Kan muziek niet afspelen"
+   },
+   "6652787256443519035": {
+      "message": "Geen tags"
+   },
+   "66820157572867378": {
+      "message": "Inspringen verkleinen"
+   },
+   "6689623864271696040": {
+      "message": "Zacht koppelteken"
+   },
+   "6711475260919070872": {
+      "message": "Oud-Perzisch"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Aanbevolen voor u"
+   },
+   "6722174221321515493": {
+      "message": "Verdelingselement (breedte nul)"
+   },
+   "6732797853205065184": {
+      "message": "Negeren"
+   },
+   "6750258767236131097": {
+      "message": "Midden-Oosten scripts"
+   },
+   "6768967544887679189": {
+      "message": "Golvend koppelstreepje"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6821274223204126521": {
+      "message": "Muzikaal"
+   },
+   "6839273670547667172": {
+      "message": "Diverse artiesten"
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6898179631823558149": {
+      "message": "Kan bestand niet converteren naar een bruikbare indeling"
+   },
+   "6930531446322391145": {
+      "message": "Afbeelding"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7009828133009731416": {
+      "message": "Gratis van Google"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7020161279392960480": {
+      "message": "Indeling"
+   },
+   "7029749611952268902": {
+      "message": "Flash Player ontbreekt"
+   },
+   "7034479228356652023": {
+      "message": "Han 1-Stroke Radicals"
+   },
+   "7049182394855721704": {
+      "message": "Gotisch"
+   },
+   "7080245643233785574": {
+      "message": "Er is een probleem opgetreden met Google Play Music voor Chrome. U moet opnieuw inloggen."
+   },
+   "7100404876663103497": {
+      "message": "Hangul Choseong-opvulteken"
+   },
+   "7100567566985297322": {
+      "message": "Em-spatie"
+   },
+   "7102126384411654213": {
+      "message": "Kan nummers niet toevoegen aan collectie. Probeer het opnieuw."
+   },
+   "7104210472412766015": {
+      "message": "Interlineair annotatie-scheidingsteken"
+   },
+   "7111181959300196580": {
+      "message": "Inspringen vergroten"
+   },
+   "7116872031464114568": {
+      "message": "Geïdentificeerd op Sound Search"
+   },
+   "7127937208951634191": {
+      "message": "Symbool"
+   },
+   "7132453172532202734": {
+      "message": "Kan Google Play niet bereiken"
+   },
+   "7136816542440442290": {
+      "message": "Er is een probleem opgetreden bij het laden van uw radiostation."
+   },
+   "716550293954822096": {
+      "message": "Sinhala"
+   },
+   "7192513315706728552": {
+      "message": "Fout met server. Probeer het later opnieuw."
+   },
+   "7193968696947634147": {
+      "message": "Pagina vernieuwen"
+   },
+   "7194376132387780145": {
+      "message": "Kan deze computer niet autoriseren omdat u al tien apparaten heeft."
+   },
+   "7202681158267340446": {
+      "message": "Lettertype"
+   },
+   "720381800527728702": {
+      "message": "Sport, feesten en activiteiten"
+   },
+   "7224832103566723854": {
+      "message": "Kan de afspeellijst niet openen. Probeer het opnieuw."
+   },
+   "7228343081607279547": {
+      "message": "Soendanees"
+   },
+   "7229202390260081051": {
+      "message": "Extra groot"
+   },
+   "7282565673166392948": {
+      "message": "Ideografische beschrijving"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minuten}=1{1 minuut}other{# minuten}}"
+   },
+   "7293925053370285812": {
+      "message": "Huidig nummer wordt herhaald. Klik om de herhalingsmodus te wijzigen."
+   },
+   "7305504256207181669": {
+      "message": "Lijst met opsommingstekens"
+   },
+   "7310668544702677420": {
+      "message": "Vernieuw deze pagina in uw browser om het beluisteren van uw muziek voort te zetten. Als u nog steeds problemen ondervindt, controleert u of Flash is geïnstalleerd en actief is."
+   },
+   "7320133162875658022": {
+      "message": "Nieuwe nummers uploaden ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7331328794127852355": {
+      "message": "Emoticon"
+   },
+   "7335080673788704461": {
+      "message": "Vervoer, kaarten en bewegwijzering"
+   },
+   "7347179017294066771": {
+      "message": "Mappen toevoegen of verwijderen"
+   },
+   "7354691783317064273": {
+      "message": "De Chrome-app maakt verbinding."
+   },
+   "7396303606473621591": {
+      "message": "Alle"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{over # dagen}=1{over # dag}other{over # dagen}}"
+   },
+   "7437894509168051348": {
+      "message": "Han 7-Stroke Radicals"
+   },
+   "747583939629659293": {
+      "message": "Een kleur toevoegen"
+   },
+   "7480960100390206139": {
+      "message": "Overige"
+   },
+   "7529798479468856973": {
+      "message": "$NUM$ uur geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7536172317066333802": {
+      "message": "Afbeelding invoegen"
+   },
+   "7559266156388225108": {
+      "message": "Numeriek Kaithi-teken"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongoolse klinkerseparator"
+   },
+   "7596816553523902619": {
+      "message": "Vandaag"
+   },
+   "7601688284754148415": {
+      "message": "Rekenen"
+   },
+   "7617664217221228040": {
+      "message": "Balinees"
+   },
+   "762389150316771008": {
+      "message": "Ik doe een gok-radio"
+   },
+   "7631480327394084350": {
+      "message": "Afbeeldingen besturingselement"
+   },
+   "7664246845088850317": {
+      "message": "De verbinding met de server is mislukt met foutcode: "
+   },
+   "7697058485679231601": {
+      "message": "Laad de pagina nogmaals en probeer het opnieuw."
+   },
+   "7704516203792990151": {
+      "message": "Verstreken tijd"
+   },
+   "7709119284546787990": {
+      "message": "Van rechts naar links"
+   },
+   "7711713319832787051": {
+      "message": "Gekoppeld"
+   },
+   "7730109880037106848": {
+      "message": "Symbolen"
+   },
+   "7736581252844206600": {
+      "message": "Grieks"
+   },
+   "7737642252665507180": {
+      "message": "Hexadecimale invoer"
+   },
+   "7743528314734813641": {
+      "message": "Er is een probleem opgetreden bij het laden van uw instantmix."
+   },
+   "7760426006262447033": {
+      "message": "Onvoldoende ruimte in de wachtrij"
+   },
+   "7774266771623079214": {
+      "message": "Muziek afspelen"
+   },
+   "7776111286341041808": {
+      "message": "Van links naar rechts"
+   },
+   "779262212811541732": {
+      "message": "Oud Zuid-Arabisch"
+   },
+   "7816161180678740448": {
+      "message": "Braille"
+   },
+   "7846689234809169417": {
+      "message": "Dieren, planten en eten"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 uur}=1{1 uur}other{# uur}}"
+   },
+   "7878031641910175480": {
+      "message": "Recente selecties:"
+   },
+   "7888286842234266048": {
+      "message": "Ingesloten/Gestippeld"
+   },
+   "7898792314887900865": {
+      "message": "Cypriotisch"
+   },
+   "7927039504440585569": {
+      "message": "Latijn"
+   },
+   "7930381906669528420": {
+      "message": "Kan $SONG_TITLE$ niet afspelen. Naar volgend nummer gegaan.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Fonologie (IPA)"
+   },
+   "7954850519963017242": {
+      "message": "$NUM$ dag geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arabisch teken Sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mappen}=1{1 map}other{# mappen}}"
+   },
+   "7984622936663451936": {
+      "message": "Toetsenbord en UI"
+   },
+   "7985095810697977698": {
+      "message": "Kan nummer niet afspelen. Naar volgend nummer gegaan."
+   },
+   "8001758142015238809": {
+      "message": "Tijdelijke fout. Opnieuw proberen te uploaden."
+   },
+   "8019982600883750632": {
+      "message": "Uitvullen"
+   },
+   "8020892463961333112": {
+      "message": "Muzieksymbool eind legatoteken"
+   },
+   "8024675506077392847": {
+      "message": "Kan volgende nummer niet laden."
+   },
+   "8030037581414873660": {
+      "message": "Han 2-Stroke Radicals"
+   },
+   "803032414305825807": {
+      "message": "Lettergrootte"
+   },
+   "803376120920513357": {
+      "message": "$NUM$ dagen geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Kan niet abonneren op afspeellijst. Probeer het opnieuw."
+   },
+   "8045052194324740729": {
+      "message": "Kan nummers in de prullenbak niet afspelen."
+   },
+   "8066747296553908214": {
+      "message": "Dubbel ondoorzichtig koppelteken"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dag}other{{TEXT} dagen}}"
+   },
+   "8159976291123989327": {
+      "message": "Link bewerken"
+   },
+   "8164274980045228173": {
+      "message": "Opmaak voor schrijfrichting herstellen"
+   },
+   "8164897103619368290": {
+      "message": "Genummerde lijst"
+   },
+   "8191208612330635266": {
+      "message": "Tibetaans"
+   },
+   "8192298658946835992": {
+      "message": "Vaste spatie (breedte nul)"
+   },
+   "8193509313274135818": {
+      "message": "Arabische voetnootmarkering"
+   },
+   "819996403327805209": {
+      "message": "Meer informatie"
+   },
+   "823405029831570152": {
+      "message": "Ethiopisch"
+   },
+   "8239380670132570074": {
+      "message": "Tijdelijk bestand kan niet worden geopend"
+   },
+   "8249329268828083858": {
+      "message": "Katakana-Hiragana dubbel koppelteken"
+   },
+   "8275689791574630480": {
+      "message": "Ogham spatieteken"
+   },
+   "8277279706638733641": {
+      "message": "Sterretjes/Asterisken"
+   },
+   "8286384050114068255": {
+      "message": "NaCl-versie: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "8325100368677049569": {
+      "message": "Nieuwe muziek verkennen"
+   },
+   "8338465287076872825": {
+      "message": "Kan muziek niet lezen vanaf bestand"
+   },
+   "8358697777226306085": {
+      "message": "Egyptische hiërogliefen"
+   },
+   "8363930857329550333": {
+      "message": "Georgisch"
+   },
+   "8385464685117997940": {
+      "message": "Onlangs afgespeeld"
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Inloggen"
+   },
+   "8412726756889279816": {
+      "message": "Chakma"
+   },
+   "842631328362018283": {
+      "message": "Groot"
+   },
+   "8437015452970026040": {
+      "message": "Verzamelingslimiet bereikt. Verwijder nummers als u meer wilt toevoegen."
+   },
+   "8440128775129354214": {
+      "message": "Privacy"
+   },
+   "8454237498473122184": {
+      "message": "Koppelteken/min-teken"
+   },
+   "8458476427655018512": {
+      "message": "Spatie"
+   },
+   "8482517151370142670": {
+      "message": "Anders"
+   },
+   "848933194605193751": {
+      "message": "Onlangs bekeken op YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Carisch"
+   },
+   "8524322739067915993": {
+      "message": "pm"
+   },
+   "8542907888351533629": {
+      "message": "…"
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{over # minuten}=1{over # minuut}other{over # minuten}}"
+   },
+   "8628766851955432422": {
+      "message": "Verwijderen"
+   },
+   "8637643428005590282": {
+      "message": "Markeringen"
+   },
+   "8639048757911329468": {
+      "message": "NaCl-versie: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Opnieuw proberen"
+   },
+   "8741366833297918126": {
+      "message": "Duur van nummer"
+   },
+   "875046332706257024": {
+      "message": "Automatische afspeellijst"
+   },
+   "8763647985340267403": {
+      "message": "Spelonderdelen"
+   },
+   "8768143964455071187": {
+      "message": "Ogham"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{# uur geleden}=1{# uur geleden}other{# uur geleden}}"
+   },
+   "8787014632487519603": {
+      "message": "Decodeerfout gedetecteerd. Controleer het oorspronkelijke bestand en upload het bestand opnieuw. Doorgegaan."
+   },
+   "8801527171487571079": {
+      "message": "Tai Tham"
+   },
+   "8818387952529569142": {
+      "message": "Vandaag"
+   },
+   "8819361322041128714": {
+      "message": "Oegaritisch"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Wees voorzichtig.$POSTB$ Vergeet niet dat elke keer dat u een e-mailadres toevoegt aan een webpagina, vervelende spammers het e-mailadres ook kunnen vinden.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arabisch numeriek teken"
+   },
+   "8858058202463451164": {
+      "message": "Links uitlijnen"
+   },
+   "8868784738343119594": {
+      "message": "$NUM$ minuut geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8896073810838561095": {
+      "message": "Han 8-Stroke Radicals"
+   },
+   "8901076355007755806": {
+      "message": "Lepcha"
+   },
+   "8925271759659767084": {
+      "message": "Gratis en gekocht"
+   },
+   "8931700495296520714": {
+      "message": "Minispeler sluiten"
+   },
+   "8934299821763129489": {
+      "message": "Oud-Italisch"
+   },
+   "8958381934236197373": {
+      "message": "Cijferspatie"
+   },
+   "8961985815150856927": {
+      "message": "Onlangs gemaakt"
+   },
+   "8971282019539581965": {
+      "message": "Het dialoogvenster 'Over' sluiten"
+   },
+   "8979933913103486540": {
+      "message": "Streepje/koppelteken"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$ - $ARTIST_NAME$ - minispeler van Google Play Music",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Bijsluiten"
+   },
+   "9000910334745340727": {
+      "message": "Mongools zacht koppelteken"
+   },
+   "9001309834415064766": {
+      "message": "Han 10-Stroke Radicals"
+   },
+   "901225307358856093": {
+      "message": "Canadees syllabisch koppelstreepje"
+   },
+   "902300864627076683": {
+      "message": "Parthisch uit inscripties"
+   },
+   "9024489874326845912": {
+      "message": "Aanbevolen album"
+   },
+   "9045338265172338590": {
+      "message": "Meitei Mayek"
+   },
+   "9053704575157030099": {
+      "message": "Geen"
+   },
+   "9063659532473030063": {
+      "message": "Weer en astrologie"
+   },
+   "9084816336314899019": {
+      "message": "Doorgaan"
+   },
+   "9092976405151508175": {
+      "message": "Opnieuw"
+   },
+   "9098679347815545327": {
+      "message": "Kan afspeellijst niet maken. Probeer het opnieuw."
+   },
+   "9173411042808904308": {
+      "message": "Normaal / serif"
+   },
+   "9184426509557869402": {
+      "message": "Ideografische spatie"
+   },
+   "9197433560254928186": {
+      "message": "Arabisch"
+   },
+   "9218938714985695055": {
+      "message": "Muzieksymbool begin legatoteken"
+   },
+   "947591000172763449": {
+      "message": "Phagspa"
+   },
+   "953268105555355822": {
+      "message": "Alles weergeven"
+   },
+   "964983733596985457": {
+      "message": "Compatibiliteit"
+   },
+   "97224266342934568": {
+      "message": "Superscript"
+   },
+   "997742287268027221": {
+      "message": "Kan bestand niet uploaden"
+   }
+}

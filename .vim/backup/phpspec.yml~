@@ -1,0 +1,10 @@
+extensions:
+    :
+    - PhpSpec\NyanFormattersExtension\Extension
+
+formatter.name: nyan.cat
+
+suites:
+    myfarms:
+        spec_path: myfarms/core
+        src_path: myfarms/core/src

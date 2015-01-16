@@ -1,0 +1,1961 @@
+{
+   "1008774365351112026": {
+      "message": "Dodaj atrybut „$REL_NO_FOLLOW$” ($LINK_START$więcej informacji$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normalny"
+   },
+   "1026450251988549367": {
+      "message": "Niedawno zmodyfikowany"
+   },
+   "1044946868924904798": {
+      "message": "No connection"
+   },
+   "1052242579040192537": {
+      "message": "Sylabariusz kanadyjski"
+   },
+   "1061567929494389534": {
+      "message": "Nie udało się pobrać listy stacji radiowych. Spróbuj ponownie."
+   },
+   "1061598772078003048": {
+      "message": "Zakończenie przypisu w tekście (U+FFFB)"
+   },
+   "108743912460085743": {
+      "message": "Zastępowanie od lewej do prawej"
+   },
+   "113306301971655652": {
+      "message": "Znak Od lewej do prawej"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuta}few{{TEXT} minuty}many{{TEXT} minut}other{{TEXT} minutes}}"
+   },
+   "1233161892151828431": {
+      "message": "Kursywa"
+   },
+   "1248987958177161816": {
+      "message": "Edytuj źródło HTML"
+   },
+   "1275783181441501836": {
+      "message": "Separator akapitu"
+   },
+   "128003684539571261": {
+      "message": "Waluta"
+   },
+   "129672981680457789": {
+      "message": "Pismo hanunoo"
+   },
+   "1327813348141810372": {
+      "message": "Pismo bamum"
+   },
+   "1345511732360402048": {
+      "message": "Pismo starotureckie"
+   },
+   "1372788343021542418": {
+      "message": "Aby używać miniodtwarzacza, zaloguj się w Muzyce Google Play w internecie."
+   },
+   "1382005717519484629": {
+      "message": "Odstęp"
+   },
+   "142620397708685601": {
+      "message": "Wpisz kolor niestandardowy, np różowy, #F00, #D015FF lub rgb (100, 50, 25)"
+   },
+   "1430061825590893722": {
+      "message": "Otwórz ten link w nowym oknie"
+   },
+   "1433391846042476830": {
+      "message": "Wczoraj"
+   },
+   "1444145448465775598": {
+      "message": "Anuluj"
+   },
+   "1453708590388513852": {
+      "message": "Techniczne"
+   },
+   "1483596119706515744": {
+      "message": "Pismo bugińskie"
+   },
+   "1487523984872879956": {
+      "message": "Firet"
+   },
+   "1494946186465201682": {
+      "message": "Anuluj"
+   },
+   "1504214836895903832": {
+      "message": "Nie udało się nawiązać połączenia"
+   },
+   "1558113021895652337": {
+      "message": "Plik jest chroniony przez DRM"
+   },
+   "1561656335740427643": {
+      "message": "Pismo telugu"
+   },
+   "1573657685592390905": {
+      "message": "Wybierz folder..."
+   },
+   "1595478688335662057": {
+      "message": "Użytkownik Google"
+   },
+   "1615800076127848008": {
+      "message": "Pismo tai le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{za # godzin}=1{za # godzinę}few{za # godziny}many{za # godzin}other{in # hours}}"
+   },
+   "1635932785663944786": {
+      "message": "Numer"
+   },
+   "1658346838703079243": {
+      "message": "Zmień"
+   },
+   "1686917835491599951": {
+      "message": "Niedawno dodany do Mojej biblioteki"
+   },
+   "1700078784075267898": {
+      "message": "Muzyka Google Play"
+   },
+   "1709114386311494800": {
+      "message": "Połącz"
+   },
+   "1722592106949807025": {
+      "message": "Zapisz dzienniki debugowania"
+   },
+   "172500938828303105": {
+      "message": "Pismo batackie"
+   },
+   "1726363342938046830": {
+      "message": "Informacje"
+   },
+   "1729815731089690989": {
+      "message": "Make sure you're connected to the Internet"
+   },
+   "1751129087972897649": {
+      "message": "Pismo aramejskie imperialne"
+   },
+   "1763795268257640974": {
+      "message": "Nie można anulować subskrypcji playlisty. Spróbuj ponownie."
+   },
+   "1781759902625939771": {
+      "message": "Wykonawca nieznany"
+   },
+   "1800865039213871505": {
+      "message": "Otwórz link:"
+   },
+   "1803865475179910876": {
+      "message": "Muzyka Google Play dla Chrome w $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Zamknij"
+   },
+   "1819368767424033007": {
+      "message": "Historyczne"
+   },
+   "182621168783940405": {
+      "message": "Znak Od prawej do lewej"
+   },
+   "184252996364058487": {
+      "message": "0 minut"
+   },
+   "1860075031180562077": {
+      "message": "Fraza (koniec) – symbol muzyczny"
+   },
+   "190045585254551934": {
+      "message": "Pismo syloti nagri"
+   },
+   "1914372876923825240": {
+      "message": "Link do:"
+   },
+   "192481666606780833": {
+      "message": "Nie można odtworzyć muzyki"
+   },
+   "1945037339176024290": {
+      "message": "Zamknięte"
+   },
+   "1947306462789680361": {
+      "message": "$NUM$ min temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Symbol muzyczny – początek frazy"
+   },
+   "1962559411793600980": {
+      "message": "Pismo awestyjskie"
+   },
+   "1981687300412326534": {
+      "message": "9-częściowe klucze Han"
+   },
+   "1989564869397178334": {
+      "message": "Nagłówek"
+   },
+   "1996585593795647892": {
+      "message": "Dodaj lub usuń link"
+   },
+   "2005272211699610673": {
+      "message": "Szybka składanka"
+   },
+   "2026335465374096346": {
+      "message": "Kliknij, by wyłączyć odtwarzanie losowe"
+   },
+   "2032972931560484213": {
+      "message": "Autor: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Bez odstępów"
+   },
+   "2038618429165152799": {
+      "message": "Bez nazwy"
+   },
+   "2056726623536384731": {
+      "message": "Otwórz Muzykę Google Play"
+   },
+   "2080060559104348538": {
+      "message": "Alfabety – Azja Południowa"
+   },
+   "2088175644103984799": {
+      "message": "Samogłoska nieodłączna „Aq” – khmerski"
+   },
+   "2094349866819883967": {
+      "message": "Półpauza"
+   },
+   "2102825898069375693": {
+      "message": "Menu"
+   },
+   "2107375315384298887": {
+      "message": "Indeks dolny"
+   },
+   "2109622269343579329": {
+      "message": "Błędny adres e-mail"
+   },
+   "2139683490477275175": {
+      "message": "Zamknij"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 utworów}=1{1 utwór}few{{NUM_SONGS_2} utwory}many{{NUM_SONGS_2} utworów}other{{NUM_SONGS_2} utworu}}"
+   },
+   "216513153459932308": {
+      "message": "Ułamki/pokrewne"
+   },
+   "2173312720188441245": {
+      "message": "Pismo koptyjskie"
+   },
+   "2203397136690479355": {
+      "message": "Nie można przetworzyć pliku"
+   },
+   "2205522058604794595": {
+      "message": "Skrypty afrykańskie"
+   },
+   "2209153283705342590": {
+      "message": "Pismo kaithi"
+   },
+   "2246437904181111020": {
+      "message": "Muzyka Google Play: wybierz foldery multimediów"
+   },
+   "2252825622480483246": {
+      "message": "Kursywa meroicka"
+   },
+   "2299183036960756600": {
+      "message": "za $NUM$ dzień",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Błąd podczas ładowania całej biblioteki. Spróbuj ponownie później."
+   },
+   "2309894433432831059": {
+      "message": "Pauza pionowa U+FE31"
+   },
+   "2321398646644344846": {
+      "message": "Jutro"
+   },
+   "2328554046256236832": {
+      "message": "Nieobsługiwany plik FLAC"
+   },
+   "2339250039074511222": {
+      "message": "Nie można przetestować tego linku."
+   },
+   "2339750206850776348": {
+      "message": "Pismo likijskie"
+   },
+   "2376735487384008742": {
+      "message": "Myślnik falujący U+301C"
+   },
+   "2378357177170124823": {
+      "message": "Dziesiętne"
+   },
+   "2382000105167193834": {
+      "message": "Pismo gudżarati"
+   },
+   "2389069046927902638": {
+      "message": "Muzyka Google Play"
+   },
+   "2390557292924554291": {
+      "message": "Łącznik o zerowej szerokości"
+   },
+   "2434131766046654438": {
+      "message": "Pismo linearne B"
+   },
+   "247847652023697955": {
+      "message": "Symbol muzyczny – początek ligatury"
+   },
+   "249032153569378306": {
+      "message": "$NUM$ godzinę temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2506718393130237030": {
+      "message": "Nieobsługiwany format"
+   },
+   "2512060739274636260": {
+      "message": "Pismo nowy tai lue"
+   },
+   "2513370824993175045": {
+      "message": "za $NUM$ dni",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Symbol muzyczny – koniec belki"
+   },
+   "2529924385478060648": {
+      "message": "Pismo buhid"
+   },
+   "2530473232691534250": {
+      "message": "Adres e-mail"
+   },
+   "2538866057253567409": {
+      "message": "Pismo deseret"
+   },
+   "2544569632476723854": {
+      "message": "Warunki"
+   },
+   "2550362371114851075": {
+      "message": "Normalna"
+   },
+   "2558836909854550547": {
+      "message": "Normalna"
+   },
+   "2565011230196288502": {
+      "message": "za $NUM$ minutę",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2610851846609508423": {
+      "message": "Na podstawie ASCII"
+   },
+   "2634703826856398600": {
+      "message": "(nowe: $NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2714752802779336020": {
+      "message": "Muzyka Google Play"
+   },
+   "2722441731984880542": {
+      "message": "Kliknij, by włączyć odtwarzanie losowe"
+   },
+   "272553825640256879": {
+      "message": "Łącznik (minus) o pełnej szerokości"
+   },
+   "2728464858411473080": {
+      "message": "Podoba mi się"
+   },
+   "2732888649509914313": {
+      "message": "Pismo mongolskie"
+   },
+   "2746055492028991938": {
+      "message": "Pismo bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Zbyt wiele plików na koncie"
+   },
+   "2787148143326073325": {
+      "message": "Wyszukiwarka dźwięku"
+   },
+   "2801094315807039135": {
+      "message": "Pismo tai viet"
+   },
+   "2809945145618753350": {
+      "message": "Odstęp „4-per-em”"
+   },
+   "2811509810457668932": {
+      "message": "Międzynarodowy alfabet fonetyczny (X-IPA)"
+   },
+   "2840006222747077107": {
+      "message": "Nic tu jeszcze nie ma"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{# minut temu}=1{# minutę temu}few{# minuty temu}many{# minut temu}other{# minutes ago}}"
+   },
+   "2881621988818346391": {
+      "message": "Tak"
+   },
+   "2881776379326317082": {
+      "message": "Zawsze używaj tej lokalizacji"
+   },
+   "2896688457548770791": {
+      "message": "Cytat"
+   },
+   "2910989560121976550": {
+      "message": "Przetestuj ten link"
+   },
+   "2918448970074432239": {
+      "message": "Edytuj kod HTML"
+   },
+   "29485262661698811": {
+      "message": "Arabski znak Ayah (koniec)"
+   },
+   "2954874827338778826": {
+      "message": "Adres internetowy"
+   },
+   "2968801718595938980": {
+      "message": "Pismo hangul"
+   },
+   "2972470287059252937": {
+      "message": "Wąska spacja nierozdzielająca"
+   },
+   "2973169743818593793": {
+      "message": "5-częściowe klucze Han"
+   },
+   "29734255682325103": {
+      "message": "Wyrównaj do prawej"
+   },
+   "2980847012388128321": {
+      "message": "Odstęp o zerowej szerokości"
+   },
+   "2980960654248329234": {
+      "message": "Spacja U+200A"
+   },
+   "2982463607788408741": {
+      "message": "Nastąpiło wylogowanie z konta Google. Odśwież stronę, by zalogować się z powrotem."
+   },
+   "305389607483289974": {
+      "message": "Kliknij, by wstrzymać"
+   },
+   "3054851848337350805": {
+      "message": "Indeks górny"
+   },
+   "305815942371229357": {
+      "message": "Brak sugestii"
+   },
+   "3067310196368927236": {
+      "message": "Maqaf – hebrajski znak interpunkcyjny"
+   },
+   "308732574543176489": {
+      "message": "Nie udało się zmodyfikować playlisty. Spróbuj ponownie."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} godzina}few{{TEXT} godziny}many{{TEXT} godzin}other{{TEXT} hours}}"
+   },
+   "3099596419835786769": {
+      "message": "Średni odstęp matematyczny"
+   },
+   "311577748341232969": {
+      "message": "Aby słuchać muzyki, potrzebujesz  najnowszego Adobe Flash Playera."
+   },
+   "3125342991297920614": {
+      "message": "Nie można wczytać albumu. Spróbuj ponownie."
+   },
+   "3138864086144358473": {
+      "message": "11..17-częściowe klucze Han"
+   },
+   "314582171813087287": {
+      "message": "Łącznik nierozdzielający"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Nie wiesz, co tu wpisać?$END_BOLD$ Najpierw znajdź stronę internetową, do której chcesz umieścić link. (Może się przydać $SEARCH_ENGINE_LINK$wyszukiwarka$END_LINK$). Potem skopiuj adres strony z przeglądarki i wklej go w polu powyżej.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3167418181223330667": {
+      "message": "Modyfikator"
+   },
+   "3182977091552629211": {
+      "message": "Wskaż komórkę, by uzyskać nazwę znaku."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{# dni temu}=1{# dzień temu}few{# dni temu}many{# dni temu}other{# days ago}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 utworów}=1{1 utwór}few{# utwory}many{# utworów}other{# utworu}}"
+   },
+   "3196641196902208501": {
+      "message": "Link do adresu e-mail"
+   },
+   "3225804441370198247": {
+      "message": "Wszystkie moje utwory – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing / Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "za $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Brak"
+   },
+   "3237206613586329862": {
+      "message": "Pismo lidyjskie"
+   },
+   "3242312278127054660": {
+      "message": "Matematyczne – alfanumeryczne"
+   },
+   "3245264696956198335": {
+      "message": "Format"
+   },
+   "3299099956700438963": {
+      "message": "Skrypty amerykańskie"
+   },
+   "3335728816495350082": {
+      "message": "Najlepsze utwory – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3381844160250536550": {
+      "message": "Zaloguj się w Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Pismo hebrajskie"
+   },
+   "3390725557414108843": {
+      "message": "4-częściowe klucze Han"
+   },
+   "3439291896675389753": {
+      "message": "Pismo nko"
+   },
+   "3444326079109550157": {
+      "message": "Do jakiego adresu URL ma prowadzić ten link?"
+   },
+   "3445096196133856884": {
+      "message": "Samogłoska nieodłączna „Aa” – khmerski"
+   },
+   "3462013384451950074": {
+      "message": "za $NUM$ godzinę",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Słuchaj całej swojej muzyki, kiedy i gdzie chcesz. Wystarczy, że dodasz ją z komputera do Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Interpunkcja"
+   },
+   "3483193414050571677": {
+      "message": "Nie lubię"
+   },
+   "3483958460407305290": {
+      "message": "Przekreślenie"
+   },
+   "3547729876847212201": {
+      "message": "Krótka spacja"
+   },
+   "3565556274692077023": {
+      "message": "Pauza"
+   },
+   "3601632218457952692": {
+      "message": "Pismo yi"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Podoba mi się"
+   },
+   "3631504127812962801": {
+      "message": "Pismo Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Miniodtwarzacz Muzyki Google Play"
+   },
+   "3649938620817393740": {
+      "message": "Mała"
+   },
+   "3650710698506236041": {
+      "message": "Kolor szesnastkowo"
+   },
+   "3688803517283872334": {
+      "message": "Hangul – wypełnienie o połowie szerokości"
+   },
+   "3701910180379922299": {
+      "message": "Pismo śarada"
+   },
+   "3748613043647922063": {
+      "message": "Niewidoczny separator"
+   },
+   "3762887990641668199": {
+      "message": "Ormiańskie"
+   },
+   "3770594827970207417": {
+      "message": "Mniejszy nagłówek"
+   },
+   "3772706138160001780": {
+      "message": "Słupek poziomy"
+   },
+   "3774172828626803355": {
+      "message": "Pismo irokeskie"
+   },
+   "3782346097595894324": {
+      "message": "Połączenie z serwerem nie powiodło się. Spróbuj ponownie później."
+   },
+   "3784429870217408370": {
+      "message": "Pismo brahmi"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "Zostaną zamknięte te okna:\n"
+   },
+   "3832446507144709355": {
+      "message": "Głagolica"
+   },
+   "3839679337223320857": {
+      "message": "Zalogowano jako $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3867367359959377145": {
+      "message": "BŁĄD: „$COLOR$” nie jest poprawnym kolorem.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Zanim użyjesz aplikacji w Chrome, zaloguj się w Muzyce Google Play na stronie."
+   },
+   "3873111853443561979": {
+      "message": "Podkreślenie"
+   },
+   "3901889124080689046": {
+      "message": "Nie można otworzyć pliku"
+   },
+   "3905371920037624514": {
+      "message": "Mniej typowe"
+   },
+   "3936240281193464170": {
+      "message": "Odśwież"
+   },
+   "3964523220682082212": {
+      "message": "Błąd ładowania biblioteki"
+   },
+   "3975141127799341224": {
+      "message": "Link do strony lub pliku w innym miejscu w internecie"
+   },
+   "3988935995558346502": {
+      "message": "Cyrylica"
+   },
+   "3996699777412450193": {
+      "message": "Strzałki"
+   },
+   "3999655151577464071": {
+      "message": "Podczas usuwania szybkiej składanki wystąpił problem."
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "6-częściowe klucze Han"
+   },
+   "4044663630621281686": {
+      "message": "Safha – znak arabski"
+   },
+   "4055580652532057510": {
+      "message": "bez nazwy"
+   },
+   "4061274470931156807": {
+      "message": "Pismo ol ciki"
+   },
+   "4082846773463542695": {
+      "message": "Nie udało się zidentyfikować komputera."
+   },
+   "4087074177670472082": {
+      "message": "Kotwica przypisu w tekście (U+FFF9)"
+   },
+   "4170374596716717299": {
+      "message": "Pismo hiragana"
+   },
+   "4171773891797639122": {
+      "message": "Łącznik słów"
+   },
+   "4183640380235728062": {
+      "message": "Powtarzanie wyłączone. Kliknij, by zmienić tryb powtarzania."
+   },
+   "4194375141064658954": {
+      "message": "Ups, mamy problem techniczny"
+   },
+   "4204603140063905121": {
+      "message": "Hangul Jungseong – wypełnienie"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ na $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Anuluj"
+   },
+   "4275466320467620600": {
+      "message": "Zawsze na wierzchu"
+   },
+   "4318639872744852657": {
+      "message": "Pismo takri"
+   },
+   "4326462735503400283": {
+      "message": "Tekst do wyświetlenia:"
+   },
+   "4329609792835264496": {
+      "message": "Wąski odstęp"
+   },
+   "4333644357236884202": {
+      "message": "Pismo khmerskie"
+   },
+   "4338950182024656659": {
+      "message": "Płeć i genealogia"
+   },
+   "4357737589458300153": {
+      "message": "Technologia kodowania dźwięku MPEG Layer-3 na licencji firm Fraunhofer IIS oraz Thomson. Format Advanced Audio Coding (AAC) jest używany na podstawie licencji zarządzanej przez Via Licensing Corporation. Google Play zawiera oprogramowanie innych firm, które wymaga zamieszczania powiadomień i/lub przestrzegania dodatkowych warunków korzystania z usługi. Te wymagane powiadomienia i/lub dodatkowe warunki korzystania z usługi dla oprogramowania innych firm znajdziesz na $START_LINK$tej stronie$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Wysoko oceniane"
+   },
+   "4380903276097257721": {
+      "message": "Półpauza pionowa U+FE32"
+   },
+   "4396890764725725469": {
+      "message": "Zapisz"
+   },
+   "4405073953395157822": {
+      "message": "Znaki CJK"
+   },
+   "4417144592785193889": {
+      "message": "Alfabety (inne) – Azja Wschodnia"
+   },
+   "4439965029912183539": {
+      "message": "Dodatek Latin 1"
+   },
+   "4440466521156769623": {
+      "message": "Symbol muzyczny – początek belki"
+   },
+   "4445783474627796041": {
+      "message": "Gotowe"
+   },
+   "445149490695787423": {
+      "message": "Zaloguj się ponownie"
+   },
+   "4451528286100219680": {
+      "message": "Osadzanie od lewej do prawej"
+   },
+   "4456793125873199230": {
+      "message": "Radio Szczęśliwy traf"
+   },
+   "4462494623248108758": {
+      "message": "Playlista"
+   },
+   "4478641030934315579": {
+      "message": "Typowe"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4494835774314426313": {
+      "message": "Nie można usunąć ostatniego materiału wyjściowego"
+   },
+   "4548656448943532301": {
+      "message": "Ukończono przesyłanie muzyki"
+   },
+   "4571105317747127957": {
+      "message": "Łącznik z dierezą"
+   },
+   "4590981840116960737": {
+      "message": "Formatowanie i odstępy"
+   },
+   "4607813303298554353": {
+      "message": "Pismo taana"
+   },
+   "4629182899853078878": {
+      "message": "Stacja radiowa"
+   },
+   "4629398054050196678": {
+      "message": "Pobierz muzykę do tej lokalizacji:"
+   },
+   "466976558518570343": {
+      "message": "Pismo jawajskie"
+   },
+   "4675864222674894697": {
+      "message": "Pismo shawa"
+   },
+   "4688946070631035536": {
+      "message": "Sprawdzanie pisowni"
+   },
+   "470296860672943171": {
+      "message": "Przełącznik wariantów"
+   },
+   "4706959263210678625": {
+      "message": "Wybór odmiany – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Przesyłaj muzykę do Google Play, gdy dodam ją do tych lokalizacji"
+   },
+   "4750228681419116696": {
+      "message": "Pismo malajalam"
+   },
+   "4754400438927203898": {
+      "message": "Wstrzymano odtwarzanie muzyki"
+   },
+   "4776903542722844646": {
+      "message": "Kliknij, by odtwarzać"
+   },
+   "4815033911915598343": {
+      "message": "Odstępy"
+   },
+   "4816571345301008062": {
+      "message": "Podczas zmieniania nazwy szybkiej składanki wystąpił problem."
+   },
+   "4830715100444503860": {
+      "message": "Pismo kharoshthi"
+   },
+   "4862238057869188402": {
+      "message": "Nie udało się pobrać składanek. Spróbuj ponownie."
+   },
+   "4878527640076219954": {
+      "message": "Pismo tamilskie"
+   },
+   "4886126295094352182": {
+      "message": "Muzyka Google Play dla Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Pismo tajskie"
+   },
+   "4920482241656423227": {
+      "message": "Kolor tła"
+   },
+   "4921096453319030731": {
+      "message": "Syryjski znak skrótu"
+   },
+   "4924253230856131215": {
+      "message": "Alfabety – Azja Południowo-Wschodnia"
+   },
+   "496636435516411982": {
+      "message": "Nie można ocenić utworu. Spróbuj ponownie."
+   },
+   "498913874005297914": {
+      "message": "Pogrubienie"
+   },
+   "499152283823240992": {
+      "message": "Samarytański"
+   },
+   "5003850562831597565": {
+      "message": "Niedawno zasubskrybowany"
+   },
+   "5009878480585609766": {
+      "message": "Klucze Han – inne"
+   },
+   "5015096128854741514": {
+      "message": "Transport i mapa"
+   },
+   "5018227417300461385": {
+      "message": "Dywiz U+FE63"
+   },
+   "5022153145769748172": {
+      "message": "Brak utworów w koszu."
+   },
+   "5030096791460456147": {
+      "message": "Obraz, który próbujesz przeciągnąć, jest zablokowany przez witrynę, w której się znajduje."
+   },
+   "5032188163864418301": {
+      "message": "Pahlawi inskrypcyjny"
+   },
+   "5049432650728491454": {
+      "message": "Przeglądaj nowości, top listy, playlisty i gatunki"
+   },
+   "506090363255226122": {
+      "message": "Obrócone/odbicie lustrzane"
+   },
+   "5071594083516657121": {
+      "message": "Plik jest za duży"
+   },
+   "5094769877856014729": {
+      "message": "Symbol muzyczny – koniec ligatury"
+   },
+   "5105404398573470156": {
+      "message": "Kształty geometryczne"
+   },
+   "5113771261593769985": {
+      "message": "Pismo czamskie"
+   },
+   "5115900738857721327": {
+      "message": "Łącznik grafemów"
+   },
+   "5128240607770067472": {
+      "message": "Informacje…"
+   },
+   "5143432838919500349": {
+      "message": "Skanuję..."
+   },
+   "5170992049958515620": {
+      "message": "Łącznik"
+   },
+   "5187212874644392331": {
+      "message": "Wersja: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Obecnie nie można przeciągać plików obrazów.\nPrzeciągnij obraz z przeglądarki."
+   },
+   "5199204386348402183": {
+      "message": "Pismo osmanya"
+   },
+   "5219596981664772816": {
+      "message": "3-częściowe klucze Han"
+   },
+   "5232157483592334572": {
+      "message": "Pismo tifinagh"
+   },
+   "5256846847077792168": {
+      "message": "Edytuj słowo"
+   },
+   "5278374842872340790": {
+      "message": "Emotikony"
+   },
+   "5288571118300787017": {
+      "message": "W $SONG_TITLE$ wykryto błąd dekodowania. Sprawdź oryginalny plik i prześlij go ponownie. Utwór został pominięty.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "531478949469830505": {
+      "message": "Sora sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{ponad 0 dni}=1{ponad 1 dzień}few{ponad # dni}many{ponad # dni}other{ponad # dnia}}"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5373550672011878193": {
+      "message": "Pismo runiczne"
+   },
+   "537543696442379345": {
+      "message": "Włącz szybką składankę"
+   },
+   "5378532290721565403": {
+      "message": "Utwór został kupiony przy użyciu innego konta Muzyki Google Play"
+   },
+   "5394607018657314633": {
+      "message": "Separator wierszy"
+   },
+   "5402470227536486835": {
+      "message": "Pauza U+FE58"
+   },
+   "5404910277282887798": {
+      "message": "Pismo fenickie"
+   },
+   "5408241503383428945": {
+      "message": "Inne skrypty europejskie"
+   },
+   "5432330868773114140": {
+      "message": "Włącz radio"
+   },
+   "5451692331472585782": {
+      "message": "Wszystkie utwory"
+   },
+   "5452036681614307719": {
+      "message": "Niewidoczny plus"
+   },
+   "5455360062863417200": {
+      "message": "Następny utwór"
+   },
+   "5464364716831469679": {
+      "message": "Nieznany album"
+   },
+   "548629550059508920": {
+      "message": "Nie można przesłać, ponieważ przesyłasz już z dwóch kont."
+   },
+   "5497512316841934820": {
+      "message": "Składanka Szczęśliwy traf"
+   },
+   "5497627646066282315": {
+      "message": "Łączę"
+   },
+   "5501301484140201550": {
+      "message": "Radio Szczęśliwy traf"
+   },
+   "5518817744725858296": {
+      "message": "Wykonawca występujący na żywo w pobliżu"
+   },
+   "5529194084754296998": {
+      "message": "Spacja U+2006"
+   },
+   "5541835554879897802": {
+      "message": "Nie udało się dodać niektórych utworów do kolekcji. Spróbuj ponownie."
+   },
+   "5578390534357178026": {
+      "message": "Upewnij się, że logujesz się w Chrome na to samo konto Google."
+   },
+   "5584189341216439776": {
+      "message": "Dodaj swoją muzykę"
+   },
+   "5584467594910303696": {
+      "message": "Hieroglify meroickie"
+   },
+   "5593848105713936399": {
+      "message": "Kolejka utworów"
+   },
+   "5594762259680838005": {
+      "message": "Niedawno kupiony"
+   },
+   "5612959352951118540": {
+      "message": "za $NUM$ godz.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Format"
+   },
+   "5653588624985073807": {
+      "message": "Pismo gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Nie udało się pobrać gatunków. Spróbuj ponownie."
+   },
+   "5674048882417502526": {
+      "message": "Zastępowanie od prawej do lewej"
+   },
+   "5677606995605741055": {
+      "message": "Podczas usuwania stacji radiowej wystąpił problem."
+   },
+   "569766142833422558": {
+      "message": "Muzyka Google Play dla Chrome wymaga zaktualizowania. Powinno to nastąpić automatycznie."
+   },
+   "5700613377997995103": {
+      "message": "Łącznik U+2012"
+   },
+   "5755038562791065032": {
+      "message": "Odstęp „3-per-em”"
+   },
+   "5761798931116026691": {
+      "message": "Nie udało się przekonwertować do MP3"
+   },
+   "5769804815976568558": {
+      "message": "Wybierz lokalizację pobierania"
+   },
+   "5773750119871048451": {
+      "message": "Anuluj"
+   },
+   "5775493454862732930": {
+      "message": "Łącznik ormiański"
+   },
+   "5784007894878825338": {
+      "message": "Spacja nierozdzielająca"
+   },
+   "5889126665299129466": {
+      "message": "Aby korzystać z miniodtwarzacza, musisz zalogować się w Chrome."
+   },
+   "5890243856676178044": {
+      "message": "Pismo bengalskie"
+   },
+   "5914500973755757025": {
+      "message": "Pismo laotańskie"
+   },
+   "5918806792833250096": {
+      "message": "Pismo klinowe"
+   },
+   "5930857699885919881": {
+      "message": "Nieobsługiwany plik ALAC"
+   },
+   "5969115558488445506": {
+      "message": "Podnagłówek"
+   },
+   "5971001229987621398": {
+      "message": "Proponowana nowość"
+   },
+   "5999484363963634214": {
+      "message": "Mandejski"
+   },
+   "601150082487101480": {
+      "message": "Ostatnio dodane"
+   },
+   "6031749391396582225": {
+      "message": "Hangul – wypełnienie"
+   },
+   "6042091568356544470": {
+      "message": "Zastosowanie funkcji"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "610635793308893528": {
+      "message": "Umieszczanie tekstu od prawej do lewej"
+   },
+   "6125785068086103357": {
+      "message": "Nie udało się usunąć utworu. Spróbuj ponownie."
+   },
+   "6134905866550808378": {
+      "message": "Wszystkie moje utwory – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6205568685279927986": {
+      "message": "Pismo rejang"
+   },
+   "6211429203092739745": {
+      "message": "Poprzedni utwór"
+   },
+   "6211690508928257569": {
+      "message": "Pismo syryjskie"
+   },
+   "6223487594388109285": {
+      "message": "Podczas zmieniania nazwy stacji radiowej wystąpił problem."
+   },
+   "6233107584508657559": {
+      "message": "Nie udało się połączyć z Google"
+   },
+   "6238576599909606924": {
+      "message": "nieprawidłowy adres URL"
+   },
+   "6242354668932209396": {
+      "message": "Powtarzanie wszystkich utworów. Kliknij, by zmienić tryb powtarzania."
+   },
+   "624368563085644372": {
+      "message": "Pismo Times (niewidoczne)"
+   },
+   "6264257099423315684": {
+      "message": "Do jakiego adresu e-mail ma prowadzić ten link?"
+   },
+   "630414199054820482": {
+      "message": "Spacja U+2008"
+   },
+   "6342787164312491730": {
+      "message": "Pogoda, sceny i znaki Zodiaku"
+   },
+   "6352462755178724841": {
+      "message": "Usuń formatowanie"
+   },
+   "6360340926892934518": {
+      "message": "Dodaj folder"
+   },
+   "6376633306429460166": {
+      "message": "Pismo saurashtra"
+   },
+   "6390744057286457578": {
+      "message": "Wyrównaj do środka"
+   },
+   "6397906195939852735": {
+      "message": "Pismo kannada"
+   },
+   "6397910887534888858": {
+      "message": "Kolor tekstu"
+   },
+   "6425912931786223127": {
+      "message": "rano"
+   },
+   "6427041476637425542": {
+      "message": "Indeks dolny"
+   },
+   "6447846965513034625": {
+      "message": "Obiekty"
+   },
+   "6452850149519075219": {
+      "message": "Nie teraz"
+   },
+   "6455550894777387014": {
+      "message": "Język Myanmar"
+   },
+   "6502885021177224543": {
+      "message": "Muzyka Google Play: wybierz folder na pobierane pliki"
+   },
+   "6504449653938065974": {
+      "message": "Polecana playlista"
+   },
+   "6510962485068569110": {
+      "message": "Cofnij"
+   },
+   "653219508056341533": {
+      "message": "Ludzie i emocje"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6568036879894576496": {
+      "message": "Muzyka z tych folderów będzie dodawana do Muzyki Google Play"
+   },
+   "6591282200798732887": {
+      "message": "Półfiret"
+   },
+   "6593910762276333113": {
+      "message": "Pobierz Flash"
+   },
+   "66116513409922755": {
+      "message": "Nie"
+   },
+   "6612115524763399815": {
+      "message": "Pismo dewanagari"
+   },
+   "6641147067989080704": {
+      "message": "Pismo kayah li"
+   },
+   "6650739047421247577": {
+      "message": "Nie można odtworzyć muzyki"
+   },
+   "6652787256443519035": {
+      "message": "Nieoznaczone tagami"
+   },
+   "66820157572867378": {
+      "message": "Zmniejsz wcięcie"
+   },
+   "6689623864271696040": {
+      "message": "Łącznik opcjonalny"
+   },
+   "6711475260919070872": {
+      "message": "Pismo staroperskie"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Wybrana dla Ciebie"
+   },
+   "6722174221321515493": {
+      "message": "Rozłącznik o zerowej szerokości"
+   },
+   "6732797853205065184": {
+      "message": "Ignoruj"
+   },
+   "6750258767236131097": {
+      "message": "Skrypty z Bliskiego Wschodu"
+   },
+   "6768967544887679189": {
+      "message": "Myślnik falujący U+3030"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6821274223204126521": {
+      "message": "Muzyczne"
+   },
+   "6839273670547667172": {
+      "message": "Różni"
+   },
+   "6843333688253399564": {
+      "message": "Pismo katakana"
+   },
+   "6898179631823558149": {
+      "message": "Nie udało się przekonwertować pliku do formatu nadającego się do użycia"
+   },
+   "6930531446322391145": {
+      "message": "Grafika"
+   },
+   "6958966284437922286": {
+      "message": "Pismo wai"
+   },
+   "700030425158051007": {
+      "message": "Pismo limbu"
+   },
+   "7009828133009731416": {
+      "message": "Prezent od Google"
+   },
+   "7015870297337540921": {
+      "message": "Pismo miao"
+   },
+   "7020161279392960480": {
+      "message": "Format"
+   },
+   "7029749611952268902": {
+      "message": "Brak odtwarzacza Flash"
+   },
+   "7034479228356652023": {
+      "message": "1-częściowe klucze Han"
+   },
+   "7049182394855721704": {
+      "message": "Pismo gotyckie"
+   },
+   "7080245643233785574": {
+      "message": "W Muzyce Google Play dla Chrome wystąpił problem i musisz zalogować się ponownie."
+   },
+   "7100404876663103497": {
+      "message": "Hangul Choseong – wypełnienie"
+   },
+   "7100567566985297322": {
+      "message": "Długa spacja"
+   },
+   "7102126384411654213": {
+      "message": "Nie udało się dodać do kolekcji. Spróbuj ponownie."
+   },
+   "7104210472412766015": {
+      "message": "Separator przypisu w tekście (U+FFFA)"
+   },
+   "7111181959300196580": {
+      "message": "Zwiększ wcięcie"
+   },
+   "7116872031464114568": {
+      "message": "Zidentyfikowany w Wyszukiwarce dźwięku"
+   },
+   "7127937208951634191": {
+      "message": "Symbol"
+   },
+   "7132453172532202734": {
+      "message": "Nie można połączyć się z Google Play"
+   },
+   "7136816542440442290": {
+      "message": "Podczas wczytywania stacji radiowej wystąpił problem."
+   },
+   "716550293954822096": {
+      "message": "Pismo syngaleskie"
+   },
+   "7192513315706728552": {
+      "message": "Błąd serwera. Spróbuj ponownie później."
+   },
+   "7193968696947634147": {
+      "message": "Odśwież stronę"
+   },
+   "7194376132387780145": {
+      "message": "Nie można autoryzować tego komputera, ponieważ masz już dziesięć urządzeń."
+   },
+   "7202681158267340446": {
+      "message": "Czcionka"
+   },
+   "720381800527728702": {
+      "message": "Sport, uroczystości i czynności"
+   },
+   "7224832103566723854": {
+      "message": "Nie można wczytać playlisty. Spróbuj ponownie."
+   },
+   "7228343081607279547": {
+      "message": "Pismo sudańskie"
+   },
+   "7229202390260081051": {
+      "message": "Wielka"
+   },
+   "7282565673166392948": {
+      "message": "Opis ideograficzny"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minut}=1{1 minuta}few{# minuty}many{# minut}other{# minuty}}"
+   },
+   "7293925053370285812": {
+      "message": "Powtarzanie bieżącego utworu. Kliknij, by zmienić tryb powtarzania."
+   },
+   "7305504256207181669": {
+      "message": "Lista punktowana"
+   },
+   "7310668544702677420": {
+      "message": "Aby wrócić do słuchania muzyki, odśwież tę stronę w przeglądarce. Jeśli problemy nadal będą występować, upewnij się, że wtyczka Flash jest włączona i działa."
+   },
+   "7320133162875658022": {
+      "message": "Prześlij nowe utwory ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7331328794127852355": {
+      "message": "Emotikony"
+   },
+   "7335080673788704461": {
+      "message": "Transport, mapy i znaki"
+   },
+   "7347179017294066771": {
+      "message": "Dodaj lub usuń foldery"
+   },
+   "7354691783317064273": {
+      "message": "Aplikacja w Chrome nawiązuje połączenie."
+   },
+   "7396303606473621591": {
+      "message": "Wszystkie"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{za # dni}=1{za # dzień}few{za # dni}many{za # dni}other{in # days}}"
+   },
+   "7437894509168051348": {
+      "message": "7-częściowe klucze Han"
+   },
+   "747583939629659293": {
+      "message": "Dodaj kolor"
+   },
+   "7480960100390206139": {
+      "message": "Różne"
+   },
+   "7529798479468856973": {
+      "message": "$NUM$ godz. temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7536172317066333802": {
+      "message": "Wstaw obraz"
+   },
+   "7559266156388225108": {
+      "message": "Znak liczby w kaithi"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongolski separator samogłosek"
+   },
+   "7596816553523902619": {
+      "message": "Dzisiaj"
+   },
+   "7601688284754148415": {
+      "message": "Matematyczne"
+   },
+   "7617664217221228040": {
+      "message": "Pismo balijskie"
+   },
+   "762389150316771008": {
+      "message": "Radio Szczęśliwy traf"
+   },
+   "7631480327394084350": {
+      "message": "Obrazy kontrolne"
+   },
+   "7664246845088850317": {
+      "message": "Połączenie z serwerem nie powiodło się. Kod błędu: "
+   },
+   "7697058485679231601": {
+      "message": "Odśwież stronę i spróbuj ponownie."
+   },
+   "7704516203792990151": {
+      "message": "Odtworzono"
+   },
+   "7709119284546787990": {
+      "message": "Od prawej do lewej"
+   },
+   "7711713319832787051": {
+      "message": "Pary"
+   },
+   "7730109880037106848": {
+      "message": "Symbole"
+   },
+   "7736581252844206600": {
+      "message": "Greckie"
+   },
+   "7737642252665507180": {
+      "message": "Szesnastkowe dane wejściowe"
+   },
+   "7743528314734813641": {
+      "message": "Podczas wczytywania szybkiej składanki wystąpił problem."
+   },
+   "7760426006262447033": {
+      "message": "Za mało miejsca w kolejce"
+   },
+   "7774266771623079214": {
+      "message": "Muzyka Play"
+   },
+   "7776111286341041808": {
+      "message": "Od lewej do prawej"
+   },
+   "779262212811541732": {
+      "message": "Staropołudniowoarabski"
+   },
+   "7816161180678740448": {
+      "message": "Pismo Braille'a"
+   },
+   "7846689234809169417": {
+      "message": "Zwierzęta, rośliny i żywność"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 godzin}=1{1 godzina}few{# godziny}many{# godzin}other{# godziny}}"
+   },
+   "7878031641910175480": {
+      "message": "Ostatnio wybierane:"
+   },
+   "7888286842234266048": {
+      "message": "Obramowanie pełne/kreskowane"
+   },
+   "7898792314887900865": {
+      "message": "Pismo cypryjskie"
+   },
+   "7927039504440585569": {
+      "message": "Łacińskie"
+   },
+   "7930381906669528420": {
+      "message": "Nie udało się odtworzyć utworu $SONG_TITLE$. Został pominięty.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Międzynarodowy alfabet fonetyczny (IPA)"
+   },
+   "7954850519963017242": {
+      "message": "$NUM$ dzień temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arabski znak sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 folderów}=1{1 folder}few{# foldery}many{# folderów}other{# folders}}"
+   },
+   "7984622936663451936": {
+      "message": "Klawiatura i interfejs"
+   },
+   "7985095810697977698": {
+      "message": "Nie można odtworzyć utworu. Spróbuj ponownie."
+   },
+   "8001758142015238809": {
+      "message": "Tymczasowy błąd. Spróbujemy ponownie później."
+   },
+   "8019982600883750632": {
+      "message": "Wyjustuj"
+   },
+   "8020892463961333112": {
+      "message": "Symbol muzyczny – koniec legato"
+   },
+   "8024675506077392847": {
+      "message": "Nie udało się wczytać następnego utworu."
+   },
+   "8030037581414873660": {
+      "message": "2-częściowe klucze Han"
+   },
+   "803032414305825807": {
+      "message": "Rozmiar czcionki"
+   },
+   "803376120920513357": {
+      "message": "$NUM$ dni temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Nie można zasubskrybować playlisty. Spróbuj ponownie."
+   },
+   "8045052194324740729": {
+      "message": "Nie można słuchać usuniętych utworów."
+   },
+   "8066747296553908214": {
+      "message": "Podwójny łącznik ukośny"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dzień}few{{TEXT} dni}many{{TEXT} dni}other{{TEXT} days}}"
+   },
+   "8159976291123989327": {
+      "message": "Edytuj link"
+   },
+   "8164274980045228173": {
+      "message": "Formatowanie jednokierunkowe"
+   },
+   "8164897103619368290": {
+      "message": "Lista numerowana"
+   },
+   "8191208612330635266": {
+      "message": "Pismo tybetańskie"
+   },
+   "8192298658946835992": {
+      "message": "Odstęp nierozdzielający o zerowej szerokości"
+   },
+   "8193509313274135818": {
+      "message": "Arabski znacznik przypisu"
+   },
+   "819996403327805209": {
+      "message": "Dowiedz się więcej"
+   },
+   "823405029831570152": {
+      "message": "Pismo etiopskie"
+   },
+   "8239380670132570074": {
+      "message": "Nie można otworzyć pliku tymczasowego"
+   },
+   "8249329268828083858": {
+      "message": "Łącznik podwójny – katakana-hiragana"
+   },
+   "8275689791574630480": {
+      "message": "Znak odstępu w ogham"
+   },
+   "8277279706638733641": {
+      "message": "Gwiazdki"
+   },
+   "8286384050114068255": {
+      "message": "Wersja NaCl: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "8325100368677049569": {
+      "message": "Odkrywaj nową muzykę"
+   },
+   "8338465287076872825": {
+      "message": "Nie można odczytać muzyki z pliku"
+   },
+   "8358697777226306085": {
+      "message": "Hieroglify egipskie"
+   },
+   "8363930857329550333": {
+      "message": "Gruzińskie"
+   },
+   "8385464685117997940": {
+      "message": "Niedawno odtwarzany"
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Zaloguj się"
+   },
+   "8412726756889279816": {
+      "message": "Pismo czakma"
+   },
+   "842631328362018283": {
+      "message": "Duża"
+   },
+   "8437015452970026040": {
+      "message": "Osiągnąłeś limit utworów w kolekcji. Usuń niektóre z nich, by dodać inne."
+   },
+   "8440128775129354214": {
+      "message": "Prywatność"
+   },
+   "8454237498473122184": {
+      "message": "Łącznik (minus)"
+   },
+   "8458476427655018512": {
+      "message": "Spacja"
+   },
+   "8482517151370142670": {
+      "message": "Inne"
+   },
+   "848933194605193751": {
+      "message": "Ostatnio oglądany w YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Pismo karyjskie"
+   },
+   "8524322739067915993": {
+      "message": "po południu"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{za # minut}=1{za # minutę}few{za # minuty}many{za # minut}other{in # minutes}}"
+   },
+   "8628766851955432422": {
+      "message": "Usuń"
+   },
+   "8637643428005590282": {
+      "message": "Znaki"
+   },
+   "8639048757911329468": {
+      "message": "Wersja NaCl: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Spróbuj ponownie"
+   },
+   "8741366833297918126": {
+      "message": "Długość utworu"
+   },
+   "875046332706257024": {
+      "message": "Playlista automatyczna"
+   },
+   "8763647985340267403": {
+      "message": "Pionki"
+   },
+   "8768143964455071187": {
+      "message": "Pismo ogamiczne"
+   },
+   "8771272263124601486": {
+      "message": "Pismo tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{# godzin temu}=1{# godzinę temu}few{# godziny temu}many{# godzin temu}other{# hours ago}}"
+   },
+   "8787014632487519603": {
+      "message": "Wykryto błąd dekodowania. Sprawdź oryginalny plik i prześlij go ponownie. Utwór został pominięty."
+   },
+   "8801527171487571079": {
+      "message": "Pismo tai tham"
+   },
+   "8818387952529569142": {
+      "message": "Dziś"
+   },
+   "8819361322041128714": {
+      "message": "Pismo ugaryckie"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Zachowaj ostrożność.$POSTB$ Pamiętaj, że adres e-mail zamieszczony na stronie internetowej może trafić w ręce spamerów.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arabski znak liczby"
+   },
+   "8858058202463451164": {
+      "message": "Wyrównaj do lewej"
+   },
+   "8868784738343119594": {
+      "message": "$NUM$ minutę temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8896073810838561095": {
+      "message": "8-częściowe klucze Han"
+   },
+   "8901076355007755806": {
+      "message": "Pismo lepcza"
+   },
+   "8925271759659767084": {
+      "message": "Bezpłatne i kupione"
+   },
+   "8931700495296520714": {
+      "message": "Zamknij miniodtwarzacz"
+   },
+   "8934299821763129489": {
+      "message": "Pismo starowłoskie"
+   },
+   "8958381934236197373": {
+      "message": "Odstęp cyfrowy"
+   },
+   "8961985815150856927": {
+      "message": "Niedawno utworzony"
+   },
+   "8971282019539581965": {
+      "message": "Zamknij okno dialogowe Informacje"
+   },
+   "8979933913103486540": {
+      "message": "Łącznik"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$ – $ARTIST_NAME$ – miniodtwarzacz Muzyki Google Play",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Obramowanie"
+   },
+   "9000910334745340727": {
+      "message": "Mongolski łącznik opcjonalny"
+   },
+   "9001309834415064766": {
+      "message": "10-częściowe klucze Han"
+   },
+   "901225307358856093": {
+      "message": "Kanadyjski łącznik sylabiczny"
+   },
+   "902300864627076683": {
+      "message": "Partyjski inskrypcyjny"
+   },
+   "9024489874326845912": {
+      "message": "Polecany album"
+   },
+   "9045338265172338590": {
+      "message": "Pismo manipuri"
+   },
+   "9053704575157030099": {
+      "message": "Brak"
+   },
+   "9063659532473030063": {
+      "message": "Meteorologia i astrologia"
+   },
+   "9084816336314899019": {
+      "message": "Kontynuuj"
+   },
+   "9092976405151508175": {
+      "message": "Ponów"
+   },
+   "9098679347815545327": {
+      "message": "Nie można utworzyć playlisty. Spróbuj ponownie."
+   },
+   "9173411042808904308": {
+      "message": "Normalna/szeryfowa"
+   },
+   "9184426509557869402": {
+      "message": "Odstęp ideograficzny"
+   },
+   "9197433560254928186": {
+      "message": "Pismo arabskie"
+   },
+   "9218938714985695055": {
+      "message": "Symbol muzyczny – początek legato"
+   },
+   "947591000172763449": {
+      "message": "Pismo phags pa"
+   },
+   "953268105555355822": {
+      "message": "Pokaż wszystko"
+   },
+   "964983733596985457": {
+      "message": "Zgodność"
+   },
+   "97224266342934568": {
+      "message": "Indeks górny"
+   },
+   "997742287268027221": {
+      "message": "Nie udało się przesłać pliku"
+   }
+}

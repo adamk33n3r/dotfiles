@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Vytváření diagramů online"
+   },
+   "appLongDesc": {
+      "message": "draw.io is je zcela bezplatná aplikace k vytváření diagramů v systému Disk Google(TM), která umožňuje kreslit:\n\n- diagramy toku\n- UML\n- ERD\n- síťové diagramy\n- BPMN\n- organizační diagramy\n- elektronické obvody\n- drátěné modely a mockup porototypy\n\nFunkce:\n- Nativní klient protokolu HTML 5 s plnou podporou IE 6-8.\n- Velká vestavěná knihovna šablon\n- Intuitivní rozhraní s funkcí drag and drop\n- Funkce hledání a přidávání obrázků\n- Export do formátů PNG/JPG/XML/SVG/PDF\n- Podpora zařízení s dotykovou obrazovkou\n- Spolupráce v reálném čase.\n- Vkládání diagramů do blogů a wiki stránek"
+   },
+   "appName": {
+      "message": "draw.io"
+   }
+}

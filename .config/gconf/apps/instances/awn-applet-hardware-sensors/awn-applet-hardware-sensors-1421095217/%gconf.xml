@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="timeout" mtime="1421095319" schema="/schemas/apps/awn-applet-hardware-sensors/timeout"/>
+	<entry name="labels" mtime="1421095319" schema="/schemas/apps/awn-applet-hardware-sensors/labels" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>Physical id 0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>Core 0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>Core 1</stringvalue>
+		</li>
+	</entry>
+	<entry name="show_value_overlay" mtime="1421095339" schema="/schemas/apps/awn-applet-hardware-sensors/show_value_overlay" type="bool" value="true"/>
+	<entry name="high_alarms" mtime="1421095319" schema="/schemas/apps/awn-applet-hardware-sensors/high_alarms" type="list" ltype="bool">
+		<li type="bool" value="false"/>
+		<li type="bool" value="false"/>
+		<li type="bool" value="false"/>
+	</entry>
+	<entry name="in_icon" mtime="1421095383" schema="/schemas/apps/awn-applet-hardware-sensors/in_icon" type="list" ltype="bool">
+		<li type="bool" value="true"/>
+		<li type="bool" value="false"/>
+		<li type="bool" value="false"/>
+	</entry>
+	<entry name="show" mtime="1421095319" schema="/schemas/apps/awn-applet-hardware-sensors/show" type="list" ltype="bool">
+		<li type="bool" value="true"/>
+		<li type="bool" value="true"/>
+		<li type="bool" value="true"/>
+	</entry>
+	<entry name="low_alarms" mtime="1421095319" schema="/schemas/apps/awn-applet-hardware-sensors/low_alarms" type="list" ltype="bool">
+		<li type="bool" value="false"/>
+		<li type="bool" value="false"/>
+		<li type="bool" value="false"/>
+	</entry>
+	<entry name="ids" mtime="1421095319" schema="/schemas/apps/awn-applet-hardware-sensors/ids" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>1_Physical id 0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>2_Core 0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>3_Core 1</stringvalue>
+		</li>
+	</entry>
+	<entry name="high_values" mtime="1421095403" schema="/schemas/apps/awn-applet-hardware-sensors/high_values" type="list" ltype="float">
+		<li type="float" value="82"/>
+		<li type="float" value="60"/>
+		<li type="float" value="60"/>
+	</entry>
+	<entry name="theme" mtime="1421095335" schema="/schemas/apps/awn-applet-hardware-sensors/theme" type="string">
+		<stringvalue>dark</stringvalue>
+	</entry>
+	<entry name="font_size" mtime="1421095341" schema="/schemas/apps/awn-applet-hardware-sensors/font_size" type="int" value="0"/>
+	<entry name="hand_color" mtime="1421095318" schema="/schemas/apps/awn-applet-hardware-sensors/hand_color"/>
+	<entry name="low_values" mtime="1421095319" schema="/schemas/apps/awn-applet-hardware-sensors/low_values" type="list" ltype="float">
+		<li type="float" value="20"/>
+		<li type="float" value="20"/>
+		<li type="float" value="20"/>
+	</entry>
+	<entry name="unit" mtime="1421095330" schema="/schemas/apps/awn-applet-hardware-sensors/unit" type="int" value="1"/>
+	<entry name="dialog_row" mtime="1421095319" schema="/schemas/apps/awn-applet-hardware-sensors/dialog_row" type="list" ltype="int">
+		<li type="int" value="1"/>
+		<li type="int" value="2"/>
+		<li type="int" value="3"/>
+	</entry>
+</gconf>

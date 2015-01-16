@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Crtanje dijagrama onlajn"
+   },
+   "appLongDesc": {
+      "message": "draw.io je potpuno besplatna Google Drive(TM) aplikacija, koja omogućava crtanje sledećih vrsta dijagrama:\n\n- dijagram toka\n- UML\n- dijagram relacije odnosa\n- mrežni dijagram\n- BPMN\n- ogranizacioni dijagram\n- električna kola i slično\n- žičani model i skice korisničkog interfejsa\n\nOdlike:\n- HTML 5 klijent sa potpunom podrškom za IE 6-8\n- opširna ugrađena biblioteka matrica\n- intuitivan drag and drop interfejs\n- eksportovanje u: PNG, GIF, JPG, XML, SVG i PDF\n- podrška za dodirne uređaje\n- višekorisnička saradnja u realnom vremenu\n- ugrađivanje dijagrama u blogove i wiki-stranice"
+   },
+   "appName": {
+      "message": "draw.io"
+   }
+}

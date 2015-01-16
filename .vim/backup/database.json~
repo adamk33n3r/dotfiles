@@ -1,0 +1,29 @@
+{
+	"default":"dev",
+	"schema":"myfarms",
+	"connections":
+	{
+		"dev":
+		{
+			"driver":"pgsql",
+			"host":"localhost",
+			"port":5432,
+			"database":"zoidberg",
+			"username":"bender",
+			"password":"mFdb2012",
+			"charset":"utf8",
+			"prefix":""
+		},
+        "soils":
+        {
+            "driver":"pgsql",
+			"host":"localhost",
+			"port":5432,
+			"database":"local",
+			"username":"bender",
+			"password":"mFdb2012",
+			"charset":"utf8",
+			"prefix":""
+        }
+	}
+}

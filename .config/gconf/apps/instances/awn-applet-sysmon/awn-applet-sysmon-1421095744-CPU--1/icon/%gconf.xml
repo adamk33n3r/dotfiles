@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="time_stamp" mtime="1421095745" schema="/schemas/apps/awn-applet-sysmon/icon/time_stamp"/>
+	<entry name="graph_type" mtime="1421095745" schema="/schemas/apps/awn-applet-sysmon/icon/graph_type" type="int" value="0"/>
+	<entry name="update_timeout" mtime="1421095745" schema="/schemas/apps/awn-applet-sysmon/icon/update_timeout" type="int" value="1000"/>
+</gconf>

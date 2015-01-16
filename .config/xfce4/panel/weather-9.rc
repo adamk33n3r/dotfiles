@@ -1,0 +1,26 @@
+loc_name=Portland, Jay County
+lat=40.434489
+lon=-84.977745
+msl=278
+timezone=America/Indiana/Indianapolis
+cache_file_max_age=172800
+power_saving=true
+units_temperature=1
+units_pressure=2
+units_windspeed=1
+units_precipitation=1
+units_altitude=1
+model_apparent_temperature=0
+round=true
+single_row=true
+tooltip_style=1
+forecast_layout=1
+forecast_days=5
+scrollbox_animate=true
+theme_dir=/usr/share/xfce4/weather/icons/simplistic
+show_scrollbox=true
+scrollbox_lines=1
+scrollbox_color=#a94aa94aa94a
+scrollbox_use_color=true
+label0=3
+

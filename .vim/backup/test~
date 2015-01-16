@@ -1,0 +1,3 @@
+#!/usr/bin/fish
+
+time -f "%E" cept run $argv[1] data/TillageCreateCept.php

@@ -1,0 +1,28 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "jquery_icon19.png",
+         "38": "jquery_icon38.png"
+      },
+      "default_title": "click for jquery-injection"
+   },
+   "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'",
+   "description": "Injects jquery to current page.",
+   "icons": {
+      "128": "jquery_128.png",
+      "16": "jquery_16.png",
+      "48": "jquery_48.png",
+      "64": "jquery_64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWvcqUv52SNwLt+VXL0Qxq70YOGrGE5HWb8Ak5IsQTy9h6MVaoUshMs3TNbDUF6Kahipa5BJrGyi0+PkaO7OIKmNPOAuClfvLjyLOzimOXSxUhmHqdC0vVhuWG0MMN4Nmn+WujiN1zlCUix7+HolAuhGu38yR6BbFtXL5ZevM3bQIDAQAB",
+   "manifest_version": 2,
+   "name": "jquery-injector",
+   "options_page": "options.html",
+   "permissions": [ "alarms", "tabs", "https://*/*", "http://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.2"
+}

@@ -1,0 +1,27 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "shared/inject.js", "init.js" ],
+      "matches": [ "http://battlelog.battlefield.com/*", "http://battlelog.medalofhonor.com/*", "http://getbblog.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Worldwide Leading Battlelog Browser Addon! Add many improvements and new features - for example stunning weapon information.",
+   "homepage_url": "http://getbblog.com",
+   "icons": {
+      "128": "shared/img/icon128.png",
+      "16": "shared/img/icon16.png",
+      "48": "shared/img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzpuUOHutG5dsCY987kr4yEKPaihh34brHWzqru3VXgpp0RwDLcrPM9k2C6nzTfcHv8TwGKrXOkPX3gNdz/jErii2vxYewKXo/SPb1t/KggxkqUfmDaUR4Jb3Wd6/C1f4P/BxmoJHUNBwAQzK0ohgKmqoRRiRjjHmKcQ5x3PjIFwVSgj0kJ3RYv+Ou7KnR8fjQfIjxltaI8ZQE2OCXGgE29inu757fh8i34yETbKOFsoLIdRUTjkQnLcs4vpKLN/dwD2BpxQ7ILEF0okPHsxvW248j8ij7gYl67t1IV9brkyGUqNVcgD33E2l3xAwInos6Imln0NCCOHwQ8ocOKJFywIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18.0",
+   "name": "Better Battlelog (BBLog)",
+   "permissions": [ "http://battlelog.battlefield.com/*", "http://battlelog.medalofhonor.com/*", "http://getbblog.com/*" ],
+   "short_name": "BBLog",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.6.0",
+   "web_accessible_resources": [ "shared/style-general.css", "shared/style-bf3-mohw.css", "shared/style-bf4-bfh.css", "shared/bblog.js", "shared/bblog-weapons-compressed.js", "shared/bblog-translations-compressed.js", "shared/img/bblog.png", "shared/img/teamspeak.png", "shared/img/mini-star.png", "shared/img/addgroup.png", "shared/img/bblog-badge.gif", "shared/img/assignments.jpg", "shared/img/spread-model.jpg", "shared/img/damage-torso.png", "shared/img/silk_information.png", "shared/img/speaker-off.png", "shared/img/speaker-on.png", "shared/img/filterset.png", "shared/sounds/radar-1.ogg" ]
+}

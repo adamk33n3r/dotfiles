@@ -1,0 +1,26 @@
+{
+   "blankTabTitle": {
+      "description": "Output for blank title page",
+      "message": "\u003CБез заголовка>"
+   },
+   "contextMenuTitle": {
+      "description": "Name context menu",
+      "message": "Вкладки"
+   },
+   "description": {
+      "description": "About extension",
+      "message": "Полноэкраный режим (f11), строка адреса (f6), переключение табов ( ctr+up|down ), список закладок, новая вкладка, контекстное меню."
+   },
+   "name": {
+      "description": "Extension name",
+      "message": "Fullscreen address bar"
+   },
+   "newTab": {
+      "description": "New tab in context menu",
+      "message": "Новая вкладка"
+   },
+   "placeholderSuggest": {
+      "description": "Placeholder on input tab",
+      "message": "Начните вводить название вкладки..."
+   }
+}

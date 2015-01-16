@@ -1,0 +1,18 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "jquery.js", "content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Stop Backspace returning to previous page.",
+   "icons": {
+      "128": "logo128.png",
+      "16": "logo16.png",
+      "48": "logo48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCY2+5Yle3nolkc4YQ5gn6JmFQfwFrZEP9hJLCYH8X7I9ot/Hkifuq6JJK9JP8cg66rmiz9pT/MV0lssNpk8yVumZ2Uq4U15saopEukiRfh/mWrEnZg3yG1mKxaOAbBn3n5eDwE+7ZkWBQtZgZWOb8wvvGp/3bpU9J2KNFwCDXHNwIDAQAB",
+   "manifest_version": 2,
+   "name": "BackStop",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.0.1"
+}

@@ -1,0 +1,39 @@
+
+
+-------session starts-------
+
+[1-15 18:16:21.450] INFO: Listen to gallery content changes not supported.
+[1-15 18:16:21.485] INFO: MediaGallery: name=/home/akeenan/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[1-15 18:16:21.486] INFO: Starts a quick scan on /home/akeenan/Pictures
+[1-15 18:16:21.486] INFO: Iterating over dir / from source /home/akeenan/Pictures
+[1-15 18:16:21.488] INFO: Starting periodic scan.
+[1-15 18:16:21.500] INFO: Iterating over dir /Screenshots from source /home/akeenan/Pictures
+[1-15 18:16:21.517] INFO: /home/akeenan/Pictures does not contain music file
+[1-15 18:16:21.530] INFO: lsUserAddedMusicSourceIds=null
+[1-15 18:16:21.531] INFO: lsLastTrackFailureLoggingTime=null
+[1-15 18:16:21.531] INFO: lsAppActivated=false
+[1-15 18:16:21.531] INFO: App is not activated. Not scanning.
+[1-15 18:16:21.531] INFO: lsSyncMusicEnabled=null
+[1-15 18:16:21.531] INFO: lsAppActivated=false
+[1-15 18:16:21.531] INFO: lsUserSelectedDownloadDirId=null
+[1-15 18:16:21.535] INFO: lsDefaultDownloadLocationId=null
+[1-15 18:16:21.536] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[1-15 18:16:21.536] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[1-15 18:16:21.613] INFO: Fetched user settings from server.
+[1-15 18:16:21.638] INFO: tylium:f ready
+[1-15 18:16:22.842] INFO: lsAppActivated=false
+[1-15 18:16:22.842] INFO: lsDragAndDropActivated=false
+[1-15 18:16:22.845] INFO: lsAppActivated=false
+[1-15 18:16:22.845] INFO: App is not activated. Not scanning.
+[1-15 18:16:22.845] INFO: lsAppActivated=false
+[1-15 18:16:50.185] INFO: App suspended.
+[1-15 18:16:50.196] INFO: Current upload state:
+	Added: 0
+	Total: 0
+	Failed: 0
+	Other Progress: false
+[1-15 18:16:50.200] INFO: App suspend canceled.
+[1-15 18:16:50.205] INFO: NaCl module is ready to process files
+[1-15 18:16:50.205] INFO: lsAppActivated=false
+[1-15 18:16:50.205] INFO: lsDragAndDropActivated=false
+[1-15 18:16:50.206] INFO: Nacl version: 1.0.158.6382

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="launcher_list" mtime="1421093968" schema="/schemas/apps/awn-applet-simple-launcher/launcher_list" type="list" ltype="string">
+	</entry>
+</gconf>

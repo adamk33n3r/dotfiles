@@ -1,0 +1,524 @@
+{
+   "April": {
+      "message": "Avril"
+   },
+   "April_short": {
+      "message": "Avr"
+   },
+   "August": {
+      "message": "Août"
+   },
+   "August_short": {
+      "message": "Août"
+   },
+   "Date": {
+      "message": "Date"
+   },
+   "Day": {
+      "message": "Jour"
+   },
+   "December": {
+      "message": "Décembre"
+   },
+   "December_short": {
+      "message": "Déc"
+   },
+   "Domain": {
+      "message": "Domaine"
+   },
+   "February": {
+      "message": "Février"
+   },
+   "February_short": {
+      "message": "Fév"
+   },
+   "Friday": {
+      "message": "Venredi"
+   },
+   "Friday_short": {
+      "message": "Ve"
+   },
+   "January": {
+      "message": "Janvier"
+   },
+   "January_short": {
+      "message": "Jan"
+   },
+   "July": {
+      "message": "Juillet"
+   },
+   "July_short": {
+      "message": "Juil"
+   },
+   "June": {
+      "message": "Juin"
+   },
+   "June_short": {
+      "message": "Juin"
+   },
+   "March": {
+      "message": "Mars"
+   },
+   "March_short": {
+      "message": "Mar"
+   },
+   "May": {
+      "message": "Mai"
+   },
+   "May_short": {
+      "message": "Mai"
+   },
+   "Monday": {
+      "message": "Lundi"
+   },
+   "Monday_short": {
+      "message": "Lu"
+   },
+   "Month": {
+      "message": "Mois"
+   },
+   "November": {
+      "message": "Novembre"
+   },
+   "November_short": {
+      "message": "Nov"
+   },
+   "October": {
+      "message": "Octobre"
+   },
+   "October_short": {
+      "message": "Oct"
+   },
+   "Saturday": {
+      "message": "Samedi"
+   },
+   "Saturday_short": {
+      "message": "Sa"
+   },
+   "September": {
+      "message": "Septembre"
+   },
+   "September_short": {
+      "message": "Sep"
+   },
+   "Sunday": {
+      "message": "Dimanche"
+   },
+   "Sunday_short": {
+      "message": "Di"
+   },
+   "Thursday": {
+      "message": "Jeudi"
+   },
+   "Thursday_short": {
+      "message": "Je"
+   },
+   "Tuesday": {
+      "message": "Mardi"
+   },
+   "Tuesday_short": {
+      "message": "Ma"
+   },
+   "Wednesday": {
+      "message": "Mercredi"
+   },
+   "Wednesday_short": {
+      "message": "Me"
+   },
+   "about": {
+      "message": "Sur complément"
+   },
+   "about_text1": {
+      "message": "Merci d'avoir installé ce complément. Nous espérons que vous l'appréciez."
+   },
+   "about_text10": {
+      "message": "Amicalement"
+   },
+   "about_text11": {
+      "message": "Equipe Wips.com"
+   },
+   "about_text2": {
+      "message": "Wips.com est l'équipe de développement qui crée beaucoup de complément non seulement pour Google Chrome mais aussi pour Firefox. Nous tournons nos forces sur le design élégant et la satisfaction de l'utilisateur."
+   },
+   "about_text3": {
+      "message": "Vainqueur Google Développer Day 2011"
+   },
+   "about_text4": {
+      "message": "A l'origine, ce complément a été développé par \u003Ca href='https://plus.google.com/100822872108533701053/posts'>Arthur Gumerov\u003C/a> avec aide Arthur Gumerov. Nous leurs remercions pour cette idée excellente. Notre équipe a achevé ce complément dans sa version final 1.0 en ajoutant beaucoup d'extensions et améliorations."
+   },
+   "about_text5": {
+      "message": "Nos projets futurs"
+   },
+   "about_text6": {
+      "message": "Nous voulons ce complément perfectionner le plus possible et donc nous serons ravis d'avoir votre opinion pour l'améliorer."
+   },
+   "about_text7": {
+      "message": "Vous pouvez jouir des meilleurs interfaces d'utilisateur, du babillard électronique de gammes, il y a beaucoup plus de graphiques intéressants et d'autres."
+   },
+   "about_text8": {
+      "message": "Egalement, pendant l'été 2012 nous démarrons ce complément aussi sur Mozilla Firefox."
+   },
+   "about_text9": {
+      "message": "Restez avec nous pour la mise en jour ultérieure et si vous avez une idée d'amélioration, envoyez-le par e-mail sur \u003Ca href='mailto:info@wips.com'>info@wips.com\u003C/a>."
+   },
+   "actions": {
+      "message": "Actions"
+   },
+   "add": {
+      "message": "Ajouter"
+   },
+   "categories": {
+      "message": "Catégories"
+   },
+   "categories_manage": {
+      "message": "Gestion des catégories"
+   },
+   "category": {
+      "message": "Catégorie:"
+   },
+   "category_add": {
+      "message": "Ajouter une catégorie"
+   },
+   "category_add_placeholder": {
+      "message": "nom de la catégorie"
+   },
+   "category_all_sites_categorized": {
+      "message": "tous les domaines sont classés dans les catégories"
+   },
+   "category_exists": {
+      "message": "Catégorie n'a pas été crée parce qu'elle existe."
+   },
+   "category_stats_removed": {
+      "message": "Statistiques de la catégorie $category$ ont été effacées avec succès.",
+      "placeholders": {
+         "category": {
+            "content": "$1",
+            "example": "fun"
+         }
+      }
+   },
+   "category_translation_all": {
+      "message": "Toutes"
+   },
+   "category_translation_fun": {
+      "message": "Amusement"
+   },
+   "category_translation_other": {
+      "message": "Non classé"
+   },
+   "category_translation_work": {
+      "message": "Travail"
+   },
+   "category_uncategorized_only": {
+      "message": "visualiser seulement les domaines non classés"
+   },
+   "clear": {
+      "message": "Effacer"
+   },
+   "clear_all_confirm": {
+      "message": "Vous voulez vraiment effacer toutes les statistiques?"
+   },
+   "clear_all_stats": {
+      "message": "Effacer toutes les statistiques:"
+   },
+   "clear_all_success": {
+      "message": "Toutes les statistiques effacées."
+   },
+   "clear_category": {
+      "message": "Effacer les statistiques dans la catégorie:"
+   },
+   "clear_category_confirm": {
+      "message": "Vous voulez vraiment effacer les statistiques dans la catégorie $category$?",
+      "placeholders": {
+         "category": {
+            "content": "$1",
+            "example": "fun"
+         }
+      }
+   },
+   "click_to_dismiss": {
+      "message": "Cacher après clique"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "createdBy": {
+      "message": "Crée par"
+   },
+   "d": {
+      "message": "j"
+   },
+   "dashboard_enable": {
+      "message": "visualiser sur dashboard"
+   },
+   "dashboard_hide": {
+      "message": "Effacer le bloc de dashboard"
+   },
+   "dashboard_info": {
+      "message": "Vous pouvez effacer les différentes statistiques de dashboard en cliquant sur le butons avec le croix en partie supérieure de droite du chaque bloc. Vous pouvez le récupérer en cochant l'option \"visualiser sur dashboard\" sur la page de différentes statistiques ou en cliquant sur le butons inférieur."
+   },
+   "dashboard_restore": {
+      "message": "Visualiser tous les graphiques"
+   },
+   "date_from": {
+      "message": "De:"
+   },
+   "date_removed": {
+      "message": "Les statistiques du $date$ ont été effacées avec succès.",
+      "placeholders": {
+         "date": {
+            "content": "$1",
+            "example": "01.06.2012"
+         }
+      }
+   },
+   "date_to": {
+      "message": "A:"
+   },
+   "dates": {
+      "message": "Date"
+   },
+   "days": {
+      "message": "jours"
+   },
+   "default_popup_action": {
+      "message": "Action initiale de la fenêtre de pop-up:"
+   },
+   "default_popup_action_description": {
+      "message": "(première action lancée après cliquer sur icône timeStats du visualiseur)"
+   },
+   "delete": {
+      "message": "Effacer"
+   },
+   "delete_date_confirm": {
+      "message": "Vous voulez vraiment effacer les statistiques du $date$?",
+      "placeholders": {
+         "date": {
+            "content": "$1",
+            "example": "01.06.2012"
+         }
+      }
+   },
+   "delete_date_text": {
+      "message": "Effacer les statistiques datées:"
+   },
+   "delete_site_confirm": {
+      "message": "Vous voulez vraiment effacer le domaine $site$ des statistiques?",
+      "placeholders": {
+         "site": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete_site_text": {
+      "message": "Enlever la statistique du domaine:"
+   },
+   "domain_zone": {
+      "message": "Zone de domaine"
+   },
+   "domain_zones": {
+      "message": "Zones de domaine"
+   },
+   "enable_anonymous_stats": {
+      "message": "Permettre d'envoyer les statistiques anonymes"
+   },
+   "enable_update_notify": {
+      "message": "Autoriser les notifications de nouvelles fonctionnalités"
+   },
+   "export": {
+      "message": "Export"
+   },
+   "export_csv": {
+      "message": "Export des statistiques dans CSV:"
+   },
+   "extDescr": {
+      "message": "Vous serez surpris par nombre d'heures passées sur les différentes web-pages."
+   },
+   "extName": {
+      "message": "timeStats"
+   },
+   "freezed": {
+      "message": "timeStats arrêté parce qu'aucune activité n'était enregistrée"
+   },
+   "h": {
+      "message": "h"
+   },
+   "hidden_domains_text": {
+      "message": "Liste de domaines exclus de l'enregistrement des statistiques:"
+   },
+   "history_size_note": {
+      "message": "(saisissez 0 pour l'historique sans limites)"
+   },
+   "history_size_text": {
+      "message": "Temps de l'historique sauvegardée (jours):"
+   },
+   "hours": {
+      "message": "heures"
+   },
+   "idle_time_description": {
+      "message": "(temps de passage du visualiseur en état inactif)"
+   },
+   "idle_time_text": {
+      "message": "Passage dans l'inactivité (secondes):"
+   },
+   "inactive": {
+      "message": "timeStats arrêté parce que la fenêtre de visualiseur n'est pas active"
+   },
+   "like_it": {
+      "message": "Vous aimez cette extension?"
+   },
+   "m": {
+      "message": "m"
+   },
+   "menu": {
+      "message": "Menu"
+   },
+   "minutes": {
+      "message": "minutes"
+   },
+   "multilevel_sites": {
+      "message": "Domaines de troisième niveau:"
+   },
+   "next": {
+      "message": "Suiv"
+   },
+   "no_data": {
+      "message": "Aucune statistique pour la période choisie."
+   },
+   "no_visited_domains": {
+      "message": "Aucune page visitée après installation de timeStats."
+   },
+   "notWebSite": {
+      "message": "Cette page n'est pas suivie par extension de timeStarts"
+   },
+   "not_categorized": {
+      "message": "Aucun de domaine visité n'a été classé dans une catégorie."
+   },
+   "options": {
+      "message": "Options"
+   },
+   "options_saved": {
+      "message": "Vos options ont été sauvegardées avec succès."
+   },
+   "options_title": {
+      "message": "Options d'extension de timeStats"
+   },
+   "other": {
+      "message": "autres"
+   },
+   "prev": {
+      "message": "Avant"
+   },
+   "remove": {
+      "message": "Enlever"
+   },
+   "remove_confirm": {
+      "message": "Vous voulez vraiment enlever la catégorie choisie?"
+   },
+   "restore": {
+      "message": "Renouveler"
+   },
+   "restore_defaults": {
+      "message": "Retourner aux paramètres d'origine:"
+   },
+   "restore_defaults_confirm": {
+      "message": "Vous voulez vraiment renouveler les paramètres d'origine?"
+   },
+   "s": {
+      "message": "s"
+   },
+   "seconds": {
+      "message": "secondes"
+   },
+   "share": {
+      "message": "Partager"
+   },
+   "share_it": {
+      "message": "Partagez-le!"
+   },
+   "show_icon_text_text": {
+      "message": "Visualiser le temps sur l'icône"
+   },
+   "show_uncategorized": {
+      "message": "Visualiser le groupe de domaines non classés sous forme d'un graphique des catégories"
+   },
+   "siteTitle": {
+      "message": "Temps en total de la visite de ce domaine aujourd'hui:"
+   },
+   "site_removed": {
+      "message": "Domaine $site$ a été enlevé des statistiques.",
+      "placeholders": {
+         "site": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "stats_busiest": {
+      "message": "Jours les plus chargés"
+   },
+   "stats_categories": {
+      "message": "Catégorie des domaines"
+   },
+   "stats_daily": {
+      "message": "Statistiques journalières"
+   },
+   "stats_dashboard": {
+      "message": "Dashboard"
+   },
+   "stats_date": {
+      "message": "Date:"
+   },
+   "stats_details": {
+      "message": "Statistiques détaillées"
+   },
+   "stats_full": {
+      "message": "Statistiques globales"
+   },
+   "stats_last7": {
+      "message": "Statistiques de 7 derniers jours"
+   },
+   "stats_months": {
+      "message": "Statistiques mensuelles"
+   },
+   "stats_most": {
+      "message": "Domaines les plus visités"
+   },
+   "stats_site": {
+      "message": "Domaine:"
+   },
+   "stats_sites": {
+      "message": "Statistiques de domaine"
+   },
+   "stats_time": {
+      "message": "Temps passé"
+   },
+   "stats_today": {
+      "message": "Les statistiques d'aujourd'hui"
+   },
+   "stats_visited": {
+      "message": "Web-pages visitées"
+   },
+   "stats_weekdays": {
+      "message": "Jours de la semaine"
+   },
+   "stats_yesterday": {
+      "message": "Statistiques d'hier"
+   },
+   "time": {
+      "message": "Temps"
+   },
+   "timeHistory": {
+      "message": "Temps de browsing"
+   },
+   "totalBrowsingTime": {
+      "message": "Temps en total:"
+   },
+   "week_start": {
+      "message": "Premier jour de la semaine:"
+   },
+   "week_start_note": {
+      "message": "(choisissez le jour lequel doit se visualiser le plus gauche des graphiques de colonne)"
+   }
+}

@@ -1,0 +1,25 @@
+# To be as paramters in the 'color' function
+
+black="$(tput setaf 0)"   # Black
+red="$(tput setaf 1)"     # Red
+green="$(tput setaf 2)"   # Green
+yellow="$(tput setaf 3)"  # Yellow
+blue="$(tput setaf 4)"    # Blue
+purple="$(tput setaf 5)"  # Purple
+cyan="$(tput setaf 6)"    # Cyan
+white="$(tput setaf 7)"   # White
+reset="$(tput sgr0)"
+bold="$(tput bold)"
+
+#color_reset='\[\e[0m\]'	# Text Reset
+
+#black=""   # Black
+#red=""     # Red
+#green=""   # Green
+#yellow=""  # Yellow
+#blue=""    # Blue
+#purple=""  # Purple
+#cyan=""    # Cyan
+#white=""   # White
+#reset=""
+#bold=""

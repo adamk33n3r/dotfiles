@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="Conexant_CX20751_2-Auto-Mute_Mode" mtime="1420749756" type="bool" value="true"/>
+</gconf>

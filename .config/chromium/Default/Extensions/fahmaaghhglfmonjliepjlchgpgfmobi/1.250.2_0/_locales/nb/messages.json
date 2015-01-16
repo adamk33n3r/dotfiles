@@ -1,0 +1,1961 @@
+{
+   "1008774365351112026": {
+      "message": "Legg til attributtet $REL_NO_FOLLOW$ ($LINK_START$Mer informasjon$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normal"
+   },
+   "1026450251988549367": {
+      "message": "Nylig endret"
+   },
+   "1044946868924904798": {
+      "message": "No connection"
+   },
+   "1052242579040192537": {
+      "message": "Kanadiske urbefolkningsspråk"
+   },
+   "1061567929494389534": {
+      "message": "Kunne ikke hente radiokanaler. Prøv på nytt."
+   },
+   "1061598772078003048": {
+      "message": "Interlineær merknadsavslutter"
+   },
+   "108743912460085743": {
+      "message": "Overstyring venstre mot høyre"
+   },
+   "113306301971655652": {
+      "message": "Venstre mot høyre-merke"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minutt}other{{TEXT} minutter}}"
+   },
+   "1233161892151828431": {
+      "message": "Kursiv"
+   },
+   "1248987958177161816": {
+      "message": "Rediger HTML-kilde"
+   },
+   "1275783181441501836": {
+      "message": "Avsnittsskilletegn"
+   },
+   "128003684539571261": {
+      "message": "Valuta"
+   },
+   "129672981680457789": {
+      "message": "Hanunoo"
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1345511732360402048": {
+      "message": "Orkhon"
+   },
+   "1372788343021542418": {
+      "message": "For å bruke miniavspilleren må du logge på Google Play Musikk på nettet."
+   },
+   "1382005717519484629": {
+      "message": "Blanktegn"
+   },
+   "142620397708685601": {
+      "message": "Angi en egendefinert farge, f.eks. rosa, #F00, #D015FF eller rgb(100, 50, 25)"
+   },
+   "1430061825590893722": {
+      "message": "Åpne linken i et nytt vindu"
+   },
+   "1433391846042476830": {
+      "message": "I går"
+   },
+   "1444145448465775598": {
+      "message": "Avbryt"
+   },
+   "1453708590388513852": {
+      "message": "Teknisk"
+   },
+   "1483596119706515744": {
+      "message": "Buginesisk"
+   },
+   "1487523984872879956": {
+      "message": "Gefirt"
+   },
+   "1494946186465201682": {
+      "message": "Avbryt"
+   },
+   "1504214836895903832": {
+      "message": "Kunne ikke koble til"
+   },
+   "1558113021895652337": {
+      "message": "Denne filen er beskyttet av DRM"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1573657685592390905": {
+      "message": "Velg mappe"
+   },
+   "1595478688335662057": {
+      "message": "En Google-bruker"
+   },
+   "1615800076127848008": {
+      "message": "Tai Le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{om # timer}=1{om # time}other{om # timer}}"
+   },
+   "1635932785663944786": {
+      "message": "Tall"
+   },
+   "1658346838703079243": {
+      "message": "Endre"
+   },
+   "1686917835491599951": {
+      "message": "Nylig lagt til i Mitt bibliotek"
+   },
+   "1700078784075267898": {
+      "message": "Google Play Musikk"
+   },
+   "1709114386311494800": {
+      "message": "Link"
+   },
+   "1722592106949807025": {
+      "message": "Lagre feilsøkingsloggene"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "Info"
+   },
+   "1729815731089690989": {
+      "message": "Make sure you're connected to the Internet"
+   },
+   "1751129087972897649": {
+      "message": "Keiserlig arameisk"
+   },
+   "1763795268257640974": {
+      "message": "Kunne ikke avslutte abonnenementet for spillelisten. Prøv på nytt."
+   },
+   "1781759902625939771": {
+      "message": "Ukjent artist"
+   },
+   "1800865039213871505": {
+      "message": "Gå til link: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play Musikk for Chrome på $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Lukk"
+   },
+   "1819368767424033007": {
+      "message": "Historisk"
+   },
+   "182621168783940405": {
+      "message": "Merke for skriving fra høyre til venstre"
+   },
+   "184252996364058487": {
+      "message": "0 minutter"
+   },
+   "1860075031180562077": {
+      "message": "Musikksymbol, slutt frase"
+   },
+   "190045585254551934": {
+      "message": "Syloti Nagri"
+   },
+   "1914372876923825240": {
+      "message": "Sett inn en link til:"
+   },
+   "192481666606780833": {
+      "message": "Kan ikke spille av musikk"
+   },
+   "1945037339176024290": {
+      "message": "Omsluttet"
+   },
+   "1947306462789680361": {
+      "message": "for $NUM$ minutter siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Musikksymbol, start frase"
+   },
+   "1962559411793600980": {
+      "message": "Avestisk"
+   },
+   "1981687300412326534": {
+      "message": "Han 9-strøks grunntegn"
+   },
+   "1989564869397178334": {
+      "message": "Overskrift"
+   },
+   "1996585593795647892": {
+      "message": "Legg til eller fjern link"
+   },
+   "2005272211699610673": {
+      "message": "Direktemiks"
+   },
+   "2026335465374096346": {
+      "message": "Klikk for å slå av avspilling i tilfeldig rekkefølge"
+   },
+   "2032972931560484213": {
+      "message": "Av $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Uten fremmating"
+   },
+   "2038618429165152799": {
+      "message": "Uten tittel"
+   },
+   "2056726623536384731": {
+      "message": "Gå til Google Play Musikk"
+   },
+   "2080060559104348538": {
+      "message": "Sørasiatiske skript"
+   },
+   "2088175644103984799": {
+      "message": "Khmer-vokal inherent Aq"
+   },
+   "2094349866819883967": {
+      "message": "Tankestrek"
+   },
+   "2102825898069375693": {
+      "message": "Meny"
+   },
+   "2107375315384298887": {
+      "message": "Senket skrift"
+   },
+   "2109622269343579329": {
+      "message": "Ugyldig e-postadresse"
+   },
+   "2139683490477275175": {
+      "message": "Lukk"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 sanger}=1{1 sang}other{{NUM_SONGS_2} sanger}}"
+   },
+   "216513153459932308": {
+      "message": "Brøker/beslektet"
+   },
+   "2173312720188441245": {
+      "message": "Koptisk"
+   },
+   "2203397136690479355": {
+      "message": "Denne filen kan ikke behandles"
+   },
+   "2205522058604794595": {
+      "message": "Afrikanske skript"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Musikk: Velg mediemapper"
+   },
+   "2252825622480483246": {
+      "message": "Meroitisk kursiv"
+   },
+   "2299183036960756600": {
+      "message": "om $NUM$ dag",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Det oppsto en feil under innlastingen av det fullstendige biblioteket. Prøv på nytt senere."
+   },
+   "2309894433432831059": {
+      "message": "Presentasjonsform for lang loddrett tankestrek"
+   },
+   "2321398646644344846": {
+      "message": "I morgen"
+   },
+   "2328554046256236832": {
+      "message": "FLAC-filer støttes ikke"
+   },
+   "2339250039074511222": {
+      "message": "Denne linken kan ikke testes."
+   },
+   "2339750206850776348": {
+      "message": "Lykisk"
+   },
+   "2376735487384008742": {
+      "message": "Bølgestrek"
+   },
+   "2378357177170124823": {
+      "message": "Desimal"
+   },
+   "2382000105167193834": {
+      "message": "Gujarati"
+   },
+   "2389069046927902638": {
+      "message": "Google Play Musikk"
+   },
+   "2390557292924554291": {
+      "message": "Hardt mellomrom uten bredde"
+   },
+   "2434131766046654438": {
+      "message": "Lineær B"
+   },
+   "247847652023697955": {
+      "message": "Musikksymbol, start bue"
+   },
+   "249032153569378306": {
+      "message": "for $NUM$ time siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2506718393130237030": {
+      "message": "Formatet støttes ikke"
+   },
+   "2512060739274636260": {
+      "message": "Ny tai lue"
+   },
+   "2513370824993175045": {
+      "message": "om $NUM$ dager",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Musikksymbol, slutt notebjelke"
+   },
+   "2529924385478060648": {
+      "message": "Buhid"
+   },
+   "2530473232691534250": {
+      "message": "E-postadresse"
+   },
+   "2538866057253567409": {
+      "message": "Deseret"
+   },
+   "2544569632476723854": {
+      "message": "Vilkår"
+   },
+   "2550362371114851075": {
+      "message": "Normal"
+   },
+   "2558836909854550547": {
+      "message": "Normal"
+   },
+   "2565011230196288502": {
+      "message": "om $NUM$ minutt",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2610851846609508423": {
+      "message": "ASCII-basert"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ nye)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2714752802779336020": {
+      "message": "Google Play Musikk"
+   },
+   "2722441731984880542": {
+      "message": "Klikk for å spille av i tilfeldig rekkefølge"
+   },
+   "272553825640256879": {
+      "message": "Fullbreddes bindestreksminus"
+   },
+   "2728464858411473080": {
+      "message": "Liker"
+   },
+   "2732888649509914313": {
+      "message": "Mongolsk"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "For mange filer i kontoen"
+   },
+   "2787148143326073325": {
+      "message": "Lydsøk"
+   },
+   "2801094315807039135": {
+      "message": "Tai Viet"
+   },
+   "2809945145618753350": {
+      "message": "Fire per lange mellomrom"
+   },
+   "2811509810457668932": {
+      "message": "Fonetisk (X-IPA)"
+   },
+   "2840006222747077107": {
+      "message": "Mitt bibliotek er tomt"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{for # minutter siden}=1{for # minutt siden}other{for # minutter siden}}"
+   },
+   "2881621988818346391": {
+      "message": "Ja"
+   },
+   "2881776379326317082": {
+      "message": "Bruk alltid denne plasseringen"
+   },
+   "2896688457548770791": {
+      "message": "Sitat"
+   },
+   "2910989560121976550": {
+      "message": "Test denne linken"
+   },
+   "2918448970074432239": {
+      "message": "Rediger HTML"
+   },
+   "29485262661698811": {
+      "message": "Arabisk slutt på ayah"
+   },
+   "2954874827338778826": {
+      "message": "Nettadresse"
+   },
+   "2968801718595938980": {
+      "message": "Hangul"
+   },
+   "2972470287059252937": {
+      "message": "Smalt fast mellomrom"
+   },
+   "2973169743818593793": {
+      "message": "Han 5-strøks grunntegn"
+   },
+   "29734255682325103": {
+      "message": "Juster høyre"
+   },
+   "2980847012388128321": {
+      "message": "Mellomrom uten bredde"
+   },
+   "2980960654248329234": {
+      "message": "Det smaleste mellomrommet"
+   },
+   "2982463607788408741": {
+      "message": "Du er logget ut av Google-kontoen. Last inn på nytt for å logge på igjen."
+   },
+   "305389607483289974": {
+      "message": "Klikk for å sette på pause"
+   },
+   "3054851848337350805": {
+      "message": "Hevet skrift"
+   },
+   "305815942371229357": {
+      "message": "Ingen forslag"
+   },
+   "3067310196368927236": {
+      "message": "Hebraisk tegnsetting, maqaf"
+   },
+   "308732574543176489": {
+      "message": "Kunne ikke redigere spillelisten. Prøv på nytt."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} time}other{{TEXT} timer}}"
+   },
+   "3099596419835786769": {
+      "message": "Medium matematisk mellomrom"
+   },
+   "311577748341232969": {
+      "message": "Du trenger den nyeste versjonen av Adobe Flash Player for å lytte til musikk."
+   },
+   "3125342991297920614": {
+      "message": "Kan ikke åpne albumet. Prøv på nytt."
+   },
+   "3138864086144358473": {
+      "message": "Han 11 – 17-strøks grunntegn"
+   },
+   "314582171813087287": {
+      "message": "Hard bindestrek"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Er du usikker på hva du skal skrive i feltet?$END_BOLD$ Først finner du siden på nettet du vil linke til. (En $SEARCH_ENGINE_LINK$søkemotor$END_LINK$ er nyttig.) Deretter kopierer du nettadressen fra nettleserens adressefelt, og limer det inn i feltet ovenfor.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3167418181223330667": {
+      "message": "Modifikator"
+   },
+   "3182977091552629211": {
+      "message": "Hold markøren over en celle for å se navnet på tegnet."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{for # dager siden}=1{for # dag siden}other{for # dager siden}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 sanger}=1{1 sang}other{# sanger}}"
+   },
+   "3196641196902208501": {
+      "message": "Link til en e-postadresse"
+   },
+   "3225804441370198247": {
+      "message": "Alle sangene mine – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing / Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "om $NUM$ minutter",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Ingen"
+   },
+   "3237206613586329862": {
+      "message": "Lydisk"
+   },
+   "3242312278127054660": {
+      "message": "Matematikk – alfanumerisk"
+   },
+   "3245264696956198335": {
+      "message": "Format"
+   },
+   "3299099956700438963": {
+      "message": "Amerikanske skript"
+   },
+   "3335728816495350082": {
+      "message": "Største hits – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3381844160250536550": {
+      "message": "Logg på Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Hebraisk"
+   },
+   "3390725557414108843": {
+      "message": "Han 4-strøks grunntegn"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Hvilken nettadresse skal denne linken vise til?"
+   },
+   "3445096196133856884": {
+      "message": "Khmer-vokal inherent Aa"
+   },
+   "3462013384451950074": {
+      "message": "om $NUM$ time",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Lytt til all musikken din. Hvor som helst. Bare legg til musikk fra datamaskinen din i Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Tegnsetting"
+   },
+   "3483193414050571677": {
+      "message": "Liker ikke"
+   },
+   "3483958460407305290": {
+      "message": "Gjennomstreking"
+   },
+   "3547729876847212201": {
+      "message": "Kort mellomrom"
+   },
+   "3565556274692077023": {
+      "message": "Lang tankestrek"
+   },
+   "3601632218457952692": {
+      "message": "Yi"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Tommel opp"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Miniavspiller for Google Play Musikk"
+   },
+   "3649938620817393740": {
+      "message": "Liten"
+   },
+   "3650710698506236041": {
+      "message": "Heksadesimal fargekode"
+   },
+   "3688803517283872334": {
+      "message": "Halvbreddes Hangul-fyller"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "3748613043647922063": {
+      "message": "Usynlig skilletegn"
+   },
+   "3762887990641668199": {
+      "message": "Armensk"
+   },
+   "3770594827970207417": {
+      "message": "Underoverskrift"
+   },
+   "3772706138160001780": {
+      "message": "Vannrett strek"
+   },
+   "3774172828626803355": {
+      "message": "Cherokee"
+   },
+   "3782346097595894324": {
+      "message": "Tilkoblingen til tjeneren mislyktes. Prøv på nytt senere."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "Følgende vinduer blir lukket:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolittisk"
+   },
+   "3839679337223320857": {
+      "message": "Pålogget som $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3867367359959377145": {
+      "message": "FEIL: «$COLOR$» er ikke en gyldig farge.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Logg på Google Play Musikk på nettet før du bruker Chrome-appen."
+   },
+   "3873111853443561979": {
+      "message": "Understreking"
+   },
+   "3901889124080689046": {
+      "message": "Filen kan ikke åpnes"
+   },
+   "3905371920037624514": {
+      "message": "Mindre vanlig"
+   },
+   "3936240281193464170": {
+      "message": "Last inn på nytt"
+   },
+   "3964523220682082212": {
+      "message": "Kunne ikke laste inn biblioteket"
+   },
+   "3975141127799341224": {
+      "message": "Link til en side eller fil et annet sted på nettet"
+   },
+   "3988935995558346502": {
+      "message": "Kyrillisk"
+   },
+   "3996699777412450193": {
+      "message": "Piler"
+   },
+   "3999655151577464071": {
+      "message": "Det oppsto en feil under slettingen av direktemiksen din."
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "Han 6-strøks grunntegn"
+   },
+   "4044663630621281686": {
+      "message": "Arabisk tegn, safha"
+   },
+   "4055580652532057510": {
+      "message": "uten navn"
+   },
+   "4061274470931156807": {
+      "message": "Ol-chiki"
+   },
+   "4082846773463542695": {
+      "message": "Kunne ikke identifisere datamaskinen din."
+   },
+   "4087074177670472082": {
+      "message": "Interlineært merknadsanker"
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4171773891797639122": {
+      "message": "Ordkobler"
+   },
+   "4183640380235728062": {
+      "message": "Gjentatt avspilling er slått av. Klikk for å endre Gjenta-modusen."
+   },
+   "4194375141064658954": {
+      "message": "Beklager, vi har et teknisk problem"
+   },
+   "4204603140063905121": {
+      "message": "Hangul Jungseong-fyller"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ ganger $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Avbryt"
+   },
+   "4275466320467620600": {
+      "message": "Alltid øverst"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4326462735503400283": {
+      "message": "Tekst som skal vises:"
+   },
+   "4329609792835264496": {
+      "message": "Lite mellomrom"
+   },
+   "4333644357236884202": {
+      "message": "Khmer"
+   },
+   "4338950182024656659": {
+      "message": "Kjønn og genealogi"
+   },
+   "4357737589458300153": {
+      "message": "MPEG Layer-3-teknologi for lydkoding lisensiert av Fraunhofer IIS og Thomson. Advanced Audio Coding (AAC) er brukt på lisens som administreres av Via Licensing Corporation. Google Play inneholder tredjeparts programvare som krever merknader eller tilleggsvilkår. Disse obligatoriske merknadene og tilleggsvilkårene for tredjeparts programvare er å finne på $START_LINK$siden for bekjentgjørelser fra tredjepart$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Høyt rangert"
+   },
+   "4380903276097257721": {
+      "message": "Presentasjonsform for kort loddrett tankestrek"
+   },
+   "4396890764725725469": {
+      "message": "Lagre"
+   },
+   "4405073953395157822": {
+      "message": "KJK-strøk"
+   },
+   "4417144592785193889": {
+      "message": "Andre østasiatiske skript"
+   },
+   "4439965029912183539": {
+      "message": "Latinsk 1 – tillegg"
+   },
+   "4440466521156769623": {
+      "message": "Musikksymbol, start notebjelke"
+   },
+   "4445783474627796041": {
+      "message": "Ferdig"
+   },
+   "445149490695787423": {
+      "message": "Logg på igjen"
+   },
+   "4451528286100219680": {
+      "message": "Innbygging venstre mot høyre"
+   },
+   "4456793125873199230": {
+      "message": "Jeg prøver lykken – radio"
+   },
+   "4462494623248108758": {
+      "message": "Spilleliste"
+   },
+   "4478641030934315579": {
+      "message": "Vanlig"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4494835774314426313": {
+      "message": "Kan ikke fjerne siste kilde"
+   },
+   "4548656448943532301": {
+      "message": "Musikkopplastingen er fullført"
+   },
+   "4571105317747127957": {
+      "message": "Bindestrek med trema"
+   },
+   "4590981840116960737": {
+      "message": "Format og mellomrom"
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "4629182899853078878": {
+      "message": "Radiostasjon"
+   },
+   "4629398054050196678": {
+      "message": "Last ned musikk til følgende plassering:"
+   },
+   "466976558518570343": {
+      "message": "Javanesisk"
+   },
+   "4675864222674894697": {
+      "message": "Shavisk"
+   },
+   "4688946070631035536": {
+      "message": "Stavekontroll"
+   },
+   "470296860672943171": {
+      "message": "Variasjonsvelger"
+   },
+   "4706959263210678625": {
+      "message": "Variantvelger – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Hold Google Play oppdatert når jeg legger til ny musikk på disse plasseringene"
+   },
+   "4750228681419116696": {
+      "message": "Malayalam"
+   },
+   "4754400438927203898": {
+      "message": "Musikk satt på pause"
+   },
+   "4776903542722844646": {
+      "message": "Klikk for å spille av"
+   },
+   "4815033911915598343": {
+      "message": "Avstand"
+   },
+   "4816571345301008062": {
+      "message": "Det oppsto en feil under navneendringen for direktemiksen din."
+   },
+   "4830715100444503860": {
+      "message": "Kharoshthi"
+   },
+   "4862238057869188402": {
+      "message": "Kunne ikke hente mikser. Prøv på nytt."
+   },
+   "4878527640076219954": {
+      "message": "Tamilsk"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Musikk for Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Thai"
+   },
+   "4920482241656423227": {
+      "message": "Bakgrunnsfarge for tekst"
+   },
+   "4921096453319030731": {
+      "message": "Syrisk forkortelsestegn"
+   },
+   "4924253230856131215": {
+      "message": "Sørøstasiatiske skript"
+   },
+   "496636435516411982": {
+      "message": "Kunne ikke vurdere sangen. Prøv på nytt."
+   },
+   "498913874005297914": {
+      "message": "Fet"
+   },
+   "499152283823240992": {
+      "message": "Samaritansk"
+   },
+   "5003850562831597565": {
+      "message": "Nylig abonnement"
+   },
+   "5009878480585609766": {
+      "message": "Han – andre"
+   },
+   "5015096128854741514": {
+      "message": "Transport og kart"
+   },
+   "5018227417300461385": {
+      "message": "Lite bindestreksminus"
+   },
+   "5022153145769748172": {
+      "message": "Ingen sanger i papirkurven."
+   },
+   "5030096791460456147": {
+      "message": "Bildet du prøver å dra, har blitt blokkert av vertnettstedet."
+   },
+   "5032188163864418301": {
+      "message": "Pahlavi i inskripsjonsform"
+   },
+   "5049432650728491454": {
+      "message": "Bla gjennom nye utgivelser, topplister, spillelister og sjangere"
+   },
+   "506090363255226122": {
+      "message": "Vendt/speilet"
+   },
+   "5071594083516657121": {
+      "message": "Filen er for stor"
+   },
+   "5094769877856014729": {
+      "message": "Musikksymbol, slutt bue"
+   },
+   "5105404398573470156": {
+      "message": "Geometriske figurer"
+   },
+   "5113771261593769985": {
+      "message": "Cham"
+   },
+   "5115900738857721327": {
+      "message": "Grafemsammensetning"
+   },
+   "5128240607770067472": {
+      "message": "Info"
+   },
+   "5143432838919500349": {
+      "message": "Skanner …"
+   },
+   "5170992049958515620": {
+      "message": "Bindestrek"
+   },
+   "5187212874644392331": {
+      "message": "Versjon: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Det er ikke mulig å dra og slippe bildefiler for øyeblikket.\nDra et bilde fra nettleseren din."
+   },
+   "5199204386348402183": {
+      "message": "Osmanya"
+   },
+   "5219596981664772816": {
+      "message": "Han 3-strøks grunntegn"
+   },
+   "5232157483592334572": {
+      "message": "Tifinagh"
+   },
+   "5256846847077792168": {
+      "message": "Rediger ordet"
+   },
+   "5278374842872340790": {
+      "message": "Uttrykksikoner"
+   },
+   "5288571118300787017": {
+      "message": "Avkodingsfeil er oppdaget i $SONG_TITLE$. Sjekk den opprinnelige filen, og last opp på nytt. Sangen ble hoppet over.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "531478949469830505": {
+      "message": "Sora Sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{mer enn 0 dager}=1{mer enn 1 dag}other{mer enn # dager}}"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5373550672011878193": {
+      "message": "Runer"
+   },
+   "537543696442379345": {
+      "message": "Start direktemiks"
+   },
+   "5378532290721565403": {
+      "message": "Sangen ble kjøpt med en annen Google Play Musikk-konto"
+   },
+   "5394607018657314633": {
+      "message": "Linjeskilletegn"
+   },
+   "5402470227536486835": {
+      "message": "Liten lang tankestrek"
+   },
+   "5404910277282887798": {
+      "message": "Fønikisk"
+   },
+   "5408241503383428945": {
+      "message": "Andre europeiske skript"
+   },
+   "5432330868773114140": {
+      "message": "Start radio"
+   },
+   "5451692331472585782": {
+      "message": "Alle sanger"
+   },
+   "5452036681614307719": {
+      "message": "Usynlig pluss"
+   },
+   "5455360062863417200": {
+      "message": "Neste sang"
+   },
+   "5464364716831469679": {
+      "message": "Ukjent album"
+   },
+   "548629550059508920": {
+      "message": "Kan ikke laste opp fordi du allerede laster opp fra to kontoer."
+   },
+   "5497512316841934820": {
+      "message": "Jeg prøver lykken – miks"
+   },
+   "5497627646066282315": {
+      "message": "Kobler til"
+   },
+   "5501301484140201550": {
+      "message": "Jeg prøver lykken – radio"
+   },
+   "5518817744725858296": {
+      "message": "Artisten skal spille i nærheten av deg"
+   },
+   "5529194084754296998": {
+      "message": "Seks per lange mellomrom"
+   },
+   "5541835554879897802": {
+      "message": "Enkelte spor ble ikke lagt til i samlingen. Prøv på nytt."
+   },
+   "5578390534357178026": {
+      "message": "Sjekk at du er pålogget Chrome med den samme Google-kontoen."
+   },
+   "5584189341216439776": {
+      "message": "Legg til musikken din"
+   },
+   "5584467594910303696": {
+      "message": "Meroitiske hieroglyfer"
+   },
+   "5593848105713936399": {
+      "message": "Kø"
+   },
+   "5594762259680838005": {
+      "message": "Nylig kjøpt"
+   },
+   "5612959352951118540": {
+      "message": "om $NUM$ timer",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Format"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Kunne ikke hente sjangere. Prøv på nytt."
+   },
+   "5674048882417502526": {
+      "message": "Overstyring høyre mot venstre"
+   },
+   "5677606995605741055": {
+      "message": "Det oppsto en feil under slettingen av radiostasjonen din."
+   },
+   "569766142833422558": {
+      "message": "Google Play Musikk for Chrome må oppdateres. Dette skal skje automatisk."
+   },
+   "5700613377997995103": {
+      "message": "Strek på størrelse med et siffer"
+   },
+   "5755038562791065032": {
+      "message": "Tre per lange mellomrom"
+   },
+   "5761798931116026691": {
+      "message": "Kunne ikke konvertere til MP3"
+   },
+   "5769804815976568558": {
+      "message": "Velg nedlastingsplassering"
+   },
+   "5773750119871048451": {
+      "message": "Avbryt"
+   },
+   "5775493454862732930": {
+      "message": "Armensk bindestrek"
+   },
+   "5784007894878825338": {
+      "message": "Fast mellomrom"
+   },
+   "5889126665299129466": {
+      "message": "Hvis du vil bruke miniavspilleren, må du være logget på Chrome."
+   },
+   "5890243856676178044": {
+      "message": "Bengali"
+   },
+   "5914500973755757025": {
+      "message": "Laotisk"
+   },
+   "5918806792833250096": {
+      "message": "Kileskrift"
+   },
+   "5930857699885919881": {
+      "message": "ALAC-filer støttes ikke"
+   },
+   "5969115558488445506": {
+      "message": "Underoverskrift"
+   },
+   "5971001229987621398": {
+      "message": "Anbefalt ny utgivelse"
+   },
+   "5999484363963634214": {
+      "message": "Mandeisk"
+   },
+   "601150082487101480": {
+      "message": "Lagt til sist"
+   },
+   "6031749391396582225": {
+      "message": "Hangul-fyller"
+   },
+   "6042091568356544470": {
+      "message": "Bruk av funksjon"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "610635793308893528": {
+      "message": "Innbygging høyre mot venstre"
+   },
+   "6125785068086103357": {
+      "message": "Kunne ikke fjerne sangen. Prøv på nytt."
+   },
+   "6134905866550808378": {
+      "message": "Alle sangene mine – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6205568685279927986": {
+      "message": "Rejang"
+   },
+   "6211429203092739745": {
+      "message": "Forrige sang"
+   },
+   "6211690508928257569": {
+      "message": "Syriakisk"
+   },
+   "6223487594388109285": {
+      "message": "Det oppsto en feil under navneendringen for radiostasjonen din."
+   },
+   "6233107584508657559": {
+      "message": "Kunne ikke koble til Google"
+   },
+   "6238576599909606924": {
+      "message": "ugyldig nettadresse"
+   },
+   "6242354668932209396": {
+      "message": "Gjentar alle sanger. Klikk for å endre Gjenta-modusen."
+   },
+   "624368563085644372": {
+      "message": "Usynlig gangetegn"
+   },
+   "6264257099423315684": {
+      "message": "Hvilken e-postadresse skal denne linken peke til?"
+   },
+   "630414199054820482": {
+      "message": "Tegnsettingsmellomrom"
+   },
+   "6342787164312491730": {
+      "message": "Vær, situasjoner og stjernetegn"
+   },
+   "6352462755178724841": {
+      "message": "Fjern formatering"
+   },
+   "6360340926892934518": {
+      "message": "Legg til en mappe"
+   },
+   "6376633306429460166": {
+      "message": "Saurashtra"
+   },
+   "6390744057286457578": {
+      "message": "Midtstill"
+   },
+   "6397906195939852735": {
+      "message": "Kannada"
+   },
+   "6397910887534888858": {
+      "message": "Tekstfarge"
+   },
+   "6425912931786223127": {
+      "message": "AM"
+   },
+   "6427041476637425542": {
+      "message": "Senket skrift"
+   },
+   "6447846965513034625": {
+      "message": "Objekter"
+   },
+   "6452850149519075219": {
+      "message": "Ikke nå"
+   },
+   "6455550894777387014": {
+      "message": "Myanmar"
+   },
+   "6502885021177224543": {
+      "message": "Google Play Musikk: Velg nedlastingsmappe"
+   },
+   "6504449653938065974": {
+      "message": "Anbefalt spilleliste"
+   },
+   "6510962485068569110": {
+      "message": "Angre"
+   },
+   "653219508056341533": {
+      "message": "Mennesker og følelser"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6568036879894576496": {
+      "message": "Musikk fra følgende mapper legges til i Google Play Musikk"
+   },
+   "6591282200798732887": {
+      "message": "Halv gefirts bredde"
+   },
+   "6593910762276333113": {
+      "message": "Last ned Flash"
+   },
+   "66116513409922755": {
+      "message": "Nei"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6641147067989080704": {
+      "message": "Kayah Li"
+   },
+   "6650739047421247577": {
+      "message": "Kan ikke spille av musikk"
+   },
+   "6652787256443519035": {
+      "message": "Uten etikett"
+   },
+   "66820157572867378": {
+      "message": "Reduser innrykk"
+   },
+   "6689623864271696040": {
+      "message": "Myk bindestrek"
+   },
+   "6711475260919070872": {
+      "message": "Gammelpersisk"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Anbefalt for deg"
+   },
+   "6722174221321515493": {
+      "message": "Valgfritt mellomrom uten bredde"
+   },
+   "6732797853205065184": {
+      "message": "Ignorer"
+   },
+   "6750258767236131097": {
+      "message": "Midtøstenskript"
+   },
+   "6768967544887679189": {
+      "message": "Bølgestrek"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6821274223204126521": {
+      "message": "Musikk"
+   },
+   "6839273670547667172": {
+      "message": "Diverse"
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6898179631823558149": {
+      "message": "Kunne ikke konverterte filen til et format som kan brukes"
+   },
+   "6930531446322391145": {
+      "message": "Bilde"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7009828133009731416": {
+      "message": "Gratis fra Google"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7020161279392960480": {
+      "message": "Format"
+   },
+   "7029749611952268902": {
+      "message": "Flash Player mangler"
+   },
+   "7034479228356652023": {
+      "message": "Han 1-strøks grunntegn"
+   },
+   "7049182394855721704": {
+      "message": "Gotisk"
+   },
+   "7080245643233785574": {
+      "message": "Google Play Musikk for Chrome har støtt på et problem. Du må logge på en gang til."
+   },
+   "7100404876663103497": {
+      "message": "Hangul Choseong-fyller"
+   },
+   "7100567566985297322": {
+      "message": "Langt mellomrom"
+   },
+   "7102126384411654213": {
+      "message": "Kunne ikke legge til i samlingen. Prøv på nytt."
+   },
+   "7104210472412766015": {
+      "message": "Interlineært merknadsskilletegn"
+   },
+   "7111181959300196580": {
+      "message": "Øk innrykk"
+   },
+   "7116872031464114568": {
+      "message": "Identifisert på Lydsøk"
+   },
+   "7127937208951634191": {
+      "message": "Symbol"
+   },
+   "7132453172532202734": {
+      "message": "Kan ikke nå Google Play"
+   },
+   "7136816542440442290": {
+      "message": "Det oppsto en feil under innlastingen av radiostasjonen din."
+   },
+   "716550293954822096": {
+      "message": "Singalesisk"
+   },
+   "7192513315706728552": {
+      "message": "Tjenerfeil. Prøv på nytt senere."
+   },
+   "7193968696947634147": {
+      "message": "Last inn siden på nytt"
+   },
+   "7194376132387780145": {
+      "message": "Denne datamaskinen kan ikke autoriseres fordi du allerede har ti enheter."
+   },
+   "7202681158267340446": {
+      "message": "Skrift"
+   },
+   "720381800527728702": {
+      "message": "Sport, feiringer og aktiviteter"
+   },
+   "7224832103566723854": {
+      "message": "Kan ikke åpne spillelisten. Prøv på nytt."
+   },
+   "7228343081607279547": {
+      "message": "Sundanesisk"
+   },
+   "7229202390260081051": {
+      "message": "Kjempestor"
+   },
+   "7282565673166392948": {
+      "message": "Ideografisk beskrivelse"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minutter}=1{1 minutt}other{# minutter}}"
+   },
+   "7293925053370285812": {
+      "message": "Gjentar nåværende sang. Klikk for å endre Gjenta-modusen."
+   },
+   "7305504256207181669": {
+      "message": "Punktliste"
+   },
+   "7310668544702677420": {
+      "message": "Last inn denne siden på nytt i nettleseren for å lytte til musikk igjen. Hvis problemet vedvarer, må du sørge for at Flash er aktivert og fungerer."
+   },
+   "7320133162875658022": {
+      "message": "Last opp nye sanger ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7331328794127852355": {
+      "message": "Emoji"
+   },
+   "7335080673788704461": {
+      "message": "Transport, kart og tegnspråk"
+   },
+   "7347179017294066771": {
+      "message": "Legg til eller fjern mapper"
+   },
+   "7354691783317064273": {
+      "message": "Chrome-appen kobler til …"
+   },
+   "7396303606473621591": {
+      "message": "Alle"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{om # dager}=1{om # dag}other{om # dager}}"
+   },
+   "7437894509168051348": {
+      "message": "Han 7-strøks grunntegn"
+   },
+   "747583939629659293": {
+      "message": "Legg til en farge"
+   },
+   "7480960100390206139": {
+      "message": "Diverse"
+   },
+   "7529798479468856973": {
+      "message": "for $NUM$ timer siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7536172317066333802": {
+      "message": "Sett inn bilde"
+   },
+   "7559266156388225108": {
+      "message": "Kaithi-nummertegn"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongolsk vokalskiller"
+   },
+   "7596816553523902619": {
+      "message": "I dag"
+   },
+   "7601688284754148415": {
+      "message": "Matematikk"
+   },
+   "7617664217221228040": {
+      "message": "Balinesisk"
+   },
+   "762389150316771008": {
+      "message": "Jeg prøver lykken – radio"
+   },
+   "7631480327394084350": {
+      "message": "Kontrollbilder"
+   },
+   "7664246845088850317": {
+      "message": "Tilkobling til tjeneren mislyktes – feilkode: "
+   },
+   "7697058485679231601": {
+      "message": "Last inn siden på nytt og prøv igjen."
+   },
+   "7704516203792990151": {
+      "message": "Brukt tid"
+   },
+   "7709119284546787990": {
+      "message": "Høyre mot venstre"
+   },
+   "7711713319832787051": {
+      "message": "Parvis"
+   },
+   "7730109880037106848": {
+      "message": "Symboler"
+   },
+   "7736581252844206600": {
+      "message": "Gresk"
+   },
+   "7737642252665507180": {
+      "message": "Inndata i heksadesimalt format"
+   },
+   "7743528314734813641": {
+      "message": "Det oppsto en feil under innlastingen av direktemiksen din."
+   },
+   "7760426006262447033": {
+      "message": "Det er ikke nok plass i køen"
+   },
+   "7774266771623079214": {
+      "message": "Play Musikk"
+   },
+   "7776111286341041808": {
+      "message": "Venstre mot høyre"
+   },
+   "779262212811541732": {
+      "message": "Gammel sørarabisk"
+   },
+   "7816161180678740448": {
+      "message": "Braille"
+   },
+   "7846689234809169417": {
+      "message": "Dyr, planter og mat"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 timer}=1{1 time}other{# timer}}"
+   },
+   "7878031641910175480": {
+      "message": "Nylige valg:"
+   },
+   "7888286842234266048": {
+      "message": "Omsluttet/prikket"
+   },
+   "7898792314887900865": {
+      "message": "Kypriotisk"
+   },
+   "7927039504440585569": {
+      "message": "Latin"
+   },
+   "7930381906669528420": {
+      "message": "Kunne ikke spille av $SONG_TITLE$ – hoppet videre til neste.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Fonetisk (IPA)"
+   },
+   "7954850519963017242": {
+      "message": "for $NUM$ dag siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arabisk tegn, sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mapper}=1{1 mappe}other{# mapper}}"
+   },
+   "7984622936663451936": {
+      "message": "Tastatur og grensesnitt"
+   },
+   "7985095810697977698": {
+      "message": "Kan ikke spille av sangen. Hoppet videre til neste."
+   },
+   "8001758142015238809": {
+      "message": "Midlertidig feil. Prøver å laste opp på nytt."
+   },
+   "8019982600883750632": {
+      "message": "Begrunn"
+   },
+   "8020892463961333112": {
+      "message": "Musikksymbol, slutt legatobue"
+   },
+   "8024675506077392847": {
+      "message": "Kunne ikke laste inn den neste sangen."
+   },
+   "8030037581414873660": {
+      "message": "Han 2-strøks grunntegn"
+   },
+   "803032414305825807": {
+      "message": "Skriftstørrelse"
+   },
+   "803376120920513357": {
+      "message": "for $NUM$ dager siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Kunne ikke starte abonnement for spillelisten. Prøv på nytt."
+   },
+   "8045052194324740729": {
+      "message": "Kan ikke spille av sanger som ligger i papirkurven."
+   },
+   "8066747296553908214": {
+      "message": "Dobbel skrå bindestrek"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dag}other{{TEXT} dager}}"
+   },
+   "8159976291123989327": {
+      "message": "Rediger link"
+   },
+   "8164274980045228173": {
+      "message": "Retningsformatering for ballong"
+   },
+   "8164897103619368290": {
+      "message": "Nummerert liste"
+   },
+   "8191208612330635266": {
+      "message": "Tibetansk"
+   },
+   "8192298658946835992": {
+      "message": "Hardt mellomrom uten bredde"
+   },
+   "8193509313274135818": {
+      "message": "Arabisk fotnotemarkør"
+   },
+   "819996403327805209": {
+      "message": "Les mer"
+   },
+   "823405029831570152": {
+      "message": "Etiopisk"
+   },
+   "8239380670132570074": {
+      "message": "Den midlertidige filen kan ikke åpnes"
+   },
+   "8249329268828083858": {
+      "message": "Katakana-hiragana dobbel bindestrek"
+   },
+   "8275689791574630480": {
+      "message": "Ogham mellomromsmerke"
+   },
+   "8277279706638733641": {
+      "message": "Stjerner"
+   },
+   "8286384050114068255": {
+      "message": "NaCl-versjon: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "8325100368677049569": {
+      "message": "Oppdag ny musikk"
+   },
+   "8338465287076872825": {
+      "message": "Kunne ikke lese musikk fra filen"
+   },
+   "8358697777226306085": {
+      "message": "Egyptiske hieroglyfer"
+   },
+   "8363930857329550333": {
+      "message": "Georgisk"
+   },
+   "8385464685117997940": {
+      "message": "Nylig spilt"
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Logg på"
+   },
+   "8412726756889279816": {
+      "message": "Chakma"
+   },
+   "842631328362018283": {
+      "message": "Stor"
+   },
+   "8437015452970026040": {
+      "message": "Samlingsgrensen er nådd. Du må fjerne noen sanger hvis du vil legge til flere."
+   },
+   "8440128775129354214": {
+      "message": "Personvern"
+   },
+   "8454237498473122184": {
+      "message": "Bindestrek, minus"
+   },
+   "8458476427655018512": {
+      "message": "Mellomrom"
+   },
+   "8482517151370142670": {
+      "message": "Annet"
+   },
+   "848933194605193751": {
+      "message": "Nylig sett på YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Kariansk"
+   },
+   "8524322739067915993": {
+      "message": "PM"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{om # minutter}=1{om # minutt}other{om # minutter}}"
+   },
+   "8628766851955432422": {
+      "message": "Fjern"
+   },
+   "8637643428005590282": {
+      "message": "Merker"
+   },
+   "8639048757911329468": {
+      "message": "NaCl-versjon: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Prøv på nytt"
+   },
+   "8741366833297918126": {
+      "message": "Sanglengde"
+   },
+   "875046332706257024": {
+      "message": "Auto-spilleliste"
+   },
+   "8763647985340267403": {
+      "message": "Spillbrikker"
+   },
+   "8768143964455071187": {
+      "message": "Ogham"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{for # timer siden}=1{for # time siden}other{for # timer siden}}"
+   },
+   "8787014632487519603": {
+      "message": "Avkodingsfeil er oppdaget. Sjekk den opprinnelige filen, og last opp på nytt. Sangen ble hoppet over."
+   },
+   "8801527171487571079": {
+      "message": "Tai Tham"
+   },
+   "8818387952529569142": {
+      "message": "I dag"
+   },
+   "8819361322041128714": {
+      "message": "Ugaritisk"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Vær forsiktig!$POSTB$ Husk at hver gang du legger inn en e-postadresse på en nettside, kan nettsøppelspredere få tak i den.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arabisk talltegn"
+   },
+   "8858058202463451164": {
+      "message": "Juster venstre"
+   },
+   "8868784738343119594": {
+      "message": "for $NUM$ minutt siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8896073810838561095": {
+      "message": "Han 8-strøks grunntegn"
+   },
+   "8901076355007755806": {
+      "message": "Lepcha"
+   },
+   "8925271759659767084": {
+      "message": "Gratis og kjøpt"
+   },
+   "8931700495296520714": {
+      "message": "Lukk miniavspilleren"
+   },
+   "8934299821763129489": {
+      "message": "Gammelitalisk"
+   },
+   "8958381934236197373": {
+      "message": "Mellomrom på størrelse med siffer"
+   },
+   "8961985815150856927": {
+      "message": "Nylig opprettet"
+   },
+   "8971282019539581965": {
+      "message": "Lukk Om-dialogboksen"
+   },
+   "8979933913103486540": {
+      "message": "Tankestrek/kobling"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$ – $ARTIST_NAME$ – Miniavspiller for Google Play Musikk",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Omslutningstegn"
+   },
+   "9000910334745340727": {
+      "message": "Mongolsk myk bindestrek"
+   },
+   "9001309834415064766": {
+      "message": "Han 10-strøks grunntegn"
+   },
+   "901225307358856093": {
+      "message": "Kanadisk stavelsesbindestrek"
+   },
+   "902300864627076683": {
+      "message": "Parthisk i inskripsjonsform"
+   },
+   "9024489874326845912": {
+      "message": "Anbefalt album"
+   },
+   "9045338265172338590": {
+      "message": "Meetei Mayek"
+   },
+   "9053704575157030099": {
+      "message": "Ingen"
+   },
+   "9063659532473030063": {
+      "message": "Vær og astrologi"
+   },
+   "9084816336314899019": {
+      "message": "Fortsett"
+   },
+   "9092976405151508175": {
+      "message": "Gjør om"
+   },
+   "9098679347815545327": {
+      "message": "Kunne ikke opprette spillelisten. Prøv på nytt."
+   },
+   "9173411042808904308": {
+      "message": "Normal/serif"
+   },
+   "9184426509557869402": {
+      "message": "Ideografisk mellomrom"
+   },
+   "9197433560254928186": {
+      "message": "Arabisk"
+   },
+   "9218938714985695055": {
+      "message": "Musikksymbol, start legatobue"
+   },
+   "947591000172763449": {
+      "message": "Phags-pa"
+   },
+   "953268105555355822": {
+      "message": "Se alle"
+   },
+   "964983733596985457": {
+      "message": "Kompatibilitet"
+   },
+   "97224266342934568": {
+      "message": "Hevet skrift"
+   },
+   "997742287268027221": {
+      "message": "Kunne ikke laste opp filen"
+   }
+}

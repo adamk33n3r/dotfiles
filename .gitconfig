@@ -1,0 +1,14 @@
+[user]
+	name = Adam Keenan
+	email = adam.keenan@myfarms.com
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+[core]
+	editor = vim
+[push]
+	default = simple
+[branch]
+	autosetupmerge = true

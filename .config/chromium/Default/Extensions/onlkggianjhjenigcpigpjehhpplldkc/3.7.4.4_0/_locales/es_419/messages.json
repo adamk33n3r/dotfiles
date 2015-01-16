@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Diagramas en línea."
+   },
+   "appLongDesc": {
+      "message": "draw.io es una aplicación de diagramación completamente gratis de Google Drive (TM) que le permite dibujar:\n\n- Diagramas de flujo.\n- Lenguaje Unificado de Modelado.\n- Diagrama Entidad-Relación.\n- Diagramas de red.\n- Modelos de proceso de negocios.\n- Organigramas\n- Circuitos electrónicos.\n- Wireframes y maquetas.\n\nCaracterísticas:\n- Cliente HTML 5 nativo con soporte full de IE 6-8.\n- Gran biblioteca de plantillas incorporada.\n- Interfaz intuitiva de arrastrar y soltar.\n- Función de buscar y agregar imágenes.\n- Exportar a PNG/JPG/XML/SVG/PDF.\n- Soporte de dispositivos táctiles.\n- Colaboración en tiempo real.\n- Insertar diagramas en blogs o wikis."
+   },
+   "appName": {
+      "message": "draw.io"
+   }
+}

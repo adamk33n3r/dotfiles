@@ -1,0 +1,151 @@
+# My themes for bash
+
+#source ~/.bash_functions
+
+# Resets color after command exec
+#trap 'echo -ne "\e[0m"' DEBUG
+
+function default_theme {
+    PS1="\u@\h:\w\$ "
+}
+
+function my_theme {
+echo "WELCOME"
+    # Updates the title to show path
+    PS1="\[\e]0;\u@\h: \w\a\]"
+    #settitle Terminal
+    PROMPT_COMMAND='exit_status=$?'
+    GIT_PS1_SHOWDIRTYSTATE=true
+    parent_proc=$(ps -o comm= -p $PPID)
+
+    if [[ $parent_proc == "sshd" ]] ; then
+	    settitle "ssh on ${SSH_TTY:5}";
+    fi
+
+    # Date, time, and jobs
+    topleft='\342\224\214'
+    bottomleft='\342\224\224'
+    horiz='\342\224\200'
+    arrow='\342\236\243'
+    skullxbones='\342\230\240'
+    snowman='\342\230\203'
+    PS1="$PS1\[$reset\]$(utf $topleft $horiz)\[$green\][\D{%a, %b %d} \A]\[$reset\]"
+
+    # Client IP
+    # if [[ $(getclient) == "10.118.202.114" ]]; then
+	# client="\[$yellow\][\[$(set_underline 1)\]My MacBook Pro$\[$(set_underline 0)\]]";
+    # else
+	# client=[$(getclient)];
+    # fi
+    # PS1="$PS1$(utf $horiz $horiz)\[$green\]$client\[$reset\]"
+
+    # Volume level
+    if [ -x amixer ]; then
+        PS1="$PS1$(utf $horiz $horiz)\[$green\]\$(vol)\[$reset\]"
+    fi
+
+    # Git branch
+    PS1="$PS1\[\$(check_git)\]"
+
+    # Job count
+    PS1="$PS1$(utf $horiz $horiz)\[\$(formatjobs)\]"
+    PS1="$PS1[jobs \$(getjobs)]\[$reset\]"
+
+    # User@host
+    PS1="$PS1\n$(utf $bottomleft $horiz $horiz $arrow) \[$bold$blue\][\u@\h]"
+
+    # Virtualenv
+    #PS1="$PS1$bold$(set_colorf $white):$bold$(set_colorf $blue)\$(basename \$VIRTUAL_ENV)"
+    PS1="$PS1\[\$(check_virtualenv)\]"
+    
+    # CWD
+    PS1="$PS1\[$bold$white\]:\[$cyan\]\w/\[$reset\]"
+
+    # Command number
+    #PS1=$PS1[\#]
+
+    # Return value
+    PS1="$PS1\[\$(formatreturn \$exit_status)\]\\$"
+    #'\$'
+
+    # Quota warning
+    #PS1=$PS1"\$(quota_check)"
+
+    prompt_color="\[$reset$white\]"
+    PS1="$PS1$prompt_color "
+
+    # PS2 is the prompt when you push enter too soon or something 
+    # and its waiting for a closing statement of some kind
+    #PS2="> "
+
+    # PS3 is when you use select
+    #PS3="> "
+
+}
+
+# Gets system mem
+#PROMPT_COMMAND='history -a;echo -en "\033[m\033[38;5;2m"$(( `sed -nu "s/MemFree:[\t ]\+\([0-9]\+\) kB/\1/p" /proc/meminfo`/1024))"\033[38;5;22m/"$((`sed -nu "s/MemTotal:[\t ]\+\([0-9]\+\) kB/\1/Ip" /proc/meminfo`/1024 ))MB'
+
+# To find out if sshd instead of gnome-terminal: $(ps -o comm= -p $PPID) $$ is current proc
+
+
+# Default
+# PS1="${debian_chroot:+($debian_chroot)}\u@\h:\w\$"
+
+function temp {
+    
+    if [[ ${EUID} == 0 ]] ; then
+	sq_color="\[\033[0;31m\]"
+    else	    
+	sq_color="\[\033[0;34m\]"
+    fi
+
+    PS1="$sq_color\342\224\214\342\224\200\$([[ \$? != 0 ]] && echo \"[\[\033[01;37m\]\342\234\227$sq_color]\342\224\200\")[\[\033[01;37m\]\t$sq_color]\342\224\200[\[\033[01;37m\]\u@\h$sq_color]\n\342\224\224\342\224\200\342\224\200> \[\033[01;37m\]\W$sq_color $ \[\033[01;37m\]>>\\[\\033[0m\\] "
+
+}
+
+
+
+function test_theme {
+    PS1='[jobs $(__getjobs)] \$ '
+}
+
+
+
+
+
+
+function elite_theme {
+
+    local GRAY="\[\033[1;30m\]"
+    local LIGHT_GRAY="\[\033[0;37m\]"
+    local CYAN="\[\033[0;36m\]"
+    local LIGHT_CYAN="\[\033[1;36m\]"
+    local NO_COLOUR="\[\033[0m\]"
+
+    case $TERM in
+	xterm*|rxvt*)
+	    local TITLEBAR='\[\033]0;\u@\h:\w\007\]'
+	    ;;
+	*)
+	    local TITLEBAR=""
+	    ;;
+    esac
+
+    local temp=$(tty)
+    local GRAD1=${temp:5}
+    PS1="$TITLEBAR\
+    $GRAY-$CYAN-$LIGHT_CYAN(\
+    $CYAN\u$GRAY@$CYAN\h\
+    $LIGHT_CYAN)$CYAN-$LIGHT_CYAN(\
+    $CYAN\#$GRAY/$CYAN$GRAD1\
+    $LIGHT_CYAN)$CYAN-$LIGHT_CYAN(\
+    $CYAN\$(date +%H%M)$GRAY/$CYAN\$(date +%d-%b-%y)\
+    $LIGHT_CYAN)$CYAN-$GRAY-\
+    $LIGHT_GRAY\n\
+    $GRAY-$CYAN-$LIGHT_CYAN(\
+    $CYAN\$$GRAY:$CYAN\w\
+    $LIGHT_CYAN)$CYAN-$GRAY-$LIGHT_GRAY " 
+
+    PS2="$LIGHT_CYAN-$CYAN-$GRAY-$NO_COLOUR "
+}

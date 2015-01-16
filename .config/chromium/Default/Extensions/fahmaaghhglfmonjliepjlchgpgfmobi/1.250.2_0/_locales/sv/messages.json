@@ -1,0 +1,1961 @@
+{
+   "1008774365351112026": {
+      "message": "Lägg till attributet $REL_NO_FOLLOW$ ($LINK_START$Läs mer$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normal"
+   },
+   "1026450251988549367": {
+      "message": "Ändrades nyligen"
+   },
+   "1044946868924904798": {
+      "message": "No connection"
+   },
+   "1052242579040192537": {
+      "message": "Kanadensiska urbefolkningsspråk"
+   },
+   "1061567929494389534": {
+      "message": "Det gick inte att hämta radiostationer. Försök igen."
+   },
+   "1061598772078003048": {
+      "message": "Avslutare för mellanradsannotering"
+   },
+   "108743912460085743": {
+      "message": "Vänster-till-högeråsidosättning"
+   },
+   "113306301971655652": {
+      "message": "Vänster-till-höger-markör"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minut}other{{TEXT} minuter}}"
+   },
+   "1233161892151828431": {
+      "message": "Kursiv"
+   },
+   "1248987958177161816": {
+      "message": "Redigera HTML-källa"
+   },
+   "1275783181441501836": {
+      "message": "Styckeavgränsare"
+   },
+   "128003684539571261": {
+      "message": "Valuta"
+   },
+   "129672981680457789": {
+      "message": "Hanunoo"
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1345511732360402048": {
+      "message": "Orchonskrift"
+   },
+   "1372788343021542418": {
+      "message": "Logga in på Google Play Musik på webben om du vill använda minispelaren."
+   },
+   "1382005717519484629": {
+      "message": "Blanksteg"
+   },
+   "142620397708685601": {
+      "message": "Mata in anpassad färg, det vill säga rosa, #F00, #D015FF eller RGB (100, 50, 25)"
+   },
+   "1430061825590893722": {
+      "message": "Öppna länken i ett nytt fönster"
+   },
+   "1433391846042476830": {
+      "message": "I går"
+   },
+   "1444145448465775598": {
+      "message": "Avbryt"
+   },
+   "1453708590388513852": {
+      "message": "Tekniskt"
+   },
+   "1483596119706515744": {
+      "message": "Buginesiska"
+   },
+   "1487523984872879956": {
+      "message": "Fyrkant"
+   },
+   "1494946186465201682": {
+      "message": "Avbryt"
+   },
+   "1504214836895903832": {
+      "message": "Det gick inte att ansluta"
+   },
+   "1558113021895652337": {
+      "message": "Filen skyddas av DRM"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1573657685592390905": {
+      "message": "Välj mapp ..."
+   },
+   "1595478688335662057": {
+      "message": "En användare i Google"
+   },
+   "1615800076127848008": {
+      "message": "Tai le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{om # timmar}=1{om # timme}other{om # timmar}}"
+   },
+   "1635932785663944786": {
+      "message": "Siffra"
+   },
+   "1658346838703079243": {
+      "message": "Ändra"
+   },
+   "1686917835491599951": {
+      "message": "Lades nyligen till i Mitt bibliotek"
+   },
+   "1700078784075267898": {
+      "message": "Google Play Musik"
+   },
+   "1709114386311494800": {
+      "message": "Länk"
+   },
+   "1722592106949807025": {
+      "message": "Spara felsökningsloggar"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "Om"
+   },
+   "1729815731089690989": {
+      "message": "Make sure you're connected to the Internet"
+   },
+   "1751129087972897649": {
+      "message": "Imperisk arameiska"
+   },
+   "1763795268257640974": {
+      "message": "Det gick inte att sluta prenumerera på spellistan. Försök igen."
+   },
+   "1781759902625939771": {
+      "message": "Okänd artist"
+   },
+   "1800865039213871505": {
+      "message": "Öppna länk: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play Musik för Chrome på $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Stäng"
+   },
+   "1819368767424033007": {
+      "message": "Historiskt"
+   },
+   "182621168783940405": {
+      "message": "Höger-till-vänstermarkör"
+   },
+   "184252996364058487": {
+      "message": "0 minuter"
+   },
+   "1860075031180562077": {
+      "message": "Frasslut i notskrift"
+   },
+   "190045585254551934": {
+      "message": "Syloti nagri"
+   },
+   "1914372876923825240": {
+      "message": "Länk till:"
+   },
+   "192481666606780833": {
+      "message": "Det går inte att spela upp musik"
+   },
+   "1945037339176024290": {
+      "message": "Bifogat"
+   },
+   "1947306462789680361": {
+      "message": "för $NUM$ minuter sedan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Frasbörjan i notskrift"
+   },
+   "1962559411793600980": {
+      "message": "Avestiska"
+   },
+   "1981687300412326534": {
+      "message": "Han 9-Stroke Radicals"
+   },
+   "1989564869397178334": {
+      "message": "Rubrik"
+   },
+   "1996585593795647892": {
+      "message": "Lägg till eller ta bort länk"
+   },
+   "2005272211699610673": {
+      "message": "Snabbmix"
+   },
+   "2026335465374096346": {
+      "message": "Inaktivera Blanda spår genom att klicka"
+   },
+   "2032972931560484213": {
+      "message": "Av $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Inget radavstånd"
+   },
+   "2038618429165152799": {
+      "message": "Namnlös"
+   },
+   "2056726623536384731": {
+      "message": "Öppna Google Play Musik"
+   },
+   "2080060559104348538": {
+      "message": "Skript för södra Asien"
+   },
+   "2088175644103984799": {
+      "message": "Khmeriskt vokaltecken inherent aq"
+   },
+   "2094349866819883967": {
+      "message": "Kort tankstreck"
+   },
+   "2102825898069375693": {
+      "message": "Meny"
+   },
+   "2107375315384298887": {
+      "message": "Nedsänkt"
+   },
+   "2109622269343579329": {
+      "message": "Ogiltig e-postadress"
+   },
+   "2139683490477275175": {
+      "message": "Stäng"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 låtar}=1{1 låt}other{{NUM_SONGS_2} låtar}}"
+   },
+   "216513153459932308": {
+      "message": "Bråk/relaterat"
+   },
+   "2173312720188441245": {
+      "message": "Koptiska"
+   },
+   "2203397136690479355": {
+      "message": "Det går inte att bearbeta den här filen."
+   },
+   "2205522058604794595": {
+      "message": "Afrikanska skript"
+   },
+   "2209153283705342590": {
+      "message": "Kaithiska"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Musik: Välj mappar för media"
+   },
+   "2252825622480483246": {
+      "message": "Meroitisk kursiv"
+   },
+   "2299183036960756600": {
+      "message": "om $NUM$ dag",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Ett fel uppstod när hela biblioteket skulle läsas in. Försök igen senare."
+   },
+   "2309894433432831059": {
+      "message": "Presentationsform för lodrätt långt tankstreck"
+   },
+   "2321398646644344846": {
+      "message": "I morgon"
+   },
+   "2328554046256236832": {
+      "message": "FLAC-filer stöds inte"
+   },
+   "2339250039074511222": {
+      "message": "Det går inte att testa den här länken."
+   },
+   "2339750206850776348": {
+      "message": "Lykiska"
+   },
+   "2376735487384008742": {
+      "message": "Våglinje"
+   },
+   "2378357177170124823": {
+      "message": "Decimal"
+   },
+   "2382000105167193834": {
+      "message": "Gujarati"
+   },
+   "2389069046927902638": {
+      "message": "Google Play Musik"
+   },
+   "2390557292924554291": {
+      "message": "Nollbreddssammanbindare"
+   },
+   "2434131766046654438": {
+      "message": "Linjär B"
+   },
+   "247847652023697955": {
+      "message": "Bindebåges början i notskrift"
+   },
+   "249032153569378306": {
+      "message": "för $NUM$ timme sedan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2506718393130237030": {
+      "message": "Formatet stöds inte"
+   },
+   "2512060739274636260": {
+      "message": "Ny tai lue"
+   },
+   "2513370824993175045": {
+      "message": "om $NUM$ dagar",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Slut på bindning i notskrift"
+   },
+   "2529924385478060648": {
+      "message": "Buhid"
+   },
+   "2530473232691534250": {
+      "message": "E-postadress"
+   },
+   "2538866057253567409": {
+      "message": "Deseretiska"
+   },
+   "2544569632476723854": {
+      "message": "Villkor"
+   },
+   "2550362371114851075": {
+      "message": "Normal"
+   },
+   "2558836909854550547": {
+      "message": "Normal"
+   },
+   "2565011230196288502": {
+      "message": "om $NUM$ minut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2610851846609508423": {
+      "message": "ASCII-baserad"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ nya)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2714752802779336020": {
+      "message": "Google Play Musik"
+   },
+   "2722441731984880542": {
+      "message": "Aktivera Blanda spår genom att klicka"
+   },
+   "272553825640256879": {
+      "message": "Fyrkants bindestreck-minus"
+   },
+   "2728464858411473080": {
+      "message": "Gillar"
+   },
+   "2732888649509914313": {
+      "message": "Mongoliska"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Det finns för många filer i kontot"
+   },
+   "2787148143326073325": {
+      "message": "Ljudsök"
+   },
+   "2801094315807039135": {
+      "message": "Tai viet"
+   },
+   "2809945145618753350": {
+      "message": "Fjärdedelsblanksteg"
+   },
+   "2811509810457668932": {
+      "message": "Fonetik (X-IPA)"
+   },
+   "2840006222747077107": {
+      "message": "Mitt bibliotek är tomt"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{för # minuter sedan}=1{för # minut sedan}other{för # minuter sedan}}"
+   },
+   "2881621988818346391": {
+      "message": "Ja"
+   },
+   "2881776379326317082": {
+      "message": "Använd alltid denna plats"
+   },
+   "2896688457548770791": {
+      "message": "Citat"
+   },
+   "2910989560121976550": {
+      "message": "Testa den här länken"
+   },
+   "2918448970074432239": {
+      "message": "Redigera HTML"
+   },
+   "29485262661698811": {
+      "message": "Arabiskt slut på ayah"
+   },
+   "2954874827338778826": {
+      "message": "Webbadress"
+   },
+   "2968801718595938980": {
+      "message": "Hangul"
+   },
+   "2972470287059252937": {
+      "message": "Smalt fast blanksteg"
+   },
+   "2973169743818593793": {
+      "message": "Han 5-Stroke Radicals"
+   },
+   "29734255682325103": {
+      "message": "Högerjustera"
+   },
+   "2980847012388128321": {
+      "message": "Nollbreddsblanksteg"
+   },
+   "2980960654248329234": {
+      "message": "Hårfint blanksteg"
+   },
+   "2982463607788408741": {
+      "message": "Du har loggats ut från ditt Google-konto. Uppdatera sidan och logga in igen."
+   },
+   "305389607483289974": {
+      "message": "Pausa genom att klicka"
+   },
+   "3054851848337350805": {
+      "message": "Upphöjd"
+   },
+   "305815942371229357": {
+      "message": "Inga förslag"
+   },
+   "3067310196368927236": {
+      "message": "Maqaf i hebreisk interpunktion"
+   },
+   "308732574543176489": {
+      "message": "Det gick inte att ändra spellistan. Försök igen."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} timme}other{{TEXT} timmar}}"
+   },
+   "3099596419835786769": {
+      "message": "Medelstort matematiskt blanksteg"
+   },
+   "311577748341232969": {
+      "message": "Du måste ha senaste versionen av Adobe Flash Player för att kunna lyssna på musik."
+   },
+   "3125342991297920614": {
+      "message": "Det gick inte att öppna albumet. Försök igen."
+   },
+   "3138864086144358473": {
+      "message": "Han 11..17-Stroke Radicals"
+   },
+   "314582171813087287": {
+      "message": "Hårt bindestreck"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Vet du inte vad du ska skriva i rutan?$END_BOLD$ Leta först reda på den webbsida som du vill länka till. (Det kan vara praktiskt att använda en $SEARCH_ENGINE_LINK$sökmotor$END_LINK$.) Kopiera sedan webbadressen från webbläsarens adressfält och klistra in den i rutan ovan.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3167418181223330667": {
+      "message": "Modifierare"
+   },
+   "3182977091552629211": {
+      "message": "För muspekaren över respektive cell för att visa teckennamnet."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{för # dagar sedan}=1{för # dag sedan}other{för # dagar sedan}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 låtar}=1{1 låt}other{# låtar}}"
+   },
+   "3196641196902208501": {
+      "message": "Länka till en e-postadress"
+   },
+   "3225804441370198247": {
+      "message": "Alla mina låtar – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing/Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "om $NUM$ minuter",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Ingen"
+   },
+   "3237206613586329862": {
+      "message": "Lydiska"
+   },
+   "3242312278127054660": {
+      "message": "Alfanumerisk matematik"
+   },
+   "3245264696956198335": {
+      "message": "Format"
+   },
+   "3299099956700438963": {
+      "message": "Amerikanska skript"
+   },
+   "3335728816495350082": {
+      "message": "Populäraste låtarna – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3381844160250536550": {
+      "message": "Logga in i Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Hebreiska"
+   },
+   "3390725557414108843": {
+      "message": "Han 4-Stroke Radicals"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Vilken webbadress ska länken leda till?"
+   },
+   "3445096196133856884": {
+      "message": "Khmeriskt vokaltecken inherent aa"
+   },
+   "3462013384451950074": {
+      "message": "om $NUM$ timme",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Lyssna på all din musik. Var som helst. Du behöver bara lägga till musiken du har på datorn i Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Skiljetecken"
+   },
+   "3483193414050571677": {
+      "message": "Tumme ned"
+   },
+   "3483958460407305290": {
+      "message": "Genomstruken"
+   },
+   "3547729876847212201": {
+      "message": "Kort blanksteg"
+   },
+   "3565556274692077023": {
+      "message": "Långt tankstreck"
+   },
+   "3601632218457952692": {
+      "message": "Yi"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Tummen upp"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Minispelaren i Google Play Musik"
+   },
+   "3649938620817393740": {
+      "message": "Liten"
+   },
+   "3650710698506236041": {
+      "message": "Färg (hexadecimalt)"
+   },
+   "3688803517283872334": {
+      "message": "Halvfyrkants utfyllnadstecken i hangul"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "3748613043647922063": {
+      "message": "Osynlig åtskiljare"
+   },
+   "3762887990641668199": {
+      "message": "Armeniska"
+   },
+   "3770594827970207417": {
+      "message": "Liten rubrik"
+   },
+   "3772706138160001780": {
+      "message": "Vågrätt streck"
+   },
+   "3774172828626803355": {
+      "message": "Cherokee"
+   },
+   "3782346097595894324": {
+      "message": "Det gick inte att ansluta till servern. Försök igen senare."
+   },
+   "3784429870217408370": {
+      "message": "Brahmiska"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "Följande fönster stängs:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolitiska"
+   },
+   "3839679337223320857": {
+      "message": "Inloggad som $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3867367359959377145": {
+      "message": "FEL: $COLOR$ är inte en giltig färg.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Logga in på Google Play Musik på nätet innan du använder Chrome-appen."
+   },
+   "3873111853443561979": {
+      "message": "Understruket"
+   },
+   "3901889124080689046": {
+      "message": "Det går inte att öppna filen"
+   },
+   "3905371920037624514": {
+      "message": "Mindre vanligt"
+   },
+   "3936240281193464170": {
+      "message": "Uppdatera"
+   },
+   "3964523220682082212": {
+      "message": "Ett fel uppstod när biblioteket skulle läsas in"
+   },
+   "3975141127799341224": {
+      "message": "Länka till en sida eller fil som finns någon annanstans på nätet"
+   },
+   "3988935995558346502": {
+      "message": "Kyrilliska"
+   },
+   "3996699777412450193": {
+      "message": "Pilar"
+   },
+   "3999655151577464071": {
+      "message": "Det gick inte att ta bort snabbmixen."
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "Han 6-Stroke Radicals"
+   },
+   "4044663630621281686": {
+      "message": "Arabiska tecknet safha"
+   },
+   "4055580652532057510": {
+      "message": "namnlös"
+   },
+   "4061274470931156807": {
+      "message": "Ol-chikiska"
+   },
+   "4082846773463542695": {
+      "message": "Det gick inte att identifiera datorn."
+   },
+   "4087074177670472082": {
+      "message": "Ankare för mellanradsannotering"
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4171773891797639122": {
+      "message": "Ordsammanbindare"
+   },
+   "4183640380235728062": {
+      "message": "Upprepningsfunktionen är avstängd. Ändra upprepningsläget genom att klicka."
+   },
+   "4194375141064658954": {
+      "message": "Hoppsan! Ett tekniskt fel har uppstått."
+   },
+   "4204603140063905121": {
+      "message": "Jungseong-utfyllnadstecken i hangul"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ gånger $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Avbryt"
+   },
+   "4275466320467620600": {
+      "message": "Alltid överst"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4326462735503400283": {
+      "message": "Text som ska visas:"
+   },
+   "4329609792835264496": {
+      "message": "Åttondelsblanksteg"
+   },
+   "4333644357236884202": {
+      "message": "Khmer"
+   },
+   "4338950182024656659": {
+      "message": "Kön och genealogiskt"
+   },
+   "4357737589458300153": {
+      "message": "Ljudkodningstekniken MPEG Layer-3 är licensierad av Fraunhofer IIS och Thomson. Advanced Audio Coding (AAC) används enligt en licens som administreras av Via Licensing Corporation. Google Play innehåller viss programvara från tredje part som det krävs meddelanden och/eller ytterligare användarvillkor för. Dessa meddelanden och/eller ytterligare användarvillkor finns på vår $START_LINK$sida med information från tredje part$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Högt betyg"
+   },
+   "4380903276097257721": {
+      "message": "Presentationsform för lodrätt tankstreck"
+   },
+   "4396890764725725469": {
+      "message": "Spara"
+   },
+   "4405073953395157822": {
+      "message": "CJK-drag"
+   },
+   "4417144592785193889": {
+      "message": "Övriga ostasiatiska skript"
+   },
+   "4439965029912183539": {
+      "message": "Latin-1 (tillägg)"
+   },
+   "4440466521156769623": {
+      "message": "Början på bindning i notskrift"
+   },
+   "4445783474627796041": {
+      "message": "Klar"
+   },
+   "445149490695787423": {
+      "message": "Logga in igen"
+   },
+   "4451528286100219680": {
+      "message": "Vänster-till-höger-inbäddning"
+   },
+   "4456793125873199230": {
+      "message": "Jag har tur-radio"
+   },
+   "4462494623248108758": {
+      "message": "Spellista"
+   },
+   "4478641030934315579": {
+      "message": "Vanligt"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4494835774314426313": {
+      "message": "Det går inte att ta bort den senaste tillagda låten"
+   },
+   "4548656448943532301": {
+      "message": "Överföringen av musik har slutförts"
+   },
+   "4571105317747127957": {
+      "message": "Bindestreck med trema"
+   },
+   "4590981840116960737": {
+      "message": "Format och blanksteg"
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "4629182899853078878": {
+      "message": "Radiostation"
+   },
+   "4629398054050196678": {
+      "message": "Hämta musik till följande plats:"
+   },
+   "466976558518570343": {
+      "message": "Javanesiska"
+   },
+   "4675864222674894697": {
+      "message": "Shawiska"
+   },
+   "4688946070631035536": {
+      "message": "Stavningskontroll"
+   },
+   "470296860672943171": {
+      "message": "Variantväljare"
+   },
+   "4706959263210678625": {
+      "message": "Variantväljare – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Uppdatera Google Play när jag lägger till ny musik på dessa platser"
+   },
+   "4750228681419116696": {
+      "message": "Malayalam"
+   },
+   "4754400438927203898": {
+      "message": "Musiken har pausats"
+   },
+   "4776903542722844646": {
+      "message": "Spela upp genom att klicka"
+   },
+   "4815033911915598343": {
+      "message": "Radavstånd"
+   },
+   "4816571345301008062": {
+      "message": "Det gick inte att byta namn på snabbmixen."
+   },
+   "4830715100444503860": {
+      "message": "Kharoshti"
+   },
+   "4862238057869188402": {
+      "message": "Det gick inte att hämta mixer. Försök igen."
+   },
+   "4878527640076219954": {
+      "message": "Tamilska"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Musik för Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Thailändska"
+   },
+   "4920482241656423227": {
+      "message": "Bakgrundsfärg för text"
+   },
+   "4921096453319030731": {
+      "message": "Syrisk förkortningsmarkör"
+   },
+   "4924253230856131215": {
+      "message": "Skript för Sydostasien"
+   },
+   "496636435516411982": {
+      "message": "Det gick inte att sätta betyg på låten. Försök igen."
+   },
+   "498913874005297914": {
+      "message": "Fet"
+   },
+   "499152283823240992": {
+      "message": "Samaritiska"
+   },
+   "5003850562831597565": {
+      "message": "Ny prenumeration"
+   },
+   "5009878480585609766": {
+      "message": "Han – övrigt"
+   },
+   "5015096128854741514": {
+      "message": "Transport och kartor"
+   },
+   "5018227417300461385": {
+      "message": "Litet bindestreck-minus"
+   },
+   "5022153145769748172": {
+      "message": "Det finns inga låtar i papperskorgen."
+   },
+   "5030096791460456147": {
+      "message": "Bilden du vill dra har blockerats av värdwebbplatsen."
+   },
+   "5032188163864418301": {
+      "message": "Tidig pahlavi"
+   },
+   "5049432650728491454": {
+      "message": "Bläddra bland nya låtar, topplistor, spellistor och kategorier"
+   },
+   "506090363255226122": {
+      "message": "Vänd/speglad"
+   },
+   "5071594083516657121": {
+      "message": "Filen är för stor"
+   },
+   "5094769877856014729": {
+      "message": "Bindebåges slut i notskrift"
+   },
+   "5105404398573470156": {
+      "message": "Geometriska former"
+   },
+   "5113771261593769985": {
+      "message": "Cham"
+   },
+   "5115900738857721327": {
+      "message": "Grafemkombinationssammanbindare"
+   },
+   "5128240607770067472": {
+      "message": "Om …"
+   },
+   "5143432838919500349": {
+      "message": "Söker ..."
+   },
+   "5170992049958515620": {
+      "message": "Bindestreck"
+   },
+   "5187212874644392331": {
+      "message": "Version: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Det går inte att dra och släppa bildfiler för tillfället.\nDra och släpp en bild från webbläsaren."
+   },
+   "5199204386348402183": {
+      "message": "Osmanja"
+   },
+   "5219596981664772816": {
+      "message": "Han 3-Stroke Radicals"
+   },
+   "5232157483592334572": {
+      "message": "Tifinaghiska"
+   },
+   "5256846847077792168": {
+      "message": "Redigera ord"
+   },
+   "5278374842872340790": {
+      "message": "Uttryckssymboler"
+   },
+   "5288571118300787017": {
+      "message": "Ett avkodningsfel påträffades i $SONG_TITLE$. Kontrollera originalfilen och överför den på nytt. Filen har hoppats över.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "531478949469830505": {
+      "message": "Sora Sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{mer än 0 dagar}=1{mer än 1 dag}other{mer än # dagar}}"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5373550672011878193": {
+      "message": "Runor"
+   },
+   "537543696442379345": {
+      "message": "Starta snabbmix"
+   },
+   "5378532290721565403": {
+      "message": "Låten köptes med ett annat Google Play Musik-konto"
+   },
+   "5394607018657314633": {
+      "message": "Radåtskiljare"
+   },
+   "5402470227536486835": {
+      "message": "Litet långt tankstreck"
+   },
+   "5404910277282887798": {
+      "message": "Fenikiska"
+   },
+   "5408241503383428945": {
+      "message": "Övriga europeiska skript"
+   },
+   "5432330868773114140": {
+      "message": "Lyssna på radio"
+   },
+   "5451692331472585782": {
+      "message": "Alla låtar"
+   },
+   "5452036681614307719": {
+      "message": "Osynligt plustecken"
+   },
+   "5455360062863417200": {
+      "message": "Nästa låt"
+   },
+   "5464364716831469679": {
+      "message": "Okänt album"
+   },
+   "548629550059508920": {
+      "message": "Överföringen misslyckades eftersom överföring redan pågår från två konton."
+   },
+   "5497512316841934820": {
+      "message": "Snabbmixen Jag har tur"
+   },
+   "5497627646066282315": {
+      "message": "Ansluter"
+   },
+   "5501301484140201550": {
+      "message": "Jag har tur-radio"
+   },
+   "5518817744725858296": {
+      "message": "Artister som uppträder live i närheten"
+   },
+   "5529194084754296998": {
+      "message": "Sjättedelsblanksteg"
+   },
+   "5541835554879897802": {
+      "message": "Det gick inte att lägga till vissa spår i samlingen. Försök igen."
+   },
+   "5578390534357178026": {
+      "message": "Kontrollera att du har loggat in i Chrome med samma Google-konto."
+   },
+   "5584189341216439776": {
+      "message": "Lägg till din musik"
+   },
+   "5584467594910303696": {
+      "message": "Meroitiska hieroglyfer"
+   },
+   "5593848105713936399": {
+      "message": "Uppspelningskö"
+   },
+   "5594762259680838005": {
+      "message": "Köptes nyligen"
+   },
+   "5612959352951118540": {
+      "message": "om $NUM$ timmar",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Format"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Det gick inte att hämta genrer. Försök igen."
+   },
+   "5674048882417502526": {
+      "message": "Höger-till-vänster-åsidosättning"
+   },
+   "5677606995605741055": {
+      "message": "Det gick inte att ta bort radiostationen."
+   },
+   "569766142833422558": {
+      "message": "Google Play Musik för Chrome måste uppdateras. Detta bör ske automatiskt."
+   },
+   "5700613377997995103": {
+      "message": "Sifferbindestreck"
+   },
+   "5755038562791065032": {
+      "message": "Tredjedelsblanksteg"
+   },
+   "5761798931116026691": {
+      "message": "Det gick inte att konvertera filerna till formatet MP3"
+   },
+   "5769804815976568558": {
+      "message": "Välj en plats där du vill spara hämtade filer"
+   },
+   "5773750119871048451": {
+      "message": "Avbryt"
+   },
+   "5775493454862732930": {
+      "message": "Armeniskt bindestreck"
+   },
+   "5784007894878825338": {
+      "message": "Fast blanksteg"
+   },
+   "5889126665299129466": {
+      "message": "Du måste vara inloggad i Chrome om du vill använda minispelaren."
+   },
+   "5890243856676178044": {
+      "message": "Bengaliska"
+   },
+   "5914500973755757025": {
+      "message": "Laotiska"
+   },
+   "5918806792833250096": {
+      "message": "Kilskrift"
+   },
+   "5930857699885919881": {
+      "message": "ALAC-filer stöds inte"
+   },
+   "5969115558488445506": {
+      "message": "Underrubrik"
+   },
+   "5971001229987621398": {
+      "message": "Förslag på ny musik"
+   },
+   "5999484363963634214": {
+      "message": "Mandaéiska"
+   },
+   "601150082487101480": {
+      "message": "Senast tillagda"
+   },
+   "6031749391396582225": {
+      "message": "Utfyllnadstecken i hangul"
+   },
+   "6042091568356544470": {
+      "message": "Funktionsapplikation"
+   },
+   "607779708716020188": {
+      "message": "..."
+   },
+   "610635793308893528": {
+      "message": "Höger-till-vänster-inbäddning"
+   },
+   "6125785068086103357": {
+      "message": "Det gick inte att ta bort låten. Försök igen."
+   },
+   "6134905866550808378": {
+      "message": "Alla mina låtar – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6205568685279927986": {
+      "message": "Rejang"
+   },
+   "6211429203092739745": {
+      "message": "Föregående låt"
+   },
+   "6211690508928257569": {
+      "message": "Syriska"
+   },
+   "6223487594388109285": {
+      "message": "Det gick inte att byta namn på radiostationen."
+   },
+   "6233107584508657559": {
+      "message": "Det gick inte att ansluta till Google"
+   },
+   "6238576599909606924": {
+      "message": "ogiltig webbadress"
+   },
+   "6242354668932209396": {
+      "message": "Alla låtar upprepas. Ändra upprepningsläget genom att klicka."
+   },
+   "624368563085644372": {
+      "message": "Osynligt multiplikationstecken"
+   },
+   "6264257099423315684": {
+      "message": "Vilken e-postadress ska länken leda till?"
+   },
+   "630414199054820482": {
+      "message": "Interpunktionsblanksteg"
+   },
+   "6342787164312491730": {
+      "message": "Väder, scener och stjärntecken"
+   },
+   "6352462755178724841": {
+      "message": "Ta bort formatering"
+   },
+   "6360340926892934518": {
+      "message": "Lägg till en mapp"
+   },
+   "6376633306429460166": {
+      "message": "Saurashtra"
+   },
+   "6390744057286457578": {
+      "message": "Centrera"
+   },
+   "6397906195939852735": {
+      "message": "Kannada"
+   },
+   "6397910887534888858": {
+      "message": "Textfärg"
+   },
+   "6425912931786223127": {
+      "message": "fm"
+   },
+   "6427041476637425542": {
+      "message": "Nedsänkt"
+   },
+   "6447846965513034625": {
+      "message": "Objekt"
+   },
+   "6452850149519075219": {
+      "message": "Inte nu"
+   },
+   "6455550894777387014": {
+      "message": "Myanmar"
+   },
+   "6502885021177224543": {
+      "message": "Google Play Musik: Välj en mapp för hämtade filer"
+   },
+   "6504449653938065974": {
+      "message": "Rekommenderad spellista"
+   },
+   "6510962485068569110": {
+      "message": "Ångra"
+   },
+   "653219508056341533": {
+      "message": "Människor och känslor"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6568036879894576496": {
+      "message": "Musiken från följande mappar läggs till i Google Play Musik"
+   },
+   "6591282200798732887": {
+      "message": "Halvfyrkant"
+   },
+   "6593910762276333113": {
+      "message": "Hämta Flash"
+   },
+   "66116513409922755": {
+      "message": "Nr"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6641147067989080704": {
+      "message": "Kaya li"
+   },
+   "6650739047421247577": {
+      "message": "Det går inte att spela upp musik"
+   },
+   "6652787256443519035": {
+      "message": "Etikett saknas"
+   },
+   "66820157572867378": {
+      "message": "Minska indrag"
+   },
+   "6689623864271696040": {
+      "message": "Mjukt bindestreck"
+   },
+   "6711475260919070872": {
+      "message": "Fornpersiska"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Rekommenderas för dig"
+   },
+   "6722174221321515493": {
+      "message": "Nollbreddsåtskiljare"
+   },
+   "6732797853205065184": {
+      "message": "Ignorera"
+   },
+   "6750258767236131097": {
+      "message": "Skript för Mellanöstern"
+   },
+   "6768967544887679189": {
+      "message": "Vågigt bindestreck"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6821274223204126521": {
+      "message": "Musik"
+   },
+   "6839273670547667172": {
+      "message": "Diverse"
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6898179631823558149": {
+      "message": "Det gick inte att konvertera filen till ett användbart format"
+   },
+   "6930531446322391145": {
+      "message": "Bild"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7009828133009731416": {
+      "message": "Gratis från Google"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7020161279392960480": {
+      "message": "Format"
+   },
+   "7029749611952268902": {
+      "message": "Flash Player saknas"
+   },
+   "7034479228356652023": {
+      "message": "Han 1-Stroke Radicals"
+   },
+   "7049182394855721704": {
+      "message": "Gotiska"
+   },
+   "7080245643233785574": {
+      "message": "Det har uppstått ett problem med Google Play Musik för Chrome. Du måste logga in igen."
+   },
+   "7100404876663103497": {
+      "message": "Choseong-utfyllnadstecken i hangul"
+   },
+   "7100567566985297322": {
+      "message": "Långt blanksteg"
+   },
+   "7102126384411654213": {
+      "message": "Det gick inte att lägga till låten i samlingen. Försök igen."
+   },
+   "7104210472412766015": {
+      "message": "Åtskiljare för mellanradsannotering"
+   },
+   "7111181959300196580": {
+      "message": "Öka indrag"
+   },
+   "7116872031464114568": {
+      "message": "Identifierad i Ljudsök"
+   },
+   "7127937208951634191": {
+      "message": "Symbol"
+   },
+   "7132453172532202734": {
+      "message": "Det går inte att nå Google Play"
+   },
+   "7136816542440442290": {
+      "message": "Det gick inte att läsa in radiostationen."
+   },
+   "716550293954822096": {
+      "message": "Singalesiska"
+   },
+   "7192513315706728552": {
+      "message": "Serverfel. Försök igen senare."
+   },
+   "7193968696947634147": {
+      "message": "Uppdatera sida"
+   },
+   "7194376132387780145": {
+      "message": "Det går inte att auktorisera den här datorn på grund av att du redan har tio enheter."
+   },
+   "7202681158267340446": {
+      "message": "Teckensnitt"
+   },
+   "720381800527728702": {
+      "message": "Sport, firande och aktiviteter"
+   },
+   "7224832103566723854": {
+      "message": "Det gick inte att öppna spellistan. Försök igen."
+   },
+   "7228343081607279547": {
+      "message": "Sundanesiska"
+   },
+   "7229202390260081051": {
+      "message": "Mycket stor"
+   },
+   "7282565673166392948": {
+      "message": "Ideografisk beskrivning"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minuter}=1{1 minut}other{# minuter}}"
+   },
+   "7293925053370285812": {
+      "message": "Den aktuella låten upprepas. Ändra upprepningsläget genom att klicka."
+   },
+   "7305504256207181669": {
+      "message": "Punktlista"
+   },
+   "7310668544702677420": {
+      "message": "Uppdatera sidan i webbläsaren så kan du fortsätta lyssna på musik. Om problemet kvarstår kontrollerar du att Flash är aktiverat och fungerar."
+   },
+   "7320133162875658022": {
+      "message": "Överför nya låtar ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7331328794127852355": {
+      "message": "Emoji"
+   },
+   "7335080673788704461": {
+      "message": "Transport, kartor och skyltar"
+   },
+   "7347179017294066771": {
+      "message": "Lägg till eller ta bort mappar"
+   },
+   "7354691783317064273": {
+      "message": "Chrome-appen ansluts."
+   },
+   "7396303606473621591": {
+      "message": "Alla"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{om # dagar}=1{om # dag}other{om # dagar}}"
+   },
+   "7437894509168051348": {
+      "message": "Han 7-Stroke Radicals"
+   },
+   "747583939629659293": {
+      "message": "Lägg till en färg"
+   },
+   "7480960100390206139": {
+      "message": "Övrigt"
+   },
+   "7529798479468856973": {
+      "message": "för $NUM$ timmar sedan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7536172317066333802": {
+      "message": "Infoga bild"
+   },
+   "7559266156388225108": {
+      "message": "Siffermarkör i kaithi"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongolisk vokalåtskiljare"
+   },
+   "7596816553523902619": {
+      "message": "I dag"
+   },
+   "7601688284754148415": {
+      "message": "Matematik"
+   },
+   "7617664217221228040": {
+      "message": "Balinesiska"
+   },
+   "762389150316771008": {
+      "message": "Jag har tur – radio"
+   },
+   "7631480327394084350": {
+      "message": "Styrbilder"
+   },
+   "7664246845088850317": {
+      "message": "Det gick inte att ansluta till servern och följande felkod visas: "
+   },
+   "7697058485679231601": {
+      "message": "Uppdatera sidan och försök igen."
+   },
+   "7704516203792990151": {
+      "message": "Tid som har gått"
+   },
+   "7709119284546787990": {
+      "message": "Höger till vänster"
+   },
+   "7711713319832787051": {
+      "message": "Kopplade"
+   },
+   "7730109880037106848": {
+      "message": "Symboler"
+   },
+   "7736581252844206600": {
+      "message": "Grekiska"
+   },
+   "7737642252665507180": {
+      "message": "Hex-inmatning"
+   },
+   "7743528314734813641": {
+      "message": "Det gick inte att läsa in snabbmixen."
+   },
+   "7760426006262447033": {
+      "message": "Det finns inte tillräckligt med utrymme i kön"
+   },
+   "7774266771623079214": {
+      "message": "Play Musik"
+   },
+   "7776111286341041808": {
+      "message": "Vänster till höger"
+   },
+   "779262212811541732": {
+      "message": "Sabeiska"
+   },
+   "7816161180678740448": {
+      "message": "Punktskrift"
+   },
+   "7846689234809169417": {
+      "message": "Djur, växter och livsmedel"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 timmar}=1{1 timme}other{# timmar}}"
+   },
+   "7878031641910175480": {
+      "message": "Senaste urval:"
+   },
+   "7888286842234266048": {
+      "message": "Omgiven/prickad"
+   },
+   "7898792314887900865": {
+      "message": "Cypriotiska"
+   },
+   "7927039504440585569": {
+      "message": "Latin"
+   },
+   "7930381906669528420": {
+      "message": "Det gick inte att spela upp $SONG_TITLE$. Låten hoppades över.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Fonetik (IPA)"
+   },
+   "7954850519963017242": {
+      "message": "för $NUM$ dag sedan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arabiska tecknet sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mappar}=1{1 mapp}other{# mappar}}"
+   },
+   "7984622936663451936": {
+      "message": "Tangentbord och gränssnitt"
+   },
+   "7985095810697977698": {
+      "message": "Det gick inte att spela upp låten. Den har hoppats över."
+   },
+   "8001758142015238809": {
+      "message": "Tillfälligt fel. Försöker överföra igen."
+   },
+   "8019982600883750632": {
+      "message": "Justera"
+   },
+   "8020892463961333112": {
+      "message": "Legatobåges slut i notskrift"
+   },
+   "8024675506077392847": {
+      "message": "Det gick inte att läsa in nästa låt."
+   },
+   "8030037581414873660": {
+      "message": "Han 2-Stroke Radicals"
+   },
+   "803032414305825807": {
+      "message": "Teckenstorlek"
+   },
+   "803376120920513357": {
+      "message": "för $NUM$ dagar sedan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Det gick inte att prenumerera på spellistan. Försök igen."
+   },
+   "8045052194324740729": {
+      "message": "Det går inte att spela låtar som ligger i papperskorgen."
+   },
+   "8066747296553908214": {
+      "message": "Dubbelt snett bindestreck"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dag}other{{TEXT} dagar}}"
+   },
+   "8159976291123989327": {
+      "message": "Redigera länk"
+   },
+   "8164274980045228173": {
+      "message": "Läsriktningsformatering upphör"
+   },
+   "8164897103619368290": {
+      "message": "Numrerad lista"
+   },
+   "8191208612330635266": {
+      "message": "Tibetanska"
+   },
+   "8192298658946835992": {
+      "message": "Fast nollbreddsblanksteg"
+   },
+   "8193509313274135818": {
+      "message": "Arabisk fotnotsmarkör"
+   },
+   "819996403327805209": {
+      "message": "Läs mer"
+   },
+   "823405029831570152": {
+      "message": "Etiopiska"
+   },
+   "8239380670132570074": {
+      "message": "Det går inte att öppna temporära filer"
+   },
+   "8249329268828083858": {
+      "message": "Dubbelt bindestreck i katakana-hiragana"
+   },
+   "8275689791574630480": {
+      "message": "Ogham-blanksteg"
+   },
+   "8277279706638733641": {
+      "message": "Stjärnor/asterisker"
+   },
+   "8286384050114068255": {
+      "message": "NaCl-version: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "8325100368677049569": {
+      "message": "Utforska ny musik"
+   },
+   "8338465287076872825": {
+      "message": "Det går inte att läsa musik från filen"
+   },
+   "8358697777226306085": {
+      "message": "Egyptiska hieroglyfer"
+   },
+   "8363930857329550333": {
+      "message": "Georgiska"
+   },
+   "8385464685117997940": {
+      "message": "Spelades nyligen"
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Logga in"
+   },
+   "8412726756889279816": {
+      "message": "Chakma"
+   },
+   "842631328362018283": {
+      "message": "Stor"
+   },
+   "8437015452970026040": {
+      "message": "Samlingsgräns har uppnåtts. Du måste ta bort några låtar om du vill lägga till fler."
+   },
+   "8440128775129354214": {
+      "message": "Sekretess"
+   },
+   "8454237498473122184": {
+      "message": "Bindestreck-minus"
+   },
+   "8458476427655018512": {
+      "message": "Blanksteg"
+   },
+   "8482517151370142670": {
+      "message": "Övrigt"
+   },
+   "848933194605193751": {
+      "message": "Nyligen visade på YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Kariska"
+   },
+   "8524322739067915993": {
+      "message": "em"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{om # minuter}=1{om # minut}other{om # minuter}}"
+   },
+   "8628766851955432422": {
+      "message": "Ta bort"
+   },
+   "8637643428005590282": {
+      "message": "Märken"
+   },
+   "8639048757911329468": {
+      "message": "NaCl-version: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Försök igen"
+   },
+   "8741366833297918126": {
+      "message": "Låtlängd"
+   },
+   "875046332706257024": {
+      "message": "Automatisk spellista"
+   },
+   "8763647985340267403": {
+      "message": "Spelpjäser"
+   },
+   "8768143964455071187": {
+      "message": "Ogham"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{för # timmar sedan}=1{för # timme sedan}other{för # timmar sedan}}"
+   },
+   "8787014632487519603": {
+      "message": "Ett avkodningsfel påträffades. Kontrollera originalfilen och överför den på nytt. Filen har hoppats över."
+   },
+   "8801527171487571079": {
+      "message": "Lanna"
+   },
+   "8818387952529569142": {
+      "message": "I dag"
+   },
+   "8819361322041128714": {
+      "message": "Ugaritiska"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Var försiktig.$POSTB$ Tänk på att spam kan skickas till alla e-postadresser som du anger på en webbsida.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arabisk siffermarkör"
+   },
+   "8858058202463451164": {
+      "message": "Vänsterjustera"
+   },
+   "8868784738343119594": {
+      "message": "för $NUM$ minut sedan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8896073810838561095": {
+      "message": "Han 8-Stroke Radicals"
+   },
+   "8901076355007755806": {
+      "message": "Rong"
+   },
+   "8925271759659767084": {
+      "message": "Köpt och gratis"
+   },
+   "8931700495296520714": {
+      "message": "Stäng minispelaren"
+   },
+   "8934299821763129489": {
+      "message": "Fornitaliska"
+   },
+   "8958381934236197373": {
+      "message": "Sifferbreddsblanksteg"
+   },
+   "8961985815150856927": {
+      "message": "Skapades nyligen"
+   },
+   "8971282019539581965": {
+      "message": "Stäng dialogrutan Om"
+   },
+   "8979933913103486540": {
+      "message": "Tankstreck/koppling"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$ – $ARTIST_NAME$ – Minispelaren i Google Play Musik",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Inneslutning"
+   },
+   "9000910334745340727": {
+      "message": "Mjukt mongoliskt bindestreck"
+   },
+   "9001309834415064766": {
+      "message": "Han 10-Stroke Radicals"
+   },
+   "901225307358856093": {
+      "message": "Bindestreck i kanadensisk stavelseskrift"
+   },
+   "902300864627076683": {
+      "message": "Tidig parthiska"
+   },
+   "9024489874326845912": {
+      "message": "Rekommenderat album"
+   },
+   "9045338265172338590": {
+      "message": "Meetei-mayek"
+   },
+   "9053704575157030099": {
+      "message": "Inga"
+   },
+   "9063659532473030063": {
+      "message": "Vädersymboler och astrologiska symboler"
+   },
+   "9084816336314899019": {
+      "message": "Fortsätt"
+   },
+   "9092976405151508175": {
+      "message": "Upprepa"
+   },
+   "9098679347815545327": {
+      "message": "Det gick inte att skapa spellistan. Försök igen."
+   },
+   "9173411042808904308": {
+      "message": "Normal/serif"
+   },
+   "9184426509557869402": {
+      "message": "Ideografiskt blanksteg"
+   },
+   "9197433560254928186": {
+      "message": "Arabiska"
+   },
+   "9218938714985695055": {
+      "message": "Legatobåges början i notskrift"
+   },
+   "947591000172763449": {
+      "message": "Phags-pa"
+   },
+   "953268105555355822": {
+      "message": "Visa alla"
+   },
+   "964983733596985457": {
+      "message": "Kompatibilitet"
+   },
+   "97224266342934568": {
+      "message": "Upphöjt"
+   },
+   "997742287268027221": {
+      "message": "Det gick inte att överföra filen"
+   }
+}

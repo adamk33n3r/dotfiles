@@ -1,0 +1,180 @@
+{
+  "files": {
+    "libopenssl-hash.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libopenssl-hash.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libopenssl-hash.so"
+      }
+    },
+    "libfaad.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libfaad.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libfaad.so"
+      }
+    },
+    "libc.so.8ec02f0e": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libc.so.8ec02f0e"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libc.so.8ec02f0e"
+      }
+    },
+    "main.nexe": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/MusicManager_x86_64.nexe"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/MusicManager_x86_32.nexe"
+      }
+    },
+    "libstdc++.so.6": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libstdc++.so.6"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libstdc++.so.6"
+      }
+    },
+    "libogg.so.0": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libogg.so.0"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libogg.so.0"
+      }
+    },
+    "libppapi_cpp.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libppapi_cpp.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libppapi_cpp.so"
+      }
+    },
+    "liblame.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/liblame.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/liblame.so"
+      }
+    },
+    "libpthread.so.8ec02f0e": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libpthread.so.8ec02f0e"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libpthread.so.8ec02f0e"
+      }
+    },
+    "libflac.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libflac.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libflac.so"
+      }
+    },
+    "libvorbisfile.so.3": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libvorbisfile.so.3"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libvorbisfile.so.3"
+      }
+    },
+    "libid3lib.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libid3lib.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libid3lib.so"
+      }
+    },
+    "libnacl_io.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libnacl_io.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libnacl_io.so"
+      }
+    },
+    "libvorbis.so.0": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libvorbis.so.0"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libvorbis.so.0"
+      }
+    },
+    "libgcc_s.so.1": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libgcc_s.so.1"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libgcc_s.so.1"
+      }
+    },
+    "libdl.so.8ec02f0e": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libdl.so.8ec02f0e"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libdl.so.8ec02f0e"
+      }
+    },
+    "libmpg123.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libmpg123.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libmpg123.so"
+      }
+    },
+    "libnacl_exception.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libnacl_exception.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libnacl_exception.so"
+      }
+    },
+    "libminidump_generator.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libminidump_generator.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libminidump_generator.so"
+      }
+    },
+    "libm.so.8ec02f0e": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libm.so.8ec02f0e"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libm.so.8ec02f0e"
+      }
+    },
+    "libjsoncpp.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libjsoncpp.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libjsoncpp.so"
+      }
+    }
+  },
+  "program": {
+    "x86-64": {
+      "url": "_platform_specific/x86-64/runnable-ld.so"
+    },
+    "x86-32": {
+      "url": "_platform_specific/x86-32/runnable-ld.so"
+    }
+  }
+}

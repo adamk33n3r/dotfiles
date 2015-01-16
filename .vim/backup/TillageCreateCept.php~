@@ -1,0 +1,15 @@
+<?php
+$I = new AcceptanceTester($scenario);
+$I->amA('Regular Grower');
+$I->wantTo('Create a Tillage Form');
+
+$I->tryLogin('standard_grower', 'test');
+
+$I->clickWhenAvailable('Data');
+$I->clickWhenAvailable('Add');
+$I->clickWhenAvailable('Add Forms');
+
+$I->wait(2);
+$I->selectS2Option('#year-select2');
+$I->clickWhenAvailable('//div[@id="data-addForm-content"]/div[1]//a');
+// FOR SOME REASON CLICKWHENAVAILABLE AND AN XPATH DONT WORK BUT JUST CLICK WITH A WAIT DOES...

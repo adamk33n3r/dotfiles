@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="show-temperature-icon" mtime="1421095841" schema="/schemas/apps/awn-applet-weather/show-temperature-icon" type="bool" value="true"/>
+	<entry name="temperature-unit" mtime="1421095817" schema="/schemas/apps/awn-applet-weather/temperature-unit" type="int" value="1"/>
+	<entry name="map_maxwidth" mtime="1421095786" schema="/schemas/apps/awn-applet-weather/map_maxwidth"/>
+	<entry name="theme" mtime="1421095837" schema="/schemas/apps/awn-applet-weather/theme" type="string">
+		<stringvalue>System theme</stringvalue>
+	</entry>
+	<entry name="curved_dialog" mtime="1421095824" schema="/schemas/apps/awn-applet-weather/curved_dialog" type="bool" value="false"/>
+	<entry name="temperature-font-size" mtime="1421095844" schema="/schemas/apps/awn-applet-weather/temperature-font-size" type="int" value="2"/>
+	<entry name="location_code" mtime="1421095814" schema="/schemas/apps/awn-applet-weather/location_code" type="string">
+		<stringvalue>USIN0305</stringvalue>
+	</entry>
+	<entry name="location" mtime="1421095814" schema="/schemas/apps/awn-applet-weather/location" type="string">
+		<stringvalue>Indianapolis, IN</stringvalue>
+	</entry>
+</gconf>

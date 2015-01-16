@@ -1,0 +1,32 @@
+button {
+  float: right;
+}
+
+legend {
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+select {
+  width: 70%;
+}
+
+webview {
+  height: 0px;
+  width: 0px;
+}
+
+#error {
+  color: #f00;
+  display: none;
+}
+
+#otherLabel {
+  display: none;
+}
+
+#otherField {
+  width: 60%;
+}
+
+

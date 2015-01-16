@@ -1,0 +1,1961 @@
+{
+   "1008774365351112026": {
+      "message": "Přidat atribut ‘$REL_NO_FOLLOW$‘ ($LINK_START$Další informace$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normální"
+   },
+   "1026450251988549367": {
+      "message": "Nedávno upravené"
+   },
+   "1044946868924904798": {
+      "message": "No connection"
+   },
+   "1052242579040192537": {
+      "message": "Písmo původních obyvatel Kanady"
+   },
+   "1061567929494389534": {
+      "message": "Rozhlasové stanice se nepodařilo načíst. Zkuste to prosím znovu."
+   },
+   "1061598772078003048": {
+      "message": "Konec poznámky v textu"
+   },
+   "108743912460085743": {
+      "message": "Přepsání zleva doprava"
+   },
+   "113306301971655652": {
+      "message": "Značka zleva doprava"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuta}few{{TEXT} minuty}many{{TEXT} minutes}other{{TEXT} minut}}"
+   },
+   "1233161892151828431": {
+      "message": "Kurzíva"
+   },
+   "1248987958177161816": {
+      "message": "Upravit zdrojový kód HTML"
+   },
+   "1275783181441501836": {
+      "message": "Oddělovač odstavců"
+   },
+   "128003684539571261": {
+      "message": "Měny"
+   },
+   "129672981680457789": {
+      "message": "Hanunóo"
+   },
+   "1327813348141810372": {
+      "message": "Bamumské písmo"
+   },
+   "1345511732360402048": {
+      "message": "Orchonské písmo"
+   },
+   "1372788343021542418": {
+      "message": "Chcete-li použít miniaturní přehrávač, přihlaste se do Hudby Google Play na webu."
+   },
+   "1382005717519484629": {
+      "message": "Prázdný znak"
+   },
+   "142620397708685601": {
+      "message": "Zadejte vlastní barvu – například pink, #F00, #D015FF nebo rgb(100, 50, 25)."
+   },
+   "1430061825590893722": {
+      "message": "Otevřít odkaz v novém okně"
+   },
+   "1433391846042476830": {
+      "message": "Včera"
+   },
+   "1444145448465775598": {
+      "message": "Zrušit"
+   },
+   "1453708590388513852": {
+      "message": "Technické"
+   },
+   "1483596119706515744": {
+      "message": "Buginské písmo"
+   },
+   "1487523984872879956": {
+      "message": "Čtverčík"
+   },
+   "1494946186465201682": {
+      "message": "Zrušit"
+   },
+   "1504214836895903832": {
+      "message": "Připojení se nezdařilo."
+   },
+   "1558113021895652337": {
+      "message": "Soubor je chráněn technologií DRM"
+   },
+   "1561656335740427643": {
+      "message": "Telugské písmo"
+   },
+   "1573657685592390905": {
+      "message": "Vyberte složku..."
+   },
+   "1595478688335662057": {
+      "message": "Uživatel Googlu"
+   },
+   "1615800076127848008": {
+      "message": "Tai le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{za # hodin}=1{za # hodinu}few{za # hodiny}many{in # hours}other{za # hodin}}"
+   },
+   "1635932785663944786": {
+      "message": "Čísla"
+   },
+   "1658346838703079243": {
+      "message": "Změnit"
+   },
+   "1686917835491599951": {
+      "message": "Nedávno přidáno do mé knihovny"
+   },
+   "1700078784075267898": {
+      "message": "Hudba Google Play"
+   },
+   "1709114386311494800": {
+      "message": "Odkaz"
+   },
+   "1722592106949807025": {
+      "message": "Uložit protokoly ladění"
+   },
+   "172500938828303105": {
+      "message": "Batacké písmo"
+   },
+   "1726363342938046830": {
+      "message": "O službě"
+   },
+   "1729815731089690989": {
+      "message": "Make sure you're connected to the Internet"
+   },
+   "1751129087972897649": {
+      "message": "Imperiální aramejština"
+   },
+   "1763795268257640974": {
+      "message": "Odhlášení odběru seznamu skladeb se nezdařilo. Zkuste to prosím znovu."
+   },
+   "1781759902625939771": {
+      "message": "Neznámý interpret"
+   },
+   "1800865039213871505": {
+      "message": "Přejít na odkaz: "
+   },
+   "1803865475179910876": {
+      "message": "Hudba Google Play pro Chrome na platformě $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Zavřít"
+   },
+   "1819368767424033007": {
+      "message": "Historické"
+   },
+   "182621168783940405": {
+      "message": "Značka zprava doleva"
+   },
+   "184252996364058487": {
+      "message": "0 minut"
+   },
+   "1860075031180562077": {
+      "message": "Hudební symbol konec fráze"
+   },
+   "190045585254551934": {
+      "message": "Silhetské nágarí"
+   },
+   "1914372876923825240": {
+      "message": "Odkaz na:"
+   },
+   "192481666606780833": {
+      "message": "Hudbu nelze přehrát"
+   },
+   "1945037339176024290": {
+      "message": "Uzavřené znaky"
+   },
+   "1947306462789680361": {
+      "message": "před $NUM$ minutami",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Hudební symbol začátek fráze"
+   },
+   "1962559411793600980": {
+      "message": "Avestánské písmo"
+   },
+   "1981687300412326534": {
+      "message": "Čínské devítitahové radikály"
+   },
+   "1989564869397178334": {
+      "message": "Nadpis"
+   },
+   "1996585593795647892": {
+      "message": "Přidat nebo odebrat odkaz"
+   },
+   "2005272211699610673": {
+      "message": "Rychlý mix"
+   },
+   "2026335465374096346": {
+      "message": "Kliknutím vypnout náhodné přehrávání"
+   },
+   "2032972931560484213": {
+      "message": "Autor: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Bez mezer"
+   },
+   "2038618429165152799": {
+      "message": "Bez názvu"
+   },
+   "2056726623536384731": {
+      "message": "Přejít do Hudby Google Play"
+   },
+   "2080060559104348538": {
+      "message": "Písma jižní Asie"
+   },
+   "2088175644103984799": {
+      "message": "Khmérská inherentní samohláska aq"
+   },
+   "2094349866819883967": {
+      "message": "Krátká pomlčka"
+   },
+   "2102825898069375693": {
+      "message": "Nabídka"
+   },
+   "2107375315384298887": {
+      "message": "Dolní indexy"
+   },
+   "2109622269343579329": {
+      "message": "Neplatná e-mailová adresa"
+   },
+   "2139683490477275175": {
+      "message": "Zavřít"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 skladeb}=1{1 skladba}few{{NUM_SONGS_2} skladby}many{{NUM_SONGS_2} songs}other{{NUM_SONGS_2} skladeb}}"
+   },
+   "216513153459932308": {
+      "message": "Zlomky a související"
+   },
+   "2173312720188441245": {
+      "message": "Koptské písmo"
+   },
+   "2203397136690479355": {
+      "message": "Soubor nelze zpracovat."
+   },
+   "2205522058604794595": {
+      "message": "Africká písma"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2246437904181111020": {
+      "message": "Hudba Google Play: Výběr složek médií"
+   },
+   "2252825622480483246": {
+      "message": "Meroitické psací písmo"
+   },
+   "2299183036960756600": {
+      "message": "za $NUM$ den",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Při načítání celé knihovny došlo k chybě. Zkuste to prosím znovu později."
+   },
+   "2309894433432831059": {
+      "message": "Prezentační forma dlouhé svislé pomlčky"
+   },
+   "2321398646644344846": {
+      "message": "Zítra"
+   },
+   "2328554046256236832": {
+      "message": "Nepodporovaný soubor FLAC"
+   },
+   "2339250039074511222": {
+      "message": "Tento odkaz nelze testovat."
+   },
+   "2339750206850776348": {
+      "message": "Lykijské písmo"
+   },
+   "2376735487384008742": {
+      "message": "Vlnovka"
+   },
+   "2378357177170124823": {
+      "message": "Desítkové číslice"
+   },
+   "2382000105167193834": {
+      "message": "Gudžarátské písmo"
+   },
+   "2389069046927902638": {
+      "message": "Hudba Google Play"
+   },
+   "2390557292924554291": {
+      "message": "Spojovací znak s nulovou šířkou"
+   },
+   "2434131766046654438": {
+      "message": "Lineární písmo B"
+   },
+   "247847652023697955": {
+      "message": "Hudební symbol začátek ligatury"
+   },
+   "249032153569378306": {
+      "message": "před $NUM$ hodinou",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2506718393130237030": {
+      "message": "Nepodporovaný formát"
+   },
+   "2512060739274636260": {
+      "message": "Nové písmo tai lue"
+   },
+   "2513370824993175045": {
+      "message": "za $NUM$ d",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Hudební symbol konec trámce"
+   },
+   "2529924385478060648": {
+      "message": "Buhidské písmo"
+   },
+   "2530473232691534250": {
+      "message": "E-mailová adresa"
+   },
+   "2538866057253567409": {
+      "message": "Deseretské písmo"
+   },
+   "2544569632476723854": {
+      "message": "Smluvní podmínky"
+   },
+   "2550362371114851075": {
+      "message": "Normální"
+   },
+   "2558836909854550547": {
+      "message": "Normální"
+   },
+   "2565011230196288502": {
+      "message": "za $NUM$ minutu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2610851846609508423": {
+      "message": "Znaky založené na sadě ASCII"
+   },
+   "2634703826856398600": {
+      "message": "(nové: $NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2714752802779336020": {
+      "message": "Hudba Google Play"
+   },
+   "2722441731984880542": {
+      "message": "Kliknutím zapnout náhodné přehrávání"
+   },
+   "272553825640256879": {
+      "message": "Spojovník-minus s plnou šířkou"
+   },
+   "2728464858411473080": {
+      "message": "Líbí se mi"
+   },
+   "2732888649509914313": {
+      "message": "Mongolské písmo"
+   },
+   "2746055492028991938": {
+      "message": "Ču-jin"
+   },
+   "2763267855550833920": {
+      "message": "V účtu je příliš mnoho souborů"
+   },
+   "2787148143326073325": {
+      "message": "Audiovyhledávání"
+   },
+   "2801094315807039135": {
+      "message": "Tai viet"
+   },
+   "2809945145618753350": {
+      "message": "Čtvrtinová dlouhá mezera"
+   },
+   "2811509810457668932": {
+      "message": "Fonetické znaky (X-IPA)"
+   },
+   "2840006222747077107": {
+      "message": "Moje knihovna je prázdná."
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{Před # minutami}=1{Před # minutou}few{Před # minutami}many{# minutes ago}other{Před # minutami}}"
+   },
+   "2881621988818346391": {
+      "message": "Ano"
+   },
+   "2881776379326317082": {
+      "message": "Vždy používat tuto polohu"
+   },
+   "2896688457548770791": {
+      "message": "Citát"
+   },
+   "2910989560121976550": {
+      "message": "Vyzkoušet tento odkaz"
+   },
+   "2918448970074432239": {
+      "message": "Upravit kód HTML"
+   },
+   "29485262661698811": {
+      "message": "Arabský konec verše koránu"
+   },
+   "2954874827338778826": {
+      "message": "Webová adresa"
+   },
+   "2968801718595938980": {
+      "message": "Hangul"
+   },
+   "2972470287059252937": {
+      "message": "Úzká pevná mezera"
+   },
+   "2973169743818593793": {
+      "message": "Čínské pětitahové radikály"
+   },
+   "29734255682325103": {
+      "message": "Zarovnat vpravo"
+   },
+   "2980847012388128321": {
+      "message": "Mezera s nulovou šířkou"
+   },
+   "2980960654248329234": {
+      "message": "Vlasová mezera"
+   },
+   "2982463607788408741": {
+      "message": "Byli jste odhlášeni z účtu Google. Chcete-li se opět přihlásit, obnovte prosím stránku."
+   },
+   "305389607483289974": {
+      "message": "Kliknutím pozastavit"
+   },
+   "3054851848337350805": {
+      "message": "Horní index"
+   },
+   "305815942371229357": {
+      "message": "Žádné návrhy"
+   },
+   "3067310196368927236": {
+      "message": "Hebrejský spojovník (makkef)"
+   },
+   "308732574543176489": {
+      "message": "Seznam skladeb nelze upravit. Zkuste to prosím znovu."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} hodina}few{{TEXT} hodiny}many{{TEXT} hours}other{{TEXT} hodin}}"
+   },
+   "3099596419835786769": {
+      "message": "Střední matematická mezera"
+   },
+   "311577748341232969": {
+      "message": "K přehrávání hudby je vyžadována nejnovější verze přehrávače Adobe Flash Player."
+   },
+   "3125342991297920614": {
+      "message": "Album se nepodařilo otevřít. Zkuste to prosím znovu."
+   },
+   "3138864086144358473": {
+      "message": "Čínské 11–17tahové radikály"
+   },
+   "314582171813087287": {
+      "message": "Pevný spojovník"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Nevíte, co do pole vložit?$END_BOLD$ Nejprve na webu vyhledejte stránku, na kterou chcete odkazovat. (Například pomocí $SEARCH_ENGINE_LINK$vyhledávače$END_LINK$.) Potom zkopírujte webovou adresu z adresního řádku prohlížeče a vložte ji do pole výše.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3167418181223330667": {
+      "message": "Modifikátor"
+   },
+   "3182977091552629211": {
+      "message": "Název znaku zobrazíte podržením ukazatele myši nad buňkou."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{před # dny}=1{před # dnem}few{před # dny}many{# days ago}other{před # dny}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 skladeb}=1{1 skladba}few{# skladby}many{# songs}other{# skladeb}}"
+   },
+   "3196641196902208501": {
+      "message": "Odkaz na e-mailovou adresu"
+   },
+   "3225804441370198247": {
+      "message": "Všechny moje skladby – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "I-ťing / Tchaj-süan ťing"
+   },
+   "3234962763403901834": {
+      "message": "za $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Žádné"
+   },
+   "3237206613586329862": {
+      "message": "Lýdské písmo"
+   },
+   "3242312278127054660": {
+      "message": "Alfanumerické matematické symboly"
+   },
+   "3245264696956198335": {
+      "message": "Formát"
+   },
+   "3299099956700438963": {
+      "message": "Americká písma"
+   },
+   "3335728816495350082": {
+      "message": "Nejoblíbenější skladby – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3381844160250536550": {
+      "message": "Přihlášení do Chromu"
+   },
+   "3389797949812522362": {
+      "message": "Hebrejské písmo"
+   },
+   "3390725557414108843": {
+      "message": "Čínské čtyřtahové radikály"
+   },
+   "3439291896675389753": {
+      "message": "Písmo nko"
+   },
+   "3444326079109550157": {
+      "message": "Na kterou adresu URL by měl tento odkaz vést?"
+   },
+   "3445096196133856884": {
+      "message": "Khmérská inherentní samohláska aa"
+   },
+   "3462013384451950074": {
+      "message": "za $NUM$ hodinu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Poslouchejte všechnu svoji hudbu. Kdekoli. Stačí přidat hudbu z počítače do aplikace Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Interpunkce"
+   },
+   "3483193414050571677": {
+      "message": "Palec dolů"
+   },
+   "3483958460407305290": {
+      "message": "Přeškrtnutí"
+   },
+   "3547729876847212201": {
+      "message": "Půlčtverčíková mezera"
+   },
+   "3565556274692077023": {
+      "message": "Dlouhá pomlčka"
+   },
+   "3601632218457952692": {
+      "message": "Písmo Yi"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Pozitivní hodnocení"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Minipřehrávač Hudby Google Play"
+   },
+   "3649938620817393740": {
+      "message": "Malé"
+   },
+   "3650710698506236041": {
+      "message": "Hexadecimální kód barvy"
+   },
+   "3688803517283872334": {
+      "message": "Hangul – výplň poloviční šířky"
+   },
+   "3701910180379922299": {
+      "message": "Šarada"
+   },
+   "3748613043647922063": {
+      "message": "Neviditelný oddělovač"
+   },
+   "3762887990641668199": {
+      "message": "Arménština"
+   },
+   "3770594827970207417": {
+      "message": "Menší nadpis"
+   },
+   "3772706138160001780": {
+      "message": "Vodorovná čára"
+   },
+   "3774172828626803355": {
+      "message": "Čerokézské písmo"
+   },
+   "3782346097595894324": {
+      "message": "Připojení k serveru se nezdařilo. Zkuste to prosím znovu později."
+   },
+   "3784429870217408370": {
+      "message": "Bráhmí"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "Tato okna budou zavřena:\n"
+   },
+   "3832446507144709355": {
+      "message": "Hlaholice"
+   },
+   "3839679337223320857": {
+      "message": "Jste přihlášeni jako $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3867367359959377145": {
+      "message": "CHYBA: „$COLOR$“ není platná barva.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Před použitím aplikace Chrome se přihlaste do služby Hudba Google Play na webu."
+   },
+   "3873111853443561979": {
+      "message": "Podtržené"
+   },
+   "3901889124080689046": {
+      "message": "Soubor nelze otevřít"
+   },
+   "3905371920037624514": {
+      "message": "Méně časté"
+   },
+   "3936240281193464170": {
+      "message": "Obnovit"
+   },
+   "3964523220682082212": {
+      "message": "Chyba načítání knihovny"
+   },
+   "3975141127799341224": {
+      "message": "Odkazovat na stránku nebo soubor někde jinde na webu"
+   },
+   "3988935995558346502": {
+      "message": "Cyrilice"
+   },
+   "3996699777412450193": {
+      "message": "Šipky"
+   },
+   "3999655151577464071": {
+      "message": "Při mazání rychlého mixu došlo k chybě."
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "Čínské šestitahové radikály"
+   },
+   "4044663630621281686": {
+      "message": "Arabský znak safha"
+   },
+   "4055580652532057510": {
+      "message": "bez názvu"
+   },
+   "4061274470931156807": {
+      "message": "Ol chiki"
+   },
+   "4082846773463542695": {
+      "message": "Váš počítač nelze identifikovat."
+   },
+   "4087074177670472082": {
+      "message": "Začátek poznámky v textu"
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4171773891797639122": {
+      "message": "Spojovač slov"
+   },
+   "4183640380235728062": {
+      "message": "Opakování vypnuto. Kliknutím změňte režim opakování."
+   },
+   "4194375141064658954": {
+      "message": "Vyskytl se technický problém"
+   },
+   "4204603140063905121": {
+      "message": "Hangul – výplň pro džung-seong"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ x $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Zrušit"
+   },
+   "4275466320467620600": {
+      "message": "Vždy navrchu"
+   },
+   "4318639872744852657": {
+      "message": "Takrí"
+   },
+   "4326462735503400283": {
+      "message": "Zobrazený text:"
+   },
+   "4329609792835264496": {
+      "message": "Krátká mezera"
+   },
+   "4333644357236884202": {
+      "message": "Khmerské písmo"
+   },
+   "4338950182024656659": {
+      "message": "Pohlaví a genealogie"
+   },
+   "4357737589458300153": {
+      "message": "Technologie kódování zvuku MPEG Layer-3 je licencována společnostmi Fraunhofer IIS a Thomson. Kódování Advanced Audio Coding (AAC) je použito na základě licence spravované společností Via Licensing. Google Play obsahuje určitý software třetích stran, který vyžaduje upozornění nebo dodatečné smluvní podmínky. Tato povinná upozornění nebo dodatečné smluvní podmínky softwaru třetích stran jsou uvedeny na naší $START_LINK$stránce zásad týkajících se třetích stran$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "S vysokým hodnocením"
+   },
+   "4380903276097257721": {
+      "message": "Prezentační forma krátké svislé pomlčky"
+   },
+   "4396890764725725469": {
+      "message": "Uložit"
+   },
+   "4405073953395157822": {
+      "message": "Tahy CJK"
+   },
+   "4417144592785193889": {
+      "message": "Další písma východní Asie"
+   },
+   "4439965029912183539": {
+      "message": "Doplněk Latin-1"
+   },
+   "4440466521156769623": {
+      "message": "Hudební symbol začátek trámce"
+   },
+   "4445783474627796041": {
+      "message": "Hotovo"
+   },
+   "445149490695787423": {
+      "message": "Znovu se přihlásit"
+   },
+   "4451528286100219680": {
+      "message": "Vložení zleva doprava"
+   },
+   "4456793125873199230": {
+      "message": "Rádio „Zkusím štěstí“"
+   },
+   "4462494623248108758": {
+      "message": "Seznam skladeb"
+   },
+   "4478641030934315579": {
+      "message": "Společné"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4494835774314426313": {
+      "message": "Poslední původ nelze odstranit"
+   },
+   "4548656448943532301": {
+      "message": "Nahrávání hudby dokončeno"
+   },
+   "4571105317747127957": {
+      "message": "Spojovník s umlautem"
+   },
+   "4590981840116960737": {
+      "message": "Formátování a prázdné znaky"
+   },
+   "4607813303298554353": {
+      "message": "Thánské písmo"
+   },
+   "4629182899853078878": {
+      "message": "Rozhlasová stanice"
+   },
+   "4629398054050196678": {
+      "message": "Stáhnout hudbu do následujícího umístění:"
+   },
+   "466976558518570343": {
+      "message": "Javánské písmo"
+   },
+   "4675864222674894697": {
+      "message": "Shawova abeceda"
+   },
+   "4688946070631035536": {
+      "message": "Kontrola pravopisu"
+   },
+   "470296860672943171": {
+      "message": "Výběr varianty"
+   },
+   "4706959263210678625": {
+      "message": "Výběr varianty – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Aktualizovat aplikaci Google Play, když sem přidám novou hudbu"
+   },
+   "4750228681419116696": {
+      "message": "Malajálamské písmo"
+   },
+   "4754400438927203898": {
+      "message": "Hudba je pozastavena"
+   },
+   "4776903542722844646": {
+      "message": "Kliknutím přehrát"
+   },
+   "4815033911915598343": {
+      "message": "Mezery"
+   },
+   "4816571345301008062": {
+      "message": "Při přejmenovávání rychlého mixu došlo k chybě."
+   },
+   "4830715100444503860": {
+      "message": "Kharóšthí"
+   },
+   "4862238057869188402": {
+      "message": "Mixy se nepodařilo načíst. Zkuste to prosím znovu."
+   },
+   "4878527640076219954": {
+      "message": "Tamilské písmo"
+   },
+   "4886126295094352182": {
+      "message": "Hudba Google Play pro Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Thajské písmo"
+   },
+   "4920482241656423227": {
+      "message": "Barva pozadí textu"
+   },
+   "4921096453319030731": {
+      "message": "Syrská značka zkratky"
+   },
+   "4924253230856131215": {
+      "message": "Písma jihovýchodní Asie"
+   },
+   "496636435516411982": {
+      "message": "Skladbu nelze ohodnotit. Zkuste to prosím znovu."
+   },
+   "498913874005297914": {
+      "message": "Tučné"
+   },
+   "499152283823240992": {
+      "message": "Samaritánské písmo"
+   },
+   "5003850562831597565": {
+      "message": "Nedávno jste se přihlásili k odběru"
+   },
+   "5009878480585609766": {
+      "message": "Čínské písmo – ostatní"
+   },
+   "5015096128854741514": {
+      "message": "Doprava a mapy"
+   },
+   "5018227417300461385": {
+      "message": "Malý spojovník-minus"
+   },
+   "5022153145769748172": {
+      "message": "Žádné skladby v koši."
+   },
+   "5030096791460456147": {
+      "message": "Obrázek, který se pokoušíte přetáhnout, byl hostitelským webem zablokován."
+   },
+   "5032188163864418301": {
+      "message": "Nápisové pahlavské písmo"
+   },
+   "5049432650728491454": {
+      "message": "Procházení novinek, top žebříčků, seznamů skladeb a žánrů"
+   },
+   "506090363255226122": {
+      "message": "Obráceno/zrcadleno"
+   },
+   "5071594083516657121": {
+      "message": "Soubor je příliš velký."
+   },
+   "5094769877856014729": {
+      "message": "Hudební symbol konec ligatury"
+   },
+   "5105404398573470156": {
+      "message": "Geometrické obrazce"
+   },
+   "5113771261593769985": {
+      "message": "Čamské písmo"
+   },
+   "5115900738857721327": {
+      "message": "Oddělovač grafémů (CGJ)"
+   },
+   "5128240607770067472": {
+      "message": "O službě…"
+   },
+   "5143432838919500349": {
+      "message": "Vyhledávání..."
+   },
+   "5170992049958515620": {
+      "message": "Spojovník"
+   },
+   "5187212874644392331": {
+      "message": "Verze: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Obrázkové soubory aktuálně přetáhnout nelze.\nPřetáhněte prosím obrázek z webového prohlížeče."
+   },
+   "5199204386348402183": {
+      "message": "Osmanya"
+   },
+   "5219596981664772816": {
+      "message": "Čínské třítahové radikály"
+   },
+   "5232157483592334572": {
+      "message": "Berberské písmo (tifinagh)"
+   },
+   "5256846847077792168": {
+      "message": "Upravit slovo"
+   },
+   "5278374842872340790": {
+      "message": "Emotikony"
+   },
+   "5288571118300787017": {
+      "message": "Ve skladbě $SONG_TITLE$ byla zjištěna chyba dekódování. Zkontrolujte původní soubor a nahrajte jej znovu. Skladba byla přeskočena.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "531478949469830505": {
+      "message": "Sora sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{více než 0 dní}=1{více než 1 den}few{více než # dny}many{over # days}other{více než # dní}}"
+   },
+   "536459166857647880": {
+      "message": "Tagalské písmo"
+   },
+   "5373550672011878193": {
+      "message": "Runové písmo"
+   },
+   "537543696442379345": {
+      "message": "Zapnout rychlý mix"
+   },
+   "5378532290721565403": {
+      "message": "Skladba byla zakoupena pomocí jiného účtu Hudby Google Play"
+   },
+   "5394607018657314633": {
+      "message": "Oddělovač řádků"
+   },
+   "5402470227536486835": {
+      "message": "Malá dlouhá pomlčka"
+   },
+   "5404910277282887798": {
+      "message": "Fénické písmo"
+   },
+   "5408241503383428945": {
+      "message": "Ostatní evropská písma"
+   },
+   "5432330868773114140": {
+      "message": "Zapnout rádio"
+   },
+   "5451692331472585782": {
+      "message": "Všechny skladby"
+   },
+   "5452036681614307719": {
+      "message": "Neviditelné plus"
+   },
+   "5455360062863417200": {
+      "message": "Další skladba"
+   },
+   "5464364716831469679": {
+      "message": "Neznámé album"
+   },
+   "548629550059508920": {
+      "message": "Nahrávání se nezdařilo, protože již nahráváte ze dvou účtů."
+   },
+   "5497512316841934820": {
+      "message": "Mix „Zkusím štěstí“"
+   },
+   "5497627646066282315": {
+      "message": "Připojování"
+   },
+   "5501301484140201550": {
+      "message": "Rádio „Zkusím štěstí“"
+   },
+   "5518817744725858296": {
+      "message": "Hudební vystoupení ve vašem okolí"
+   },
+   "5529194084754296998": {
+      "message": "Šestinová mezera"
+   },
+   "5541835554879897802": {
+      "message": "Některé stopy se do sbírky přidat nepodařilo. Zkuste to prosím znovu."
+   },
+   "5578390534357178026": {
+      "message": "Zkontrolujte, zda jste do Chromu přihlášeni pomocí stejného účtu Google."
+   },
+   "5584189341216439776": {
+      "message": "Přidejte svoji hudbu"
+   },
+   "5584467594910303696": {
+      "message": "Meroitické hieroglyfy"
+   },
+   "5593848105713936399": {
+      "message": "Fronta"
+   },
+   "5594762259680838005": {
+      "message": "Nedávno zakoupené"
+   },
+   "5612959352951118540": {
+      "message": "za $NUM$ h",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Formát"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhské písmo"
+   },
+   "5665391621751941927": {
+      "message": "Žánry se nepodařilo načíst. Zkuste to prosím znovu."
+   },
+   "5674048882417502526": {
+      "message": "Přepsání zprava doleva"
+   },
+   "5677606995605741055": {
+      "message": "Při mazání rozhlasové stanice došlo k chybě."
+   },
+   "569766142833422558": {
+      "message": "Aplikaci Hudba Google Play pro Chrome je třeba aktualizovat. Aktualizace proběhne automaticky."
+   },
+   "5700613377997995103": {
+      "message": "Číslicová pomlčka"
+   },
+   "5755038562791065032": {
+      "message": "Třetinová dlouhá mezera"
+   },
+   "5761798931116026691": {
+      "message": "Soubor se nepodařilo převést do formátu MP3"
+   },
+   "5769804815976568558": {
+      "message": "Vyberte umístění stažených souborů"
+   },
+   "5773750119871048451": {
+      "message": "Zrušit"
+   },
+   "5775493454862732930": {
+      "message": "Arménský spojovník"
+   },
+   "5784007894878825338": {
+      "message": "Pevná mezera"
+   },
+   "5889126665299129466": {
+      "message": "Chcete-li používat miniaturní přehrávač, musíte být přihlášeni do Chromu."
+   },
+   "5890243856676178044": {
+      "message": "Bengálské písmo"
+   },
+   "5914500973755757025": {
+      "message": "Laoské písmo"
+   },
+   "5918806792833250096": {
+      "message": "Klínové písmo"
+   },
+   "5930857699885919881": {
+      "message": "Nepodporovaný soubor ALAC"
+   },
+   "5969115558488445506": {
+      "message": "Podnadpis"
+   },
+   "5971001229987621398": {
+      "message": "Doporučená novinka"
+   },
+   "5999484363963634214": {
+      "message": "Mandaické písmo"
+   },
+   "601150082487101480": {
+      "message": "Naposledy přidané"
+   },
+   "6031749391396582225": {
+      "message": "Hangul – výplň"
+   },
+   "6042091568356544470": {
+      "message": "Použití funkce"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "610635793308893528": {
+      "message": "Vložení zprava doleva"
+   },
+   "6125785068086103357": {
+      "message": "Skladbu nelze odebrat. Zkuste to prosím znovu."
+   },
+   "6134905866550808378": {
+      "message": "Všechny moje skladby – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6205568685279927986": {
+      "message": "Rejangské písmo"
+   },
+   "6211429203092739745": {
+      "message": "Předchozí skladba"
+   },
+   "6211690508928257569": {
+      "message": "Syrské písmo"
+   },
+   "6223487594388109285": {
+      "message": "Při přejmenovávání rozhlasové stanice došlo k chybě."
+   },
+   "6233107584508657559": {
+      "message": "Ke Googlu se nelze připojit"
+   },
+   "6238576599909606924": {
+      "message": "neplatná adresa URL"
+   },
+   "6242354668932209396": {
+      "message": "Opakování všech skladeb. Kliknutím změňte režim opakování."
+   },
+   "624368563085644372": {
+      "message": "Neviditelné krát"
+   },
+   "6264257099423315684": {
+      "message": "Na kterou e-mailovou adresu by měl tento odkaz vést?"
+   },
+   "630414199054820482": {
+      "message": "Interpunkční mezera"
+   },
+   "6342787164312491730": {
+      "message": "Počasí, scény a znamení zvěrokruhu"
+   },
+   "6352462755178724841": {
+      "message": "Odebrat formátování"
+   },
+   "6360340926892934518": {
+      "message": "Přidat složku"
+   },
+   "6376633306429460166": {
+      "message": "Sauráštrijské písmo"
+   },
+   "6390744057286457578": {
+      "message": "Zarovnat na střed"
+   },
+   "6397906195939852735": {
+      "message": "Kannadské písmo"
+   },
+   "6397910887534888858": {
+      "message": "Barva textu"
+   },
+   "6425912931786223127": {
+      "message": "AM"
+   },
+   "6427041476637425542": {
+      "message": "Dolní index"
+   },
+   "6447846965513034625": {
+      "message": "Předměty"
+   },
+   "6452850149519075219": {
+      "message": "Teď ne"
+   },
+   "6455550894777387014": {
+      "message": "Myanmarské písmo"
+   },
+   "6502885021177224543": {
+      "message": "Hudba Google Play: Výběr složky pro stahování"
+   },
+   "6504449653938065974": {
+      "message": "Doporučený seznam skladeb"
+   },
+   "6510962485068569110": {
+      "message": "Zpět"
+   },
+   "653219508056341533": {
+      "message": "Lidé a nálady"
+   },
+   "6538565185460307864": {
+      "message": "Orijské písmo"
+   },
+   "6568036879894576496": {
+      "message": "Hudba z následujících složek bude přidána do Hudby Google Play"
+   },
+   "6591282200798732887": {
+      "message": "Půlčtverčík"
+   },
+   "6593910762276333113": {
+      "message": "Stáhnout přehrávač Flash"
+   },
+   "66116513409922755": {
+      "message": "Ne"
+   },
+   "6612115524763399815": {
+      "message": "Dévanágarí"
+   },
+   "6641147067989080704": {
+      "message": "Kayah li"
+   },
+   "6650739047421247577": {
+      "message": "Hudbu nelze přehrát"
+   },
+   "6652787256443519035": {
+      "message": "Bez tagů"
+   },
+   "66820157572867378": {
+      "message": "Zmenšit odsazení"
+   },
+   "6689623864271696040": {
+      "message": "Volitelné rozdělení"
+   },
+   "6711475260919070872": {
+      "message": "Staroperské písmo"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Mohlo by se vám líbit"
+   },
+   "6722174221321515493": {
+      "message": "Oddělovač s nulovou šířkou (ZWNJ)"
+   },
+   "6732797853205065184": {
+      "message": "Ignorovat"
+   },
+   "6750258767236131097": {
+      "message": "Písma Blízkého východu"
+   },
+   "6768967544887679189": {
+      "message": "Vlnovka wavy dash"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6821274223204126521": {
+      "message": "Hudební symboly"
+   },
+   "6839273670547667172": {
+      "message": "Různé"
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6898179631823558149": {
+      "message": "Soubor se nepodařilo převést do použitelného formátu"
+   },
+   "6930531446322391145": {
+      "message": "Obrázek"
+   },
+   "6958966284437922286": {
+      "message": "Písmo vai"
+   },
+   "700030425158051007": {
+      "message": "Písmo limbu"
+   },
+   "7009828133009731416": {
+      "message": "Zdarma od Googlu"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7020161279392960480": {
+      "message": "Formát"
+   },
+   "7029749611952268902": {
+      "message": "Chybí přehrávač Flash Player"
+   },
+   "7034479228356652023": {
+      "message": "Čínské jednotahové radikály"
+   },
+   "7049182394855721704": {
+      "message": "Gotické písmo"
+   },
+   "7080245643233785574": {
+      "message": "V aplikaci Hudba Google Play pro Chrome došlo k potížím a je třeba, abyste se přihlásili znovu."
+   },
+   "7100404876663103497": {
+      "message": "Hangul – výplň pro čo-seong"
+   },
+   "7100567566985297322": {
+      "message": "Čtverčíková mezera"
+   },
+   "7102126384411654213": {
+      "message": "Přidání do sbírky se nezdařilo. Zkuste to znovu."
+   },
+   "7104210472412766015": {
+      "message": "Oddělovač poznámky v textu"
+   },
+   "7111181959300196580": {
+      "message": "Zvětšit odsazení"
+   },
+   "7116872031464114568": {
+      "message": "Identifikováno v Audiovyhledávání"
+   },
+   "7127937208951634191": {
+      "message": "Symbol"
+   },
+   "7132453172532202734": {
+      "message": "Služba Google Play je nedostupná."
+   },
+   "7136816542440442290": {
+      "message": "Při načítání rozhlasové stanice došlo k chybě."
+   },
+   "716550293954822096": {
+      "message": "Sinhálské písmo"
+   },
+   "7192513315706728552": {
+      "message": "Chyba serveru. Zkuste to znovu později."
+   },
+   "7193968696947634147": {
+      "message": "Obnovit stránku"
+   },
+   "7194376132387780145": {
+      "message": "Tento počítač se nepodařilo autorizovat, protože již máte deset zařízení."
+   },
+   "7202681158267340446": {
+      "message": "Písmo"
+   },
+   "720381800527728702": {
+      "message": "Sporty, oslavy a aktivity"
+   },
+   "7224832103566723854": {
+      "message": "Seznam skladeb se nepodařilo otevřít. Zkuste to prosím znovu."
+   },
+   "7228343081607279547": {
+      "message": "Sundské písmo"
+   },
+   "7229202390260081051": {
+      "message": "Velmi velké"
+   },
+   "7282565673166392948": {
+      "message": "Ideografický popis"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minut}=1{1 minuta}few{# minuty}many{# minutes}other{# minut}}"
+   },
+   "7293925053370285812": {
+      "message": "Opakování aktuální skladby. Kliknutím změňte režim opakování."
+   },
+   "7305504256207181669": {
+      "message": "Seznam s odrážkami"
+   },
+   "7310668544702677420": {
+      "message": "Chcete-li se vrátit k poslechu hudby, obnovte prosím tuto stránku v prohlížeči. Pokud problém přetrvává, zkontrolujte, zda máte zapnutý a funkční doplněk Flash."
+   },
+   "7320133162875658022": {
+      "message": "Nahrát nové skladby ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7331328794127852355": {
+      "message": "Emodži"
+   },
+   "7335080673788704461": {
+      "message": "Doprava, mapy a značení"
+   },
+   "7347179017294066771": {
+      "message": "Přidat nebo odebrat složky"
+   },
+   "7354691783317064273": {
+      "message": "Aplikace Chrome se připojuje."
+   },
+   "7396303606473621591": {
+      "message": "Vše"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{za # dní}=1{za # den}few{za # dny}many{in # days}other{za # dní}}"
+   },
+   "7437894509168051348": {
+      "message": "Čínské sedmitahové radikály"
+   },
+   "747583939629659293": {
+      "message": "Přidat barvu"
+   },
+   "7480960100390206139": {
+      "message": "Různé"
+   },
+   "7529798479468856973": {
+      "message": "před $NUM$ hodinami",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7536172317066333802": {
+      "message": "Vložit obrázek"
+   },
+   "7559266156388225108": {
+      "message": "Znak číslice písma kaithi"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Oddělovač mongolských samohlásek"
+   },
+   "7596816553523902619": {
+      "message": "Dnes"
+   },
+   "7601688284754148415": {
+      "message": "Matematické symboly"
+   },
+   "7617664217221228040": {
+      "message": "Balijské písmo"
+   },
+   "762389150316771008": {
+      "message": "Rádio „Zkusím štěstí“"
+   },
+   "7631480327394084350": {
+      "message": "Řídicí obrázky"
+   },
+   "7664246845088850317": {
+      "message": "Připojení k serveru se nezdařilo. Kód chyby: "
+   },
+   "7697058485679231601": {
+      "message": "Načtěte prosím stránku znovu a zkuste to ještě jednou."
+   },
+   "7704516203792990151": {
+      "message": "Uplynulý čas"
+   },
+   "7709119284546787990": {
+      "message": "Zprava doleva"
+   },
+   "7711713319832787051": {
+      "message": "Párové"
+   },
+   "7730109880037106848": {
+      "message": "Symboly"
+   },
+   "7736581252844206600": {
+      "message": "Řecké písmo"
+   },
+   "7737642252665507180": {
+      "message": "Hexadecimální vstup"
+   },
+   "7743528314734813641": {
+      "message": "Při načítání rychlého mixu došlo k chybě."
+   },
+   "7760426006262447033": {
+      "message": "Ve frontě není dost místa"
+   },
+   "7774266771623079214": {
+      "message": "Hudba Play"
+   },
+   "7776111286341041808": {
+      "message": "Zleva doprava"
+   },
+   "779262212811541732": {
+      "message": "Staré jihoarabské písmo"
+   },
+   "7816161180678740448": {
+      "message": "Braillovo písmo"
+   },
+   "7846689234809169417": {
+      "message": "Zvířata, rostliny a jídlo"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 hodin}=1{1 hodina}few{# hodiny}many{# hours}other{# hodin}}"
+   },
+   "7878031641910175480": {
+      "message": "Nedávno vybrané:"
+   },
+   "7888286842234266048": {
+      "message": "Uzavřené a tečkované"
+   },
+   "7898792314887900865": {
+      "message": "Kyperské písmo"
+   },
+   "7927039504440585569": {
+      "message": "Latinka"
+   },
+   "7930381906669528420": {
+      "message": "Skladbu $SONG_TITLE$ nelze přehrát. Skladba byla přeskočena.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Fonetická abeceda (IPA)"
+   },
+   "7954850519963017242": {
+      "message": "před $NUM$ dnem",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arabský znak sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 složek}=1{1 složka}few{# složky}many{# folders}other{# složek}}"
+   },
+   "7984622936663451936": {
+      "message": "Klávesnice a uživatelské rozhraní"
+   },
+   "7985095810697977698": {
+      "message": "Skladbu se nepodařilo přehrát a byla přeskočena."
+   },
+   "8001758142015238809": {
+      "message": "Došlo k dočasné chybě. Pokus o nahrání bude opakován."
+   },
+   "8019982600883750632": {
+      "message": "Do bloku"
+   },
+   "8020892463961333112": {
+      "message": "Hudební symbol konec legata"
+   },
+   "8024675506077392847": {
+      "message": "Nelze načíst další skladbu."
+   },
+   "8030037581414873660": {
+      "message": "Čínské dvoutahové radikály"
+   },
+   "803032414305825807": {
+      "message": "Velikost písma"
+   },
+   "803376120920513357": {
+      "message": "před $NUM$ dny",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Přihlášení k odběru seznamu skladeb se nezdařilo. Zkuste to prosím znovu."
+   },
+   "8045052194324740729": {
+      "message": "Skladby v koši nelze přehrát."
+   },
+   "8066747296553908214": {
+      "message": "Dvojitý šikmý spojovník"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} den}few{{TEXT} dny}many{{TEXT} days}other{{TEXT} dnů}}"
+   },
+   "8159976291123989327": {
+      "message": "Upravit odkaz"
+   },
+   "8164274980045228173": {
+      "message": "Návrat k původnímu směru textu"
+   },
+   "8164897103619368290": {
+      "message": "Číslovaný seznam"
+   },
+   "8191208612330635266": {
+      "message": "Tibetské písmo"
+   },
+   "8192298658946835992": {
+      "message": "Pevná mezera s nulovou šířkou"
+   },
+   "8193509313274135818": {
+      "message": "Arabská značka poznámky pod čarou"
+   },
+   "819996403327805209": {
+      "message": "Další informace"
+   },
+   "823405029831570152": {
+      "message": "Etiopské písmo"
+   },
+   "8239380670132570074": {
+      "message": "Dočasný soubor nelze otevřít."
+   },
+   "8249329268828083858": {
+      "message": "Dvojitý spojovník v katakaně/hiraganě"
+   },
+   "8275689791574630480": {
+      "message": "Ogamská značka mezery"
+   },
+   "8277279706638733641": {
+      "message": "Hvězdičky"
+   },
+   "8286384050114068255": {
+      "message": "Verze NaCl: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "8325100368677049569": {
+      "message": "Průzkum nové hudby"
+   },
+   "8338465287076872825": {
+      "message": "Ze souboru nelze číst hudbu."
+   },
+   "8358697777226306085": {
+      "message": "Egyptské hieroglyfy"
+   },
+   "8363930857329550333": {
+      "message": "Gruzínské písmo"
+   },
+   "8385464685117997940": {
+      "message": "Nedávno poslouchané"
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Přihlásit se"
+   },
+   "8412726756889279816": {
+      "message": "Čakmajské písmo"
+   },
+   "842631328362018283": {
+      "message": "Velké"
+   },
+   "8437015452970026040": {
+      "message": "Bylo dosaženo limitu sbírky. Chcete-li přidat další skladby, je třeba některé skladby odstranit."
+   },
+   "8440128775129354214": {
+      "message": "Ochrana soukromí"
+   },
+   "8454237498473122184": {
+      "message": "Spojovník-minus"
+   },
+   "8458476427655018512": {
+      "message": "Mezera"
+   },
+   "8482517151370142670": {
+      "message": "Ostatní"
+   },
+   "848933194605193751": {
+      "message": "Naposledy sledováno na YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Kárské písmo"
+   },
+   "8524322739067915993": {
+      "message": "PM"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{za # minut}=1{za # minutu}few{za # minuty}many{in # minutes}other{za # minut}}"
+   },
+   "8628766851955432422": {
+      "message": "Odstranit"
+   },
+   "8637643428005590282": {
+      "message": "Značky"
+   },
+   "8639048757911329468": {
+      "message": "Verze NaCl: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Zkusit znovu"
+   },
+   "8741366833297918126": {
+      "message": "Délka skladby"
+   },
+   "875046332706257024": {
+      "message": "Automatický seznam skladeb"
+   },
+   "8763647985340267403": {
+      "message": "Herní kameny"
+   },
+   "8768143964455071187": {
+      "message": "Ogamské písmo"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{před # hodinami}=1{před # hodinou}few{před # hodinami}many{# hours ago}other{před # hodinami}}"
+   },
+   "8787014632487519603": {
+      "message": "Byla zjištěna chyba dekódování. Zkontrolujte původní soubor a nahrajte jej znovu. Skladba byla přeskočena."
+   },
+   "8801527171487571079": {
+      "message": "Tai tham"
+   },
+   "8818387952529569142": {
+      "message": "Dnes"
+   },
+   "8819361322041128714": {
+      "message": "Ugaritské písmo"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Buďte opatrní.$POSTB$Nezapomeňte, že každou e-mailovou adresu umístěnou na webové stránce mohou najít také odesílatelé spamu.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arabský znak čísla"
+   },
+   "8858058202463451164": {
+      "message": "Zarovnat vlevo"
+   },
+   "8868784738343119594": {
+      "message": "před $NUM$ minutou",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8896073810838561095": {
+      "message": "Čínské osmitahové radikály"
+   },
+   "8901076355007755806": {
+      "message": "Lepčské písmo"
+   },
+   "8925271759659767084": {
+      "message": "Bezplatné a zakoupené"
+   },
+   "8931700495296520714": {
+      "message": "Zavřít miniaturní přehrávač"
+   },
+   "8934299821763129489": {
+      "message": "Etruské písmo"
+   },
+   "8958381934236197373": {
+      "message": "Číslicová mezera"
+   },
+   "8961985815150856927": {
+      "message": "Nedávno vytvořené"
+   },
+   "8971282019539581965": {
+      "message": "Zavřít dialog o Aplikaci"
+   },
+   "8979933913103486540": {
+      "message": "Pomlčky a spojovací symboly"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$ – $ARTIST_NAME$ – Minipřehrávač Hudby Google Play",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Uzavření"
+   },
+   "9000910334745340727": {
+      "message": "Mongolský měkký spojovník"
+   },
+   "9001309834415064766": {
+      "message": "Čínské desetitahové radikály"
+   },
+   "901225307358856093": {
+      "message": "Spojovník kanadského slabičného písma"
+   },
+   "902300864627076683": {
+      "message": "Nápisové parthské písmo"
+   },
+   "9024489874326845912": {
+      "message": "Doporučené album"
+   },
+   "9045338265172338590": {
+      "message": "Meetei mayek"
+   },
+   "9053704575157030099": {
+      "message": "Žádné"
+   },
+   "9063659532473030063": {
+      "message": "Meteorologické a astrologické symboly"
+   },
+   "9084816336314899019": {
+      "message": "Pokračovat"
+   },
+   "9092976405151508175": {
+      "message": "Opakovat"
+   },
+   "9098679347815545327": {
+      "message": "Seznam skladeb nelze vytvořit. Zkuste to prosím znovu."
+   },
+   "9173411042808904308": {
+      "message": "Normální / patkové"
+   },
+   "9184426509557869402": {
+      "message": "Ideografická mezera"
+   },
+   "9197433560254928186": {
+      "message": "Arabské písmo"
+   },
+   "9218938714985695055": {
+      "message": "Hudební symbol začátek legata"
+   },
+   "947591000172763449": {
+      "message": "Písmo phags pa"
+   },
+   "953268105555355822": {
+      "message": "Zobrazit vše"
+   },
+   "964983733596985457": {
+      "message": "Kompatibilita"
+   },
+   "97224266342934568": {
+      "message": "Horní indexy"
+   },
+   "997742287268027221": {
+      "message": "Soubor se nepodařilo nahrát"
+   }
+}

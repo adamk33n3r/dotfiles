@@ -1,0 +1,502 @@
+body
+{
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    width: 360px;
+    height: 452px;
+    background: url('../images/bg.png') no-repeat;
+}
+
+#wrapper
+{
+    padding: 2px;
+    width: 100%;
+    height: 430px;
+    overflow: hidden;
+}
+
+.border-left,
+.border-right
+{
+    background: url('../images/border.png') no-repeat;
+    width: 9px;
+    height: 364px;
+    position: absolute;
+    top: 48px;
+    z-index: 5000000;
+}
+
+.border-left
+{
+    left: 0;
+}
+
+.border-right
+{
+    right: 0;
+    width: 10px;
+    background-position: 100% 0;
+}
+
+.scrollable
+{
+    height: 287px;
+    width: 93%;
+    margin-bottom: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+h1
+{
+    width: 126px;
+    height: 30px;
+    margin: 4px 0 0 12px;
+}
+
+h1:hover
+{
+    cursor: pointer;
+}
+
+h2
+{
+    margin: .5em 21px .5em 0;
+    font-size: 120%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#pages
+{
+    position: relative;
+    float: left;
+    margin: 12px 8px 2em;
+}
+
+#pages li
+{
+    display: block;
+    float: left;
+    width: 340px;
+}
+
+#pages-content
+{
+    visibility: hidden;
+}
+
+#pages li .wips
+{
+    background: url('../images/mr_wips.png') no-repeat 0 0;
+    width: 67px;
+    height: 152px;
+    position: absolute;
+    z-index: 5000000;
+    top: 219px;
+    left: 270px;
+}
+
+#pages li .no-data,
+#pages li .categories_manage
+{
+    background: url('../images/mr_wips_sad.png') no-repeat 90% 40%;
+}
+
+#pages li .no-data p
+{
+    text-align: center;
+    margin: 1em 100px 0 10px;
+    padding-top: 100px;
+}
+
+#pages li .categories_manage p
+{
+    text-align: center;
+    margin: 100px 100px 0 20px;
+}
+
+#pages li .categories_manage p span
+{
+    display: block;
+    margin-bottom: 2em;
+}
+
+#page-menu a,
+#page-menu span,
+a.go-to-menu
+{
+    display: block;
+    width: 340px;
+    height: 39px;
+    background: url('../images/button.png') no-repeat 0 0;
+    text-decoration: none;
+    color: #fff;
+    text-shadow: rgba(155,155,155,0.5) 0px 1px 1px;
+    line-height: 33px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+#page-menu span.small{
+    width:167px;
+    float:left;
+    background: url('../images/button_small.png') no-repeat 0 0;
+}
+
+#page-menu a:hover,
+#page-menu span:hover,
+#page-menu a.detail:hover,
+a.go-to-menu:hover,
+#page-menu a.dark:hover,
+#page-menu span.dark:hover,
+#page-menu a.specdark:hover,
+#page-menu span.specdark:hover
+{
+    background-position: 0 -39px;
+    color: #34abd4;
+    text-shadow: rgba(255,255,255,0.5) 0px 1px 1px;
+    cursor: pointer;
+}
+
+#page-menu a.dark, #page-menu span.dark
+{
+    background-position: 0 -78px;
+}
+
+#page-menu a.specdark, #page-menu span.specdark
+{
+    background-position: 0 -117px;
+}
+
+#chart
+{
+    width: 328px;
+    height: 290px;
+    text-align: center;
+    margin: 0 5px 7px;
+}
+
+#chart.loading
+{
+    background: url('../images/loading.gif') no-repeat 50% 50%;
+}
+
+table
+{
+    width: 313px;
+    margin: 0 10px;
+}
+
+td,
+th
+{
+    padding: .3em;
+    border: 1px solid #eee;
+}
+
+td.right
+{
+    text-align: right;
+}
+
+table a,
+.go_categories
+{
+    color: #444;
+    text-decoration: none;
+}
+
+table a:hover,
+.go_categories:hover
+{
+    text-decoration: underline;
+}
+
+p
+{
+    margin: 1em;
+}
+
+/* Share box */
+
+#share
+{
+    position: absolute;
+    top: 418px;
+    z-index: 999999999;
+    width: 346px;
+    padding: 0 2px;
+    text-align: center;
+}
+
+.social_control, #share a, #share .open_options_page, #share .news
+{
+    display: block;
+    cursor: pointer;
+    height: 26px;
+    background: url('../images/button_left.png') no-repeat 0 0, url('../images/button_right.png') no-repeat 100% 0, url('../images/share_ico.png') no-repeat 10px 50%, url('../images/button_bg.png') repeat-x 0 0;
+    float: right;
+    line-height: 26px;
+    padding: 0 10px 0 23px;
+    color: #52c9f2;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 90%;
+    text-shadow: rgba(255,255,255,0.5) 0px 1px 1px;
+    text-align: center;
+}
+
+#share a, #share .open_options_page
+{
+    float: left;
+    margin: 0 0 0 .5em;
+    background-image: url('../images/button_left.png'), url('../images/button_right.png'), url('../images/options_ico.png'), url('../images/button_bg.png');
+    background-position: 0 0, 100% 0, 8px 50%, 0 0; 
+}
+
+#share .news{
+    float:left;
+    background: url('../images/button_left.png') no-repeat 0 0, url('../images/button_right.png') no-repeat 100% 0, url('../images/button_bg.png') repeat-x 0 0; 
+    padding-left:10px;
+    margin-left:50px;
+}
+
+#share .news:hover{
+    background-position: 0 100%, 100% 100%, 0 100% !important;
+}
+
+.social_control:hover, #share a:hover, #share .open_options_page:hover, #share .news:hover
+{
+    background-position: 0 100%, 100% 100%, 9px 50%, 0 100%;
+    color: #fff;
+    text-shadow: rgba(155,155,155,0.5) 0px 1px 1px;
+}
+
+#share a:hover
+{
+    background-position: 0 100%, 100% 100%, 8px 50%, 0 100%;
+}
+
+#social_show
+{
+    display: block;
+}
+
+#social_hide
+{
+    display: none;
+}
+
+#social
+{
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99999999;
+    background: url('../images/popup_bg.png') repeat 0 0;
+}
+
+#social .top
+{
+    padding: 70px 0 25px 0;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+#social ul
+{
+    margin: 0 10px;
+}
+
+#social ul li
+{
+    float: left;
+    text-align: center;
+    width: 110px;
+}
+
+#social ul li:first-child
+{
+    width: 115px;
+    padding-left: 20px;
+}
+
+#social ul li:last-child
+{
+    width: 70px;
+    margin-left: 15px;
+}
+
+#social ul li iframe
+{
+    margin: 0 auto;
+    border: 0;
+    width: 50px;
+    height: 25px;
+}
+
+#social .review{
+  padding:120px 0 0 0;
+  text-align: center;
+}
+
+#social .review a{
+  color:#fff !important;
+  font-weight: bold !important;
+  font-size: 16px !important;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#social .review a:hover{
+  text-decoration: underline;
+}
+
+#chart .legend table
+{
+    max-width: 100px;
+    width: auto;
+    margin: 0;
+}
+
+#chart .legend table td.legendLabel
+{
+    max-width: 80px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#chart table td
+{
+    border: 0;
+    text-align: left;
+    font-size: 120%;
+    white-space: pre;
+}
+
+#tooltip
+{
+    position: absolute;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    padding: .4em .5em;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+#tooltip span
+{
+    display: block;
+    font-weight: bold;
+    margin-top: .3em;
+}
+
+.pieLabel
+{
+    cursor: default;
+    font-size: 110%;
+}
+
+#foot_fb_connect{
+    display:none;
+    position: absolute;
+    top:9px;
+    right:9px;
+    width:170px;
+    padding:0 15px;
+    height:25px;
+    line-height:25px;
+    background-color:#9AD2FE;
+    z-index:9999999;
+    color:#fff;
+    font-weight: bold;
+    text-align: left;
+    border-radius:3px;
+}
+
+#foot_fb_connect .connect:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#foot_fb_connect .close:hover{
+    cursor: pointer;
+    color:#444;
+    text-decoration: none;
+}
+
+#foot_fb_connect .close{
+    float:right;
+}
+
+#get_detail_stats{
+    display: none;
+    position: absolute;
+    left:203px;
+    top:320px;
+    color:#000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#get_detail_stats:hover{
+    text-decoration: underline;
+}
+
+#backup_your_data{
+    display: none;
+    position: absolute;
+    left:193px;
+    top:343px;
+    color:#009403;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#backup_your_data:hover{
+    text-decoration: underline;
+}
+
+#first_connect{
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99999999999;
+  text-align: center;
+  color:#fff;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+#first_connect strong{
+  font-size:24px;
+  color:#fff;
+}
+
+#first_connect .connect{
+  cursor: pointer;
+}
+
+#first_connect .close{
+  position: absolute;
+  right:15px;
+  top:10px;
+  color:#ffffff;
+  font-weight: normal;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+#first_connect .close:hover{
+  font-weight: bold;
+}

@@ -1,0 +1,47 @@
+<html>
+<head><title>I'm Viewing Extension Options</title></head>
+<script type="text/javascript">
+
+// Saves options to localStorage.
+function save_options() {
+  
+  localStorage["Prefix"] = document.getElementById("txtPrefix").value;
+  alert("Settings Saved");
+  chrome.tabs.remove(chrome.tabs.getSelected().tabId);
+}
+
+// Restores select box state to saved value from localStorage.
+function load_options() {
+  var iptPrefix = document.getElementById("txtPrefix");
+  var prefix = localStorage["Prefix"];
+  if (!prefix) {
+     iptPrefix.value = "I'm Viewing";
+  }else{
+	iptPrefix.value = prefix;
+  }
+  
+}
+
+function restore_options() {
+  var iptPrefix = document.getElementById("txtPrefix");
+  iptPrefix.value = "I'm Viewing";
+}
+
+
+</script>
+
+<body onload="load_options()">
+<fieldset style="width:300px">
+<legend>Extensions Settings</legend>
+
+<label for="txtPrefix">Tweet Prefix:</label><input id="txtPrefix" type="text" value="I'm Viewing"/>
+<p>
+more options are commaing soon..
+</p>
+<p>
+<button onclick="save_options()">Save</button>
+<button onclick="restore_options()">Restore Defaults</button>
+</p>
+</fieldset>
+</body>
+</html>

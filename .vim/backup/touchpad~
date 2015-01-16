@@ -1,0 +1,14 @@
+#!/bin/bash
+
+off() {
+    echo "Turning touchpad off..."
+    synclient TouchpadOff=1
+}
+
+on() {
+    echo "Turning touchpad on..."
+    synclient TouchpadOff=0
+}
+
+status="$(synclient -l | grep TouchpadOff | tr -s ' ' | cut -d ' ' -f 4)"
+[[ "$status" -eq 0 ]] && off || on

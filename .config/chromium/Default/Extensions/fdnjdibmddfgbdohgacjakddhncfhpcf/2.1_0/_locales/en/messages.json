@@ -1,0 +1,21 @@
+{
+   "contractStateTitle": {
+      "message": "Exit full screen"
+   },
+   "expandStateTitle": {
+      "message": "Full screen"
+   },
+   "extensionDescription": {
+      "message": "Allows YouTube and Vimeo videos to stay full screen while working in other windows. Great for dual monitors."
+   },
+   "extensionName": {
+      "message": "Multiple Monitor Full Screen"
+   },
+   "pageActionDefaultTitle": {
+      "description": "Tooltip text for the default button state when a new tab is loaded.",
+      "message": "Full screen"
+   },
+   "popupText": {
+      "message": "Click the address bar and press F11 to enter full screen mode."
+   }
+}

@@ -1,0 +1,1961 @@
+{
+   "1008774365351112026": {
+      "message": "Dodaj atribut »$REL_NO_FOLLOW$« ($LINK_START$Več o tem$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normalna"
+   },
+   "1026450251988549367": {
+      "message": "Nedavno spremenjeno"
+   },
+   "1044946868924904798": {
+      "message": "No connection"
+   },
+   "1052242579040192537": {
+      "message": "pisava kanadskih staroselcev"
+   },
+   "1061567929494389534": {
+      "message": "Radijskih postaj ni bilo mogoče prenesti. Poskusite znova."
+   },
+   "1061598772078003048": {
+      "message": "Zaključni znak za medvrstično opombo"
+   },
+   "108743912460085743": {
+      "message": "Znak za preglasitev za jezike s pisavo od leve proti desni"
+   },
+   "113306301971655652": {
+      "message": "Označevanje od leve proti desni"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuta}one{{TEXT} minuta}two{{TEXT} minuti}few{{TEXT} minute}other{{TEXT} minut}}"
+   },
+   "1233161892151828431": {
+      "message": "Ležeče"
+   },
+   "1248987958177161816": {
+      "message": "Urejanje izvorne kode HTML"
+   },
+   "1275783181441501836": {
+      "message": "Znak za ločevanje odstavkov"
+   },
+   "128003684539571261": {
+      "message": "Valuta"
+   },
+   "129672981680457789": {
+      "message": "hanunu"
+   },
+   "1327813348141810372": {
+      "message": "pisava bamum"
+   },
+   "1345511732360402048": {
+      "message": "stara turščina"
+   },
+   "1372788343021542418": {
+      "message": "Če želite uporabljati minipredvajalnik, se prijavite v Glasbo Google Play v spletu."
+   },
+   "1382005717519484629": {
+      "message": "Presledek"
+   },
+   "142620397708685601": {
+      "message": "Vnesite barvo po meri npr. roza, #F00, #D015FF ali rgb(100, 50, 25)"
+   },
+   "1430061825590893722": {
+      "message": "Odpri to povezavo v novem oknu"
+   },
+   "1433391846042476830": {
+      "message": "Včeraj"
+   },
+   "1444145448465775598": {
+      "message": "Prekliči"
+   },
+   "1453708590388513852": {
+      "message": "Tehnično"
+   },
+   "1483596119706515744": {
+      "message": "buginska pisava"
+   },
+   "1487523984872879956": {
+      "message": "Em Quad"
+   },
+   "1494946186465201682": {
+      "message": "Prekliči"
+   },
+   "1504214836895903832": {
+      "message": "Povezave ni bilo mogoče vzpostaviti"
+   },
+   "1558113021895652337": {
+      "message": "Datoteka je zaščitena s tehnologijo DRM"
+   },
+   "1561656335740427643": {
+      "message": "teluščina"
+   },
+   "1573657685592390905": {
+      "message": "Izbira mape ..."
+   },
+   "1595478688335662057": {
+      "message": "Uporabnik Googla"
+   },
+   "1615800076127848008": {
+      "message": "pisava taj le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{Čez # ur}=1{Čez # uro}one{Čez # uro}two{Čez # uri}few{Čez # ure}other{Čez # ur}}"
+   },
+   "1635932785663944786": {
+      "message": "Številka"
+   },
+   "1658346838703079243": {
+      "message": "Spremeni"
+   },
+   "1686917835491599951": {
+      "message": "Nedavno dodano v Mojo knjižnico"
+   },
+   "1700078784075267898": {
+      "message": "Glasba Google Play"
+   },
+   "1709114386311494800": {
+      "message": "Povezava"
+   },
+   "1722592106949807025": {
+      "message": "Shrani dnevnike za odpravljanje napak"
+   },
+   "172500938828303105": {
+      "message": "pisava batak"
+   },
+   "1726363342938046830": {
+      "message": "Vizitka"
+   },
+   "1729815731089690989": {
+      "message": "Make sure you're connected to the Internet"
+   },
+   "1751129087972897649": {
+      "message": "imperialna aramejščina"
+   },
+   "1763795268257640974": {
+      "message": "Naročnine na seznam predvajanja ni bilo mogoče preklicati. Poskusite znova."
+   },
+   "1781759902625939771": {
+      "message": "Neznan izvajalec"
+   },
+   "1800865039213871505": {
+      "message": "Pojdi na povezavo: "
+   },
+   "1803865475179910876": {
+      "message": "Glasba Google Play za Chrome v okolju $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Zapri"
+   },
+   "1819368767424033007": {
+      "message": "Zgodovinsko"
+   },
+   "182621168783940405": {
+      "message": "Označevanje od desne proti levi"
+   },
+   "184252996364058487": {
+      "message": "0 minut"
+   },
+   "1860075031180562077": {
+      "message": "Glasbeni simbol za zaključek fraze"
+   },
+   "190045585254551934": {
+      "message": "silotska pisava"
+   },
+   "1914372876923825240": {
+      "message": "Povezava do:"
+   },
+   "192481666606780833": {
+      "message": "Glasbe ni mogoče predvajati"
+   },
+   "1945037339176024290": {
+      "message": "Priloženo"
+   },
+   "1947306462789680361": {
+      "message": "Pred $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Glasbeni simbol za začetek fraze"
+   },
+   "1962559411793600980": {
+      "message": "avestanščina"
+   },
+   "1981687300412326534": {
+      "message": "9-potezni radikali v pisavi han"
+   },
+   "1989564869397178334": {
+      "message": "Naslov"
+   },
+   "1996585593795647892": {
+      "message": "Dodaj ali odstrani povezavo"
+   },
+   "2005272211699610673": {
+      "message": "Takojšen miks"
+   },
+   "2026335465374096346": {
+      "message": "Klik za izklop naključnega predvajanja"
+   },
+   "2032972931560484213": {
+      "message": "Avtor: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Sestavljiv znak"
+   },
+   "2038618429165152799": {
+      "message": "Neimenovana"
+   },
+   "2056726623536384731": {
+      "message": "Odpiranje Glasbe Google Play"
+   },
+   "2080060559104348538": {
+      "message": "Južnoazijske pisave"
+   },
+   "2088175644103984799": {
+      "message": "Kmerski inherentni samoglasnik Aq"
+   },
+   "2094349866819883967": {
+      "message": "Pomišljaj"
+   },
+   "2102825898069375693": {
+      "message": "Meni"
+   },
+   "2107375315384298887": {
+      "message": "Podpisano"
+   },
+   "2109622269343579329": {
+      "message": "Neveljaven e-poštni naslov"
+   },
+   "2139683490477275175": {
+      "message": "Zapri"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 skladb}=1{1 skladba}one{{NUM_SONGS_2} skladba}two{{NUM_SONGS_2} skladbi}few{{NUM_SONGS_2} skladbe}other{{NUM_SONGS_2} skladb}}"
+   },
+   "216513153459932308": {
+      "message": "Ulomki/sorodno"
+   },
+   "2173312720188441245": {
+      "message": "koptska pisava"
+   },
+   "2203397136690479355": {
+      "message": "Datoteke ni mogoče obdelati"
+   },
+   "2205522058604794595": {
+      "message": "Afriške pisave"
+   },
+   "2209153283705342590": {
+      "message": "pisava kajti"
+   },
+   "2246437904181111020": {
+      "message": "Glasba Google Play: Izbira map za predstavnost"
+   },
+   "2252825622480483246": {
+      "message": "meriotski rokopis"
+   },
+   "2299183036960756600": {
+      "message": "Čez $NUM$ dan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Napaka pri nalaganju celotne knjižnice. Poskusite znova pozneje."
+   },
+   "2309894433432831059": {
+      "message": "Predstavitvena oblika za navpični dolgi pomišljaj"
+   },
+   "2321398646644344846": {
+      "message": "Jutri"
+   },
+   "2328554046256236832": {
+      "message": "Datoteka FLAC ni podprta"
+   },
+   "2339250039074511222": {
+      "message": "Te povezave ni mogoče preskusiti."
+   },
+   "2339750206850776348": {
+      "message": "licijska pisava"
+   },
+   "2376735487384008742": {
+      "message": "Valoviti pomišljaj"
+   },
+   "2378357177170124823": {
+      "message": "Decimalno"
+   },
+   "2382000105167193834": {
+      "message": "gudžaratščina"
+   },
+   "2389069046927902638": {
+      "message": "Glasba Google Play"
+   },
+   "2390557292924554291": {
+      "message": "Veznik nične širine"
+   },
+   "2434131766046654438": {
+      "message": "linearna pisava B"
+   },
+   "247847652023697955": {
+      "message": "Glasbeni simbol začetka ligature"
+   },
+   "249032153569378306": {
+      "message": "Pred $NUM$ uro",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2506718393130237030": {
+      "message": "Nepodprta oblika zapisa"
+   },
+   "2512060739274636260": {
+      "message": "nova pisava taj lue"
+   },
+   "2513370824993175045": {
+      "message": "Čez toliko dni: $NUM$",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Glasbeni simbol za konec akolade"
+   },
+   "2529924385478060648": {
+      "message": "buhidska pisava"
+   },
+   "2530473232691534250": {
+      "message": "E-poštni naslov"
+   },
+   "2538866057253567409": {
+      "message": "deseret (mormonska pisava)"
+   },
+   "2544569632476723854": {
+      "message": "Pogoji"
+   },
+   "2550362371114851075": {
+      "message": "Normalna"
+   },
+   "2558836909854550547": {
+      "message": "Normalna"
+   },
+   "2565011230196288502": {
+      "message": "Čez $NUM$ minuto",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2610851846609508423": {
+      "message": "Na osnovi ASCII"
+   },
+   "2634703826856398600": {
+      "message": "(št. novih: $NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2714752802779336020": {
+      "message": "Glasba Google Play"
+   },
+   "2722441731984880542": {
+      "message": "Klik za vklop naključnega predvajanja"
+   },
+   "272553825640256879": {
+      "message": "Dolgi znak za minus"
+   },
+   "2728464858411473080": {
+      "message": "Všeč mi je"
+   },
+   "2732888649509914313": {
+      "message": "mongolščina"
+   },
+   "2746055492028991938": {
+      "message": "bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "V računu je preveč datotek"
+   },
+   "2787148143326073325": {
+      "message": "Prepoznavanje zvokov za Google Play"
+   },
+   "2801094315807039135": {
+      "message": "pisava taj viet"
+   },
+   "2809945145618753350": {
+      "message": "Presledek velikosti četrtine dolgega pomišljaja"
+   },
+   "2811509810457668932": {
+      "message": "Fonetika (X-IPA)"
+   },
+   "2840006222747077107": {
+      "message": "Moja knjižnica je prazna"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{Pred # minutami}=1{Pred # minuto}one{pred # minuto}two{pred # minutama}few{pred # minutami}other{pred # minutami}}"
+   },
+   "2881621988818346391": {
+      "message": "Da"
+   },
+   "2881776379326317082": {
+      "message": "Vedno uporabi to mesto"
+   },
+   "2896688457548770791": {
+      "message": "Navedba"
+   },
+   "2910989560121976550": {
+      "message": "Preskusi to povezavo"
+   },
+   "2918448970074432239": {
+      "message": "Uredi HTML"
+   },
+   "29485262661698811": {
+      "message": "Arabski konec ajaha"
+   },
+   "2954874827338778826": {
+      "message": "Spletni naslov"
+   },
+   "2968801718595938980": {
+      "message": "hangul"
+   },
+   "2972470287059252937": {
+      "message": "Ozek nedeljiv presledek"
+   },
+   "2973169743818593793": {
+      "message": "5-potezni radikali v pisavi han"
+   },
+   "29734255682325103": {
+      "message": "Poravnaj desno"
+   },
+   "2980847012388128321": {
+      "message": "Presledek nične širine"
+   },
+   "2980960654248329234": {
+      "message": "Zelo majhen presledek"
+   },
+   "2982463607788408741": {
+      "message": "Odjavljeni ste iz Google Računa. Če se želite znova prijaviti, osvežite stran."
+   },
+   "305389607483289974": {
+      "message": "Klik za zaustavitev"
+   },
+   "3054851848337350805": {
+      "message": "Nadpisano"
+   },
+   "305815942371229357": {
+      "message": "Ni predlogov"
+   },
+   "3067310196368927236": {
+      "message": "Hebrejsko ločilo makaf"
+   },
+   "308732574543176489": {
+      "message": "Seznama predvajanja ni bilo mogoče spremeniti. Poskusite znova."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} ura}one{{TEXT} ura}two{{TEXT} uri}few{{TEXT} ure}other{{TEXT} ur}}"
+   },
+   "3099596419835786769": {
+      "message": "Srednji matematični presledek"
+   },
+   "311577748341232969": {
+      "message": "Če želite poslušati glasbo, potrebujete najnovejši predvajalnik Adobe Flash Player."
+   },
+   "3125342991297920614": {
+      "message": "Albuma ni bilo mogoče odpreti. Poskusite znova."
+   },
+   "3138864086144358473": {
+      "message": "11–17-potezni radikali v pisavi han"
+   },
+   "314582171813087287": {
+      "message": "Nedeljivi vezaj"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Ne veste, kaj bi vnesli v polje?$END_BOLD$ Najprej v spletu poiščite stran, na katero želite objaviti povezavo. (Priporočamo, da uporabite $SEARCH_ENGINE_LINK$iskalnik$END_LINK$.) Nato kopirajte spletni naslov iz polja v naslovni vrstici brskalnika in ga prilepite v zgornje polje.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3167418181223330667": {
+      "message": "Modifikator"
+   },
+   "3182977091552629211": {
+      "message": "S kazalcem miške pokažite na posamezno celico, da se prikaže ime znaka."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{Pred # dnevi}=1{Pred # dnem}one{Pred # dnem}two{Pred # dnevoma}few{Pred # dnevi}other{Pred # dnevi}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 skladb}=1{1 skladba}one{# skladba}two{# skladbi}few{# skladbe}other{# skladb}}"
+   },
+   "3196641196902208501": {
+      "message": "Povezava na e-poštni naslov"
+   },
+   "3225804441370198247": {
+      "message": "Vse moje skladbe – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Jidžing/Tai ksuan džing"
+   },
+   "3234962763403901834": {
+      "message": "Čez $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Brez"
+   },
+   "3237206613586329862": {
+      "message": "lidijska pisava"
+   },
+   "3242312278127054660": {
+      "message": "Matematika – alfanumerični"
+   },
+   "3245264696956198335": {
+      "message": "Oblikovanje"
+   },
+   "3299099956700438963": {
+      "message": "Ameriške pisave"
+   },
+   "3335728816495350082": {
+      "message": "Najbolj priljubljene skladbe – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3381844160250536550": {
+      "message": "Prijavite se v Google Chrome"
+   },
+   "3389797949812522362": {
+      "message": "hebrejščina"
+   },
+   "3390725557414108843": {
+      "message": "4-potezni radikali v pisavi han"
+   },
+   "3439291896675389753": {
+      "message": "pisava nko"
+   },
+   "3444326079109550157": {
+      "message": "Na kateri spletni naslov kaže povezava?"
+   },
+   "3445096196133856884": {
+      "message": "Kmerski inherentni samoglasnik Aa"
+   },
+   "3462013384451950074": {
+      "message": "Čez $NUM$ uro",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Poslušajte vso svojo glasbo. Kjer koli. Glasbo iz računalnika preprosto dodajte v Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Ločila"
+   },
+   "3483193414050571677": {
+      "message": "Ni mi všeč"
+   },
+   "3483958460407305290": {
+      "message": "Prečrtano"
+   },
+   "3547729876847212201": {
+      "message": "Kratki presledek"
+   },
+   "3565556274692077023": {
+      "message": "Dolgi pomišljaj"
+   },
+   "3601632218457952692": {
+      "message": "ji"
+   },
+   "3605957923037994993": {
+      "message": "V redu"
+   },
+   "3609204150605625912": {
+      "message": "Všeč mi je"
+   },
+   "3631504127812962801": {
+      "message": "pisava lisu"
+   },
+   "3645577032204040606": {
+      "message": "Minipredvajalnik za Glasbo Google Play"
+   },
+   "3649938620817393740": {
+      "message": "Majhna"
+   },
+   "3650710698506236041": {
+      "message": "Barva v šestnajstiškem zapisu"
+   },
+   "3688803517283872334": {
+      "message": "Hangulsko polnilo polovične dolžine"
+   },
+   "3701910180379922299": {
+      "message": "pisava šarada"
+   },
+   "3748613043647922063": {
+      "message": "Nevidno ločilo"
+   },
+   "3762887990641668199": {
+      "message": "armenščina"
+   },
+   "3770594827970207417": {
+      "message": "Manjši naslov"
+   },
+   "3772706138160001780": {
+      "message": "Vodoravna vrstica"
+   },
+   "3774172828626803355": {
+      "message": "čerokeščina"
+   },
+   "3782346097595894324": {
+      "message": "Vzpostavitev povezave s strežnikom ni uspela. Poskusite znova pozneje."
+   },
+   "3784429870217408370": {
+      "message": "pisava brami"
+   },
+   "3801288115809478084": {
+      "message": "V redu"
+   },
+   "3807050606425965472": {
+      "message": "Zaprla se bodo ta okna:\n"
+   },
+   "3832446507144709355": {
+      "message": "glagolica"
+   },
+   "3839679337223320857": {
+      "message": "Prijavljeni ste kot $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3867367359959377145": {
+      "message": "NAPAKA: »$COLOR$« ni veljavna barva.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Pred uporabo aplikacije za Chrome se v spletu prijavite v Glasbo Google Play."
+   },
+   "3873111853443561979": {
+      "message": "Podčrtano"
+   },
+   "3901889124080689046": {
+      "message": "Datoteke ni mogoče odpreti"
+   },
+   "3905371920037624514": {
+      "message": "Manj pogosto"
+   },
+   "3936240281193464170": {
+      "message": "Osveži"
+   },
+   "3964523220682082212": {
+      "message": "Napaka pri nalaganju knjižnice"
+   },
+   "3975141127799341224": {
+      "message": "Povezava do strani ali datoteke nekje drugje v spletu"
+   },
+   "3988935995558346502": {
+      "message": "cirilica"
+   },
+   "3996699777412450193": {
+      "message": "Puščice"
+   },
+   "3999655151577464071": {
+      "message": "Težava pri brisanju takojšnjega miksa."
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "6-potezni radikali v pisavi han"
+   },
+   "4044663630621281686": {
+      "message": "Arabski znak safa"
+   },
+   "4055580652532057510": {
+      "message": "neimenovana"
+   },
+   "4061274470931156807": {
+      "message": "pisava ol čiki"
+   },
+   "4082846773463542695": {
+      "message": "Računalnika ni bilo mogoče prepoznati."
+   },
+   "4087074177670472082": {
+      "message": "Interlinear Annotation Anchor"
+   },
+   "4170374596716717299": {
+      "message": "hiragana"
+   },
+   "4171773891797639122": {
+      "message": "Navadni presledek brez preloma med besedama"
+   },
+   "4183640380235728062": {
+      "message": "Ponavljanje je izklopljeno. Kliknite za spremembo načina ponavljanja."
+   },
+   "4194375141064658954": {
+      "message": "Ojoj, prišlo je do tehnične težave"
+   },
+   "4204603140063905121": {
+      "message": "Hangulsko polnilo džungseong"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ krat $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Prekliči"
+   },
+   "4275466320467620600": {
+      "message": "Vedno na vrhu"
+   },
+   "4318639872744852657": {
+      "message": "pisava takri"
+   },
+   "4326462735503400283": {
+      "message": "Besedilo za prikaz:"
+   },
+   "4329609792835264496": {
+      "message": "Tanek presledek"
+   },
+   "4333644357236884202": {
+      "message": "kmerščina"
+   },
+   "4338950182024656659": {
+      "message": "Spol in rodoslovje"
+   },
+   "4357737589458300153": {
+      "message": "Tehnologija kodiranja zvoka MPEG Layer-3 se uporablja na podlagi licence organizacije Fraunhofer IIS in podjetja Thomson. Tehnologija Advanced Audio Coding (AAC) se uporablja z licenco podjetja Via Licensing Corporation. Google Play vsebuje tudi programsko opremo tretjih oseb, za katero veljajo posebna obvestila in/ali dodatna določila in pogoji. Ti so objavljeni na naši $START_LINK$strani za razkrivanje podatkov tretjim osebam$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Najbolje ocenjeno"
+   },
+   "4380903276097257721": {
+      "message": "Predstavitvena oblika za navpični kratki pomišljaj"
+   },
+   "4396890764725725469": {
+      "message": "Shrani"
+   },
+   "4405073953395157822": {
+      "message": "Poteze CJK"
+   },
+   "4417144592785193889": {
+      "message": "Druge vzhodnoazijske pisave"
+   },
+   "4439965029912183539": {
+      "message": "Dodatek Latin 1"
+   },
+   "4440466521156769623": {
+      "message": "Glasbeni simbol za začetek akolade"
+   },
+   "4445783474627796041": {
+      "message": "Končano"
+   },
+   "445149490695787423": {
+      "message": "Znova se prijavite"
+   },
+   "4451528286100219680": {
+      "message": "Vdelava za jezike s pisavo od leve proti desni"
+   },
+   "4456793125873199230": {
+      "message": "Radio »Klik na srečo«"
+   },
+   "4462494623248108758": {
+      "message": "Seznam predvajanja"
+   },
+   "4478641030934315579": {
+      "message": "Splošno"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4494835774314426313": {
+      "message": "Zadnjega semena ni mogoče odstraniti"
+   },
+   "4548656448943532301": {
+      "message": "Prenos glasbe v storitev je dokončan"
+   },
+   "4571105317747127957": {
+      "message": "Vezaj s preglasom"
+   },
+   "4590981840116960737": {
+      "message": "Oblika in presledek"
+   },
+   "4607813303298554353": {
+      "message": "maldivska pisava"
+   },
+   "4629182899853078878": {
+      "message": "Radijska postaja"
+   },
+   "4629398054050196678": {
+      "message": "Glasba bo prenesena na to mesto:"
+   },
+   "466976558518570343": {
+      "message": "javanščina"
+   },
+   "4675864222674894697": {
+      "message": "šojevska pisava"
+   },
+   "4688946070631035536": {
+      "message": "Črkovalnik"
+   },
+   "470296860672943171": {
+      "message": "Izbirnik različic"
+   },
+   "4706959263210678625": {
+      "message": "Izbirnik variacij – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Google Play naj se posodobi, ko na te lokacije dodam novo glasbo"
+   },
+   "4750228681419116696": {
+      "message": "malajalamščina"
+   },
+   "4754400438927203898": {
+      "message": "Predvajanje glasbe začasno ustavljeno"
+   },
+   "4776903542722844646": {
+      "message": "Klik za predvajanje"
+   },
+   "4815033911915598343": {
+      "message": "Razmik"
+   },
+   "4816571345301008062": {
+      "message": "Težava pri preimenovanju takojšnjega miksa."
+   },
+   "4830715100444503860": {
+      "message": "gandarska pisava"
+   },
+   "4862238057869188402": {
+      "message": "Miksov ni bilo mogoče prenesti. Poskusite znova."
+   },
+   "4878527640076219954": {
+      "message": "tamilščina"
+   },
+   "4886126295094352182": {
+      "message": "Glasba Google Play za Chrome"
+   },
+   "4887472194021728050": {
+      "message": "tajščina"
+   },
+   "4920482241656423227": {
+      "message": "Barva ozadja besedila"
+   },
+   "4921096453319030731": {
+      "message": "Sirijski znak za okrajšavo"
+   },
+   "4924253230856131215": {
+      "message": "Jugovzhodno azijske pisave"
+   },
+   "496636435516411982": {
+      "message": "Skladbe ni mogoče oceniti. Poskusite znova."
+   },
+   "498913874005297914": {
+      "message": "Krepko"
+   },
+   "499152283823240992": {
+      "message": "samaritanščina"
+   },
+   "5003850562831597565": {
+      "message": "Nedavno naročeno"
+   },
+   "5009878480585609766": {
+      "message": "Han – drugo"
+   },
+   "5015096128854741514": {
+      "message": "Transport in zemljevidi"
+   },
+   "5018227417300461385": {
+      "message": "Majhen znak za minus"
+   },
+   "5022153145769748172": {
+      "message": "V smetnjaku ni nobene skladbe."
+   },
+   "5030096791460456147": {
+      "message": "Gostiteljsko spletno mesto je blokiralo sliko, ki jo poskušate povleči."
+   },
+   "5032188163864418301": {
+      "message": "inskripcijska perzijščina"
+   },
+   "5049432650728491454": {
+      "message": "Brskajte po novih izdajah, lestvicah najbolj priljubljenih, seznamih predvajanja in zvrsteh"
+   },
+   "506090363255226122": {
+      "message": "Obrnjeno/zrcaljeno"
+   },
+   "5071594083516657121": {
+      "message": "Datoteka je prevelika"
+   },
+   "5094769877856014729": {
+      "message": "Glasbeni simbol zaključka ligature"
+   },
+   "5105404398573470156": {
+      "message": "Geometrijske oblike"
+   },
+   "5113771261593769985": {
+      "message": "čamska pisava"
+   },
+   "5115900738857721327": {
+      "message": "Združevalni naveznik grafemov"
+   },
+   "5128240607770067472": {
+      "message": "Vizitka …"
+   },
+   "5143432838919500349": {
+      "message": "Iskanje ..."
+   },
+   "5170992049958515620": {
+      "message": "Vezaj"
+   },
+   "5187212874644392331": {
+      "message": "Različica: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Slikovnih datotek trenutno ni mogoče vleči in spustiti.\nPovlecite sliko iz brskalnika."
+   },
+   "5199204386348402183": {
+      "message": "osmanijščina"
+   },
+   "5219596981664772816": {
+      "message": "3-potezni radikali v pisavi han"
+   },
+   "5232157483592334572": {
+      "message": "pisava tifinaf"
+   },
+   "5256846847077792168": {
+      "message": "Urejanje besede"
+   },
+   "5278374842872340790": {
+      "message": "Čustveni simboli"
+   },
+   "5288571118300787017": {
+      "message": "V skladbi $SONG_TITLE$ je bila zaznana napaka dekodiranja. Preverite prvotno datoteko in znova naložite. Skladba je bila preskočena.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "531478949469830505": {
+      "message": "pisava sora sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{več kot 0 dni}=1{več kot 1 dan}one{več kot # dan}two{več kot # dneva}few{več kot # dni}other{več kot # dni}}"
+   },
+   "536459166857647880": {
+      "message": "tagaloščina"
+   },
+   "5373550672011878193": {
+      "message": "runska pisava"
+   },
+   "537543696442379345": {
+      "message": "Začni takojšen miks"
+   },
+   "5378532290721565403": {
+      "message": "Skladba je bila kupljena z drugim računom za Glasbo Google Play"
+   },
+   "5394607018657314633": {
+      "message": "Znak za ločevanje vrstic"
+   },
+   "5402470227536486835": {
+      "message": "Kratki dolgi pomišljaj"
+   },
+   "5404910277282887798": {
+      "message": "feničanska pisava"
+   },
+   "5408241503383428945": {
+      "message": "Druge evropske pisave"
+   },
+   "5432330868773114140": {
+      "message": "Zaženi radio"
+   },
+   "5451692331472585782": {
+      "message": "Vse skladbe"
+   },
+   "5452036681614307719": {
+      "message": "Neviden znak za plus"
+   },
+   "5455360062863417200": {
+      "message": "Naslednja skladba"
+   },
+   "5464364716831469679": {
+      "message": "Neznan album"
+   },
+   "548629550059508920": {
+      "message": "Ni mogoče nalagati, ker že nalagate iz dveh računov."
+   },
+   "5497512316841934820": {
+      "message": "Miks »Klik na srečo«"
+   },
+   "5497627646066282315": {
+      "message": "Vzpostavljanje povezave"
+   },
+   "5501301484140201550": {
+      "message": "Radio »Klik na srečo«"
+   },
+   "5518817744725858296": {
+      "message": "Izvajalec nastopa v vaši bližini"
+   },
+   "5529194084754296998": {
+      "message": "Presledek velikosti šestine dolgega pomišljaja"
+   },
+   "5541835554879897802": {
+      "message": "Nekatere skladbe niso bile dodane v zbirko. Poskusite znova."
+   },
+   "5578390534357178026": {
+      "message": "V Chrome morate biti prijavljeni z istim Google Računom."
+   },
+   "5584189341216439776": {
+      "message": "Dodajte svojo glasbo"
+   },
+   "5584467594910303696": {
+      "message": "meriotski hieroglifi"
+   },
+   "5593848105713936399": {
+      "message": "Čakalna vrsta"
+   },
+   "5594762259680838005": {
+      "message": "Nedavno kupljeno"
+   },
+   "5612959352951118540": {
+      "message": "Čez $NUM$ h",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Oblikovanje"
+   },
+   "5653588624985073807": {
+      "message": "pisava gurmuki"
+   },
+   "5665391621751941927": {
+      "message": "Zvrsti ni bilo mogoče prenesti. Poskusite znova."
+   },
+   "5674048882417502526": {
+      "message": "Znak za preglasitev za jezike s pisavo od desne proti levi"
+   },
+   "5677606995605741055": {
+      "message": "Težava pri brisanju radijske postaje."
+   },
+   "569766142833422558": {
+      "message": "Aplikacijo Glasba Google Play za Chrome je treba posodobiti. To bi se moralo zgoditi samodejno."
+   },
+   "5700613377997995103": {
+      "message": "Pomišljaj za števke"
+   },
+   "5755038562791065032": {
+      "message": "Presledek velikosti tretjine dolgega pomišljaja"
+   },
+   "5761798931116026691": {
+      "message": "Pretvorba v obliko MP3 ni uspela"
+   },
+   "5769804815976568558": {
+      "message": "Izbira mesta za prenos"
+   },
+   "5773750119871048451": {
+      "message": "Prekliči"
+   },
+   "5775493454862732930": {
+      "message": "Armenski vezaj"
+   },
+   "5784007894878825338": {
+      "message": "Nedeljivi presledek"
+   },
+   "5889126665299129466": {
+      "message": "Če želite uporabiti minipredvajalnik, morate biti prijavljeni v Chrome."
+   },
+   "5890243856676178044": {
+      "message": "bengalščina"
+   },
+   "5914500973755757025": {
+      "message": "laoščina"
+   },
+   "5918806792833250096": {
+      "message": "klinopis"
+   },
+   "5930857699885919881": {
+      "message": "Datoteka ALAC ni podprta"
+   },
+   "5969115558488445506": {
+      "message": "Podnaslov"
+   },
+   "5971001229987621398": {
+      "message": "Predlagana novost"
+   },
+   "5999484363963634214": {
+      "message": "mandajščina"
+   },
+   "601150082487101480": {
+      "message": "Zadnje dodano"
+   },
+   "6031749391396582225": {
+      "message": "Hangulsko polnilo"
+   },
+   "6042091568356544470": {
+      "message": "Operator za uporabo funkcije"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "610635793308893528": {
+      "message": "Vdelovanje od desne proti levi"
+   },
+   "6125785068086103357": {
+      "message": "Skladbe ni bilo mogoče odstraniti. Poskusite znova."
+   },
+   "6134905866550808378": {
+      "message": "Vse moje skladbe – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6205568685279927986": {
+      "message": "pisava rejang"
+   },
+   "6211429203092739745": {
+      "message": "Prejšnja skladba"
+   },
+   "6211690508928257569": {
+      "message": "sirijska pisava"
+   },
+   "6223487594388109285": {
+      "message": "Težava pri preimenovanju radijske postaje."
+   },
+   "6233107584508657559": {
+      "message": "Povezave z Googlom ni bilo mogoče vzpostaviti"
+   },
+   "6238576599909606924": {
+      "message": "neveljaven URL"
+   },
+   "6242354668932209396": {
+      "message": "Vse skladbe se ponovijo. Kliknite za spremembo načina ponavljanja."
+   },
+   "624368563085644372": {
+      "message": "Neviden znak za krat"
+   },
+   "6264257099423315684": {
+      "message": "Na kateri e-poštni naslov povezuje ta povezava?"
+   },
+   "630414199054820482": {
+      "message": "Presledek, enak dolžini ločila"
+   },
+   "6342787164312491730": {
+      "message": "Vreme, prizori in znaki zodiaka"
+   },
+   "6352462755178724841": {
+      "message": "Odstrani oblikovanje"
+   },
+   "6360340926892934518": {
+      "message": "Dodaj mapo"
+   },
+   "6376633306429460166": {
+      "message": "pisava sauraštra"
+   },
+   "6390744057286457578": {
+      "message": "Poravnaj na sredino"
+   },
+   "6397906195939852735": {
+      "message": "kanareščina"
+   },
+   "6397910887534888858": {
+      "message": "Barva besedila"
+   },
+   "6425912931786223127": {
+      "message": "dopoldne"
+   },
+   "6427041476637425542": {
+      "message": "Podpisano"
+   },
+   "6447846965513034625": {
+      "message": "Predmeti"
+   },
+   "6452850149519075219": {
+      "message": "Ne zdaj"
+   },
+   "6455550894777387014": {
+      "message": "mjanmarska pisava"
+   },
+   "6502885021177224543": {
+      "message": "Glasba Google Play: Izbira mape za prenos"
+   },
+   "6504449653938065974": {
+      "message": "Priporočen seznam predvajanja"
+   },
+   "6510962485068569110": {
+      "message": "Razveljavi"
+   },
+   "653219508056341533": {
+      "message": "Ljudje in čustva"
+   },
+   "6538565185460307864": {
+      "message": "orijščina"
+   },
+   "6568036879894576496": {
+      "message": "V Glasbo Google Play bo dodana glasba iz teh map"
+   },
+   "6591282200798732887": {
+      "message": "En Quad"
+   },
+   "6593910762276333113": {
+      "message": "Prenesi Flash"
+   },
+   "66116513409922755": {
+      "message": "Ne"
+   },
+   "6612115524763399815": {
+      "message": "devangarska pisava"
+   },
+   "6641147067989080704": {
+      "message": "karenska pisava"
+   },
+   "6650739047421247577": {
+      "message": "Glasbe ni mogoče predvajati"
+   },
+   "6652787256443519035": {
+      "message": "Neoznačeno"
+   },
+   "66820157572867378": {
+      "message": "Zmanjšaj zamik"
+   },
+   "6689623864271696040": {
+      "message": "Mehki vezaj"
+   },
+   "6711475260919070872": {
+      "message": "staroperzijska pisava"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Priporočeno za vas"
+   },
+   "6722174221321515493": {
+      "message": "Neveznik nične širine"
+   },
+   "6732797853205065184": {
+      "message": "Prezri"
+   },
+   "6750258767236131097": {
+      "message": "Bližnjevzhodne pisave"
+   },
+   "6768967544887679189": {
+      "message": "Valovit pomišljaj"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "V redu"
+   },
+   "6821274223204126521": {
+      "message": "Glasbeni"
+   },
+   "6839273670547667172": {
+      "message": "Različni izvajalci"
+   },
+   "6843333688253399564": {
+      "message": "katakana"
+   },
+   "6898179631823558149": {
+      "message": "Pretvorba datoteke v uporabno obliko zapisa ni uspela"
+   },
+   "6930531446322391145": {
+      "message": "Slika"
+   },
+   "6958966284437922286": {
+      "message": "pisava vai"
+   },
+   "700030425158051007": {
+      "message": "limbuška pisava"
+   },
+   "7009828133009731416": {
+      "message": "Brezplačno iz Googla"
+   },
+   "7015870297337540921": {
+      "message": "pisava miao"
+   },
+   "7020161279392960480": {
+      "message": "Oblikovanje"
+   },
+   "7029749611952268902": {
+      "message": "Manjka predvajalnik Flash Player"
+   },
+   "7034479228356652023": {
+      "message": "1-potezni radikali v pisavi han"
+   },
+   "7049182394855721704": {
+      "message": "gotska pisava"
+   },
+   "7080245643233785574": {
+      "message": "Aplikacija Glasba Google Play za Chrome je naletela na težavo, zato se morate znova prijaviti."
+   },
+   "7100404876663103497": {
+      "message": "Hangulsko polnilo čoseong"
+   },
+   "7100567566985297322": {
+      "message": "Dolgi presledek"
+   },
+   "7102126384411654213": {
+      "message": "V zbirko ni bilo mogoče dodati skladb. Poskusite znova."
+   },
+   "7104210472412766015": {
+      "message": "Znak za ločevanje medvrstičnih opomb"
+   },
+   "7111181959300196580": {
+      "message": "Povečaj zamik"
+   },
+   "7116872031464114568": {
+      "message": "Prepoznano s Prepoznavanjem zvokov za Google Play"
+   },
+   "7127937208951634191": {
+      "message": "Simbol"
+   },
+   "7132453172532202734": {
+      "message": "Google Play ni dosegljiv"
+   },
+   "7136816542440442290": {
+      "message": "Težava pri nalaganju radijske postaje."
+   },
+   "716550293954822096": {
+      "message": "sinhalščina"
+   },
+   "7192513315706728552": {
+      "message": "Napaka strežnika. Poskusite znova pozneje."
+   },
+   "7193968696947634147": {
+      "message": "Osveži stran"
+   },
+   "7194376132387780145": {
+      "message": "Tega računalnika ni mogoče odobriti, ker že imate deset naprav."
+   },
+   "7202681158267340446": {
+      "message": "Pisava"
+   },
+   "720381800527728702": {
+      "message": "Šport, praznovanja in dejavnosti"
+   },
+   "7224832103566723854": {
+      "message": "Seznama predvajanja ni bilo mogoče odpreti. Poskusite pozneje."
+   },
+   "7228343081607279547": {
+      "message": "sundska pisava"
+   },
+   "7229202390260081051": {
+      "message": "Ogromna"
+   },
+   "7282565673166392948": {
+      "message": "Ideografski opis"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minut}=1{1 minuta}one{# minuta}two{# minuti}few{# minute}other{# minut}}"
+   },
+   "7293925053370285812": {
+      "message": "Ponovi se trenutna skladba. Kliknite za spremembo načina ponavljanja."
+   },
+   "7305504256207181669": {
+      "message": "Označen seznam"
+   },
+   "7310668544702677420": {
+      "message": "Osvežite to stran v brskalniku, da se vrnete na poslušanje glasbe. Če se težave ponovijo, preverite, ali je predvajalnik Flash omogočen in deluje."
+   },
+   "7320133162875658022": {
+      "message": "Naloži nove skladbe ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7331328794127852355": {
+      "message": "Znaki »emoji«"
+   },
+   "7335080673788704461": {
+      "message": "Promet, zemljevidi in table"
+   },
+   "7347179017294066771": {
+      "message": "Dodaj ali odstrani mape"
+   },
+   "7354691783317064273": {
+      "message": "Aplikacija za Chrome vzpostavlja povezavo."
+   },
+   "7396303606473621591": {
+      "message": "Vsi"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{Čez # dni}=1{Čez # dan}one{Čez # dan}two{Čez # dneva}few{Čez # dni}other{Čez # dni}}"
+   },
+   "7437894509168051348": {
+      "message": "7-potezni radikali v pisavi han"
+   },
+   "747583939629659293": {
+      "message": "Dodajanje barve"
+   },
+   "7480960100390206139": {
+      "message": "Razno"
+   },
+   "7529798479468856973": {
+      "message": "Pred $NUM$ h",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7536172317066333802": {
+      "message": "Vstavi sliko"
+   },
+   "7559266156388225108": {
+      "message": "Številski znak kaiti"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongolska ločilna črta za samoglasnike"
+   },
+   "7596816553523902619": {
+      "message": "Danes"
+   },
+   "7601688284754148415": {
+      "message": "Matematika"
+   },
+   "7617664217221228040": {
+      "message": "balijska pisava"
+   },
+   "762389150316771008": {
+      "message": "Radio »Klik na srečo«"
+   },
+   "7631480327394084350": {
+      "message": "Nadzorne slike"
+   },
+   "7664246845088850317": {
+      "message": "Povezave s strežnikom ni bilo mogoče vzpostaviti. Vrnjena je bila koda napake: "
+   },
+   "7697058485679231601": {
+      "message": "Znova naložite stran in poskusite znova."
+   },
+   "7704516203792990151": {
+      "message": "Pretečeni čas"
+   },
+   "7709119284546787990": {
+      "message": "Od desne proti levi"
+   },
+   "7711713319832787051": {
+      "message": "Povezano"
+   },
+   "7730109880037106848": {
+      "message": "Simboli"
+   },
+   "7736581252844206600": {
+      "message": "grščina"
+   },
+   "7737642252665507180": {
+      "message": "Šestnajstiški vnos"
+   },
+   "7743528314734813641": {
+      "message": "Težava pri nalaganju takojšnjega miksa."
+   },
+   "7760426006262447033": {
+      "message": "Premalo prostora v čakalni vrsti"
+   },
+   "7774266771623079214": {
+      "message": "Glasba Play"
+   },
+   "7776111286341041808": {
+      "message": "Od leve proti desni"
+   },
+   "779262212811541732": {
+      "message": "stara južnoarabska pisava"
+   },
+   "7816161180678740448": {
+      "message": "Braillova pisava"
+   },
+   "7846689234809169417": {
+      "message": "Živali, rastline in hrana"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 ur}=1{1 ura}one{# ura}two{# uri}few{# ure}other{# ur}}"
+   },
+   "7878031641910175480": {
+      "message": "Nedavni izbori:"
+   },
+   "7888286842234266048": {
+      "message": "Vključeno/črtkano"
+   },
+   "7898792314887900865": {
+      "message": "ciprska pisava"
+   },
+   "7927039504440585569": {
+      "message": "Latinica"
+   },
+   "7930381906669528420": {
+      "message": "$SONG_TITLE$ ni bilo mogoče predvajati. Preskočeno.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Fonetika (IPA)"
+   },
+   "7954850519963017242": {
+      "message": "Pred $NUM$ dnevom",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arabski znak sana"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 map}=1{1 mapa}one{# mapa}two{# mapi}few{# mape}other{# map}}"
+   },
+   "7984622936663451936": {
+      "message": "Tipkovnica in uporabniški vmesnik"
+   },
+   "7985095810697977698": {
+      "message": "Skladbe ni bilo mogoče predvajati. Preskočite jo."
+   },
+   "8001758142015238809": {
+      "message": "Začasna napaka. Vnovični poskus nalaganja."
+   },
+   "8019982600883750632": {
+      "message": "Poravnaj"
+   },
+   "8020892463961333112": {
+      "message": "Glasbeni simbol za konec loka"
+   },
+   "8024675506077392847": {
+      "message": "Naslednje skladbe ni bilo mogoče naložiti."
+   },
+   "8030037581414873660": {
+      "message": "2-potezni radikali v pisavi han"
+   },
+   "803032414305825807": {
+      "message": "Velikost pisave"
+   },
+   "803376120920513357": {
+      "message": "Pred toliko dnevi: $NUM$",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Na seznam predvajanja se ni bilo mogoče naročiti. Poskusite znova."
+   },
+   "8045052194324740729": {
+      "message": "Skladb v smetnjaku ni mogoče predvajati."
+   },
+   "8066747296553908214": {
+      "message": "Dvojni poševni vezaj"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dan}one{{TEXT} dan}two{{TEXT} dni}few{{TEXT} dni}other{{TEXT} dni}}"
+   },
+   "8159976291123989327": {
+      "message": "Urejanje povezave"
+   },
+   "8164274980045228173": {
+      "message": "Zaključek smernega formatiranja"
+   },
+   "8164897103619368290": {
+      "message": "Oštevilčen seznam"
+   },
+   "8191208612330635266": {
+      "message": "tibetanska pisava"
+   },
+   "8192298658946835992": {
+      "message": "Navaden nedeljivi presledek"
+   },
+   "8193509313274135818": {
+      "message": "Arabska oznaka sprotne opombe"
+   },
+   "819996403327805209": {
+      "message": "Več o tem"
+   },
+   "823405029831570152": {
+      "message": "etiopska pisava"
+   },
+   "8239380670132570074": {
+      "message": "Začasne datoteke ni mogoče odpreti"
+   },
+   "8249329268828083858": {
+      "message": "Enačaj v katakani in hiragani"
+   },
+   "8275689791574630480": {
+      "message": "Ogamski znak za presledek"
+   },
+   "8277279706638733641": {
+      "message": "Zvezdice"
+   },
+   "8286384050114068255": {
+      "message": "NaCl – različica: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "8325100368677049569": {
+      "message": "Raziskovanje nove glasbe"
+   },
+   "8338465287076872825": {
+      "message": "Glasbe iz datoteke ni mogoče prebrati"
+   },
+   "8358697777226306085": {
+      "message": "egipčanski hieroglifi"
+   },
+   "8363930857329550333": {
+      "message": "gruzijščina"
+   },
+   "8385464685117997940": {
+      "message": "Nedavno predvajano"
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Prijava"
+   },
+   "8412726756889279816": {
+      "message": "pisava čakma"
+   },
+   "842631328362018283": {
+      "message": "Velika"
+   },
+   "8437015452970026040": {
+      "message": "Omejitev za zbirko je dosežena. Odstranite nekaj skladb, če želite dodajati nove."
+   },
+   "8440128775129354214": {
+      "message": "Zasebnost"
+   },
+   "8454237498473122184": {
+      "message": "Vezaj-minus"
+   },
+   "8458476427655018512": {
+      "message": "Preslednica"
+   },
+   "8482517151370142670": {
+      "message": "Drugo"
+   },
+   "848933194605193751": {
+      "message": "Nedavno gledano v YouTubu"
+   },
+   "8492241415183649700": {
+      "message": "karijska pisava"
+   },
+   "8524322739067915993": {
+      "message": "popoldne"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{Čez # minut}=1{Čez # minuto}one{Čez # minuto}two{Čez # minuti}few{Čez # minute}other{Čez # minut}}"
+   },
+   "8628766851955432422": {
+      "message": "Odstrani"
+   },
+   "8637643428005590282": {
+      "message": "Oznake"
+   },
+   "8639048757911329468": {
+      "message": "Različica NaCl: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Poskusi znova"
+   },
+   "8741366833297918126": {
+      "message": "Dolžina skladbe"
+   },
+   "875046332706257024": {
+      "message": "Samodejni seznam predvajanja"
+   },
+   "8763647985340267403": {
+      "message": "Igrače"
+   },
+   "8768143964455071187": {
+      "message": "ogamska pisava"
+   },
+   "8771272263124601486": {
+      "message": "takbanva"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{Pred # urami}=1{Pred # uro}one{Pred # uro}two{Pred # urama}few{Pred # urami}other{Pred # urami}}"
+   },
+   "8787014632487519603": {
+      "message": "Zaznana je bila napaka dekodiranja. Preverite prvotno datoteko in znova naložite. Skladba je bila preskočena."
+   },
+   "8801527171487571079": {
+      "message": "pisava taj tam"
+   },
+   "8818387952529569142": {
+      "message": "Danes"
+   },
+   "8819361322041128714": {
+      "message": "ugaritska pisava"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Bodite previdni.$POSTB$ Kadar koli na spletno stran vnesete e-poštni naslov, ga lahko najdejo tudi nadležni pošiljatelji vsiljene pošte.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arabski številski znak"
+   },
+   "8858058202463451164": {
+      "message": "Poravnaj levo"
+   },
+   "8868784738343119594": {
+      "message": "Pred $NUM$ minuto",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8896073810838561095": {
+      "message": "8-potezni radikali v pisavi han"
+   },
+   "8901076355007755806": {
+      "message": "pisava lepča"
+   },
+   "8925271759659767084": {
+      "message": "Brezplačno in kupljeno"
+   },
+   "8931700495296520714": {
+      "message": "Zapri minipredvajalnik"
+   },
+   "8934299821763129489": {
+      "message": "stara ležeča pisava"
+   },
+   "8958381934236197373": {
+      "message": "Presledek med številkami"
+   },
+   "8961985815150856927": {
+      "message": "Nedavno ustvarjeno"
+   },
+   "8971282019539581965": {
+      "message": "Zapiranje pogovornega okna Vizitka"
+   },
+   "8979933913103486540": {
+      "message": "Pomišljaj/povezovalnik"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$ – $ARTIST_NAME$ – minipredvajalnik za Glasbo Google Play",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Obdajajoči"
+   },
+   "9000910334745340727": {
+      "message": "Mongolski mehki vezaj"
+   },
+   "9001309834415064766": {
+      "message": "10-potezni radikali v pisavi han"
+   },
+   "901225307358856093": {
+      "message": "Kanadski zlogovni vezaj"
+   },
+   "902300864627076683": {
+      "message": "inskripcijska partščina"
+   },
+   "9024489874326845912": {
+      "message": "Priporočeni album"
+   },
+   "9045338265172338590": {
+      "message": "pisava mitej majek"
+   },
+   "9053704575157030099": {
+      "message": "Brez"
+   },
+   "9063659532473030063": {
+      "message": "Vreme in astrologija"
+   },
+   "9084816336314899019": {
+      "message": "Nadaljuj"
+   },
+   "9092976405151508175": {
+      "message": "Uveljavi"
+   },
+   "9098679347815545327": {
+      "message": "Seznama predvajanja ni bilo mogoče ustvariti. Poskusite znova."
+   },
+   "9173411042808904308": {
+      "message": "Običajna/serif"
+   },
+   "9184426509557869402": {
+      "message": "Ideografski presledek"
+   },
+   "9197433560254928186": {
+      "message": "arabščina"
+   },
+   "9218938714985695055": {
+      "message": "Glasbeni simbol za začetek loka"
+   },
+   "947591000172763449": {
+      "message": "pisava fags pa"
+   },
+   "953268105555355822": {
+      "message": "Prikaz vseh"
+   },
+   "964983733596985457": {
+      "message": "Združljivost"
+   },
+   "97224266342934568": {
+      "message": "Nadpisano"
+   },
+   "997742287268027221": {
+      "message": "Nalaganje datoteke ni uspelo"
+   }
+}

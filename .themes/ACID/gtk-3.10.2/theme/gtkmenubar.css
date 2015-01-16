@@ -1,0 +1,23 @@
+GtkMenuBar{
+box-shadow:inset 0px -2px 0px 0px #7294BB;
+border-width:0px;
+color:#7294BB;}
+
+GtkMenuBar GtkLabel{
+padding-top:4px;
+padding-bottom:1px;}
+
+GtkMenuBar>GtkMenuItem,GtkMenuBar>GtkMenuItem>GtkLabel{
+-GtkMenuBar-internal-padding:-2;
+border:solid #7294BB;
+padding-left:3px;
+padding-right:3px;
+border-width:0px 0px 2px 0px; }
+
+GtkMenuBar>GtkMenuItem:hover,GtkMenuBar>GtkMenuItem>GtkLabel:hover{
+-GtkMenuBar-internal-padding:-2;
+color:#333;
+background-color:#7294BB;}
+
+GtkMenuBar>GtkMenuItem>*:hover{
+background-color:#7294BB;}

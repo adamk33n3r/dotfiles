@@ -1,0 +1,20 @@
+{
+   "api_console_project_id": "220363188230",
+   "app": {
+      "launch": {
+         "web_url": "http://floorplanner.com/chromedrive"
+      },
+      "urls": [ "*://floorplanner.com/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "description": "The easiest way to create floor plans",
+   "icons": {
+      "128": "icon_128.png",
+      "96": "icon_96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/cFxHJz+OL2Ic+0/0QfUk8BJzmzH+dprLimRGZqFev6Aqj5PPo9PwsFZKImqhdzNCxotOyxXUJlevhXlynqjSEiyo7NMabfno/0RqRyspjHuJoxF3azfcjnMiVYRaoSfnxg2y2bCnXRqNcUQoi66lQ8cloUhZAVnFX6gAI37ZhQIDAQAB",
+   "name": "Floorplanner",
+   "permissions": [ "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "13"
+}

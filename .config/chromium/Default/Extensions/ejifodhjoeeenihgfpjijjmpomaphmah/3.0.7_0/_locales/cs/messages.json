@@ -1,0 +1,557 @@
+{
+   "April": {
+      "message": "Duben"
+   },
+   "April_short": {
+      "message": "Dub"
+   },
+   "August": {
+      "message": "Srpen"
+   },
+   "August_short": {
+      "message": "Srp"
+   },
+   "Date": {
+      "message": "Datum"
+   },
+   "Day": {
+      "message": "Den"
+   },
+   "December": {
+      "message": "Prosinec"
+   },
+   "December_short": {
+      "message": "Pro"
+   },
+   "Domain": {
+      "message": "Doména"
+   },
+   "February": {
+      "message": "Únor"
+   },
+   "February_short": {
+      "message": "Ún"
+   },
+   "Friday": {
+      "message": "Pátek"
+   },
+   "Friday_short": {
+      "message": "Pá"
+   },
+   "January": {
+      "message": "Leden"
+   },
+   "January_short": {
+      "message": "Led"
+   },
+   "July": {
+      "message": "Červenec"
+   },
+   "July_short": {
+      "message": "Črv"
+   },
+   "June": {
+      "message": "Červen"
+   },
+   "June_short": {
+      "message": "Čer"
+   },
+   "March": {
+      "message": "Březen"
+   },
+   "March_short": {
+      "message": "Bře"
+   },
+   "May": {
+      "message": "Květen"
+   },
+   "May_short": {
+      "message": "Kvě"
+   },
+   "Monday": {
+      "message": "Pondělí"
+   },
+   "Monday_short": {
+      "message": "Po"
+   },
+   "Month": {
+      "message": "Měsíc"
+   },
+   "November": {
+      "message": "Listopad"
+   },
+   "November_short": {
+      "message": "Lis"
+   },
+   "October": {
+      "message": "Říjen"
+   },
+   "October_short": {
+      "message": "Říj"
+   },
+   "Saturday": {
+      "message": "Sobota"
+   },
+   "Saturday_short": {
+      "message": "So"
+   },
+   "September": {
+      "message": "Září"
+   },
+   "September_short": {
+      "message": "Zář"
+   },
+   "Sunday": {
+      "message": "Neděle"
+   },
+   "Sunday_short": {
+      "message": "Ne"
+   },
+   "Thursday": {
+      "message": "Čtvrtek"
+   },
+   "Thursday_short": {
+      "message": "Čt"
+   },
+   "Tuesday": {
+      "message": "Úterý"
+   },
+   "Tuesday_short": {
+      "message": "Út"
+   },
+   "Wednesday": {
+      "message": "Středa"
+   },
+   "Wednesday_short": {
+      "message": "St"
+   },
+   "about": {
+      "message": "O doplňku"
+   },
+   "about_text1": {
+      "message": "Děkujeme že jste si nainstalovali tento doplněk, doufáme, že se vám bude líbit."
+   },
+   "about_text10": {
+      "message": "S láskou"
+   },
+   "about_text11": {
+      "message": "Tým Wips.com"
+   },
+   "about_text2": {
+      "message": "Wips.com je vývojový tým, který vytváří spoustu doplňků nejen pro Google Chrome ale i pro Firefox. Nejvíce se zaměřujeme na jednoduchý a elegantní design a spokojenost uživatele."
+   },
+   "about_text3": {
+      "message": "Vítěz Google Developer Day 2011"
+   },
+   "about_text4": {
+      "message": "Tento doplněk byl původně vyvinutý \u003Ca href='http://gplus.to/Huston007'>Andreyem Skladchikovem\u003C/a> za pomoci \u003Ca href='https://plus.google.com/100822872108533701053/posts'>Arthura Gumerova\u003C/a>. Chceme těmto vývojářům poděkovat za výborný nápad. Náš tým dodělal tento doplněk do finální verze 1.0 a přidal spoustu rozšíření a vylepšení."
+   },
+   "about_text5": {
+      "message": "Naše budoucí plány"
+   },
+   "about_text6": {
+      "message": "Chceme tento doplněk udělat nejlepší jaký dovedeme a rádi od vás uslyšíme názory na vylepšení."
+   },
+   "about_text7": {
+      "message": "Můžete se těšit na ještě lepší a uživatelské rozhraní, škálovatelnou nástěnku, mnohem více zajímavých grafů a spousty dalšího."
+   },
+   "about_text8": {
+      "message": "Zároveň budeme v průběhu léta 2012 spouštět tento doplněk i na Mozilla Firefox."
+   },
+   "about_text9": {
+      "message": "Zůstaňte s námi pro další aktualizaci a pokud máte nějaký nápad na vylepšení, prosím pošlete nám ho na e-mail \u003Ca href='mailto:info@wips.com'>info@wips.com\u003C/a>."
+   },
+   "actions": {
+      "message": "Akce"
+   },
+   "add": {
+      "message": "Přidat"
+   },
+   "categories": {
+      "message": "Kategorie"
+   },
+   "categories_manage": {
+      "message": "Správa kategorií"
+   },
+   "category": {
+      "message": "Kategorie:"
+   },
+   "category_add": {
+      "message": "Přidat kategorii"
+   },
+   "category_add_placeholder": {
+      "message": "název kategorie"
+   },
+   "category_all_sites_categorized": {
+      "message": "všechny domény jsou zařazeny do kategorií"
+   },
+   "category_exists": {
+      "message": "Kategorie nemohla být vytvořena, protože již existuje."
+   },
+   "category_stats_removed": {
+      "message": "Statistiky pro kategorii $category$ byly úspěšně odstraněny.",
+      "placeholders": {
+         "category": {
+            "content": "$1",
+            "example": "fun"
+         }
+      }
+   },
+   "category_translation_all": {
+      "message": "Všechny"
+   },
+   "category_translation_fun": {
+      "message": "Zábava"
+   },
+   "category_translation_other": {
+      "message": "Nezařazené"
+   },
+   "category_translation_work": {
+      "message": "Práce"
+   },
+   "category_uncategorized_only": {
+      "message": "zobrazit pouze nezařazené domény"
+   },
+   "clear": {
+      "message": "Odstranit"
+   },
+   "clear_all_confirm": {
+      "message": "Opravdu chcete smazat všechny statistiky?"
+   },
+   "clear_all_stats": {
+      "message": "Smazat všechny statistiky:"
+   },
+   "clear_all_success": {
+      "message": "Všechny statistiky byly odstraněny."
+   },
+   "clear_category": {
+      "message": "Odstranit statistiky v kategorii:"
+   },
+   "clear_category_confirm": {
+      "message": "Opravdu chcete odstranit statistiky v kategorii $category$?",
+      "placeholders": {
+         "category": {
+            "content": "$1",
+            "example": "fun"
+         }
+      }
+   },
+   "click_to_dismiss": {
+      "message": "Skrýt po kliku"
+   },
+   "close": {
+      "message": "Zavřít"
+   },
+   "createdBy": {
+      "message": "Vytvořil"
+   },
+   "d": {
+      "message": "d"
+   },
+   "dashboard_enable": {
+      "message": "zobrazit na dashboardu"
+   },
+   "dashboard_hide": {
+      "message": "Odebrat blok z dashboardu"
+   },
+   "dashboard_info": {
+      "message": "Jednotlivé statistiky můžete odebrat z dashboardu kliknutím na tlačítko s křížkem v pravé horní části každého bloku. Přidat zpět je můžete zatrhnutím možnosti \"zobrazit na dashboardu\" na stránce s jednotlivými statistikami nebo kliknutím na tlačítko níže."
+   },
+   "dashboard_restore": {
+      "message": "Zobrazit všechny grafy"
+   },
+   "date_format": {
+      "message": "Formát data:"
+   },
+   "date_format_dd_mm_yy_dashes": {
+      "message": "dd-mm-yy (např. 30-04-2012)"
+   },
+   "date_format_dd_mm_yy_dots": {
+      "message": "dd.mm.yy (např. 30.04.2012)"
+   },
+   "date_format_dd_mm_yy_slashes": {
+      "message": "dd/mm/yy (např. 30/04/2012)"
+   },
+   "date_format_description": {
+      "message": "(formát zobrazení data)"
+   },
+   "date_format_mm_dd_yy_slashes": {
+      "message": "mm/dd/yy (např. 04/30/2012)"
+   },
+   "date_format_yy_mm_dd_dashes": {
+      "message": "yy-mm-dd (např. 2012-04-30)"
+   },
+   "date_format_yy_mm_dd_dots": {
+      "message": "yy.mm.dd (např. 2012.04.30)"
+   },
+   "date_format_yy_mm_dd_slashes": {
+      "message": "yy/mm/dd (např. 2012/04/30)"
+   },
+   "date_from": {
+      "message": "Od:"
+   },
+   "date_removed": {
+      "message": "Statistiky ze dne $date$ byly úspěšně smazány.",
+      "placeholders": {
+         "date": {
+            "content": "$1",
+            "example": "01.06.2012"
+         }
+      }
+   },
+   "date_to": {
+      "message": "Do:"
+   },
+   "dates": {
+      "message": "Datum"
+   },
+   "days": {
+      "message": "dnů"
+   },
+   "default_popup_action": {
+      "message": "Výchozí akce popup okna:"
+   },
+   "default_popup_action_description": {
+      "message": "(první akce vyvolaná po kliknutí na ikonu timeStats v prohlížeči)"
+   },
+   "delete": {
+      "message": "Smazat"
+   },
+   "delete_date_confirm": {
+      "message": "Opravdu chcete smazat statistiky z dne $date$?",
+      "placeholders": {
+         "date": {
+            "content": "$1",
+            "example": "01.06.2012"
+         }
+      }
+   },
+   "delete_date_text": {
+      "message": "Smazat statistiky ze dne:"
+   },
+   "delete_site_confirm": {
+      "message": "Opravdu chcete odebrat doménu $site$ ze statistik?",
+      "placeholders": {
+         "site": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete_site_text": {
+      "message": "Odebrat statistiky domény:"
+   },
+   "domain_zone": {
+      "message": "Doménová zóna"
+   },
+   "domain_zones": {
+      "message": "Doménové zóny"
+   },
+   "enable_anonymous_stats": {
+      "message": "Povolit odesílání anonymních statistik"
+   },
+   "enable_update_notify": {
+      "message": "Povolit upozornění na nové funkce"
+   },
+   "export": {
+      "message": "Export"
+   },
+   "export_csv": {
+      "message": "Export statistik do CSV:"
+   },
+   "extDescr": {
+      "message": "Budete překvapeni, kolik času trávíte na jednotlivých webových stránkách."
+   },
+   "extName": {
+      "message": "timeStats"
+   },
+   "freezed": {
+      "message": "timeStats je pozastaveno, protože nebyla zjištěna žádná aktivita"
+   },
+   "h": {
+      "message": "h"
+   },
+   "hidden_domains_text": {
+      "message": "Seznam domén, u nichž se nebudou zaznamenávat statistiky:"
+   },
+   "history_size_note": {
+      "message": "(zadejte 0 pro neomezenou historii)"
+   },
+   "history_size_text": {
+      "message": "Doba uložené historie (dny):"
+   },
+   "hours": {
+      "message": "hodin"
+   },
+   "idle_time_description": {
+      "message": "(doba přechodu prohlížeče do neaktivního stavu, minimum 15 sekund)"
+   },
+   "idle_time_text": {
+      "message": "Přechod do neaktivity (sekundy):"
+   },
+   "inactive": {
+      "message": "timeStats je pozastaveno, protože okno prohlížeče není aktivní"
+   },
+   "like_it": {
+      "message": "Líbí se vám toto rozšíření?"
+   },
+   "m": {
+      "message": "m"
+   },
+   "menu": {
+      "message": "Menu"
+   },
+   "minutes": {
+      "message": "minut"
+   },
+   "multilevel_sites": {
+      "message": "Domény třetího řádu:"
+   },
+   "next": {
+      "message": "Další"
+   },
+   "no_data": {
+      "message": "Žádná statistika pro zvolené období."
+   },
+   "no_visited_domains": {
+      "message": "Od instalace timeStats nebyla navštívena žádná stránka."
+   },
+   "notWebSite": {
+      "message": "Tato stránka není sledována rozšířením timeStats"
+   },
+   "not_categorized": {
+      "message": "Ani jedna z domén, které jste navštívili, není zařazena do kategorie."
+   },
+   "options": {
+      "message": "Možnosti"
+   },
+   "options_saved": {
+      "message": "Vaše nastavení bylo úspěšně uloženo."
+   },
+   "options_title": {
+      "message": "Možnosti rozšíření timeStats"
+   },
+   "other": {
+      "message": "ostatní"
+   },
+   "prev": {
+      "message": "Před"
+   },
+   "remove": {
+      "message": "Odebrat"
+   },
+   "remove_confirm": {
+      "message": "Opravdu chcete odebrat vybranou kategorii?"
+   },
+   "rename": {
+      "message": "Přejmenovat"
+   },
+   "rename_prompt": {
+      "message": "Zadejte nový název této kategorie:"
+   },
+   "restore": {
+      "message": "Obnovit"
+   },
+   "restore_defaults": {
+      "message": "Obnovit výchozí nastavení:"
+   },
+   "restore_defaults_confirm": {
+      "message": "Opravdu chcete obnovit výchozí nastavení?"
+   },
+   "s": {
+      "message": "s"
+   },
+   "seconds": {
+      "message": "sekund"
+   },
+   "share": {
+      "message": "Sdílet"
+   },
+   "share_it": {
+      "message": "Sdílejte jej!"
+   },
+   "show_icon_text_text": {
+      "message": "Zobrazit čas na ikoně"
+   },
+   "show_uncategorized": {
+      "message": "Zobrazit skupinu nezařazených domén v grafu kategorií"
+   },
+   "siteTitle": {
+      "message": "Celkový čas prohlížení této domény dnes:"
+   },
+   "site_removed": {
+      "message": "Doména $site$ byla odebrána ze statistik.",
+      "placeholders": {
+         "site": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "stats_busiest": {
+      "message": "Nejvytíženější dny"
+   },
+   "stats_categories": {
+      "message": "Kategorie domén"
+   },
+   "stats_daily": {
+      "message": "Denní statistika"
+   },
+   "stats_dashboard": {
+      "message": "Dashboard"
+   },
+   "stats_date": {
+      "message": "Datum:"
+   },
+   "stats_details": {
+      "message": "Detailní statistiky"
+   },
+   "stats_full": {
+      "message": "Souhrnná statistika"
+   },
+   "stats_last7": {
+      "message": "Statistika za posledních 7 dní"
+   },
+   "stats_months": {
+      "message": "Měsíční statistika"
+   },
+   "stats_most": {
+      "message": "Nejnavštěvovanější domény"
+   },
+   "stats_site": {
+      "message": "Doména:"
+   },
+   "stats_sites": {
+      "message": "Doménová statistika"
+   },
+   "stats_time": {
+      "message": "Strávený čas"
+   },
+   "stats_today": {
+      "message": "Dnešní statistika"
+   },
+   "stats_visited": {
+      "message": "Navštívené weby"
+   },
+   "stats_weekdays": {
+      "message": "Dny v týdnu"
+   },
+   "stats_yesterday": {
+      "message": "Včerejší statistika"
+   },
+   "time": {
+      "message": "Čas"
+   },
+   "timeHistory": {
+      "message": "Čas strávený prohlížením"
+   },
+   "totalBrowsingTime": {
+      "message": "Celkový čas:"
+   },
+   "week_start": {
+      "message": "První den týdne:"
+   },
+   "week_start_note": {
+      "message": "(zvolte den, který se má zobrazovat nejvíce nalevo sloupcových grafů)"
+   }
+}

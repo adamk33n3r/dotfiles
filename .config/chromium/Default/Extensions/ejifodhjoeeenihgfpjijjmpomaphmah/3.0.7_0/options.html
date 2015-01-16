@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title i18n="extName"></title>
+    <link rel="stylesheet" type="text/css" href="css/reset-min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/flick/jquery-ui-1.8.21.custom.css"/>
+    <link rel="stylesheet" type="text/css" href="css/page.css"/>
+    <link rel="stylesheet" type="text/css" href="css/scrollbar.css"/>
+    <link rel="stylesheet" type="text/css" href="css/options.css"/>
+    <link rel="stylesheet" type="text/css" href="css/dialog.css"/>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-1.10.3.js"></script>
+    <script type="text/javascript" src="js/jquery.flot.min.js"></script>
+    <script type="text/javascript" src="js/jquery.flot.pie.min.js"></script>
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/plot.js"></script>
+    <script type="text/javascript" src="js/tools.js"></script>
+    <script type="text/javascript" src="js/i18n.js"></script>
+    <script type="text/javascript" src="js/detail.js"></script>
+    <script type="text/javascript" src="js/options.js"></script>
+    <script type="text/javascript" src="js/ga.js"></script>
+    <script type="text/javascript" src="js/BlobBuilder.min.js"></script>
+    <script type="text/javascript" src="js/FileSaver.min.js"></script>
+    <script type="text/javascript" src="js/shareImage.js"></script>
+    <script type="text/javascript" src="js/alarm_reports_options.js"></script>
+</head>
+
+<body>
+
+<div id="topblock">
+    
+    <h1 i18n="extName"></h1>
+    
+    <!--<input id="top_premium" class="nice_button green" type="button" value="Premium functions" />-->
+    
+    <span id="waiting_for_payment">Waiting for payment / approval of payment</span>
+    
+    <div id="premium" style="display:none;">
+      <div class="list_profiles" style="display:none;"></div>
+    </div>
+    
+    <div id="create_profile" style="display:none;">
+      <div class="popup_center">
+        
+        <div class="toggle">
+          <span class="item create active nice_button blue">New profile</span>
+          <span class="item select disable nice_button blue">Load from profile</span>
+        </div>
+        
+        <div class="new_profile">
+          <label>Name your profile to start sync:</label><br />
+          <input class="name" type="text" value="" />
+        </div>
+        
+        <div class="load_profile none2">
+          <strong>Load profile:</strong><br />
+          <div class="select"></div>
+        </div>
+        
+        <div class="load_options none2">
+          <input id="load_options_check" type="checkbox" />
+          <label for="load_options_check">Load settings from other profile</label>
+          <div id="load_options_showhide" class="none2">
+            <strong style="font-size:12px;">Select profile:</strong><br />
+            <div class="select"></div>
+          </div>
+        </div>
+                                                
+        <input class="ok nice_button green" type="button" value="OK" />                
+        
+      </div>
+    </div>
+    
+    <span style="display:none!important;" id="topright_fb_connect" class="nice_button">FB Share</span>
+    
+    <span id="topright_ispremium_text">Your data is safe.</span>
+    
+    <div class="clear"></div>
+    
+</div>
+
+<div id="detail">
+<div id="left">
+    <ul>
+        <li>
+            <a href="" i18n="stats_dashboard" data-analytics-id="stats_dashboard" data-range="true" id="dashboard"></a>
+        </li>
+        
+        <div id="leftmenu_main" class="leftmenu_modify"></div>
+        
+        <div id="leftmenu_other_show">Show more</div>
+        
+        <div id="leftmenu_other" class="leftmenu_modify none"></div>
+        
+        <li>
+            <a href="#" data-analytics-id="premium" data-range="false" id="menu_premium">Backup/Sync your data</a>
+        </li>
+        
+        <li class="show_only_in_main_profile">
+            <a href="" i18n="options" data-analytics-id="options" data-range="false" id="options"></a>
+        </li>
+        <li class="show_only_in_main_profile">
+            <a href="" i18n="categories" data-analytics-id="categories" data-range="false" id="categories"></a>
+        </li>
+        <li>
+            <a href="" i18n="about" data-analytics-id="about" data-range="false" id="about"></a>
+        </li>
+        
+        <!--<li class="space">
+            <span class="maintenance">Under maintenance:</span>
+            <a href="" i18n="alerts" data-analytics-id="alerts" data-range="false" id="alerts_tab"></a>
+        </li>
+        
+        <li class="space">
+            <a href="" data-analytics-id="badges" data-range="false" id="badges">Badges</a>
+        </li>-->
+    </ul>
+    <div id="leftmenu_share">
+        <a class="fb" href="http://www.facebook.com/sharer.php?u=http://bit.ly/timeStats_Chrome_extension" target="_blank">Share</a>
+        <a class="twt" href="http://twitter.com/home?status=Amazing%20browsing%20statistics%20in%20%23chrome%20%23extension%20http://bit.ly/timeStats_Chrome_extension" target="_blank">Tweet</a>
+    </div>
+</div>
+<div id="right">
+
+<h2></h2>
+
+<div class="enable">
+    <input type="checkbox" id="enable"/>
+    <label for="enable" i18n="dashboard_enable"></label>
+</div>
+
+<form>
+    <label for="dateStartSelect" i18n="date_from"></label>
+    <input type="text" id="dateStartSelect" class="datepicker"/>
+    <div class="clear"></div>
+    <label for="dateEndSelect" i18n="date_to"></label>
+    <input type="text" id="dateEndSelect" class="datepicker"/>
+    <div class="clear"></div>
+    <div id="fast_select_date">
+      Last:
+      <span rel="7">7 days</span>
+      <span rel="30">30 days</span>
+      <span rel="90">90 days</span>
+      <span rel="365">365 days</span>
+      <img class="loader" src="images/small_loader.gif" alt="" />
+    </div>
+</form>
+<div class="clear"></div>
+
+<div class="category" data-selector="dashboard" id="dashboard_category">
+</div>
+
+<div class="category" data-selector="category_visited">
+    <div class="chart_all chart" style="width:550px;float:left;"></div>
+    <div class="tooltip"></div>
+    <div class="clear"></div>
+    <div class="button_share" data-width="570" data-height="450" data-text="What are my favorite websites?" i18n="share"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+</div>
+
+<div class="category" data-selector="category_zones">
+    <div class="chart_domains chart" style="width:550px;float:left;"></div>
+    <div class="tooltip"></div>
+    <div class="clear"></div>
+    <br />
+    <div class="clear"></div>
+    <div class="button_share" data-width="520" data-height="430" data-text="What are my favorite Domains?" i18n="share"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+</div>
+
+<div class="category" data-selector="category_sites">
+    <label for="siteSelectId" i18n="stats_site"></label>
+    <select id="siteSelectId" class="siteSelectId"></select>
+
+    <div id="top_chart_site"></div>
+
+    <div class="clear"></div>
+
+    <div class="chart_site chart"></div>
+    <div class="clear"></div>
+    <div class="button_share" data-width="860" data-height="470" data-text="My browsing time:" i18n="share"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+</div>
+
+<div class="category" data-selector="category_categories">
+    <label for="categorySelectId" i18n="category"></label>
+    <select id="categorySelectId" class="categorySelectId"></select>
+
+    <p class="clear totalTime"></p>
+
+    <div class="chart_category chart" style="width:600px"></div>
+    <div class="clear"></div>
+    <br />
+    <div class="clear"></div>
+    <div class="button_share" data-width="550" data-height="465" data-text="How I spend my time on the internet?" i18n="share"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+</div>
+
+<div class="category" data-selector="category_daily">
+    <label for="dateSelectId" i18n="stats_date"></label>
+    <input type="text" id="dateSelectId" class="datepicker dateSelectId"/>
+
+    <div class="clear"></div>
+
+    <div class="chart_date chart" style="width:700px"></div>
+    <div class="clear"></div>
+    <div class="button_share" data-width="660" data-height="410" data-text="I spend my time on these websites" i18n="share"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+</div>
+
+<div class="category" data-selector="category_weekdays">
+    <div class="buttons_chart" style="display:none!important;">
+        <span style="margin-right: 5px; vertical-align: middle;" i18n="show_lines"></span>
+        <input type="button" class="total active" i18n_value="total_button">
+        <input type="button" class="average active" i18n_value="average">
+    </div>
+    <div class="special_legend_daysmonths">
+        TOTAL:<br />
+        AVERAGE:
+    </div>
+    <div style="margin-left:40px;" class="chart_weekdays chart"></div>
+    <div class="clear"></div>
+    <div class="button_share" data-width="860" data-height="440" data-text="What are my busiest browsing days?" i18n="share"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+</div>
+
+<div class="category" data-selector="category_months">
+    <div class="buttons_chart" style="display:none!important;">
+        <span style="margin-right: 5px; vertical-align: middle;" i18n="show_lines"></span>
+        <input type="button" class="total button active" i18n_value="total_button">
+        <input type="button" class="average button active" i18n_value="average">
+    </div>
+    <div class="special_legend_daysmonths">
+        TOTAL:<br />
+        AVERAGE:
+    </div>
+    <div style="margin-left:40px;" class="chart_months chart"></div>
+    <div class="clear"></div>
+    <div class="button_share" data-width="860" data-height="370" data-text="What are my busiest browsing months?" i18n="share"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+</div>
+
+<div class="category" data-selector="category_time">
+    <p class="totalTime"></p>
+
+    <div class="chart_time chart"></div>
+    <div class="clear"></div>
+    <div class="button_share" data-width="860" data-height="460" data-text="This is how I my daily time on the internet." i18n="share"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+</div>
+
+<div class="category most_visited" data-selector="category_most_visited">
+    <div class="button_share" data-width="500" data-height="594" data-text="My all time most visited domains:" i18n="share" style="margin:0 0 15px 0;"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+    <table></table>
+    <div class="clear"></div>
+</div>
+
+<div class="category busiest" data-selector="category_busiest">
+    <div class="button_share" data-width="280" data-height="594" data-text="My busiest days in browsing the internet." i18n="share" style="margin:0 0 15px 0;"></div>
+    <span class="topright_get_premium nice_button green">Backup/Sync your data</span>
+    <div class="busiest_text_help" style="padding:0 0 10px 0; font-size:12px; width:200px;"><img src="images/otaznik.png"> Hover & Click on the days to see more detailed statistics.</div>
+    <table></table>
+    <div class="tooltip chart" style="position:fixed;left:450px;top:130px;border:none;width:510px;height:310px;margin:0 0 0 30px;border:solid 1px #ccc;padding:10px;"></div>
+    <div class="clear"></div>
+</div>
+
+<div class="category search" data-selector="category_search">
+    <span class="topright_get_premium nice_button green" style="margin:0 0 15px 0 !important;">Backup/Sync your data</span>
+    <div class="clear"></div>
+    Domain or part of domain: <input type="text" value="" />
+    <div class="clear"></div>
+    <table style="margin:15px 0 0 0;"></table>
+    <div class="clear"></div>
+</div>
+
+<div class="category alarm" data-selector="category_alarm">
+    <span class="topright_get_premium nice_button green" style="margin:0 0 15px 0 !important;">Backup/Sync your data</span>
+    <div id="mode">
+      <strong style="font-size:16px;display:block;margin:0 0 5px 0;">Action when out of time:</strong>
+      <div class="odsad"><input type="radio" value="block" name="show_mode" id="show_mode_1" /> <label for="show_mode_1" class="">Block the site entirely</label><span class="help"><span class="">You are out of time and you have to wait until tomorrow to go on the website.</span></span></div>
+      <div class="odsad"><input type="radio" value="text" name="show_mode" id="show_mode_2" /> <label for="show_mode_2" class="">Allow me to go to the site after rewriting really hard text</label><span class="help"><span class="">You will be let to go to the website after you will complete the hard challenge of rewriting hard text. It is hard but not impossible. After completing it, you will have again the previous time to visit the website.</span></span></div>
+      <div class="odsad"><input type="radio" value="notif" name="show_mode" id="show_mode_3" /> <label for="show_mode_3" class="">Just let me know in the desktop notification</label><span class="help"><span class="">You will be only informed about the end of the limit every x minutes while you can still visit the website. it is up to you to behave well.</span></span></div>
+      <div class="mode_notif_time">
+        <span class="">Repeat time</span>
+        <select name=""></select>
+      </div>
+    </div>
+    <hr />
+    <strong style="font-size:16px;display:block;margin:0 0 15px 0;">List of webs</strong>
+    <div id="web_add">
+      <input type="text" value="" class="text" />
+      <input style="padding:1px 5px;" type="button" class="add" value="Add web" />
+    </div>
+    <div id="web_list"></div>
+    <hr />
+    <p>The Allowed time you set will start the count down from the moment you set it. When the time runs out you will be able to change it until the next day.</p>
+</div>
+
+<div class="category reports" data-selector="category_reports">
+    <span class="topright_get_premium nice_button green" style="margin:0 0 15px 0 !important;">Backup/Sync your data</span>
+    <div id="report_interval">
+      <strong style="font-size:16px;display:block;margin:0 0 5px 0;">I want to get regular reports about my browsing activity with interval:</strong>
+      <div class="odsad"><input type="radio" value="none" name="report_interval" id="report_interval_1" /> <label for="report_interval_1" class="">Never</label></div>
+      <div class="odsad"><input type="radio" value="7" name="report_interval" id="report_interval_2" /> <label for="report_interval_2" class="">Every week</label></div>
+      <div class="odsad"><input type="radio" value="14" name="report_interval" id="report_interval_3" /> <label for="report_interval_3" class="">Once in two weeks</label></div>
+      <div class="odsad"><input type="radio" value="30" name="report_interval" id="report_interval_4" /> <label for="report_interval_4" class="">Monthly</label></div>
+    </div>
+</div>
+
+<div class="alerts_tab">
+    <div class="paragraph" i18n="alerts_text"></div>
+    <div class="additional_alerts paragraph">
+        <span i18n="timer_runs"></span>
+        <select id="timer_repeats">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="-1" i18n="same_as"></option>
+        </select>
+    </div>
+    <div class="additional_alerts paragraph">
+        <span i18n="alert_runs_out"></span>
+        <select id="alert_type">
+            <option value="1" i18n="show_popup"></option>
+            <option value="2" i18n="show_desktop"></option>
+        </select>
+    </div>
+    <div class="show_desktop_for_div paragraph none">
+        <span i18n="show_desktop_for"></span>
+        <select id="show_desktop_for">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+            <option value="40">40</option>
+            <option value="50">50</option>
+            <option value="60">60</option>
+        </select>
+    </div>
+    <div class="alerts">
+        <div class="alerts table">
+            <div class="alert row first">
+                <div class="cell domain" i18n="domain"></div>
+                <div class="cell time" i18n="time"></div>
+            </div>
+        </div>
+        <div class="controls">
+            <div class="button addDomain" i18n="add_domain"></div>
+            <div class="button changeTime" i18n="change_time"></div>
+            <div class="button removeDomain" i18n="remove_domain"></div>
+        </div>
+    </div>
+</div>
+
+<div class="options">
+
+    <span class="topright_get_premium nice_button green" style="margin:0 0 15px 0 !important;">Backup/Sync your data</span>
+    <div class="clear"></div>
+
+    <label class="column" for="history_size" i18n="history_size_text"></label>
+    <input id="history_size" type="number"/>
+    <span class="note" i18n="history_size_note"></span>
+
+    <hr/>
+
+    <label class="column" for="idle_time" i18n="idle_time_text"></label>
+    <input id="idle_time" type="number"/>
+    <span class="note" i18n="idle_time_description"></span>
+
+    <hr/>
+
+    <label class="column" for="week_start" i18n="week_start"></label>
+    <select id="week_start">
+        <option value="0" i18n="Sunday"></option>
+        <option value="1" i18n="Monday"></option>
+        <option value="2" i18n="Tuesday"></option>
+        <option value="3" i18n="Wednesday"></option>
+        <option value="4" i18n="Thursday"></option>
+        <option value="5" i18n="Friday"></option>
+        <option value="6" i18n="Saturday"></option>
+    </select>
+    <span class="note" i18n="week_start_note"></span>
+
+    <hr/>
+
+    <label class="column" for="default_popup_action" i18n="default_popup_action"></label>
+    <select id="default_popup_action">
+        <option value="menu" i18n="menu"></option>
+        <option value="today" i18n="stats_today"></option>
+        <option value="yesterday" i18n="stats_yesterday"></option>
+        <option value="last7" i18n="stats_last7"></option>
+        <option value="full" i18n="stats_full"></option>
+        <option value="most-visited" i18n="stats_most"></option>
+        <option value="categories" i18n="categories"></option>
+    </select>
+    <span class="note" i18n="default_popup_action_description"></span>
+
+    <hr/>
+
+    <label class="column" for="date_format" i18n="date_format"></label>
+    <select id="date_format">
+        <option value="dd.mm.yy" i18n="date_format_dd_mm_yy_dots"></option>
+        <option value="dd/mm/yy" i18n="date_format_dd_mm_yy_slashes"></option>
+        <option value="dd-mm-yy" i18n="date_format_dd_mm_yy_dashes"></option>
+        <option value="mm/dd/yy" i18n="date_format_mm_dd_yy_slashes"></option>
+        <option value="yy.mm.dd" i18n="date_format_yy_mm_dd_dots"></option>
+        <option value="yy/mm/dd" i18n="date_format_yy_mm_dd_slashes"></option>
+        <option value="yy-mm-dd" i18n="date_format_yy_mm_dd_dashes"></option>
+    </select>
+    <span class="note" i18n="date_format_description"></span>
+
+    <hr/>
+    
+    <label class="column" for="day_end_time">The day ends at:</label>
+    <select id="day_end_time">
+        <option value="0">00:00</option>
+        <option value="1">01:00</option>
+        <option value="2">02:00</option>
+        <option value="3">03:00</option>
+        <option value="4">04:00</option>
+        <option value="5">05:00</option>
+        <option value="6">06:00</option>
+        <option value="7">07:00</option>
+        <option value="8">08:00</option>
+        <option value="9">09:00</option>
+        <option value="10">10:00</option>
+    </select>
+
+    <hr/>
+
+    <label for="hidden_domains" i18n="hidden_domains_text"></label>
+    <textarea id="hidden_domains"></textarea>
+
+    <hr/>
+
+    <label for="more_than_2_levels_domains" i18n="multilevel_sites"></label>
+    <textarea id="more_than_2_levels_domains"></textarea>
+
+    <hr/>
+
+    <input id="show_icon_text" type="checkbox"/>
+    <label for="show_icon_text" i18n="show_icon_text_text"></label>
+
+    <hr/>
+
+    <input id="show_uncategorized" type="checkbox"/>
+    <label for="show_uncategorized" i18n="show_uncategorized"></label>
+
+    <hr/>
+
+    <input id="stats_check" type="checkbox"/>
+    <label for="stats_check" i18n="enable_anonymous_stats"></label>
+
+    <hr/>
+    
+    <input id="update_notify_check" type="checkbox"/>
+    <label for="update_notify_check" i18n="enable_update_notify">update notif</label>
+
+    <hr/>
+
+    <h3 i18n="actions"></h3>
+
+    <label class="column" i18n="delete_date_text" for="date_to_delete"></label>
+    <select id="date_to_delete"></select>
+    <button i18n="delete" id="deleteDate"></button>
+
+    <div class="separator"></div>
+
+    <label class="column" i18n="delete_site_text" for="site_to_delete"></label>
+    <select id="site_to_delete">
+    </select>
+    <button i18n="delete" id="deleteSite"></button>
+
+    <div class="separator"></div>
+
+    <label class="column" i18n="clear_category" for="category_to_delete"></label>
+    <select id="category_to_delete">
+    </select>
+    <button i18n="delete" id="clearCategory"></button>
+
+    <div class="separator"></div>
+
+    <label class="column" i18n="clear_all_stats"></label>
+    <button i18n="clear" id="clearLocalStorage"></button>
+
+    <div class="separator"></div>
+
+    <label class="column" i18n="restore_defaults"></label>
+    <button i18n="restore" id="restoreDefaults"></button>
+
+    <div class="separator"></div>
+
+    <label class="column" i18n="export_csv"></label>
+    <button i18n="export" id="exportStats"></button>
+    
+    <div id="load_settings_obal">
+    
+      <hr />
+    
+      <h3>Load settings</h3>
+    
+      <button id="load_settings_show">Load settings from other profile</button>
+    
+      <div id="load_settings_profiles"></div>
+      
+    </div>
+    
+    <div id="backup_obal">
+    
+      <hr />
+      
+      <h3>Backup</h3>
+    
+      <button id="backup_show">Load from Online Backup</button>
+    
+      <div id="backup_profiles"></div>
+      
+      <hr />
+      
+      <button id="delete_profile">Delete this profile</button>
+      
+    </div>
+    
+</div>
+
+<div class="categories">
+
+    <span class="topright_get_premium nice_button green" style="margin:15px 0 0 0 !important;">Backup/Sync your data</span>
+    
+    <div class="separator"></div><hr />
+
+    <input id="categoryAdd" type="text" placeholder="category name"/>
+    <button id="categoryAddButton" i18n="add"></button>
+    
+    <label style="float:none;margin-left:50px;" i18n="category"></label>
+    <select id="categorySelectIdOptions"></select>
+    <button id="categoryRemoveButton" i18n="remove"></button>
+    <button id="categoryRenameButton" i18n="rename"></button>
+    
+    <div style="display:none!important">
+    
+        <label for="siteSelectIdOptions" i18n="stats_site"></label>
+    
+        <div id="categoriesWrapper">
+            <select id="siteSelectIdOptions"></select>
+            <select id="siteCategory"></select>
+        </div>
+        <div id="sitesAllCategorized" i18n="category_all_sites_categorized"></div>
+        <input type="checkbox" value="1" id="categoryUncategorizedOnly"/>
+        <label for="categoryUncategorizedOnly" i18n="category_uncategorized_only" class="after"></label>
+        
+    </div>
+    
+    <div class="separator"></div><hr />
+    
+    <div id="new_categ_system"></div>
+
+</div>
+
+<div class="about">
+    
+    <span class="topright_get_premium nice_button green" style="margin:0 0 15px 0 !important;">Backup/Sync your data</span>
+    
+    <p i18n="about_text1"></p>
+
+    <p i18n="about_text2"></p>
+
+    <p i18n="about_text3" class="winner"></p>
+
+    <p i18n="about_text4"></p>
+
+    <h3 i18n="about_text5"></h3>
+    <ul>
+        <li i18n="about_text6"></li>
+        <li i18n="about_text7"></li>
+        <li i18n="about_text8"></li>
+    </ul>
+    <p i18n="about_text9"></p>
+
+    <p>
+        <span i18n="about_text10"></span>
+        <br/>
+        <span i18n="about_text11" class="wips"></span>
+    </p>
+</div>
+
+<!--<div class="badges" id="badges_obal">
+    
+    <div id="badges_list"></div>
+    
+    <div id="badges_detail"></div>
+    
+</div>-->
+
+<a href="http://www.wips.com/" class="credits">
+    <span i18n="createdBy"></span>
+    <span></span>
+</a>
+</div>
+
+<div id="right_share_fb">
+  <h2>Share TimeStats on Facebook to gain new features:</h2>
+  <img id="right_share_fb_button" src="images/fb_share.jpg" alt="" />
+</div>
+
+<div id="dashboard_new_general"><table><tr> <td><img src="images/clock.png"/></td> <td i18n="daily_average_browsing"></td> <td class="strong daily_average_browsing"></td></tr><tr> <td><img src="images/clock.png"/></td> <td i18n="weekly_browsing_time"></td> <td class="strong weekly_browsing_time"></td></tr><tr> <td><img src="images/clock.png"/></td> <td i18n="monthly_browsing_time"></td> <td class="strong monthly_browsing_time"></td></tr><tr> <td><img src="images/clock.png"/></td> <td i18n="totalBrowsingTime"></td> <td class="strong total_browsing_time"></td></tr></table></div>
+
+</div>
+
+<img class="loader none" src="images/loader.gif" alt="" />
+<div id="loader_first_sync" class="none">We are syncing your data for the first time, this might take a minute.</div>
+
+</body>
+
+</html>

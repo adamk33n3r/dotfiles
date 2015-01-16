@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/etc/modprobe.d'
+let g:netrw_dirhist_2='nginx'
+let g:netrw_dirhist_3='/etc/nginx/logs'
+let g:netrw_dirhist_4='/home/akeenan/.local/share/fish/generated_completions'
+let g:netrw_dirhist_5='/home/akeenan/.config'
+let g:netrw_dirhist_6='/home/akeenan/.config/fish'
+let g:netrw_dirhist_7='/home/akeenan/.config'
+let g:netrw_dirhist_8='/home/akeenan'
+let g:netrw_dirhist_9='/home/akeenan/myfarms/myfarms/grower/views/data/tabs'

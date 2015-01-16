@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="indicator_applet_session" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/indicator_applet_session"/>
+	<entry name="indicator_applet" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/indicator_applet"/>
+	<entry name="me_menu" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/me_menu"/>
+	<entry name="network_menu" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/network_menu"/>
+	<entry name="rows_cols" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/rows_cols"/>
+	<entry name="applet_icon_mode" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/applet_icon_mode"/>
+	<entry name="other_menus" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/other_menus"/>
+	<entry name="sound_menu" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/sound_menu"/>
+	<entry name="messaging_menu" mtime="1421095414" schema="/schemas/apps/awn-applet-indicator-applet/messaging_menu"/>
+</gconf>

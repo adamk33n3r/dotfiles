@@ -1,0 +1,1961 @@
+{
+   "1008774365351112026": {
+      "message": "Lisa atribuut „$REL_NO_FOLLOW$” ($LINK_START$Lisateave$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Tavaline"
+   },
+   "1026450251988549367": {
+      "message": "Hiljuti muudetud"
+   },
+   "1044946868924904798": {
+      "message": "No connection"
+   },
+   "1052242579040192537": {
+      "message": "Kanada aborigeenid"
+   },
+   "1061567929494389534": {
+      "message": "Raadiojaamu ei õnnestunud tuua. Proovige uuesti."
+   },
+   "1061598772078003048": {
+      "message": "Reasisene märkuselõpetaja"
+   },
+   "108743912460085743": {
+      "message": "Vasakult paremale suunaga alistus"
+   },
+   "113306301971655652": {
+      "message": "Vasakult paremale märk"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minut}other{{TEXT} minutit}}"
+   },
+   "1233161892151828431": {
+      "message": "Kursiiv"
+   },
+   "1248987958177161816": {
+      "message": "HTML-lähteteksti muutmine"
+   },
+   "1275783181441501836": {
+      "message": "Lõigu eraldaja"
+   },
+   "128003684539571261": {
+      "message": "Valuuta"
+   },
+   "129672981680457789": {
+      "message": "Hanunoo"
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1345511732360402048": {
+      "message": "Muinastürgi"
+   },
+   "1372788343021542418": {
+      "message": "Minipleieri kasutamiseks logige veebis sisse teenusesse Google Play muusika."
+   },
+   "1382005717519484629": {
+      "message": "Tühemik"
+   },
+   "142620397708685601": {
+      "message": "Kohandatud värviga sisend, nt roosa, #F00, #D015FF või rgb (100, 50, 25)"
+   },
+   "1430061825590893722": {
+      "message": "Ava see link uues aknas"
+   },
+   "1433391846042476830": {
+      "message": "Eile"
+   },
+   "1444145448465775598": {
+      "message": "Tühista"
+   },
+   "1453708590388513852": {
+      "message": "Tehniline"
+   },
+   "1483596119706515744": {
+      "message": "Buginese"
+   },
+   "1487523984872879956": {
+      "message": "Emm-ruut"
+   },
+   "1494946186465201682": {
+      "message": "Tühista"
+   },
+   "1504214836895903832": {
+      "message": "Ühendamine ebaõnnestus"
+   },
+   "1558113021895652337": {
+      "message": "Fail on DRM-iga kaitstud"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1573657685592390905": {
+      "message": "Kausta valimine ..."
+   },
+   "1595478688335662057": {
+      "message": "Google'i kasutaja"
+   },
+   "1615800076127848008": {
+      "message": "Tai Le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{# tunni pärast}=1{# tunni pärast}other{# tunni pärast}}"
+   },
+   "1635932785663944786": {
+      "message": "Number"
+   },
+   "1658346838703079243": {
+      "message": "Muuda"
+   },
+   "1686917835491599951": {
+      "message": "Hiljuti minu kogusse lisatud"
+   },
+   "1700078784075267898": {
+      "message": "Google Play muusika"
+   },
+   "1709114386311494800": {
+      "message": "Link"
+   },
+   "1722592106949807025": {
+      "message": "Silumislogide salvestamine"
+   },
+   "172500938828303105": {
+      "message": "Bataki"
+   },
+   "1726363342938046830": {
+      "message": "Teave"
+   },
+   "1729815731089690989": {
+      "message": "Make sure you're connected to the Internet"
+   },
+   "1751129087972897649": {
+      "message": "Impeeriumi-aramea"
+   },
+   "1763795268257640974": {
+      "message": "Esitusloendi tellimusest ei õnnestunud loobuda. Proovige uuesti."
+   },
+   "1781759902625939771": {
+      "message": "Tundmatu artist"
+   },
+   "1800865039213871505": {
+      "message": "Lingi avamine: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play muusika Chrome'ile platvormil $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Sule"
+   },
+   "1819368767424033007": {
+      "message": "Ajalooline"
+   },
+   "182621168783940405": {
+      "message": "Paremalt vasakule märk"
+   },
+   "184252996364058487": {
+      "message": "0 minutit"
+   },
+   "1860075031180562077": {
+      "message": "Muusikaline sümbol kadents"
+   },
+   "190045585254551934": {
+      "message": "Syloti Nagri"
+   },
+   "1914372876923825240": {
+      "message": "Lingi URL:"
+   },
+   "192481666606780833": {
+      "message": "Ei saa muusikat mängida"
+   },
+   "1945037339176024290": {
+      "message": "Raamitud"
+   },
+   "1947306462789680361": {
+      "message": "$NUM$ minutit tagasi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Muusikalise fraasi algussümbol"
+   },
+   "1962559411793600980": {
+      "message": "Avesta"
+   },
+   "1981687300412326534": {
+      "message": "Hani üheksast joonest koosnevad juursõnad"
+   },
+   "1989564869397178334": {
+      "message": "Pealkiri"
+   },
+   "1996585593795647892": {
+      "message": "Lingi lisamine või eemaldamine"
+   },
+   "2005272211699610673": {
+      "message": "Kiirmiks"
+   },
+   "2026335465374096346": {
+      "message": "Klõpsake juhuslikus järjekorras esitamise väljalülitamiseks"
+   },
+   "2032972931560484213": {
+      "message": "Autor: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Sammuta"
+   },
+   "2038618429165152799": {
+      "message": "Pealkirjata"
+   },
+   "2056726623536384731": {
+      "message": "Ava Google Play muusika"
+   },
+   "2080060559104348538": {
+      "message": "Lõuna-Aasia skriptid"
+   },
+   "2088175644103984799": {
+      "message": "Khmeeri täishääliku sisemine Aq"
+   },
+   "2094349866819883967": {
+      "message": "Enn-kriips"
+   },
+   "2102825898069375693": {
+      "message": "Menüü"
+   },
+   "2107375315384298887": {
+      "message": "Allindeks"
+   },
+   "2109622269343579329": {
+      "message": "Vale e-posti aadress"
+   },
+   "2139683490477275175": {
+      "message": "Sule"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 lugu}=1{1 lugu}other{{NUM_SONGS_2} lugu}}"
+   },
+   "216513153459932308": {
+      "message": "Murrud/seostuvad"
+   },
+   "2173312720188441245": {
+      "message": "Kopti"
+   },
+   "2203397136690479355": {
+      "message": "Faili ei saa töödelda"
+   },
+   "2205522058604794595": {
+      "message": "Aafrika skriptid"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2246437904181111020": {
+      "message": "Google Play muusika: valige meediakaustad"
+   },
+   "2252825622480483246": {
+      "message": "Meroiti kursiiv"
+   },
+   "2299183036960756600": {
+      "message": "$NUM$ päeva pärast",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Viga täieliku kogu laadimisel. Proovige hiljem uuesti."
+   },
+   "2309894433432831059": {
+      "message": "Vertikaalse emm-tühiku esitlusvorm"
+   },
+   "2321398646644344846": {
+      "message": "Homme"
+   },
+   "2328554046256236832": {
+      "message": "Toetamata FLAC-fail"
+   },
+   "2339250039074511222": {
+      "message": "Seda linki ei saa testida."
+   },
+   "2339750206850776348": {
+      "message": "Lüükia"
+   },
+   "2376735487384008742": {
+      "message": "Laineline joon"
+   },
+   "2378357177170124823": {
+      "message": "Kümnendarv"
+   },
+   "2382000105167193834": {
+      "message": "Gudžarati"
+   },
+   "2389069046927902638": {
+      "message": "Google Play muusika"
+   },
+   "2390557292924554291": {
+      "message": "Null-laiusega ühendaja"
+   },
+   "2434131766046654438": {
+      "message": "Lineaar-B"
+   },
+   "247847652023697955": {
+      "message": "Noodi alguspidekaar"
+   },
+   "249032153569378306": {
+      "message": "$NUM$ tund tagasi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2506718393130237030": {
+      "message": "Toetamata vorming"
+   },
+   "2512060739274636260": {
+      "message": "Lihtsustatud Tai Lue"
+   },
+   "2513370824993175045": {
+      "message": "$NUM$ päeva pärast",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Noodigrupi lõppsidejoon"
+   },
+   "2529924385478060648": {
+      "message": "Buhidi"
+   },
+   "2530473232691534250": {
+      "message": "E-posti aadress"
+   },
+   "2538866057253567409": {
+      "message": "Desereti"
+   },
+   "2544569632476723854": {
+      "message": "Tingimused"
+   },
+   "2550362371114851075": {
+      "message": "Tavaline"
+   },
+   "2558836909854550547": {
+      "message": "Tavaline"
+   },
+   "2565011230196288502": {
+      "message": "$NUM$ minuti pärast",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2610851846609508423": {
+      "message": "ASCII-l põhinev"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ uus/uut)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2714752802779336020": {
+      "message": "Google Play muusika"
+   },
+   "2722441731984880542": {
+      "message": "Klõpsake juhuslikus järjekorras esitamise sisselülitamiseks"
+   },
+   "272553825640256879": {
+      "message": "Täislai miinus"
+   },
+   "2728464858411473080": {
+      "message": "Meeldib"
+   },
+   "2732888649509914313": {
+      "message": "Mongoolia"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Kontol on liiga palju faile"
+   },
+   "2787148143326073325": {
+      "message": "Sound Search"
+   },
+   "2801094315807039135": {
+      "message": "Tai Vietnami"
+   },
+   "2809945145618753350": {
+      "message": "Neli-emmi-kohta tühik"
+   },
+   "2811509810457668932": {
+      "message": "Foneetilised märgid (X-IPA)"
+   },
+   "2840006222747077107": {
+      "message": "Minu kogu on tühi"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{# minutit tagasi}=1{# minut tagasi}other{# minutit tagasi}}"
+   },
+   "2881621988818346391": {
+      "message": "Jah"
+   },
+   "2881776379326317082": {
+      "message": "Kasuta alati seda asukohta"
+   },
+   "2896688457548770791": {
+      "message": "Tsitaat"
+   },
+   "2910989560121976550": {
+      "message": "Testi seda linki"
+   },
+   "2918448970074432239": {
+      "message": "Muuda HTML-i"
+   },
+   "29485262661698811": {
+      "message": "Araabia ayah' lõpp"
+   },
+   "2954874827338778826": {
+      "message": "Veebiaadress"
+   },
+   "2968801718595938980": {
+      "message": "Hanguli"
+   },
+   "2972470287059252937": {
+      "message": "Kitsas püsitühik"
+   },
+   "2973169743818593793": {
+      "message": "Hani viiest joonest koosnevad juursõnad"
+   },
+   "29734255682325103": {
+      "message": "Paremale joondamine"
+   },
+   "2980847012388128321": {
+      "message": "Null-laiusega tühik"
+   },
+   "2980960654248329234": {
+      "message": "Jaotustühik"
+   },
+   "2982463607788408741": {
+      "message": "Teid on Google'i kontolt välja logitud. Värskendage uuesti sisselogimiseks."
+   },
+   "305389607483289974": {
+      "message": "Klõpsake peatamiseks"
+   },
+   "3054851848337350805": {
+      "message": "Ülaindeks"
+   },
+   "305815942371229357": {
+      "message": "Soovitusi pole"
+   },
+   "3067310196368927236": {
+      "message": "Heebrea kirjavahemärk Maqaf"
+   },
+   "308732574543176489": {
+      "message": "Esitusloendit ei saanud muuta. Proovige uuesti."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} tund}other{{TEXT} tundi}}"
+   },
+   "3099596419835786769": {
+      "message": "Keskmine matemaatiline tühik"
+   },
+   "311577748341232969": {
+      "message": "Muusika kuulamiseks vajate uusimat Adobe Flash Playerit."
+   },
+   "3125342991297920614": {
+      "message": "Albumit ei saanud avada. Proovige uuesti."
+   },
+   "3138864086144358473": {
+      "message": "Hani 11–17 joonest koosnevad juursõnad"
+   },
+   "314582171813087287": {
+      "message": "Poolitamatu kriips"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Kas te ei tea, mida kasti sisestada?$END_BOLD$ Esiteks leidke veebist leht, millele soovite linkida. ($SEARCH_ENGINE_LINK$Otsingumootor$END_LINK$ võib osutuda kasulikuks.) Seejärel kopeerige kastis olev veebiaadress oma brauseri aadressiribale ning kleepige see ülalolevasse kasti.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3167418181223330667": {
+      "message": "Modifikaator"
+   },
+   "3182977091552629211": {
+      "message": "Tähemärgi nime vaatamiseks hõljutage kursorit lahtril."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{# päeva tagasi}=1{# päev tagasi}other{# päeva tagasi}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 lugu}=1{1 lugu}other{# lugu}}"
+   },
+   "3196641196902208501": {
+      "message": "E-posti aadressi link"
+   },
+   "3225804441370198247": {
+      "message": "Kõik minu lood – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing / Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "$NUM$ minuti pärast",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Mitte ühtegi"
+   },
+   "3237206613586329862": {
+      "message": "Lüüdia"
+   },
+   "3242312278127054660": {
+      "message": "Matemaatilised tähtnumbrid"
+   },
+   "3245264696956198335": {
+      "message": "Vorming"
+   },
+   "3299099956700438963": {
+      "message": "Ameerika skriptid"
+   },
+   "3335728816495350082": {
+      "message": "Populaarseimad lood – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3381844160250536550": {
+      "message": "Logige Chrome'i sisse"
+   },
+   "3389797949812522362": {
+      "message": "Heebrea"
+   },
+   "3390725557414108843": {
+      "message": "Hani neljast joonest koosnevad juursõnad"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Millisele URL-ile peaks see link viima?"
+   },
+   "3445096196133856884": {
+      "message": "Khmeeri täishääliku sisemine Aa"
+   },
+   "3462013384451950074": {
+      "message": "$NUM$ tunni pärast",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Kuulake kogu oma muusikat. Kõikjal. Lihtsalt lisage muusika arvutist teenusesse Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Kirjavahemärgid"
+   },
+   "3483193414050571677": {
+      "message": "Ei meeldi"
+   },
+   "3483958460407305290": {
+      "message": "Läbikriipsutus"
+   },
+   "3547729876847212201": {
+      "message": "Enn-tühik"
+   },
+   "3565556274692077023": {
+      "message": "Emm-kriips"
+   },
+   "3601632218457952692": {
+      "message": "Yi"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Meeldib"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Google Play muusika minipleier"
+   },
+   "3649938620817393740": {
+      "message": "Väike"
+   },
+   "3650710698506236041": {
+      "message": "Kuueteistkümnendvärv"
+   },
+   "3688803517283872334": {
+      "message": "Poollai hanguli täitja"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "3748613043647922063": {
+      "message": "Nähtamatu eraldaja"
+   },
+   "3762887990641668199": {
+      "message": "Armeenia"
+   },
+   "3770594827970207417": {
+      "message": "Väike pealkiri"
+   },
+   "3772706138160001780": {
+      "message": "Horisontaalriba"
+   },
+   "3774172828626803355": {
+      "message": "Tšerokii"
+   },
+   "3782346097595894324": {
+      "message": "Ühendamine serveriga ebaõnnestus. Proovige hiljem uuesti."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "Järgmised aknad suletakse:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagoolitsa"
+   },
+   "3839679337223320857": {
+      "message": "Sisse logitud kontoga $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3867367359959377145": {
+      "message": "VIGA: „$COLOR$” on kehtetu värv.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Enne Chrome'i rakenduse kasutamist logige veebis sisse teenusesse Google Play muusika."
+   },
+   "3873111853443561979": {
+      "message": "Allakriipsutus"
+   },
+   "3901889124080689046": {
+      "message": "Faili ei saa avada"
+   },
+   "3905371920037624514": {
+      "message": "Vähemlevinud"
+   },
+   "3936240281193464170": {
+      "message": "Värskenda"
+   },
+   "3964523220682082212": {
+      "message": "Viga kogu laadimisel"
+   },
+   "3975141127799341224": {
+      "message": "Mujal veebis oleva lehe või faili link"
+   },
+   "3988935995558346502": {
+      "message": "Kirillitsa"
+   },
+   "3996699777412450193": {
+      "message": "Nooled"
+   },
+   "3999655151577464071": {
+      "message": "Teie kiirmiksi kustutamisel ilmnes probleem."
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "Hani kuuest joonest koosnevad juursõnad"
+   },
+   "4044663630621281686": {
+      "message": "Araabia märk Safha"
+   },
+   "4055580652532057510": {
+      "message": "nimeta"
+   },
+   "4061274470931156807": {
+      "message": "Ol Chiki"
+   },
+   "4082846773463542695": {
+      "message": "Teie arvutit ei saanud tuvastada."
+   },
+   "4087074177670472082": {
+      "message": "Reasisene märkuseankur"
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4171773891797639122": {
+      "message": "Sõnaühendaja"
+   },
+   "4183640380235728062": {
+      "message": "Kordamine on välja lülitatud. Klõpsake kordusrežiimi muutmiseks."
+   },
+   "4194375141064658954": {
+      "message": "Vabandust, meil on tehniline probleem"
+   },
+   "4204603140063905121": {
+      "message": "Hangul Jungseongi täitja"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ korda $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Tühista"
+   },
+   "4275466320467620600": {
+      "message": "Alati peal"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4326462735503400283": {
+      "message": "Kuvatav tekst:"
+   },
+   "4329609792835264496": {
+      "message": "Kitsas tühik"
+   },
+   "4333644357236884202": {
+      "message": "Khmeeri"
+   },
+   "4338950182024656659": {
+      "message": "Sugu ja genealoogiline"
+   },
+   "4357737589458300153": {
+      "message": "MPEG Layer-3 helikodeerimise tehnoloogia on litsentsitud ettevõtetelt Fraunhofer IIS ja Thomson. Tehnoloogiat Advanced Audio Coding (AAC) kasutatakse ettevõtte Via Licensing Corporation hallatava litsentsi alusel. Google Play sisaldab teatud kolmanda osapoole tarkvara, mis nõuab teadaandeid ja/või täiendavaid nõudeid ja tingimusi. Nõutavad kolmanda osapoole teadaanded ja/või täiendavad nõuded ja tingimused asuvad meie $START_LINK$kolmanda osapoole avalikustamislehel$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Kõrgelt hinnatud"
+   },
+   "4380903276097257721": {
+      "message": "Vertikaalse enn-kriipsu esitlusvorm"
+   },
+   "4396890764725725469": {
+      "message": "Salvesta"
+   },
+   "4405073953395157822": {
+      "message": "CJK-jooned"
+   },
+   "4417144592785193889": {
+      "message": "Muud Ida-Aasia skriptid"
+   },
+   "4439965029912183539": {
+      "message": "Ladina-1 täiendus"
+   },
+   "4440466521156769623": {
+      "message": "Noodigrupi algussidejoon"
+   },
+   "4445783474627796041": {
+      "message": "Valmis"
+   },
+   "445149490695787423": {
+      "message": "Logi uuesti sisse"
+   },
+   "4451528286100219680": {
+      "message": "Vasakult paremale sisestamine"
+   },
+   "4456793125873199230": {
+      "message": "Raadio Ehk mul veab"
+   },
+   "4462494623248108758": {
+      "message": "Esitusloend"
+   },
+   "4478641030934315579": {
+      "message": "Üldine"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4494835774314426313": {
+      "message": "Viimast lähteväärtust ei saa eemaldada"
+   },
+   "4548656448943532301": {
+      "message": "Muusika üleslaadimine lõpetati"
+   },
+   "4571105317747127957": {
+      "message": "Täppidega kriips"
+   },
+   "4590981840116960737": {
+      "message": "Vormindus ja tühemikud"
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "4629182899853078878": {
+      "message": "Raadiojaam"
+   },
+   "4629398054050196678": {
+      "message": "Laadi muusika alla järgmisesse asukohta:"
+   },
+   "466976558518570343": {
+      "message": "Jaava"
+   },
+   "4675864222674894697": {
+      "message": "Shaw' tähestik"
+   },
+   "4688946070631035536": {
+      "message": "Õigekirjakontroll"
+   },
+   "470296860672943171": {
+      "message": "Variatsioonivalija"
+   },
+   "4706959263210678625": {
+      "message": "Varieeruvusvalija – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Hoia Google Play ajakohasena, kui lisan nendesse asukohtadesse uut muusikat"
+   },
+   "4750228681419116696": {
+      "message": "Malajalami"
+   },
+   "4754400438927203898": {
+      "message": "Muusika on peatatud"
+   },
+   "4776903542722844646": {
+      "message": "Klõpsake esitamiseks"
+   },
+   "4815033911915598343": {
+      "message": "Vahed"
+   },
+   "4816571345301008062": {
+      "message": "Teie kiirmiksi ümbernimetamisel ilmnes probleem."
+   },
+   "4830715100444503860": {
+      "message": "Kharoshthi"
+   },
+   "4862238057869188402": {
+      "message": "Mikse ei õnnestunud tuua. Proovige uuesti."
+   },
+   "4878527640076219954": {
+      "message": "Tamili"
+   },
+   "4886126295094352182": {
+      "message": "Google Play muusika Chrome'ile"
+   },
+   "4887472194021728050": {
+      "message": "Tai"
+   },
+   "4920482241656423227": {
+      "message": "Teksti taustavärv"
+   },
+   "4921096453319030731": {
+      "message": "Süüria lühendmärk"
+   },
+   "4924253230856131215": {
+      "message": "Kagu-Aasia skriptid"
+   },
+   "496636435516411982": {
+      "message": "Laulu ei saanud hinnata. Proovige uuesti."
+   },
+   "498913874005297914": {
+      "message": "Paks"
+   },
+   "499152283823240992": {
+      "message": "Samaaria"
+   },
+   "5003850562831597565": {
+      "message": "Hiljuti tellitud"
+   },
+   "5009878480585609766": {
+      "message": "Hani – muud"
+   },
+   "5015096128854741514": {
+      "message": "Transport ja kaardid"
+   },
+   "5018227417300461385": {
+      "message": "Väike miinus"
+   },
+   "5022153145769748172": {
+      "message": "Prügikastis ei ole ühtegi laulu."
+   },
+   "5030096791460456147": {
+      "message": "Hostimissait on blokeerinud kujutise, mida üritate lohistada."
+   },
+   "5032188163864418301": {
+      "message": "Pahlavi raidkiri"
+   },
+   "5049432650728491454": {
+      "message": "Sirvige uusi väljalaskeid, tipptabeleid, esitusloendeid ja žanreid"
+   },
+   "506090363255226122": {
+      "message": "Ümber pööratud / peegeldatud"
+   },
+   "5071594083516657121": {
+      "message": "Fail on liiga suur"
+   },
+   "5094769877856014729": {
+      "message": "Noodi lõpp-pidekaar"
+   },
+   "5105404398573470156": {
+      "message": "Geomeetrilised kujundid"
+   },
+   "5113771261593769985": {
+      "message": "Tšami"
+   },
+   "5115900738857721327": {
+      "message": "Ühendav grafeemiliitja"
+   },
+   "5128240607770067472": {
+      "message": "Teave ..."
+   },
+   "5143432838919500349": {
+      "message": "Skannimine ..."
+   },
+   "5170992049958515620": {
+      "message": "Sidekriips"
+   },
+   "5187212874644392331": {
+      "message": "Versioon: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Praegu ei saa kujutisefaile pukseerida.\nLohistage kujutis veebibrauserist."
+   },
+   "5199204386348402183": {
+      "message": "Osmanja"
+   },
+   "5219596981664772816": {
+      "message": "Hani kolmest joonest koosnevad juursõnad"
+   },
+   "5232157483592334572": {
+      "message": "Tifinagh"
+   },
+   "5256846847077792168": {
+      "message": "Muuda sõna"
+   },
+   "5278374842872340790": {
+      "message": "Emotikonid"
+   },
+   "5288571118300787017": {
+      "message": "Loos $SONG_TITLE$ tuvastati dekodeerimise viga. Kontrollige algset faili ja laadige see uuesti üles. Vahele jäetud.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "531478949469830505": {
+      "message": "Sorang Sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{rohkem kui 0 päeva}=1{rohkem kui 1 päev}other{rohkem kui # päeva}}"
+   },
+   "536459166857647880": {
+      "message": "Tagalogi"
+   },
+   "5373550672011878193": {
+      "message": "Ruunikiri"
+   },
+   "537543696442379345": {
+      "message": "Käivita kiirmiks"
+   },
+   "5378532290721565403": {
+      "message": "Lugu osteti teise Google Play muusika kontoga"
+   },
+   "5394607018657314633": {
+      "message": "Reaeraldaja"
+   },
+   "5402470227536486835": {
+      "message": "Väike emm-kriips"
+   },
+   "5404910277282887798": {
+      "message": "Foiniikia"
+   },
+   "5408241503383428945": {
+      "message": "Teised Euroopa skriptid"
+   },
+   "5432330868773114140": {
+      "message": "Käivita raadio"
+   },
+   "5451692331472585782": {
+      "message": "Kõik lood"
+   },
+   "5452036681614307719": {
+      "message": "Nähtamatu plussmärk"
+   },
+   "5455360062863417200": {
+      "message": "Järgmine lugu"
+   },
+   "5464364716831469679": {
+      "message": "Tundmatu album"
+   },
+   "548629550059508920": {
+      "message": "Ei saa üles laadida, sest laadite juba üles kahelt kontolt."
+   },
+   "5497512316841934820": {
+      "message": "Miks Ehk mul veab"
+   },
+   "5497627646066282315": {
+      "message": "Ühendamine"
+   },
+   "5501301484140201550": {
+      "message": "Raadio Ehk mul veab"
+   },
+   "5518817744725858296": {
+      "message": "Esitajal on lähikonnas kontsert"
+   },
+   "5529194084754296998": {
+      "message": "Kuus-emmi-kohta tühik"
+   },
+   "5541835554879897802": {
+      "message": "Osade lugude lisamine kogule ebaõnnestus. Proovige uuesti."
+   },
+   "5578390534357178026": {
+      "message": "Veenduge, et oleksite Chrome'i sisse logitud sama Google'i kontoga."
+   },
+   "5584189341216439776": {
+      "message": "Lisa oma muusika"
+   },
+   "5584467594910303696": {
+      "message": "Meroiti hieroglüüfkiri"
+   },
+   "5593848105713936399": {
+      "message": "Järjekord"
+   },
+   "5594762259680838005": {
+      "message": "Hiljuti ostetud"
+   },
+   "5612959352951118540": {
+      "message": "$NUM$ tunni pärast",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Vorming"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Žanreid ei õnnestunud tuua. Proovige uuesti."
+   },
+   "5674048882417502526": {
+      "message": "Paremalt vasakule suunaga alistus"
+   },
+   "5677606995605741055": {
+      "message": "Teie raadiojaama kustutamisel ilmnes probleem."
+   },
+   "569766142833422558": {
+      "message": "Rakendust Google Play muusika Chrome'ile tuleb värskendada. See peaks toimuma automaatselt."
+   },
+   "5700613377997995103": {
+      "message": "Joonisekriips"
+   },
+   "5755038562791065032": {
+      "message": "Kolm-emmi-kohta tühik"
+   },
+   "5761798931116026691": {
+      "message": "MP3-ks teisendamine ebaõnnestus"
+   },
+   "5769804815976568558": {
+      "message": "Allalaadimise asukoha valimine"
+   },
+   "5773750119871048451": {
+      "message": "Tühista"
+   },
+   "5775493454862732930": {
+      "message": "Armeenia kriips"
+   },
+   "5784007894878825338": {
+      "message": "Püsitühik"
+   },
+   "5889126665299129466": {
+      "message": "Minipleieri kasutamiseks peate olema Chrome'i sisse logitud."
+   },
+   "5890243856676178044": {
+      "message": "Bengali"
+   },
+   "5914500973755757025": {
+      "message": "Lao"
+   },
+   "5918806792833250096": {
+      "message": "Kiilkiri"
+   },
+   "5930857699885919881": {
+      "message": "Toetamata ALAC-fail"
+   },
+   "5969115558488445506": {
+      "message": "Alapealkiri"
+   },
+   "5971001229987621398": {
+      "message": "Soovitatud uus väljalase"
+   },
+   "5999484363963634214": {
+      "message": "Mandei"
+   },
+   "601150082487101480": {
+      "message": "Viimati lisatud"
+   },
+   "6031749391396582225": {
+      "message": "Hanguli täitja"
+   },
+   "6042091568356544470": {
+      "message": "Funktsiooni rakendamine"
+   },
+   "607779708716020188": {
+      "message": "..."
+   },
+   "610635793308893528": {
+      "message": "Paremalt vasakule sisestamine"
+   },
+   "6125785068086103357": {
+      "message": "Laulu ei saanud eemaldada. Proovige uuesti."
+   },
+   "6134905866550808378": {
+      "message": "Kõik minu lood – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6205568685279927986": {
+      "message": "Rejangi"
+   },
+   "6211429203092739745": {
+      "message": "Eelmine lugu"
+   },
+   "6211690508928257569": {
+      "message": "Süüria"
+   },
+   "6223487594388109285": {
+      "message": "Teie raadiojaama ümbernimetamisel ilmnes probleem."
+   },
+   "6233107584508657559": {
+      "message": "Ei saanud Google'iga ühendust"
+   },
+   "6238576599909606924": {
+      "message": "kehtetu url"
+   },
+   "6242354668932209396": {
+      "message": "Kõikide lugude kordamine. Klõpsake kordusrežiimi muutmiseks."
+   },
+   "624368563085644372": {
+      "message": "Nähtamatu korrutusmärk"
+   },
+   "6264257099423315684": {
+      "message": "Millise e-posti aadressiga on see link seotud?"
+   },
+   "630414199054820482": {
+      "message": "Kirjavahemärgitühik"
+   },
+   "6342787164312491730": {
+      "message": "Ilm, stseenid ja sodiaagimärgid"
+   },
+   "6352462755178724841": {
+      "message": "Vormingu eemaldamine"
+   },
+   "6360340926892934518": {
+      "message": "Lisa kausta"
+   },
+   "6376633306429460166": {
+      "message": "Sauraštra"
+   },
+   "6390744057286457578": {
+      "message": "Keskele joondamine"
+   },
+   "6397906195939852735": {
+      "message": "Kannada"
+   },
+   "6397910887534888858": {
+      "message": "Teksti värv"
+   },
+   "6425912931786223127": {
+      "message": "am"
+   },
+   "6427041476637425542": {
+      "message": "Allindeks"
+   },
+   "6447846965513034625": {
+      "message": "Objektid"
+   },
+   "6452850149519075219": {
+      "message": "Mitte praegu"
+   },
+   "6455550894777387014": {
+      "message": "Myanmar"
+   },
+   "6502885021177224543": {
+      "message": "Google Play muusika: valige allalaadimiskaust"
+   },
+   "6504449653938065974": {
+      "message": "Soovitatud esitusloend"
+   },
+   "6510962485068569110": {
+      "message": "Võta tagasi"
+   },
+   "653219508056341533": {
+      "message": "Inimesed ja emotsioonid"
+   },
+   "6538565185460307864": {
+      "message": "Oria"
+   },
+   "6568036879894576496": {
+      "message": "Google Play muusikasse lisatakse järgmistes kaustades sisalduv muusika"
+   },
+   "6591282200798732887": {
+      "message": "Enn-ruut"
+   },
+   "6593910762276333113": {
+      "message": "Flashi allalaadimine"
+   },
+   "66116513409922755": {
+      "message": "Ei"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6641147067989080704": {
+      "message": "Kayah Li"
+   },
+   "6650739047421247577": {
+      "message": "Ei saa muusikat mängida"
+   },
+   "6652787256443519035": {
+      "message": "Märgendita"
+   },
+   "66820157572867378": {
+      "message": "Taande vähendamine"
+   },
+   "6689623864271696040": {
+      "message": "Ujukriips"
+   },
+   "6711475260919070872": {
+      "message": "Vanapärsia"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Teile soovitatud"
+   },
+   "6722174221321515493": {
+      "message": "Null-laiusega lahutaja"
+   },
+   "6732797853205065184": {
+      "message": "Ignoreeri"
+   },
+   "6750258767236131097": {
+      "message": "Lähis-Ida skriptid"
+   },
+   "6768967544887679189": {
+      "message": "Lainekriips"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6821274223204126521": {
+      "message": "Muusika"
+   },
+   "6839273670547667172": {
+      "message": "Erinevad"
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6898179631823558149": {
+      "message": "Faili teisendamine kasutatavasse vormingusse ebaõnnestus"
+   },
+   "6930531446322391145": {
+      "message": "Kujutis"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7009828133009731416": {
+      "message": "Google'ilt tasuta"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7020161279392960480": {
+      "message": "Vorming"
+   },
+   "7029749611952268902": {
+      "message": "Puudub Flash Player"
+   },
+   "7034479228356652023": {
+      "message": "Hani ühest joonest koosnevad juursõnad"
+   },
+   "7049182394855721704": {
+      "message": "Gooti"
+   },
+   "7080245643233785574": {
+      "message": "Google Play muusika rakenduses Chrome'ile esines probleem ja peate uuesti sisse logima."
+   },
+   "7100404876663103497": {
+      "message": "Hangul Choseongi täitja"
+   },
+   "7100567566985297322": {
+      "message": "Em-tühik"
+   },
+   "7102126384411654213": {
+      "message": "Ei õnnestunud kogusse lisada. Proovige uuesti."
+   },
+   "7104210472412766015": {
+      "message": "Reasisene märkuseeraldaja"
+   },
+   "7111181959300196580": {
+      "message": "Taande suurendamine"
+   },
+   "7116872031464114568": {
+      "message": "Tuvastatud rakenduses Sound Search"
+   },
+   "7127937208951634191": {
+      "message": "Sümbol"
+   },
+   "7132453172532202734": {
+      "message": "Teenusega Google Play ei saa ühendust"
+   },
+   "7136816542440442290": {
+      "message": "Teie raadiojaama laadimisel ilmnes probleem."
+   },
+   "716550293954822096": {
+      "message": "Singali"
+   },
+   "7192513315706728552": {
+      "message": "Serveri viga. Proovige hiljem uuesti."
+   },
+   "7193968696947634147": {
+      "message": "Värskenda lehte"
+   },
+   "7194376132387780145": {
+      "message": "Sellele arvutile ei saa volitust anda, kuna olete juba lisanud kümme seadet."
+   },
+   "7202681158267340446": {
+      "message": "Font"
+   },
+   "720381800527728702": {
+      "message": "Sport, pidustused ja tegevused"
+   },
+   "7224832103566723854": {
+      "message": "Esitusloendit ei saanud avada. Proovige uuesti."
+   },
+   "7228343081607279547": {
+      "message": "Sunda"
+   },
+   "7229202390260081051": {
+      "message": "Ülisuur"
+   },
+   "7282565673166392948": {
+      "message": "Ideograafilised kirjeldusmärgid"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minutit}=1{1 minut}other{# minutit}}"
+   },
+   "7293925053370285812": {
+      "message": "Praeguse loo kordamine. Klõpsake kordusrežiimi muutmiseks."
+   },
+   "7305504256207181669": {
+      "message": "Täpploend"
+   },
+   "7310668544702677420": {
+      "message": "Jälle muusikat kuulama pääsemiseks värskendage seda lehte brauseris. Kui probleem püsib, siis veenduge, et Flash oleks lubatud ja töötab."
+   },
+   "7320133162875658022": {
+      "message": "Laadi uued lood üles ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7331328794127852355": {
+      "message": "Emotikon"
+   },
+   "7335080673788704461": {
+      "message": "Transport, kaardid ja märgistused"
+   },
+   "7347179017294066771": {
+      "message": "Kaustade lisamine või eemaldamine"
+   },
+   "7354691783317064273": {
+      "message": "Chrome'i rakendus loob ühendust."
+   },
+   "7396303606473621591": {
+      "message": "Kõik"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{# päeva pärast}=1{# päeva pärast}other{# päeva pärast}}"
+   },
+   "7437894509168051348": {
+      "message": "Hani seitsmest joonest koosnevad juursõnad"
+   },
+   "747583939629659293": {
+      "message": "Lisa värv"
+   },
+   "7480960100390206139": {
+      "message": "Muu"
+   },
+   "7529798479468856973": {
+      "message": "$NUM$ tundi tagasi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7536172317066333802": {
+      "message": "Pildi sisestamine"
+   },
+   "7559266156388225108": {
+      "message": "Kaithi numbrimärk"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongoolia täishäälikueraldaja"
+   },
+   "7596816553523902619": {
+      "message": "Täna"
+   },
+   "7601688284754148415": {
+      "message": "Matemaatika"
+   },
+   "7617664217221228040": {
+      "message": "Bali"
+   },
+   "762389150316771008": {
+      "message": "Raadio Ehk mul veab"
+   },
+   "7631480327394084350": {
+      "message": "Juhtelemendi pildid"
+   },
+   "7664246845088850317": {
+      "message": "Ühendamine serveriga ebaõnnestus. Veakood: "
+   },
+   "7697058485679231601": {
+      "message": "Laadige leht uuesti ja proovige veel kord."
+   },
+   "7704516203792990151": {
+      "message": "Kulunud aeg"
+   },
+   "7709119284546787990": {
+      "message": "Paremalt vasakule"
+   },
+   "7711713319832787051": {
+      "message": "Paaris"
+   },
+   "7730109880037106848": {
+      "message": "Sümbolid"
+   },
+   "7736581252844206600": {
+      "message": "Kreeka"
+   },
+   "7737642252665507180": {
+      "message": "Kuueteistkümnendsisend"
+   },
+   "7743528314734813641": {
+      "message": "Teie kiirmiksi laadimisel ilmnes probleem."
+   },
+   "7760426006262447033": {
+      "message": "Järjekorras pole piisavalt ruumi"
+   },
+   "7774266771623079214": {
+      "message": "Play muusika"
+   },
+   "7776111286341041808": {
+      "message": "Vasakult paremale"
+   },
+   "779262212811541732": {
+      "message": "Vana Lõuna-Araabia"
+   },
+   "7816161180678740448": {
+      "message": "Punktkiri"
+   },
+   "7846689234809169417": {
+      "message": "Loomad, taimed ja toit"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 tundi}=1{1 tund}other{# tundi}}"
+   },
+   "7878031641910175480": {
+      "message": "Hiljutised valikud:"
+   },
+   "7888286842234266048": {
+      "message": "Raamitud/punkteeritud"
+   },
+   "7898792314887900865": {
+      "message": "Küprose"
+   },
+   "7927039504440585569": {
+      "message": "Ladina"
+   },
+   "7930381906669528420": {
+      "message": "Lugu $SONG_TITLE$ ei õnnestu esitada. Jäeti vahele.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Foneetilised märgid (IPA)"
+   },
+   "7954850519963017242": {
+      "message": "$NUM$ päev tagasi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Araabia märk Sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 kausta}=1{1 kaust}other{# kausta}}"
+   },
+   "7984622936663451936": {
+      "message": "Klaviatuur ja kasutajaliides"
+   },
+   "7985095810697977698": {
+      "message": "Laulu ei saa esitada. Ettepoole vahele jäetud."
+   },
+   "8001758142015238809": {
+      "message": "Ajutine viga. Proovime uuesti üles laadida."
+   },
+   "8019982600883750632": {
+      "message": "Rööpjoondamine"
+   },
+   "8020892463961333112": {
+      "message": "Noodi lõppkaar"
+   },
+   "8024675506077392847": {
+      "message": "Järgmist laulu ei saanud laadida."
+   },
+   "8030037581414873660": {
+      "message": "Hani kahest joonest koosnevad juursõnad"
+   },
+   "803032414305825807": {
+      "message": "Fondi suurus"
+   },
+   "803376120920513357": {
+      "message": "$NUM$ päeva tagasi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Esitusloendit ei õnnestunud tellida. Proovige uuesti."
+   },
+   "8045052194324740729": {
+      "message": "Prügikastis olevaid laule ei saa esitada."
+   },
+   "8066747296553908214": {
+      "message": "Topeltkaldkriips"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} päev}other{{TEXT} päeva}}"
+   },
+   "8159976291123989327": {
+      "message": "Lingi muutmine"
+   },
+   "8164274980045228173": {
+      "message": "Suundvorminduse hüpik"
+   },
+   "8164897103619368290": {
+      "message": "Numberloend"
+   },
+   "8191208612330635266": {
+      "message": "Tiibeti"
+   },
+   "8192298658946835992": {
+      "message": "Null-laiusega püsitühik"
+   },
+   "8193509313274135818": {
+      "message": "Araabia allmärkus"
+   },
+   "819996403327805209": {
+      "message": "Lisateave"
+   },
+   "823405029831570152": {
+      "message": "Etioopia"
+   },
+   "8239380670132570074": {
+      "message": "Ajutist faili ei saa avada"
+   },
+   "8249329268828083858": {
+      "message": "Katakana-hiragana topeltkriips"
+   },
+   "8275689791574630480": {
+      "message": "Ogami tühikumärk"
+   },
+   "8277279706638733641": {
+      "message": "Tärnid/asteriskid"
+   },
+   "8286384050114068255": {
+      "message": "NaCl-i versioon: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "8325100368677049569": {
+      "message": "Avastage uut muusikat"
+   },
+   "8338465287076872825": {
+      "message": "Failist ei saa muusikat lugeda"
+   },
+   "8358697777226306085": {
+      "message": "Egiptuse hieroglüüfkiri"
+   },
+   "8363930857329550333": {
+      "message": "Gruusia"
+   },
+   "8385464685117997940": {
+      "message": "Hiljuti esitatud"
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Sisselogimine"
+   },
+   "8412726756889279816": {
+      "message": "Chakma"
+   },
+   "842631328362018283": {
+      "message": "Suur"
+   },
+   "8437015452970026040": {
+      "message": "Kogu limiit on täis. Kui soovite lugusid lisada, siis eemaldage mõni vana lugu."
+   },
+   "8440128775129354214": {
+      "message": "Privaatsus"
+   },
+   "8454237498473122184": {
+      "message": "Sidekriips-miinus"
+   },
+   "8458476427655018512": {
+      "message": "Tühik"
+   },
+   "8482517151370142670": {
+      "message": "Muu"
+   },
+   "848933194605193751": {
+      "message": "Hiljuti vaadatud YouTube'is"
+   },
+   "8492241415183649700": {
+      "message": "Kaaria"
+   },
+   "8524322739067915993": {
+      "message": "pm"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{# minuti pärast}=1{# minuti pärast}other{# minuti pärast}}"
+   },
+   "8628766851955432422": {
+      "message": "Eemalda"
+   },
+   "8637643428005590282": {
+      "message": "Märgid"
+   },
+   "8639048757911329468": {
+      "message": "NaCl-i versioon: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Proovi uuesti"
+   },
+   "8741366833297918126": {
+      "message": "Loo kestus"
+   },
+   "875046332706257024": {
+      "message": "Automaatne esitusloend"
+   },
+   "8763647985340267403": {
+      "message": "Mängunupud"
+   },
+   "8768143964455071187": {
+      "message": "Ogami"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{# tundi tagasi}=1{# tund tagasi}other{# tundi tagasi}}"
+   },
+   "8787014632487519603": {
+      "message": "Tuvastati dekodeerimise viga. Kontrollige algset faili ja laadige see uuesti üles. Vahele jäetud."
+   },
+   "8801527171487571079": {
+      "message": "Tai Tham"
+   },
+   "8818387952529569142": {
+      "message": "Täna"
+   },
+   "8819361322041128714": {
+      "message": "Ugariti"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Olge ettevaatlik.$POSTB$ Pidage meeles, et iga kord, kui lisate e-posti aadressi mõnele veebilehele, võivad selle üles leida ka vastikud rämpspostisaatjad.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Araabia numbrimärk"
+   },
+   "8858058202463451164": {
+      "message": "Vasakule joondamine"
+   },
+   "8868784738343119594": {
+      "message": "$NUM$ minut tagasi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8896073810838561095": {
+      "message": "Hani kaheksast joonest koosnevad juursõnad"
+   },
+   "8901076355007755806": {
+      "message": "Leptša"
+   },
+   "8925271759659767084": {
+      "message": "Tasuta ja ostetud"
+   },
+   "8931700495296520714": {
+      "message": "Sule minipleier"
+   },
+   "8934299821763129489": {
+      "message": "Etruski"
+   },
+   "8958381934236197373": {
+      "message": "Joonisetühik"
+   },
+   "8961985815150856927": {
+      "message": "Hiljuti loodud"
+   },
+   "8971282019539581965": {
+      "message": "Sule dialoog Teave"
+   },
+   "8979933913103486540": {
+      "message": "Kriips/konnektor"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$ – $ARTIST_NAME$ – Google Play muusika minipleier",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Raamimine"
+   },
+   "9000910334745340727": {
+      "message": "Mongoolia ujukriips"
+   },
+   "9001309834415064766": {
+      "message": "Hani kümnest joonest koosnevad juursõnad"
+   },
+   "901225307358856093": {
+      "message": "Kanada silpkeele poolitusmärk"
+   },
+   "902300864627076683": {
+      "message": "Parthia raidkiri"
+   },
+   "9024489874326845912": {
+      "message": "Soovitatud album"
+   },
+   "9045338265172338590": {
+      "message": "Meitei"
+   },
+   "9053704575157030099": {
+      "message": "Mitte ühtegi"
+   },
+   "9063659532473030063": {
+      "message": "Ilm ja astroloogia"
+   },
+   "9084816336314899019": {
+      "message": "Jätka"
+   },
+   "9092976405151508175": {
+      "message": "Tee uuesti"
+   },
+   "9098679347815545327": {
+      "message": "Esitusloendit ei saanud luua. Proovige uuesti."
+   },
+   "9173411042808904308": {
+      "message": "Tavaline/serif"
+   },
+   "9184426509557869402": {
+      "message": "Ideograafiline tühik"
+   },
+   "9197433560254928186": {
+      "message": "Araabia"
+   },
+   "9218938714985695055": {
+      "message": "Noodi alguskaar"
+   },
+   "947591000172763449": {
+      "message": "Phags Pa"
+   },
+   "953268105555355822": {
+      "message": "Kuva kõik"
+   },
+   "964983733596985457": {
+      "message": "Ühilduvus"
+   },
+   "97224266342934568": {
+      "message": "Ülaindeks"
+   },
+   "997742287268027221": {
+      "message": "Faili üleslaadimine ebaõnnestus"
+   }
+}

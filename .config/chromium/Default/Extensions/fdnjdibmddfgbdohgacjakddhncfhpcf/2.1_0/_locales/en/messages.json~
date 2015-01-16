@@ -1,0 +1,18 @@
+{
+  "extensionName": {
+    "message": "Multiple Monitor Full Screen"
+  },
+  "extensionDescription": {
+    "message": "Allows YouTube and Vimeo videos to stay full screen while working in other windows. Great for dual monitors."
+  },
+  "pageActionDefaultTitle": {
+    "message": "Full screen",
+    "description": "Tooltip text for the default button state when a new tab is loaded."
+  },
+  "contractStateTitle": {
+    "message": "Exit full screen"
+  },
+  "expandStateTitle": {
+    "message": "Full screen"
+  }
+}

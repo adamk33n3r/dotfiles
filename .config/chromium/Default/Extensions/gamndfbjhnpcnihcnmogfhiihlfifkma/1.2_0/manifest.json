@@ -1,0 +1,19 @@
+{
+   "content_scripts": [ {
+      "js": [ "depositfiles.js" ],
+      "matches": [ "http://*.depositfiles.com/*/files/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "No More Countdowns - Automatic Downloads.",
+   "icons": {
+      "128": "icon-128x128.png",
+      "16": "icon-16x16.png",
+      "32": "icon-32x32.png",
+      "48": "icon-48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDg1rAyRWzum9Nk3SFTxb8Ng0UOBsnGTZIuyl04AjGd2W77yW77pGR6L7Y4gtKgYeqI604B9F5Mxk69Ejz2/+CurPdwk6zvvWT5jgqTeHMDoFCpb9dRAAU/3kO2rXb2AUvruLNKOUFABNIU4q7OTfylRsebgvJPJvc2ehX5HkiXdQIDAQAB",
+   "name": "Deposit Files Download Helper",
+   "permissions": [ "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

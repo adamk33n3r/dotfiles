@@ -1,0 +1,1961 @@
+{
+   "1008774365351112026": {
+      "message": "A következő attribútum felvétele: „$REL_NO_FOLLOW$” ($LINK_START$További információ$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normál"
+   },
+   "1026450251988549367": {
+      "message": "Legutóbb módosított"
+   },
+   "1044946868924904798": {
+      "message": "No connection"
+   },
+   "1052242579040192537": {
+      "message": "Kanadai szótagírás"
+   },
+   "1061567929494389534": {
+      "message": "Nem sikerült lekérni a rádióállomásokat. Próbáld újra."
+   },
+   "1061598772078003048": {
+      "message": "Sorközi annotációs megszakító"
+   },
+   "108743912460085743": {
+      "message": "Felülírás balról jobbra"
+   },
+   "113306301971655652": {
+      "message": "Balról jobbra jelölő"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} perc}other{{TEXT} perc}}"
+   },
+   "1233161892151828431": {
+      "message": "Dőlt"
+   },
+   "1248987958177161816": {
+      "message": "HTML-forrás szerkesztése"
+   },
+   "1275783181441501836": {
+      "message": "Bekezdéselválasztó"
+   },
+   "128003684539571261": {
+      "message": "Pénznem"
+   },
+   "129672981680457789": {
+      "message": "Hanunóo"
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1345511732360402048": {
+      "message": "Ótörök"
+   },
+   "1372788343021542418": {
+      "message": "A minilejátszó használatához jelentkezz be a Google Play Zene szolgáltatásba az interneten."
+   },
+   "1382005717519484629": {
+      "message": "Térköz"
+   },
+   "142620397708685601": {
+      "message": "Egyéni szín megadása, pl. pink, #F00, #D015FF vagy rgb(100, 50, 25)"
+   },
+   "1430061825590893722": {
+      "message": "Link megnyitása új ablakban"
+   },
+   "1433391846042476830": {
+      "message": "Tegnap"
+   },
+   "1444145448465775598": {
+      "message": "Mégse"
+   },
+   "1453708590388513852": {
+      "message": "Műszaki"
+   },
+   "1483596119706515744": {
+      "message": "Bugisz"
+   },
+   "1487523984872879956": {
+      "message": "Kvirt"
+   },
+   "1494946186465201682": {
+      "message": "Mégse"
+   },
+   "1504214836895903832": {
+      "message": "Nem sikerült kapcsolódni"
+   },
+   "1558113021895652337": {
+      "message": "A fájl DRM-védett"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1573657685592390905": {
+      "message": "Mappa kiválasztása…"
+   },
+   "1595478688335662057": {
+      "message": "Egy Google-felhasználó"
+   },
+   "1615800076127848008": {
+      "message": "Tai le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{# óra múlva}=1{# óra múlva}other{# óra múlva}}"
+   },
+   "1635932785663944786": {
+      "message": "Szám"
+   },
+   "1658346838703079243": {
+      "message": "Módosítás"
+   },
+   "1686917835491599951": {
+      "message": "Nemrég hozzáadva a Saját könyvtárhoz"
+   },
+   "1700078784075267898": {
+      "message": "Google Play Zene"
+   },
+   "1709114386311494800": {
+      "message": "Link"
+   },
+   "1722592106949807025": {
+      "message": "Hibakeresési naplók mentése"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "Névjegy"
+   },
+   "1729815731089690989": {
+      "message": "Make sure you're connected to the Internet"
+   },
+   "1751129087972897649": {
+      "message": "Birodalmi arámi"
+   },
+   "1763795268257640974": {
+      "message": "Nem sikerült leiratkozni a lejátszási listáról. Kérjük, próbáld újra."
+   },
+   "1781759902625939771": {
+      "message": "Ismeretlen előadó"
+   },
+   "1800865039213871505": {
+      "message": "Ugrás erre a linkre: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play Zene Chrome-hoz $PLATFORM$ platformon",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Bezárás"
+   },
+   "1819368767424033007": {
+      "message": "Történelmi"
+   },
+   "182621168783940405": {
+      "message": "Jobbról balra jelölő"
+   },
+   "184252996364058487": {
+      "message": "0 perc"
+   },
+   "1860075031180562077": {
+      "message": "Zenei szimbólum: Frázis vége"
+   },
+   "190045585254551934": {
+      "message": "Sziloti nagri"
+   },
+   "1914372876923825240": {
+      "message": "Link ide:"
+   },
+   "192481666606780833": {
+      "message": "Nem lehet lejátszani a zenét"
+   },
+   "1945037339176024290": {
+      "message": "Zárójeles/bekarikázott"
+   },
+   "1947306462789680361": {
+      "message": "$NUM$ perce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Zenei „szólam eleje” jel"
+   },
+   "1962559411793600980": {
+      "message": "Aveszta"
+   },
+   "1981687300412326534": {
+      "message": "Han – kilencvonásos gyökök"
+   },
+   "1989564869397178334": {
+      "message": "Címsor"
+   },
+   "1996585593795647892": {
+      "message": "Link hozzáadása vagy eltávolítása"
+   },
+   "2005272211699610673": {
+      "message": "Instant egyveleg"
+   },
+   "2026335465374096346": {
+      "message": "Kattints a véletlenszerű lejátszás kikapcsolásához"
+   },
+   "2032972931560484213": {
+      "message": "Készítette: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Szóközt nem alkalmazó karakter"
+   },
+   "2038618429165152799": {
+      "message": "Névtelen"
+   },
+   "2056726623536384731": {
+      "message": "Ugrás a Google Play Zenékhez"
+   },
+   "2080060559104348538": {
+      "message": "Dél-ázsiai írásrendszerek"
+   },
+   "2088175644103984799": {
+      "message": "Khmer „inherens Aq” magánhangzó"
+   },
+   "2094349866819883967": {
+      "message": "Rövid gondolatjel"
+   },
+   "2102825898069375693": {
+      "message": "Menü"
+   },
+   "2107375315384298887": {
+      "message": "Alsó index"
+   },
+   "2109622269343579329": {
+      "message": "Érvénytelen e-mail cím"
+   },
+   "2139683490477275175": {
+      "message": "Bezárás"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 dal}=1{1 dal}other{{NUM_SONGS_2} dal}}"
+   },
+   "216513153459932308": {
+      "message": "Törtek és kapcsolódó"
+   },
+   "2173312720188441245": {
+      "message": "Kopt"
+   },
+   "2203397136690479355": {
+      "message": "A fájlt nem lehet feldolgozni"
+   },
+   "2205522058604794595": {
+      "message": "Afrikai írásrendszerek"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Zene: Médiamappák kiválasztása"
+   },
+   "2252825622480483246": {
+      "message": "Meroéi kurzív"
+   },
+   "2299183036960756600": {
+      "message": "$NUM$ napon belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Hiba a teljes könyvtár betöltésénél. Próbáld újra később."
+   },
+   "2309894433432831059": {
+      "message": "Függőleges, hosszú kötőjel prezentációs formája"
+   },
+   "2321398646644344846": {
+      "message": "Holnap"
+   },
+   "2328554046256236832": {
+      "message": "Nem támogatott FLAC-fájl"
+   },
+   "2339250039074511222": {
+      "message": "Ez a link nem tesztelhető."
+   },
+   "2339750206850776348": {
+      "message": "Lik"
+   },
+   "2376735487384008742": {
+      "message": "Hullámjel"
+   },
+   "2378357177170124823": {
+      "message": "Tizedes"
+   },
+   "2382000105167193834": {
+      "message": "Gudzsaráti"
+   },
+   "2389069046927902638": {
+      "message": "Google Play Zene"
+   },
+   "2390557292924554291": {
+      "message": "Nullszélességű kötő"
+   },
+   "2434131766046654438": {
+      "message": "Lineáris B"
+   },
+   "247847652023697955": {
+      "message": "Zenei „rövid hangkötés eleje” jel"
+   },
+   "249032153569378306": {
+      "message": "$NUM$ órája",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2506718393130237030": {
+      "message": "Nem támogatott fájlformátum"
+   },
+   "2512060739274636260": {
+      "message": "Új tai lue"
+   },
+   "2513370824993175045": {
+      "message": "$NUM$ napon belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Zenei „hangjegykötés vége” jel"
+   },
+   "2529924385478060648": {
+      "message": "Buhid"
+   },
+   "2530473232691534250": {
+      "message": "E-mail cím"
+   },
+   "2538866057253567409": {
+      "message": "Deseret"
+   },
+   "2544569632476723854": {
+      "message": "Általános Szerződési Feltételek"
+   },
+   "2550362371114851075": {
+      "message": "Normál"
+   },
+   "2558836909854550547": {
+      "message": "Normál"
+   },
+   "2565011230196288502": {
+      "message": "$NUM$ percen belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2610851846609508423": {
+      "message": "ASCII-alapú"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ új)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2714752802779336020": {
+      "message": "Google Play zene"
+   },
+   "2722441731984880542": {
+      "message": "Kattints a véletlenszerű lejátszás bekapcsolásához"
+   },
+   "272553825640256879": {
+      "message": "Teljes szélességű kötőjel"
+   },
+   "2728464858411473080": {
+      "message": "Tetszik"
+   },
+   "2732888649509914313": {
+      "message": "Mongol"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Túl sok fájl van a fiókban"
+   },
+   "2787148143326073325": {
+      "message": "Hangkeresés"
+   },
+   "2801094315807039135": {
+      "message": "Tai Viet"
+   },
+   "2809945145618753350": {
+      "message": "1/4 hosszú gondolatjelnyi szóköz"
+   },
+   "2811509810457668932": {
+      "message": "Fonetikai jelek (X-IPA)"
+   },
+   "2840006222747077107": {
+      "message": "A Saját könyvtár üres"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{# perce}=1{# perce}other{# perce}}"
+   },
+   "2881621988818346391": {
+      "message": "Igen"
+   },
+   "2881776379326317082": {
+      "message": "Mindig ezt a helyet használja"
+   },
+   "2896688457548770791": {
+      "message": "Idézet"
+   },
+   "2910989560121976550": {
+      "message": "Link tesztelése"
+   },
+   "2918448970074432239": {
+      "message": "HTML szerkesztése"
+   },
+   "29485262661698811": {
+      "message": "Arab „ája vége” jel"
+   },
+   "2954874827338778826": {
+      "message": "Internetes cím"
+   },
+   "2968801718595938980": {
+      "message": "Hangul"
+   },
+   "2972470287059252937": {
+      "message": "Keskeny nem törhető szóköz"
+   },
+   "2973169743818593793": {
+      "message": "Han – ötvonásos gyökök"
+   },
+   "29734255682325103": {
+      "message": "Jobbra igazítás"
+   },
+   "2980847012388128321": {
+      "message": "Nulla szélességű szóköz"
+   },
+   "2980960654248329234": {
+      "message": "Hajszálszóköz"
+   },
+   "2982463607788408741": {
+      "message": "Kijelentkeztél a Google-fiókból. Az újbóli bejelentkezéshez frissíts."
+   },
+   "305389607483289974": {
+      "message": "Kattints a szüneteltetéshez"
+   },
+   "3054851848337350805": {
+      "message": "Felső index"
+   },
+   "305815942371229357": {
+      "message": "Nincs javaslat"
+   },
+   "3067310196368927236": {
+      "message": "Héber felső kötőjel (maqaf)"
+   },
+   "308732574543176489": {
+      "message": "A lejátszási lista nem módosítható. Próbálkozz újra."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} óra}other{{TEXT} óra}}"
+   },
+   "3099596419835786769": {
+      "message": "Közepes matematikai szóköz"
+   },
+   "311577748341232969": {
+      "message": "A zenehallgatáshoz a legújabb Adobe Flash Player szükséges."
+   },
+   "3125342991297920614": {
+      "message": "Nem sikerült megnyitni az albumot. Próbálkozz újra."
+   },
+   "3138864086144358473": {
+      "message": "Han – 11–17-vonásos gyökök"
+   },
+   "314582171813087287": {
+      "message": "Nem törhető kötőjel"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Nem tudod biztosan, hogy mit kell a mezőbe írni?$END_BOLD$ Először keresd meg az interneten a linkelni kívánt oldalt. (Ehhez célszerű egy $SEARCH_ENGINE_LINK$keresőmotort$END_LINK$ használni.) Ezután a böngésző címsorában lévő internetcímet másold a vágólapra, majd illeszd be a fenti mezőbe.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3167418181223330667": {
+      "message": "Módosító"
+   },
+   "3182977091552629211": {
+      "message": "Az egyes karakterek nevének megjelenítéséhez vidd az egérmutatót a cella fölé."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{# napja}=1{# napja}other{# napja}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 dal}=1{1 dal}other{# dal}}"
+   },
+   "3196641196902208501": {
+      "message": "E-mail címre mutató link felvétele"
+   },
+   "3225804441370198247": {
+      "message": "Minden zeném a következő előadótól: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Ji king és Taj hszüan king"
+   },
+   "3234962763403901834": {
+      "message": "$NUM$ percen belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Nincs"
+   },
+   "3237206613586329862": {
+      "message": "Lid"
+   },
+   "3242312278127054660": {
+      "message": "Matematikai alfanumerikus"
+   },
+   "3245264696956198335": {
+      "message": "Formázás"
+   },
+   "3299099956700438963": {
+      "message": "Amerikai írásrendszerek"
+   },
+   "3335728816495350082": {
+      "message": "Népszerű dalok – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3381844160250536550": {
+      "message": "Jelentkezz be a Chrome-ba"
+   },
+   "3389797949812522362": {
+      "message": "Héber"
+   },
+   "3390725557414108843": {
+      "message": "Han – négyvonásos gyökök"
+   },
+   "3439291896675389753": {
+      "message": "N'Ko"
+   },
+   "3444326079109550157": {
+      "message": "Mely URL-címre mutasson ez a link?"
+   },
+   "3445096196133856884": {
+      "message": "Khmer „inherens Aa” magánhangzó"
+   },
+   "3462013384451950074": {
+      "message": "$NUM$ órán belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Hallgasd zeneszámaidat bárhol. Ehhez elég hozzáadnod őket a számítógépen a Google Playhez."
+   },
+   "3479964965156370621": {
+      "message": "Központozás"
+   },
+   "3483193414050571677": {
+      "message": "Nem tetszik"
+   },
+   "3483958460407305290": {
+      "message": "Áthúzás"
+   },
+   "3547729876847212201": {
+      "message": "Keskeny szóköz"
+   },
+   "3565556274692077023": {
+      "message": "Hosszú gondolatjel"
+   },
+   "3601632218457952692": {
+      "message": "Yi"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Tetszik"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Google Play Zene minilejátszó"
+   },
+   "3649938620817393740": {
+      "message": "Kicsi"
+   },
+   "3650710698506236041": {
+      "message": "Hexadecimális színkód"
+   },
+   "3688803517283872334": {
+      "message": "Középszéles „Hangul Filler” jel"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "3748613043647922063": {
+      "message": "Láthatatlan elválasztó"
+   },
+   "3762887990641668199": {
+      "message": "Örmény"
+   },
+   "3770594827970207417": {
+      "message": "Kisebb címsor"
+   },
+   "3772706138160001780": {
+      "message": "Vízszintes csík"
+   },
+   "3774172828626803355": {
+      "message": "Cseroki"
+   },
+   "3782346097595894324": {
+      "message": "Nem sikerült kapcsolódni a szerverhez. Kérjük, próbáld újra később."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "A következő ablakok bezárulnak:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolita"
+   },
+   "3839679337223320857": {
+      "message": "Bejelentkezve mint $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3867367359959377145": {
+      "message": "HIBA: a(z) „$COLOR$” nem egy érvényes szín.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "A Chrome-alkalmazás használata előtt jelentkezz be a Google Play Zenébe az interneten."
+   },
+   "3873111853443561979": {
+      "message": "Aláhúzott"
+   },
+   "3901889124080689046": {
+      "message": "A fájl nem nyitható meg"
+   },
+   "3905371920037624514": {
+      "message": "Kevésbé gyakori"
+   },
+   "3936240281193464170": {
+      "message": "Frissítés"
+   },
+   "3964523220682082212": {
+      "message": "Hiba a könyvtár betöltésénél"
+   },
+   "3975141127799341224": {
+      "message": "Linkkel mutathat egy oldalra vagy fájlra az interneten"
+   },
+   "3988935995558346502": {
+      "message": "Cirill"
+   },
+   "3996699777412450193": {
+      "message": "Nyilak"
+   },
+   "3999655151577464071": {
+      "message": "Probléma merült fel az instant egyveleg törlése során."
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "Han – hatvonásos gyökök"
+   },
+   "4044663630621281686": {
+      "message": "Arab száfhá jel"
+   },
+   "4055580652532057510": {
+      "message": "névtelen"
+   },
+   "4061274470931156807": {
+      "message": "Ol chiki"
+   },
+   "4082846773463542695": {
+      "message": "Nem sikerült azonosítani a számítógépedet."
+   },
+   "4087074177670472082": {
+      "message": "Sorközi annotációs jel"
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4171773891797639122": {
+      "message": "Szóegyesítő"
+   },
+   "4183640380235728062": {
+      "message": "Ismétlés kikapcsolva. Kattints az Ismétlés módosításához."
+   },
+   "4194375141064658954": {
+      "message": "Hoppá! Műszaki probléma történt"
+   },
+   "4204603140063905121": {
+      "message": "Hangul dzsungszöng köz"
+   },
+   "4248732728178924517": {
+      "message": "Oszlopok száma: $NUM_COLS$, sorok száma: $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Mégse"
+   },
+   "4275466320467620600": {
+      "message": "Mindig legfölül"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4326462735503400283": {
+      "message": "Megjelenítendő szöveg:"
+   },
+   "4329609792835264496": {
+      "message": "Vékony szóköz"
+   },
+   "4333644357236884202": {
+      "message": "Khmer"
+   },
+   "4338950182024656659": {
+      "message": "Nem és leszármazás"
+   },
+   "4357737589458300153": {
+      "message": "Az MPEG Layer-3 audiokódolási technológia licence a Fraunhofer IIS és a Thomson cégektől származik. Az Advanced Audio Coding (AAC) kódolásra a Via Licensing Corporation által kiadott licenc vonatkozik. A Google Play harmadik féltől származó szoftvereket tartalmaz, melyek közlemények és/vagy további szerződési feltételek elfogadását követelhetik meg. A harmadik féltől származó szoftverekhez kapcsolódó közlemények és/vagy kiegészítő feltételek megtalálhatók a $START_LINK$harmadik felekkel kapcsolatos közzétételi oldalunkon$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Legjobb értékelésű"
+   },
+   "4380903276097257721": {
+      "message": "Függőleges, rövid kötőjel prezentációs formája"
+   },
+   "4396890764725725469": {
+      "message": "Mentés"
+   },
+   "4405073953395157822": {
+      "message": "Kínai, japán és koreai jelek"
+   },
+   "4417144592785193889": {
+      "message": "Egyéb kelet-ázsiai írásrendszerek"
+   },
+   "4439965029912183539": {
+      "message": "Latin 1 kiegészítő"
+   },
+   "4440466521156769623": {
+      "message": "Zenei „hangjegykötés eleje” jel"
+   },
+   "4445783474627796041": {
+      "message": "Kész"
+   },
+   "445149490695787423": {
+      "message": "Jelentkezz be újra"
+   },
+   "4451528286100219680": {
+      "message": "Szövegirány balról jobbra"
+   },
+   "4456793125873199230": {
+      "message": "„Jó napom van” rádió"
+   },
+   "4462494623248108758": {
+      "message": "Lejátszási lista"
+   },
+   "4478641030934315579": {
+      "message": "Gyakori"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4494835774314426313": {
+      "message": "Nem lehet eltávolítani az utolsó elemet"
+   },
+   "4548656448943532301": {
+      "message": "A zenefeltöltés befejeződött"
+   },
+   "4571105317747127957": {
+      "message": "Kötőjel dupla ponttal"
+   },
+   "4590981840116960737": {
+      "message": "Formázás és térköz"
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "4629182899853078878": {
+      "message": "Rádióállomás"
+   },
+   "4629398054050196678": {
+      "message": "Zene letöltése a következő helyre:"
+   },
+   "466976558518570343": {
+      "message": "Jávai"
+   },
+   "4675864222674894697": {
+      "message": "Shaw-i ábécé"
+   },
+   "4688946070631035536": {
+      "message": "Helyesírás-ellenőrző"
+   },
+   "470296860672943171": {
+      "message": "Változatválasztó"
+   },
+   "4706959263210678625": {
+      "message": "Változatválasztó – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "A Google Play maradjon naprakész, amikor új számokat adok hozzá ezekhez a gyűjteményekhez"
+   },
+   "4750228681419116696": {
+      "message": "Malajálam"
+   },
+   "4754400438927203898": {
+      "message": "Zene szüneteltetve"
+   },
+   "4776903542722844646": {
+      "message": "Kattints a lejátszáshoz"
+   },
+   "4815033911915598343": {
+      "message": "Térköz"
+   },
+   "4816571345301008062": {
+      "message": "Probléma merült fel az instant egyveleg átnevezése során."
+   },
+   "4830715100444503860": {
+      "message": "Kharosti"
+   },
+   "4862238057869188402": {
+      "message": "Nem sikerült lekérni az egyvelegeket. Kérjük, próbáld újra."
+   },
+   "4878527640076219954": {
+      "message": "Tamil"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Zene Chrome-hoz"
+   },
+   "4887472194021728050": {
+      "message": "Thai"
+   },
+   "4920482241656423227": {
+      "message": "Szöveg háttérszíne"
+   },
+   "4921096453319030731": {
+      "message": "Szíriai rövidítésjelölő"
+   },
+   "4924253230856131215": {
+      "message": "Délkelet-ázsiai írásrendszerek"
+   },
+   "496636435516411982": {
+      "message": "A dal nem értékelése nem sikerült. Próbálkozz újra."
+   },
+   "498913874005297914": {
+      "message": "Félkövér"
+   },
+   "499152283823240992": {
+      "message": "Samaritan"
+   },
+   "5003850562831597565": {
+      "message": "Tartalom, amelyre nemrég előfizetett"
+   },
+   "5009878480585609766": {
+      "message": "Han – egyéb"
+   },
+   "5015096128854741514": {
+      "message": "Utazás és térkép"
+   },
+   "5018227417300461385": {
+      "message": "Kis kötőjel"
+   },
+   "5022153145769748172": {
+      "message": "Nincsenek zeneszámok a kukában."
+   },
+   "5030096791460456147": {
+      "message": "A kívánt kép áthúzását a tároló webhely letiltotta."
+   },
+   "5032188163864418301": {
+      "message": "Pahlavi felirat"
+   },
+   "5049432650728491454": {
+      "message": "Tallózás új megjelenések, toplisták, lejátszási listák és műfajok között"
+   },
+   "506090363255226122": {
+      "message": "Tükrözött"
+   },
+   "5071594083516657121": {
+      "message": "A fájl túl nagy"
+   },
+   "5094769877856014729": {
+      "message": "Zenei „rövid hangkötés vége” jel"
+   },
+   "5105404398573470156": {
+      "message": "Geometriai alakzatok"
+   },
+   "5113771261593769985": {
+      "message": "Csám"
+   },
+   "5115900738857721327": {
+      "message": "Kombinációs grafémakapcsoló"
+   },
+   "5128240607770067472": {
+      "message": "Névjegy…"
+   },
+   "5143432838919500349": {
+      "message": "Keresés…"
+   },
+   "5170992049958515620": {
+      "message": "Kötőjel"
+   },
+   "5187212874644392331": {
+      "message": "Verzió: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Jelenleg nem lehet képfájlokat máshova áthúzni.\nKérjük, a böngészőből húzz át egy képet."
+   },
+   "5199204386348402183": {
+      "message": "Szomáli"
+   },
+   "5219596981664772816": {
+      "message": "Han – háromvonásos gyökök"
+   },
+   "5232157483592334572": {
+      "message": "Berber"
+   },
+   "5256846847077792168": {
+      "message": "Szó szerkesztése"
+   },
+   "5278374842872340790": {
+      "message": "Hangulatjelek"
+   },
+   "5288571118300787017": {
+      "message": "Dekódolási hiba a következő számban: $SONG_TITLE$. Ellenőrizd az eredeti fájlt, majd töltsd fel ismét. Szám átugorva.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "531478949469830505": {
+      "message": "Sora Sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{több mint 0 nap}=1{több mint 1 nap}other{több mint # nap}}"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5373550672011878193": {
+      "message": "Rúna"
+   },
+   "537543696442379345": {
+      "message": "Instant egyveleg indítása"
+   },
+   "5378532290721565403": {
+      "message": "A dalt egy másik Google Play Zene-fiókkal vásárolták meg"
+   },
+   "5394607018657314633": {
+      "message": "Vonalelválasztó"
+   },
+   "5402470227536486835": {
+      "message": "Kisméretű hosszú gondolatjel"
+   },
+   "5404910277282887798": {
+      "message": "Föníciai"
+   },
+   "5408241503383428945": {
+      "message": "Egyéb európai írásrendszerek"
+   },
+   "5432330868773114140": {
+      "message": "Rádió indítása"
+   },
+   "5451692331472585782": {
+      "message": "Minden szám"
+   },
+   "5452036681614307719": {
+      "message": "Láthatatlan összeadásjel"
+   },
+   "5455360062863417200": {
+      "message": "Következő szám"
+   },
+   "5464364716831469679": {
+      "message": "Ismeretlen album"
+   },
+   "548629550059508920": {
+      "message": "A feltöltés sikertelen, mert épp két fiókból végzel feltöltést."
+   },
+   "5497512316841934820": {
+      "message": "„Jó napom van” egyveleg"
+   },
+   "5497627646066282315": {
+      "message": "Csatlakozás"
+   },
+   "5501301484140201550": {
+      "message": "„Jó napom van” rádió"
+   },
+   "5518817744725858296": {
+      "message": "Az előadó élő koncertet ad a közelben"
+   },
+   "5529194084754296998": {
+      "message": "1/6 hosszú gondolatjelnyi szóköz"
+   },
+   "5541835554879897802": {
+      "message": "Egyes számokat nem sikerült hozzáadni a gyűjteményhez. Próbáld újra."
+   },
+   "5578390534357178026": {
+      "message": "Győződj meg róla, hogy ugyanazzal a Google-fiókkal jelentkeztél be a Chrome-ba."
+   },
+   "5584189341216439776": {
+      "message": "Saját zenék hozzáadása"
+   },
+   "5584467594910303696": {
+      "message": "Meroéi hieroglifák"
+   },
+   "5593848105713936399": {
+      "message": "Várólista"
+   },
+   "5594762259680838005": {
+      "message": "Legutóbb vásárolt"
+   },
+   "5612959352951118540": {
+      "message": "$NUM$ órán belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Formázás"
+   },
+   "5653588624985073807": {
+      "message": "Gurmuki"
+   },
+   "5665391621751941927": {
+      "message": "Nem sikerült lekérni a műfajokat. Kérjük, próbálkozz újra."
+   },
+   "5674048882417502526": {
+      "message": "Jobbról balra felülbírálás"
+   },
+   "5677606995605741055": {
+      "message": "Probléma merült fel a rádióállomás törlése során."
+   },
+   "569766142833422558": {
+      "message": "A Google Play Zene Chrome-alkalmazás frissítésre szorul. A frissítés automatikusan történik."
+   },
+   "5700613377997995103": {
+      "message": "Számjegygondolatjel"
+   },
+   "5755038562791065032": {
+      "message": "1/3 hosszú gondolatjelnyi szóköz"
+   },
+   "5761798931116026691": {
+      "message": "Az MP3-formátumba konvertálás nem sikerült"
+   },
+   "5769804815976568558": {
+      "message": "Letöltési hely kiválasztása"
+   },
+   "5773750119871048451": {
+      "message": "Mégse"
+   },
+   "5775493454862732930": {
+      "message": "Örmény kötőjel"
+   },
+   "5784007894878825338": {
+      "message": "Nem törhető szóköz"
+   },
+   "5889126665299129466": {
+      "message": "A minilejátszó használatához be kell jelentkezned a Chrome-ba."
+   },
+   "5890243856676178044": {
+      "message": "Bengáli"
+   },
+   "5914500973755757025": {
+      "message": "Lao"
+   },
+   "5918806792833250096": {
+      "message": "Ékírás"
+   },
+   "5930857699885919881": {
+      "message": "Nem támogatott ALAC-fájl"
+   },
+   "5969115558488445506": {
+      "message": "Alcímsor"
+   },
+   "5971001229987621398": {
+      "message": "Ajánlott új kiadás"
+   },
+   "5999484363963634214": {
+      "message": "Mandai"
+   },
+   "601150082487101480": {
+      "message": "Utoljára hozzáadott"
+   },
+   "6031749391396582225": {
+      "message": "Hangul köz"
+   },
+   "6042091568356544470": {
+      "message": "Függvény alkalmazása"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "610635793308893528": {
+      "message": "Szövegirány jobbról balra"
+   },
+   "6125785068086103357": {
+      "message": "A dal nem távolítható el. Próbálkozz újra."
+   },
+   "6134905866550808378": {
+      "message": "Minden zeném $GENRE_NAME$ stílusban",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6205568685279927986": {
+      "message": "Redzsang"
+   },
+   "6211429203092739745": {
+      "message": "Előző szám"
+   },
+   "6211690508928257569": {
+      "message": "Szír"
+   },
+   "6223487594388109285": {
+      "message": "Probléma merült fel a rádióállomás átnevezése során."
+   },
+   "6233107584508657559": {
+      "message": "Nem sikerült csatlakozni a Google-hoz"
+   },
+   "6238576599909606924": {
+      "message": "érvénytelen URL-cím"
+   },
+   "6242354668932209396": {
+      "message": "Az összes szám ismétlése. Kattints az Ismétlés módosításához."
+   },
+   "624368563085644372": {
+      "message": "Láthatatlan szorzásjel"
+   },
+   "6264257099423315684": {
+      "message": "Mely e-mail címre mutasson ez a link?"
+   },
+   "630414199054820482": {
+      "message": "Írásjelszóköz"
+   },
+   "6342787164312491730": {
+      "message": "Időjárás, tájak és csillagjegyek"
+   },
+   "6352462755178724841": {
+      "message": "Formázás eltávolítása"
+   },
+   "6360340926892934518": {
+      "message": "Mappa hozzáadása"
+   },
+   "6376633306429460166": {
+      "message": "Szaurastra"
+   },
+   "6390744057286457578": {
+      "message": "Középre igazítás"
+   },
+   "6397906195939852735": {
+      "message": "Kannada"
+   },
+   "6397910887534888858": {
+      "message": "Betűszín"
+   },
+   "6425912931786223127": {
+      "message": "de."
+   },
+   "6427041476637425542": {
+      "message": "Alsó index"
+   },
+   "6447846965513034625": {
+      "message": "Objektumok"
+   },
+   "6452850149519075219": {
+      "message": "Most nem"
+   },
+   "6455550894777387014": {
+      "message": "Mianmari"
+   },
+   "6502885021177224543": {
+      "message": "Google Play Zene: Letöltési mappa kiválasztása"
+   },
+   "6504449653938065974": {
+      "message": "Ajánlott lejátszási lista"
+   },
+   "6510962485068569110": {
+      "message": "Visszavonás"
+   },
+   "653219508056341533": {
+      "message": "Emberek és érzelmek"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6568036879894576496": {
+      "message": "A következő mappákban található zenék hozzá lesznek adva a Google Play Zenéhez"
+   },
+   "6591282200798732887": {
+      "message": "Félkvirt"
+   },
+   "6593910762276333113": {
+      "message": "Flash letöltése"
+   },
+   "66116513409922755": {
+      "message": "Nem"
+   },
+   "6612115524763399815": {
+      "message": "Dévanágari"
+   },
+   "6641147067989080704": {
+      "message": "Kajah li"
+   },
+   "6650739047421247577": {
+      "message": "Nem lehet zenét lejátszani"
+   },
+   "6652787256443519035": {
+      "message": "Címke nélküli"
+   },
+   "66820157572867378": {
+      "message": "Behúzás csökkentése"
+   },
+   "6689623864271696040": {
+      "message": "Lágy kötőjel"
+   },
+   "6711475260919070872": {
+      "message": "Óperzsa"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Önnek ajánlott"
+   },
+   "6722174221321515493": {
+      "message": "Nullszélességű nem kötő"
+   },
+   "6732797853205065184": {
+      "message": "Mellőzés"
+   },
+   "6750258767236131097": {
+      "message": "Közel-keleti írásrendszerek"
+   },
+   "6768967544887679189": {
+      "message": "Kettős hullámvonal"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6821274223204126521": {
+      "message": "Zene"
+   },
+   "6839273670547667172": {
+      "message": "Különböző előadók"
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6898179631823558149": {
+      "message": "A fájlt nem sikerült használható formátumba konvertálni"
+   },
+   "6930531446322391145": {
+      "message": "Kép"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7009828133009731416": {
+      "message": "Ingyenesen a Google-tól"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7020161279392960480": {
+      "message": "Formázás"
+   },
+   "7029749611952268902": {
+      "message": "Hiányzó Flash Player"
+   },
+   "7034479228356652023": {
+      "message": "Han – egyvonásos gyökök"
+   },
+   "7049182394855721704": {
+      "message": "Gót"
+   },
+   "7080245643233785574": {
+      "message": "A Google Play Zene Chrome-hoz problémát tapasztalt, és az ismételt bejelentkezésedet kéri."
+   },
+   "7100404876663103497": {
+      "message": "Hangul szótagkezdő mássalhangzó (cshoszong) jel"
+   },
+   "7100567566985297322": {
+      "message": "Széles szóköz"
+   },
+   "7102126384411654213": {
+      "message": "Nem adható hozzá a gyűjteményhez. Próbálkozz újra."
+   },
+   "7104210472412766015": {
+      "message": "Sorközi annotációs elválasztó"
+   },
+   "7111181959300196580": {
+      "message": "Behúzás növelése"
+   },
+   "7116872031464114568": {
+      "message": "A Hangkeresés segítségével azonosítva"
+   },
+   "7127937208951634191": {
+      "message": "Szimbólum"
+   },
+   "7132453172532202734": {
+      "message": "A Google Play nem érhető el"
+   },
+   "7136816542440442290": {
+      "message": "Probléma merült fel a rádióállomás betöltése során."
+   },
+   "716550293954822096": {
+      "message": "Szingaléz"
+   },
+   "7192513315706728552": {
+      "message": "Szerverhiba – próbálkozz újra később."
+   },
+   "7193968696947634147": {
+      "message": "Oldal frissítése"
+   },
+   "7194376132387780145": {
+      "message": "Nem lehet engedélyezni ezt a számítógépet, mivel már rendelkezel tíz eszközzel."
+   },
+   "7202681158267340446": {
+      "message": "Betűtípus"
+   },
+   "720381800527728702": {
+      "message": "Sportok, ünnepek és tevékenységek"
+   },
+   "7224832103566723854": {
+      "message": "Nem sikerült megnyitni a lejátszási listát. Próbálkozz újra."
+   },
+   "7228343081607279547": {
+      "message": "Szundanéz"
+   },
+   "7229202390260081051": {
+      "message": "Hatalmas"
+   },
+   "7282565673166392948": {
+      "message": "Ideogrammatikus leíró karakter"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 perc}=1{1 perc}other{# perc}}"
+   },
+   "7293925053370285812": {
+      "message": "Az aktuális szám ismétlése. Kattints az Ismétlés módosításához."
+   },
+   "7305504256207181669": {
+      "message": "Listajeles felsorolás"
+   },
+   "7310668544702677420": {
+      "message": "Kérjük, frissítsd ezt az oldalt böngésződben annak érdekében, hogy folytathasd zenéid meghallgatását. Ha a probléma továbbra is fennáll, győződj meg arról, hogy a Flash engedélyezve van, és megfelelően működik."
+   },
+   "7320133162875658022": {
+      "message": "Új dalok feltöltése ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7331328794127852355": {
+      "message": "Hangulatjel"
+   },
+   "7335080673788704461": {
+      "message": "Utazás, térképek és jelölések"
+   },
+   "7347179017294066771": {
+      "message": "Mappák hozzáadása vagy eltávolítása"
+   },
+   "7354691783317064273": {
+      "message": "A Chrome-alkalmazás csatlakozik."
+   },
+   "7396303606473621591": {
+      "message": "Összes"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{# nap múlva}=1{# nap múlva}other{# nap múlva}}"
+   },
+   "7437894509168051348": {
+      "message": "Han – hétvonásos gyökök"
+   },
+   "747583939629659293": {
+      "message": "Szín hozzáadása"
+   },
+   "7480960100390206139": {
+      "message": "Vegyes"
+   },
+   "7529798479468856973": {
+      "message": "$NUM$ órája",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7536172317066333802": {
+      "message": "Kép beszúrása"
+   },
+   "7559266156388225108": {
+      "message": "Kajthi számjegy"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongol magánhangzó-elválasztó"
+   },
+   "7596816553523902619": {
+      "message": "Ma"
+   },
+   "7601688284754148415": {
+      "message": "Matematika"
+   },
+   "7617664217221228040": {
+      "message": "Balinéz"
+   },
+   "762389150316771008": {
+      "message": "„Jó napom van” rádió"
+   },
+   "7631480327394084350": {
+      "message": "Vezérlőkódok képei"
+   },
+   "7664246845088850317": {
+      "message": "Nem sikerült csatlakozni a szerverhez – hibakód: "
+   },
+   "7697058485679231601": {
+      "message": "Töltsd be újra az oldalt, és próbálkozz ismét."
+   },
+   "7704516203792990151": {
+      "message": "Eltelt idő"
+   },
+   "7709119284546787990": {
+      "message": "Jobbról balra"
+   },
+   "7711713319832787051": {
+      "message": "Páros"
+   },
+   "7730109880037106848": {
+      "message": "Szimbólumok"
+   },
+   "7736581252844206600": {
+      "message": "Görög"
+   },
+   "7737642252665507180": {
+      "message": "Hexadecimális bevitel"
+   },
+   "7743528314734813641": {
+      "message": "Probléma merült fel az instant egyveleg betöltése során."
+   },
+   "7760426006262447033": {
+      "message": "Nincs elég hely a várólistán"
+   },
+   "7774266771623079214": {
+      "message": "Play Zene"
+   },
+   "7776111286341041808": {
+      "message": "Balról jobbra"
+   },
+   "779262212811541732": {
+      "message": "Ódélarab"
+   },
+   "7816161180678740448": {
+      "message": "Braille"
+   },
+   "7846689234809169417": {
+      "message": "Állatok, növények és étel"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 óra}=1{1 óra}other{# óra}}"
+   },
+   "7878031641910175480": {
+      "message": "Legutóbbi kijelölések:"
+   },
+   "7888286842234266048": {
+      "message": "Befoglalt vagy pontozott"
+   },
+   "7898792314887900865": {
+      "message": "Ciprusi"
+   },
+   "7927039504440585569": {
+      "message": "Latin"
+   },
+   "7930381906669528420": {
+      "message": "A(z) $SONG_TITLE$ lejátszása sikertelen, átugorva.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Fonetikai jelek (IPA)"
+   },
+   "7954850519963017242": {
+      "message": "$NUM$ napja",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arab „Sanah” jel"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mappa}=1{1 mappa}other{# mappa}}"
+   },
+   "7984622936663451936": {
+      "message": "Billentyűzet és felhasználói felület"
+   },
+   "7985095810697977698": {
+      "message": "Nem sikerült lejátszani a dalt. Átléptünk a következőre."
+   },
+   "8001758142015238809": {
+      "message": "Átmeneti hiba. Újrapróbálkozunk a feltöltéssel."
+   },
+   "8019982600883750632": {
+      "message": "Igazítás"
+   },
+   "8020892463961333112": {
+      "message": "Zenei „hosszú hangkötés vége” jel"
+   },
+   "8024675506077392847": {
+      "message": "A következő szám nem tölthető be."
+   },
+   "8030037581414873660": {
+      "message": "Han – kétvonásos gyökök"
+   },
+   "803032414305825807": {
+      "message": "Betűméret"
+   },
+   "803376120920513357": {
+      "message": "$NUM$ napja",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Nem sikerült feliratkozni a lejátszási listára. Kérjük, próbáld újra."
+   },
+   "8045052194324740729": {
+      "message": "A kukába helyezett zenéket nem lehet lejátszani."
+   },
+   "8066747296553908214": {
+      "message": "Hamis kurzív dupla kötőjel"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} nap}other{{TEXT} nap}}"
+   },
+   "8159976291123989327": {
+      "message": "Link szerkesztése"
+   },
+   "8164274980045228173": {
+      "message": "„Pop” irányformázás"
+   },
+   "8164897103619368290": {
+      "message": "Számozott felsorolás"
+   },
+   "8191208612330635266": {
+      "message": "Tibeti"
+   },
+   "8192298658946835992": {
+      "message": "Nulla szélességű nem törhető szóköz"
+   },
+   "8193509313274135818": {
+      "message": "Arab lábjegyzetjel"
+   },
+   "819996403327805209": {
+      "message": "További információ"
+   },
+   "823405029831570152": {
+      "message": "Etiópiai"
+   },
+   "8239380670132570074": {
+      "message": "Az ideiglenes fájl nem nyitható meg"
+   },
+   "8249329268828083858": {
+      "message": "Katakana-hiragana kettős kötőjel"
+   },
+   "8275689791574630480": {
+      "message": "„Ogham” szóközjelölő"
+   },
+   "8277279706638733641": {
+      "message": "Csillagok"
+   },
+   "8286384050114068255": {
+      "message": "A NaCl verziószáma: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "8325100368677049569": {
+      "message": "Fedezz fel új zenéket"
+   },
+   "8338465287076872825": {
+      "message": "Nem sikerült a zene beolvasása a fájlból"
+   },
+   "8358697777226306085": {
+      "message": "Egyiptomi hieroglifák"
+   },
+   "8363930857329550333": {
+      "message": "Grúz"
+   },
+   "8385464685117997940": {
+      "message": "Nemrég lejátszott"
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Bejelentkezés"
+   },
+   "8412726756889279816": {
+      "message": "Chakmai"
+   },
+   "842631328362018283": {
+      "message": "Nagy"
+   },
+   "8437015452970026040": {
+      "message": "Elérted a gyűjteménykorlátot. További zeneszámok hozzáadásához először törölnöd kell néhányat."
+   },
+   "8440128775129354214": {
+      "message": "Adatvédelem"
+   },
+   "8454237498473122184": {
+      "message": "Kötőjel-mínuszjel"
+   },
+   "8458476427655018512": {
+      "message": "Szóköz"
+   },
+   "8482517151370142670": {
+      "message": "Egyéb"
+   },
+   "848933194605193751": {
+      "message": "Nemrég megnézve a YouTube-on"
+   },
+   "8492241415183649700": {
+      "message": "Kári"
+   },
+   "8524322739067915993": {
+      "message": "du."
+   },
+   "8542907888351533629": {
+      "message": "…"
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{# perc múlva}=1{# perc múlva}other{# perc múlva}}"
+   },
+   "8628766851955432422": {
+      "message": "Eltávolítás"
+   },
+   "8637643428005590282": {
+      "message": "Jelzések"
+   },
+   "8639048757911329468": {
+      "message": "NaCl-verzió: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Próbáld újra"
+   },
+   "8741366833297918126": {
+      "message": "A szám hossza"
+   },
+   "875046332706257024": {
+      "message": "Automatikus lista"
+   },
+   "8763647985340267403": {
+      "message": "Játékok"
+   },
+   "8768143964455071187": {
+      "message": "Ogam"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{# órája}=1{# órája}other{# órája}}"
+   },
+   "8787014632487519603": {
+      "message": "Dekódolási hiba érzékelve. Ellenőrizd az eredeti fájlt, majd töltsd fel ismét. Szám átugorva."
+   },
+   "8801527171487571079": {
+      "message": "Tai Tham"
+   },
+   "8818387952529569142": {
+      "message": "Ma"
+   },
+   "8819361322041128714": {
+      "message": "Ugariti"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Légy körültekintő.$POSTB$ Ne feledd, ha e-mail címet helyezel el egy weboldalon, akkor azt gátlástalan spamelők is megtalálhatják.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arab számjel"
+   },
+   "8858058202463451164": {
+      "message": "Balra igazítás"
+   },
+   "8868784738343119594": {
+      "message": "$NUM$ perce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8896073810838561095": {
+      "message": "Han – nyolcvonásos gyökök"
+   },
+   "8901076355007755806": {
+      "message": "Lepcha"
+   },
+   "8925271759659767084": {
+      "message": "Ingyenes és megvásárolt"
+   },
+   "8931700495296520714": {
+      "message": "A minilejátszó bezárása"
+   },
+   "8934299821763129489": {
+      "message": "Ókori itáliai"
+   },
+   "8958381934236197373": {
+      "message": "Számjegyszóköz"
+   },
+   "8961985815150856927": {
+      "message": "Legutóbb létrehozott"
+   },
+   "8971282019539581965": {
+      "message": "A Névjegy párbeszédablak bezárása"
+   },
+   "8979933913103486540": {
+      "message": "Gondolatjel"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$ – $ARTIST_NAME$ – Google Play Zene minilejátszó",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Befoglalás"
+   },
+   "9000910334745340727": {
+      "message": "Mongol lágy kötőjel"
+   },
+   "9001309834415064766": {
+      "message": "Han – tízvonásos gyökök"
+   },
+   "901225307358856093": {
+      "message": "Kanadai szótagírás kötőjele"
+   },
+   "902300864627076683": {
+      "message": "Párthus felirat"
+   },
+   "9024489874326845912": {
+      "message": "Ajánlott album"
+   },
+   "9045338265172338590": {
+      "message": "Meetei Mayek"
+   },
+   "9053704575157030099": {
+      "message": "Semelyik"
+   },
+   "9063659532473030063": {
+      "message": "Időjárás és asztrológia"
+   },
+   "9084816336314899019": {
+      "message": "Folytatás"
+   },
+   "9092976405151508175": {
+      "message": "Újra"
+   },
+   "9098679347815545327": {
+      "message": "A lejátszási lista nem hozható létre. Próbálkozz újra."
+   },
+   "9173411042808904308": {
+      "message": "Normál/serif"
+   },
+   "9184426509557869402": {
+      "message": "Ideogrammatikus szóköz"
+   },
+   "9197433560254928186": {
+      "message": "Arab"
+   },
+   "9218938714985695055": {
+      "message": "Zenei „hosszú hangkötés eleje” jel"
+   },
+   "947591000172763449": {
+      "message": "Phagsz-pa"
+   },
+   "953268105555355822": {
+      "message": "Összes megtekintése"
+   },
+   "964983733596985457": {
+      "message": "Kompatibilitás"
+   },
+   "97224266342934568": {
+      "message": "Felső index"
+   },
+   "997742287268027221": {
+      "message": "A fájl feltöltése nem sikerült"
+   }
+}

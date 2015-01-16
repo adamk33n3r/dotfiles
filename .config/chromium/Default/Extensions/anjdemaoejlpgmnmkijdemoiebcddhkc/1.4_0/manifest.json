@@ -1,0 +1,27 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "A HTML5 validation library, using a JavaScript port of the excellent TIDY library",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "128": "128x128.png",
+      "16": "16x16.png",
+      "48": "48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8EK9Wkepr/TNo6DBNj+Nj7SdBadxhrc6vbDgSuLyDWvV7Eu5frTWHuJdCwV+deSNTWxwvMnlHjGG9rvhrtOfr6EIyLNbUF6bndCvNF7QRrdR9mgDlQWLjSt5YQREkw+75wWm6J0ONqrvrCTuEV+QV1hs47CizJP95wakHlbxWyQIDAQAB",
+   "manifest_version": 2,
+   "name": "Kingsquare HTML Validator",
+   "offline_enabled": true,
+   "page_action": {
+      "default_icon": "loading.gif",
+      "default_title": "Checkout Development Tools / HTML validator for more info"
+   },
+   "permissions": [ "http://*/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.4"
+}

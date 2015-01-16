@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="filemanager" mtime="1421095193" schema="/schemas/apps/awn-applet-cairo-menu/filemanager"/>
+	<entry name="run_cmd" mtime="1421364530" schema="/schemas/apps/awn-applet-cairo-menu/run_cmd" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="activate_on_release" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/activate_on_release"/>
+	<entry name="aux_menu_names" mtime="1421364530" schema="/schemas/apps/awn-applet-cairo-menu/aux_menu_names" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>:::PLACES###Places###stock_folder</stringvalue>
+		</li>
+	</entry>
+	<entry name="run_show" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/run_show"/>
+	<entry name="fade_in" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/fade_in"/>
+	<entry name="text_hover_colour" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/text_hover_colour"/>
+	<entry name="show_tooltips" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/show_tooltips"/>
+	<entry name="search_cmd" mtime="1421364530" schema="/schemas/apps/awn-applet-cairo-menu/search_cmd" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="border_colour" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/border_colour"/>
+	<entry name="hidden_names" mtime="1421364530" schema="/schemas/apps/awn-applet-cairo-menu/hidden_names" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>:::PLACES</stringvalue>
+		</li>
+	</entry>
+	<entry name="menu_item_gradient_factor" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/menu_item_gradient_factor"/>
+	<entry name="show_logout" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/show_logout"/>
+	<entry name="applet_icon" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/applet_icon"/>
+	<entry name="honour_gtk" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/honour_gtk"/>
+	<entry name="logout" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/logout"/>
+	<entry name="places_show" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/places_show"/>
+	<entry name="menu_item_text_len" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/menu_item_text_len"/>
+	<entry name="bg_normal_colour" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/bg_normal_colour"/>
+	<entry name="border_width" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/border_width"/>
+	<entry name="search_show" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/search_show"/>
+	<entry name="text_normal_colour" mtime="1421095192" schema="/schemas/apps/awn-applet-cairo-menu/text_normal_colour"/>
+	<entry name="text_size" mtime="1421095191" schema="/schemas/apps/awn-applet-cairo-menu/text_size"/>
+	<entry name="bg_hover_colour" mtime="1421095191" schema="/schemas/apps/awn-applet-cairo-menu/bg_hover_colour"/>
+</gconf>

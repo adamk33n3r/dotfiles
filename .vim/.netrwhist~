@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/adamk33n3r/tsserver/logs'
+let g:netrw_dirhist_2='/etc'
+let g:netrw_dirhist_3='/home/adamk33n3r/Maildir/new'

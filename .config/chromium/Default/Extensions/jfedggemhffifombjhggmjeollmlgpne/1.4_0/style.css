@@ -1,0 +1,111 @@
+* {
+	margin:0;
+	padding:0;
+
+	
+}
+
+*:focus {
+	outline: none;
+}
+
+body {
+	margin:3px;
+	padding:2px;
+
+}
+#content {
+	overflow:hidden;
+	margin:0 auto;
+	width:210px;
+	text-align:center;
+	
+}
+
+#Extract_box {
+    width: 200px;
+    height: 31px;
+    background: url(images/bg_box.png) no-repeat left top;
+	margin:5px auto;
+	
+}
+
+#Extract_box:hover {
+    background: url(images/bg_box.png) no-repeat left bottom;
+}
+
+#Extract_box #txtShortUrl {
+    float: left;
+    padding: 0;
+    margin: 4px 0 0 5px;
+    border: 0;
+    width: 144px;
+	height:24px;
+    background:none;
+	color:#990000;
+	font-size:14px;
+}
+
+#btnExtract {
+	background:url(images/btn_box.png) no-repeat left top;
+    float: right;
+    margin: -23px 3px 0 0;
+	width:50px;
+	height:24px;
+	border:none;
+	cursor:pointer;
+}
+
+#btnExtract:hover {
+	background:url(images/btn_box.png) no-repeat left -24px;
+
+}
+
+
+
+#go_box {
+    width: 200px;
+    height: 31px;
+    background: url(images/bg_box2.png) no-repeat left top;
+	display:none;
+	margin:2px auto;
+}
+
+#go_box:hover {
+    background: url(images/bg_box2.png) no-repeat left bottom;
+}
+
+#go_box #realurl {
+    float: left;
+    padding: 0;
+    margin: 4px 0 0 5px;
+    border: 0;
+    width: 162px;
+	height:24px;
+    background:none;
+	color:#006600;
+	font-size:14px;
+}
+#go {
+	background:url(images/btn_box2.png) no-repeat left top;
+    float: right;
+    margin: -23px -16px 0 0;
+	width:50px;
+	height:24px;
+	border:none;
+	cursor:pointer;
+}
+
+#go:hover {
+	background:url(images/btn_box2.png) no-repeat left -24px;
+
+}
+
+
+#down_arrow {
+	display:none;
+	margin-bottom:5px;
+	padding-bottom:5px;
+	margin:auto;
+}
+
