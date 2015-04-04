@@ -12,6 +12,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ]; then
 fi
 
 syndaemon -t -k -i 1 -d
+setxkbmap -option caps:swapescape
 
 # exec gnome-session
 # exec startkde
