@@ -1,19 +1,25 @@
 call pathogen#infect()
 
+au BufNewFile,BufRead *.ejs set filetype=html
+au BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
 "set rtp+=/usr/local/lib/python3.4/site-packages/powerline/vim/
-python3 from powerline.vim import setup as powerline_setup
-python3 powerline_setup()
-python3 del powerline_setup
+"python3 from powerline.vim import setup as powerline_setup
+"python3 powerline_setup()
+"python3 del powerline_setup
+let g:airline_powerline_fonts = 1
+let g:airline_theme = 'wombat'
 set laststatus=2
-
-syntax enable
-filetype plugin indent on
+set esckeys
+set scrolloff=1
+set splitright
+set splitbelow
+set shell=/bin/bash
 
 " Solarized settings
 set bg=dark
 "colorscheme solarized
 set t_Co=256
-colorscheme xoria256
+colorscheme xoria256noback
 
 set autochdir
 
@@ -32,7 +38,6 @@ set wildmenu
 set wildmode=full
 let g:is_bash=1
 set ai
-set iskeyword-=_
 
 let g:syntastic_c_include_dirs = [ '~/usr/local/include' ]
 
@@ -49,8 +54,8 @@ au BufRead,BufNewFile *.md set filetype=markdown
 autocmd FileType markdown setlocal textwidth=80
 let g:vim_markdown_initial_foldlevel=1
 
-nnoremap  I//<esc>
-nnoremap  :!run % ~/usr/local/lib/libfuzzylite.so<CR>
+nnoremap  I// <esc>j
+"nnoremap  :!run % ~/usr/local/lib/libfuzzylite.so<CR>
 "nnoremap  :!run_python %<CR>
 nnoremap "" :w<CR>
 
@@ -113,20 +118,20 @@ autocmd! BufNewFile * silent! 0r ~/.vim/skel/tmpl.%:e
 
 " When started as "evim", evim.vim will already have done these settings.
 if v:progname =~? "evim"
-  finish
+    finish
 endif
 
 " Use Vim settings, rather than Vi settings (much better!).
 " This must be first, because it changes other options as a side effect.
-set nocompatible
+"set nocompatible
 
 " allow backspacing over everything in insert mode
-set backspace=indent,eol,start
+"set backspace=indent,eol,start
 
 if has("vms")
-  set nobackup		" do not keep a backup file, use versions instead
+    set nobackup		" do not keep a backup file, use versions instead
 else
-  set backup		" keep a backup file
+    set backup		" keep a backup file
 endif
 set history=50		" keep 50 lines of command line history
 set ruler		" show the cursor position all the time
@@ -145,52 +150,52 @@ inoremap <C-U> <C-G>u<C-U>
 
 " In many terminal emulators the mouse works just fine, thus enable it.
 if has('mouse')
-  set mouse=a
+    set mouse=a
 endif
 if has('mouse_sgr')
-  set ttymouse=sgr
+    set ttymouse=sgr
 else
-  set ttymouse=xterm2
+    set ttymouse=xterm2
 endif
 
 " Switch syntax highlighting on, when the terminal has colors
 " Also switch on highlighting the last used search pattern.
 if &t_Co > 2 || has("gui_running")
-  syntax on
-  set hlsearch
+    syntax on
+    set hlsearch
 endif
 
 " Only do this part when compiled with support for autocommands.
 if has("autocmd")
 
-  " Enable file type detection.
-  " Use the default filetype settings, so that mail gets 'tw' set to 72,
-  " 'cindent' is on in C files, etc.
-  " Also load indent files, to automatically do language-dependent indenting.
-  filetype plugin indent on
+    " Enable file type detection.
+    " Use the default filetype settings, so that mail gets 'tw' set to 72,
+    " 'cindent' is on in C files, etc.
+    " Also load indent files, to automatically do language-dependent indenting.
+    filetype plugin indent on
 
-  " Put these in an autocmd group, so that we can delete them easily.
-  augroup vimrcEx
-  au!
+    " Put these in an autocmd group, so that we can delete them easily.
+    augroup vimrcEx
+        au!
 
-  " For all text files set 'textwidth' to 78 characters.
-  autocmd FileType text setlocal textwidth=78
+        " For all text files set 'textwidth' to 78 characters.
+        autocmd FileType text setlocal textwidth=78
 
-  " When editing a file, always jump to the last known cursor position.
-  " Don't do it when the position is invalid or when inside an event handler
-  " (happens when dropping a file on gvim).
-  " Also don't do it when the mark is in the first line, that is the default
-  " position when opening a file.
-  autocmd BufReadPost *
-    \ if line("'\"") > 1 && line("'\"") <= line("$") |
-    \   exe "normal! g`\"" |
-    \ endif
+        " When editing a file, always jump to the last known cursor position.
+        " Don't do it when the position is invalid or when inside an event handler
+        " (happens when dropping a file on gvim).
+        " Also don't do it when the mark is in the first line, that is the default
+        " position when opening a file.
+        autocmd BufReadPost *
+                    \ if line("'\"") > 1 && line("'\"") <= line("$") |
+                    \   exe "normal! g`\"" |
+                    \ endif
 
-  augroup END
+    augroup END
 
 else
 
-  set autoindent		" always set autoindenting on
+    set autoindent		" always set autoindenting on
 
 endif " has("autocmd")
 
@@ -198,8 +203,33 @@ endif " has("autocmd")
 " file it was loaded from, thus the changes you made.
 " Only define it when not defined already.
 if !exists(":DiffOrig")
-  command DiffOrig vert new | set bt=nofile | r # | 0d_ | diffthis
-		  \ | wincmd p | diffthis
+    command DiffOrig vert new | set bt=nofile | r # | 0d_ | diffthis
+                \ | wincmd p | diffthis
 endif
 
 
+function SmoothScroll(up)
+    if a:up
+        let scrollaction=""
+    else
+        let scrollaction=""
+    endif
+    exec "normal " . scrollaction
+    redraw
+    let counter=1
+    while counter<&scroll
+        let counter+=1
+        sleep 10m
+        redraw
+        exec "normal " . scrollaction
+    endwhile
+endfunction
+
+nnoremap <C-U> :call SmoothScroll(1)<Enter>
+nnoremap <C-D> :call SmoothScroll(0)<Enter>
+inoremap <C-U> <Esc>:call SmoothScroll(1)<Enter>i
+inoremap <C-D> <Esc>:call SmoothScroll(0)<Enter>i
+
+map <ScrollWheelUp> <C-Y>
+map <ScrollWheelDown> <C-E>
+set iskeyword-=_

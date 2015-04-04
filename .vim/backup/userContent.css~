@@ -1,4 +1,0 @@
-INPUT, TEXTAREA {
-    color: black !important;
-    background: #fff !important;
-}

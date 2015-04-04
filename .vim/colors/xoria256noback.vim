@@ -32,18 +32,18 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "xorian256"
+let colors_name = "xoria256noback"
 
 
 
 " The real part ----------------------------------------------------------------
 
 "" General colors
-hi Normal       ctermfg=252 guifg=#d0d0d0 ctermbg=234 guibg=#1c1c1c cterm=none gui=none
+hi Normal       ctermfg=252 guifg=#d0d0d0 ctermbg=none guibg=none cterm=none gui=none
 hi CursorColumn                           ctermbg=238 guibg=#444444
 hi Cursor                                 ctermbg=214 guibg=#ffaf00
 hi CursorLine                             ctermbg=238 guibg=#444444
-hi FoldColumn   ctermfg=248 guifg=#a8a8a8 ctermbg=bg  guibg=bg
+hi FoldColumn   ctermfg=248 guifg=#a8a8a8 ctermbg=none  guibg=none
 hi Folded       ctermfg=255 guifg=#eeeeee ctermbg=60  guibg=#5f5f87
 hi IncSearch    ctermfg=0   guifg=#000000 ctermbg=223 guibg=#ffdfaf cterm=none gui=none
 hi NonText      ctermfg=248 guifg=#a8a8a8                           cterm=bold gui=bold
@@ -64,44 +64,31 @@ hi VIsualNOS    ctermfg=24  guifg=#005f87 ctermbg=153 guibg=#afdfff cterm=none g
 hi WildMenu     ctermfg=0   guifg=#000000 ctermbg=184 guibg=#dfdf00 cterm=bold gui=bold
 
 "" Syntax highlighting
-"hi Comment      ctermfg=244 guifg=#808080
-hi Comment      ctermfg=4   guifg=#808080                           cterm=bold
+hi Comment      ctermfg=244 guifg=#808080
 hi Constant     ctermfg=229 guifg=#ffffaf
-hi Error        ctermfg=15  guifg=#ffffff ctermbg=2   guibg=#800000
+hi Error        ctermfg=15  guifg=#ffffff ctermbg=1   guibg=#800000
 hi ErrorMsg     ctermfg=15  guifg=#ffffff ctermbg=1   guibg=#800000
-hi Function     ctermfg=14                                          cterm=bold
 hi Identifier   ctermfg=182 guifg=#dfafdf                           cterm=none
 hi Ignore       ctermfg=238 guifg=#444444
-hi Include      ctermfg=12                                          cterm=bold
 hi LineNr       ctermfg=248 guifg=#a8a8a8
 hi MatchParen   ctermfg=188 guifg=#dfdfdf ctermbg=68  guibg=#5f87df cterm=bold gui=bold
 hi Number       ctermfg=180 guifg=#dfaf87
 hi PreProc      ctermfg=150 guifg=#afdf87
 hi Special      ctermfg=174 guifg=#df8787
-hi Statement    ctermfg=3   guifg=#87afdf                           cterm=none gui=none
-hi String       ctermfg=229                                         cterm=none
+hi Statement    ctermfg=110 guifg=#87afdf                           cterm=none gui=none
 hi Todo         ctermfg=0   guifg=#000000 ctermbg=184 guibg=#dfdf00
-hi Type         ctermfg=146 guifg=#afafdf                           cterm=bold gui=none
+hi Type         ctermfg=146 guifg=#afafdf                           cterm=none gui=none
 hi Underlined   ctermfg=39  guifg=#00afff                           cterm=underline gui=underline
-
-"" Python
-hi pythonFuncName       ctermfg=14  cterm=bold
-hi pythonClassName      ctermfg=14  cterm=bold
-hi pythonSuperclass     ctermfg=14
-hi pythonBuiltinObj     ctermfg=127 cterm=none
-hi pythonBuiltinTestObj ctermfg=14  cterm=bold
-hi pythonBuiltinFunc    ctermfg=14  cterm=bold
-hi pythonInclude        ctermfg=9   cterm=underline
 
 "" Special
 """ .diff
 hi diffAdded    ctermfg=150 guifg=#afdf87
 hi diffRemoved  ctermfg=174 guifg=#df8787
 """ vimdiff
-hi diffAdd      ctermfg=bg  guifg=bg      ctermbg=151 guibg=#afdfaf
-"hi diffDelete   ctermfg=bg  guifg=bg      ctermbg=186 guibg=#dfdf87 cterm=none gui=none
-hi diffDelete   ctermfg=bg  guifg=bg      ctermbg=246 guibg=#949494 cterm=none gui=none
-hi diffChange   ctermfg=bg  guifg=bg      ctermbg=181 guibg=#dfafaf
-hi diffText     ctermfg=bg  guifg=bg      ctermbg=174 guibg=#df8787 cterm=none gui=none
+hi diffAdd      ctermfg=none  guifg=none      ctermbg=151 guibg=#afdfaf
+"hi diffDelete   ctermfg=none  guifg=none      ctermbg=186 guibg=#dfdf87 cterm=none gui=none
+hi diffDelete   ctermfg=none  guifg=none      ctermbg=246 guibg=#949494 cterm=none gui=none
+hi diffChange   ctermfg=none  guifg=none      ctermbg=181 guibg=#dfafaf
+hi diffText     ctermfg=none  guifg=none      ctermbg=174 guibg=#df8787 cterm=none gui=none
 
 " vim: set expandtab tabstop=2 shiftwidth=2 smarttab softtabstop=2:

@@ -37,7 +37,7 @@ if !exists('g:AutoPairsCenterLine')
 end
 
 if !exists('g:AutoPairsShortcutToggle')
-  let g:AutoPairsShortcutToggle = '<M-p>'
+  let g:AutoPairsShortcutToggle = '<C-p>'
 end
 
 if !exists('g:AutoPairsShortcutFastWrap')

@@ -1,2 +1,0 @@
-#!/bin/bash
-stat .public_ip -c %y | cut -d ' ' -f 1-2 --output-delimiter=':' | awk -F':' '{print $2 ":" $3 " " $1}'
