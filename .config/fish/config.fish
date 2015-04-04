@@ -1,4 +1,4 @@
-set -gx TERM xterm-256color
+set -g powerline /usr/lib/python3.4/site-packages/powerline
 
 set fish_function_path $fish_function_path "/usr/lib/python3.4/site-packages/powerline/bindings/fish"
 powerline-setup
@@ -52,23 +52,42 @@ set __fish_git_prompt_char_upstream_behind '↓'
 #    end
 #end
 
-alias git=hub
+function trash
+    mkdir -p ~/.trash/(dirname $argv)
+    mv --backup=numbered "$argv" ~/.trash/(dirname $argv)
+end
 
-set -gx PATH $HOME/bin $HOME/mfbin /usr/local/bin $PATH
+source $HOME/mfbin/load_env.fish
+
+alias git=hub
+#alias rm=trash
+alias del=/bin/rm
+#alias python=ipython
+alias sshproxy="ssh adamk33n3r@corunna.adam-keenan.net -D 1080"
+alias vless="/bin/sh /usr/share/vim/vim74/macros/less.sh"
+#alias ls="ls --color=auto --indicator-style=classify --block-size=M"
+alias open="xdg-open"
+
+set -gx PATH $HOME/bin /usr/local/bin $PATH /usr/bin/core_perl ./node_modules/.bin
 
 if test -z $CRD
-    set -Ux CRD $HOME
+    set -g CRD $HOME
 end
 
 function setcrd
-    set -Ux CRD "$argv"
+    set -eu CRD
+    if test -z $argv
+        set -gx CRD (pwd)
+    else
+        set -gx CRD "$argv"
+    end
 end
 
 function getcrd
     echo $CRD
 end
 
-function vf
+function vimf
     vim $HOME/.config/fish/config.fish
 end
 
@@ -88,14 +107,21 @@ function tmux_new
 end
 
 function tmux_attach
-    tmux has -t 0
-    and tmux new -t 0
+    tmux attach
+    #tmux has -t 0
+    #and tmux new -t 0
 end
 
-if test -z $TMUX
+if not status -l; and test -z $TMUX
+    set -gx TERM xterm-256color
     tmux_attach
     or tmux_new
-    or echo "tmux failed to start; using plain fish shell"
+#    or echo "tmux failed to start; using plain fish shell"
 #else
 #    echo "tmux is already running according to \$TMUX: $TMUX"
 end
+
+set -g VIRTUALFISH_COMPAT_ALIASES "hi"
+source /usr/share/virtualfish/auto_activation.fish
+source /usr/share/virtualfish/global_requirements.fish
+source /usr/share/virtualfish/virtual.fish
