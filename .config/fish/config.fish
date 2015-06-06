@@ -57,25 +57,29 @@ function trash
     mv --backup=numbered "$argv" ~/.trash/(dirname $argv)
 end
 
+set -x EDITOR vim
+
 source $HOME/mfbin/load_env.fish
 
 alias git=hub
 #alias rm=trash
 alias del=/bin/rm
 #alias python=ipython
-alias sshproxy="ssh adamk33n3r@corunna.adam-keenan.net -D 1080"
 alias vless="/bin/sh /usr/share/vim/vim74/macros/less.sh"
 #alias ls="ls --color=auto --indicator-style=classify --block-size=M"
 alias open="xdg-open"
+alias py2="vf activate py2"
+alias py3="vf activate py3"
+alias art="$HOME/myfarms/artisan"
 
-set -gx PATH $HOME/bin /usr/local/bin $PATH /usr/bin/core_perl ./node_modules/.bin
+set -gx PATH $HOME/projects/depot_tools $HOME/bin /usr/local/bin $PATH /usr/bin/core_perl ./node_modules/.bin
 
 if test -z $CRD
-    set -g CRD $HOME
+    set -gx CRD $HOME
 end
 
 function setcrd
-    set -eu CRD
+    set -eg CRD
     if test -z $argv
         set -gx CRD (pwd)
     else
@@ -84,11 +88,12 @@ function setcrd
 end
 
 function getcrd
-    echo $CRD
+    echo -n $CRD
 end
 
 function vimf
     vim $HOME/.config/fish/config.fish
+    reload
 end
 
 function reload
@@ -112,6 +117,13 @@ function tmux_attach
     #and tmux new -t 0
 end
 
+set -g VIRTUALFISH_COMPAT_ALIASES "hi"
+source /usr/share/virtualfish/auto_activation.fish
+source /usr/share/virtualfish/global_requirements.fish
+source /usr/share/virtualfish/virtual.fish
+
+set -gx TERM xterm-256color
+exit
 if not status -l; and test -z $TMUX
     set -gx TERM xterm-256color
     tmux_attach
@@ -120,8 +132,3 @@ if not status -l; and test -z $TMUX
 #else
 #    echo "tmux is already running according to \$TMUX: $TMUX"
 end
-
-set -g VIRTUALFISH_COMPAT_ALIASES "hi"
-source /usr/share/virtualfish/auto_activation.fish
-source /usr/share/virtualfish/global_requirements.fish
-source /usr/share/virtualfish/virtual.fish
