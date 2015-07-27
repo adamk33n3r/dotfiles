@@ -71,8 +71,10 @@ alias open="xdg-open"
 alias py2="vf activate py2"
 alias py3="vf activate py3"
 alias art="$HOME/myfarms/artisan"
+alias py="ipython"
 
 set -gx PATH $HOME/projects/depot_tools $HOME/bin /usr/local/bin $PATH /usr/bin/core_perl ./node_modules/.bin
+set -gx NODE_PATH /usr/lib/node_modules
 
 if test -z $CRD
     set -gx CRD $HOME
@@ -105,6 +107,10 @@ end
 #        exec startx
 #    end
 #end
+
+if status -l
+    complete -x --authoritative --command tma --arguments (tma --_completion (commandline -cp))
+end
 
 function tmux_new
     tmux new

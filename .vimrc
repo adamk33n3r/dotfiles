@@ -1,7 +1,7 @@
 call pathogen#infect()
 
 au BufNewFile,BufRead *.ejs set filetype=html
-au BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
+au BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
 "set rtp+=/usr/local/lib/python3.4/site-packages/powerline/vim/
 "python3 from powerline.vim import setup as powerline_setup
 "python3 powerline_setup()
