@@ -13,8 +13,8 @@
 		"battery":				{"fg": "solarized:red", "bg": "solarized:base02"},
 		"battery_full":			{"fg": "solarized:red", "bg": "solarized:base02"},
 		"battery_empty":		{"fg": "gray9", "bg": "solarized:base02"},
-        "weather":              {"fg": "solarized:cyan", "bg": "solarized:base03"},
-        "weather_temp_gradient": {"fg": "blue_red", "bg": "solarized:base03"},
-        "weather_condition_cloudy": {"fg": "white", "bg": "solarized:base03"}
+        "weather":              {"fg": "white", "bg": "solarized:base02"},
+        "weather_temp_gradient": {"fg": "blue_red", "bg": "solarized:base02"},
+        "weather_condition_cloudy": {"fg": "white", "bg": "solarized:base02"}
 	}
 }
