@@ -1,13 +1,13 @@
 {
-    "name": "Solarized dark for shell",
-    "groups": {
-        "battery":              {"fg": "solarized:red", "bg": "solarized:base02"},
-        "battery_full":         {"fg": "solarized:red", "bg": "solarized:base02"},
-        "battery_empty":        {"fg": "gray9", "bg": "solarized:base02"},
-        "jobnum":             { "fg": "solarized:base3", "bg": "solarized:base01", "attr": [] },
-        "exit_fail":          { "fg": "solarized:base3", "bg": "solarized:red", "attr": [] },
-        "exit_success":       { "fg": "solarized:base3", "bg": "solarized:green", "attr": [] },
-        "mode":               { "fg": "solarized:base3", "bg": "solarized:green", "attr": ["bold"] },
+	"name": "Solarized dark for shell",
+	"groups": {
+		"battery":				{"fg": "solarized:red", "bg": "solarized:base02"},
+		"battery_full":			{"fg": "solarized:red", "bg": "solarized:base02"},
+		"battery_empty":		{"fg": "gray9", "bg": "solarized:base02"},
+		"jobnum":             { "fg": "solarized:base3", "bg": "solarized:base01", "attr": [] },
+		"exit_fail":          { "fg": "solarized:base3", "bg": "solarized:red", "attr": [] },
+		"exit_success":       { "fg": "solarized:base3", "bg": "solarized:green", "attr": [] },
+		"mode":               { "fg": "solarized:base3", "bg": "solarized:green", "attr": ["bold"] },
         "gitstatus":                 { "fg": "solarized:base3", "bg": "solarized:base02", "attrs": [] },
         "gitstatus_branch":          { "fg": "solarized:base3", "bg": "solarized:base02", "attrs": [] },
         "gitstatus_branch_clean":    { "fg": "green",           "bg": "solarized:base02", "attrs": [] },
@@ -21,12 +21,12 @@
         "gitstatus_untracked":       { "fg": "brightestorange", "bg": "solarized:base02", "attrs": [] },
         "gitstatus_stashed":         { "fg": "darkblue",        "bg": "solarized:base02", "attrs": [] },
         "gitstatus:divider":         { "fg": "gray8",           "bg": "solarized:base02", "attrs": [] }
-    },
-    "mode_translations": {
-        "vicmd": {
-            "groups": {
-                "mode": { "fg": "solarized:base3", "bg": "solarized:blue", "attr": ["bold"] }
-            }
-        }
-    }
+	},
+	"mode_translations": {
+		"vicmd": {
+			"groups": {
+				"mode": { "fg": "solarized:base3", "bg": "solarized:blue", "attr": ["bold"] }
+			}
+		}
+	}
 }
