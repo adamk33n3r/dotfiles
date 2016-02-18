@@ -1,7 +1,20 @@
-call pathogen#infect()
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'kchmck/vim-coffee-script'
+Plugin 'bling/vim-airline'
+Plugin 'pangloss/vim-javascript'
+Plugin 'groenewege/vim-less'
+Plugin 'digitaltoad/vim-jade'
+Plugin 'wavded/vim-stylus'
+Plugin 'leafgarland/typescript-vim'
+
+call vundle#end()
 
 au BufNewFile,BufRead *.ejs set filetype=html
 au BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
+au BufNewFile,BufReadPost *.jade setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
 "set rtp+=/usr/local/lib/python3.4/site-packages/powerline/vim/
 "python3 from powerline.vim import setup as powerline_setup
 "python3 powerline_setup()
@@ -38,6 +51,7 @@ set wildmenu
 set wildmode=full
 let g:is_bash=1
 set ai
+set timeoutlen=250
 
 let g:syntastic_c_include_dirs = [ '~/usr/local/include' ]
 
