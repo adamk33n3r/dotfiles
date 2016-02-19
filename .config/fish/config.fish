@@ -44,6 +44,9 @@ set __fish_git_prompt_char_stashstate '↩'
 set __fish_git_prompt_char_upstream_ahead '↑'
 set __fish_git_prompt_char_upstream_behind '↓'
 
+bind '[1~' beginning-of-line
+bind '[4~' end-of-line
+
 #if status --is-login
 #    set PPID (echo (ps --pid %self -o ppid --no-headers) | xargs)
 #    if ps --pid $PPID | grep ssh
@@ -59,8 +62,6 @@ end
 
 set -x EDITOR vim
 
-source $HOME/mfbin/load_env.fish
-
 alias git=hub
 #alias rm=trash
 alias del=/bin/rm
@@ -73,7 +74,7 @@ alias py3="vf activate py3"
 alias art="$HOME/myfarms/artisan"
 alias py="ipython"
 
-set -gx PATH $HOME/projects/depot_tools $HOME/bin /usr/local/bin $PATH /usr/bin/core_perl ./node_modules/.bin
+set -gx PATH $HOME/projects/depot_tools $HOME/bin /usr/local/bin $PATH /usr/bin/core_perl ./node_modules/.bin /usr/local/heroku/bin
 set -gx NODE_PATH /usr/lib/node_modules
 
 if test -z $CRD
@@ -100,6 +101,13 @@ end
 
 function reload
     source $HOME/.config/fish/config.fish
+end
+
+function loop --description 'Perform command after <enter>'
+    eval $argv
+    while read
+        eval $argv
+    end
 end
 
 #if status --is-login
