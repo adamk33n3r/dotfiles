@@ -1,9 +1,13 @@
+" Use Vim settings, rather than Vi settings (much better!).
+" This must be first, because it changes other options as a side effect.
+set nocompatible
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'kchmck/vim-coffee-script'
-Plugin 'bling/vim-airline'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 Plugin 'pangloss/vim-javascript'
 Plugin 'groenewege/vim-less'
 Plugin 'digitaltoad/vim-jade'
@@ -136,12 +140,8 @@ if v:progname =~? "evim"
     finish
 endif
 
-" Use Vim settings, rather than Vi settings (much better!).
-" This must be first, because it changes other options as a side effect.
-"set nocompatible
-
 " allow backspacing over everything in insert mode
-"set backspace=indent,eol,start
+set backspace=indent,eol,start
 
 if has("vms")
     set nobackup		" do not keep a backup file, use versions instead
