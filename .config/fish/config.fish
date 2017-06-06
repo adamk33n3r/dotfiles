@@ -1,7 +1,9 @@
-set -g powerline /usr/lib/python3.4/site-packages/powerline
+#set -g powerline /usr/lib/python3.6/site-packages/powerline
 
-set fish_function_path $fish_function_path "/usr/lib/python3.4/site-packages/powerline/bindings/fish"
-powerline-setup
+#set fish_function_path $fish_function_path "/usr/lib/python2.7/site-packages/powerline/bindings/fish"
+#powerline-setup
+# from https://gist.github.com/mamiu/87df7050dccaf2c890dd
+. ~/.config/fish/.promptline.fish
 
 set -g topleft (printf '\u250c')
 set -g bottomleft (printf '\u2514')
@@ -27,6 +29,8 @@ set -g fish_color_quote brown
 set -g fish_color_redirection normal
 set -g fish_color_search_match purple
 set -g fish_color_status red 
+set -g fish_greeting
+
 
 # fish git prompt
 set __fish_git_prompt_show_informative_status
@@ -55,12 +59,28 @@ bind '[4~' end-of-line
 #    end
 #end
 
-function trash
-    mkdir -p ~/.trash/(dirname $argv)
-    mv --backup=numbered "$argv" ~/.trash/(dirname $argv)
+function rm
+    if not count $argv > /dev/null
+      echo 'No args supplied'
+      return
+    end
+    if test $argv[1] = '-r'
+      echo 'use del'
+      return
+    end
+    for file in $argv
+      set fileName (basename "$file")
+      set dir ~/.trash/$fileName
+      set date (date -Iseconds)
+      set dest "$dir/$fileName~$date"
+      mkdir -p "$dir"
+      mv --backup=numbered "$file" "$dest"
+    end
 end
 
 set -x EDITOR vim
+
+source $HOME/mfbin/load_env.fish
 
 alias git=hub
 #alias rm=trash
@@ -71,11 +91,12 @@ alias vless="/bin/sh /usr/share/vim/vim74/macros/less.sh"
 alias open="xdg-open"
 alias py2="vf activate py2"
 alias py3="vf activate py3"
-alias art="$HOME/myfarms/artisan"
+alias art="$HOME/myfarms/site/artisan"
 alias py="ipython"
 
-set -gx PATH $HOME/projects/depot_tools $HOME/bin /usr/local/bin $PATH /usr/bin/core_perl ./node_modules/.bin /usr/local/heroku/bin
+set -gx PATH $HOME/projects/depot_tools $HOME/bin /usr/local/bin ./node_modules/.bin $PATH /usr/bin/core_perl $HOME/mfbin $HOME/.composer/vendor/bin /opt/ibm/db2/V11.1/bin
 set -gx NODE_PATH /usr/lib/node_modules
+set -gx ANDROID_HOME /opt/android-sdk
 
 if test -z $CRD
     set -gx CRD $HOME
@@ -116,7 +137,7 @@ end
 #    end
 #end
 
-if status -l
+if status -i
     complete -x --authoritative --command tma --arguments (tma --_completion (commandline -cp))
 end
 
@@ -146,3 +167,5 @@ if not status -l; and test -z $TMUX
 #else
 #    echo "tmux is already running according to \$TMUX: $TMUX"
 end
+
+rvm default
