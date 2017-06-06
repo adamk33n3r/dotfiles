@@ -16,12 +16,26 @@ Plugin 'digitaltoad/vim-jade'
 Plugin 'wavded/vim-stylus'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'wincent/Command-T'
+Plugin 'christoomey/vim-tmux-navigator'
+Plugin 'posva/vim-vue'
 
 call vundle#end()
 
+nmap ,h  :wa<cr>:execute '!set_current_test'.expand('%:p').' '.line('.')<cr><cr>
+nmap  :wa<cr>:execute '!run_current_test'<cr><cr>
+
+let g:tmux_navigator_no_mappings = 1
+nnoremap <silent> <C-w>h :TmuxNavigateLeft<cr>
+nnoremap <silent> <C-w>j :TmuxNavigateDown<cr>
+nnoremap <silent> <C-w>k :TmuxNavigateUp<cr>
+nnoremap <silent> <C-w>l :TmuxNavigateRight<cr>
+
 au BufNewFile,BufRead *.ejs set filetype=html
+au BufNewFile,BufReadPost *.js setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
 au BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
+au BufNewFile,BufReadPost *.ts setl shiftwidth=4 expandtab tabstop=4 softtabstop=4
 au BufNewFile,BufReadPost *.jade setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
+au BufRead,BufNewFile *.cson set ft=coffee
 "set rtp+=/usr/local/lib/python3.4/site-packages/powerline/vim/
 "python3 from powerline.vim import setup as powerline_setup
 "python3 powerline_setup()
@@ -49,9 +63,9 @@ set directory=~/.vim/swap
 set backupdir=~/.vim/backup
 
 "set spell spelllang=en_us
-set tabstop=4
-set softtabstop=4
-set shiftwidth=4
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
 set nu
 set et
 set wildmenu
@@ -59,6 +73,8 @@ set wildmode=full
 let g:is_bash=1
 set ai
 set timeoutlen=250
+set ignorecase
+set smartcase
 
 let g:syntastic_c_include_dirs = [ '~/usr/local/include' ]
 
@@ -169,10 +185,13 @@ inoremap <C-U> <C-G>u<C-U>
 if has('mouse')
     set mouse=a
 endif
-if has('mouse_sgr')
-    set ttymouse=sgr
-else
-    set ttymouse=xterm2
+
+if !has('nvim')
+  if has('mouse_sgr')
+      set ttymouse=sgr
+  else
+      set ttymouse=xterm2
+  endif
 endif
 
 " Switch syntax highlighting on, when the terminal has colors
