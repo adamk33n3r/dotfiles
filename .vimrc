@@ -1,6 +1,8 @@
 " Use Vim settings, rather than Vi settings (much better!).
 " This must be first, because it changes other options as a side effect.
 set nocompatible
+
+" git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
