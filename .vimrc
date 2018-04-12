@@ -2,6 +2,14 @@
 " This must be first, because it changes other options as a side effect.
 set nocompatible
 
+"let &t_SI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=1\x7\<Esc>\\"
+"let &t_SR = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=2\x7\<Esc>\\"
+"let &t_EI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=0\x7\<Esc>\\"
+" Cursors
+let &t_SI = "\<Esc>[6 q"
+let &t_SR = "\<Esc>[4 q"
+let &t_EI = "\<Esc>[2 q"
+
 " git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
@@ -33,7 +41,7 @@ nnoremap <silent> <C-w>l :TmuxNavigateRight<cr>
 au BufNewFile,BufRead *.ejs set filetype=html
 au BufNewFile,BufReadPost *.js setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
 au BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
-au BufNewFile,BufReadPost *.ts setl shiftwidth=4 expandtab tabstop=4 softtabstop=4
+"au BufNewFile,BufReadPost *.ts setl shiftwidth=4 expandtab tabstop=4 softtabstop=4
 au BufNewFile,BufReadPost *.jade setl shiftwidth=2 expandtab tabstop=2 softtabstop=2
 au BufRead,BufNewFile *.cson set ft=coffee
 "set rtp+=/usr/local/lib/python3.4/site-packages/powerline/vim/
@@ -175,7 +183,7 @@ set incsearch		" do incremental searching
 " let &guioptions = substitute(&guioptions, "t", "", "g")
 
 " Don't use Ex mode, use Q for formatting
-"map Q gq
+map Q gq
 
 " CTRL-U in insert mode deletes a lot.  Use CTRL-G u to first break undo,
 " so that you can undo CTRL-U after inserting a line break.
@@ -269,3 +277,4 @@ inoremap <C-D> <Esc>:call SmoothScroll(0)<Enter>i
 map <ScrollWheelUp> <C-Y>
 map <ScrollWheelDown> <C-E>
 set iskeyword-=_
+set iskeyword-=/

@@ -1,8 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/akeenan/tinyhands-amen/node_modules/generator-angular-fullstack/app/templates/server'
-let g:netrw_dirhist_2='/home/akeenan/tinyhands-amen/node_modules/generator-angular-fullstack/app/templates'
-let g:netrw_dirhist_3='/home/akeenan/tinyhands-amen/node_modules/generator-angular-fullstack/app'
-let g:netrw_dirhist_4='/home/akeenan/tinyhands-amen/server/api/form/vif'
-let g:netrw_dirhist_5='/home/akeenan/projects/phaser/animated-cyril/src/scripts'
-let g:netrw_dirhist_6='/usr/lib/python3.4/site-packages/powerline'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/akeenan/myfarms2/scenarios/cotton/4/manure_type_id'
+let g:netrw_dirhist_2='/home/akeenan/myfarms2/scenarios/cotton/5/app_time_id'
+let g:netrw_dirhist_3='/home/akeenan/myfarms/site/.templates'
+let g:netrw_dirhist_4='/home/akeenan/myfarms/site/.templates/AngularComponent'
+let g:netrw_dirhist_5='/home/akeenan/myfarms/site/.templates'
