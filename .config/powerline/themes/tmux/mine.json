@@ -1,34 +1,45 @@
 {
-	"segments": {
-		"right": [
-            {
-                "function": "powerline.segments.common.bat.battery",
-                "args": {
-                    "steps": 10,
-                    "gamify": true
-                }
-            },
-			{
-				"function": "powerline.segments.common.time.date"
-			},
-			{
-				"function": "powerline.segments.common.time.date",
-				"name": "time",
-				"args": {
-					"format": "%H:%M",
-					"istime": true
-				}
-			},
-			{
-				"function": "powerline.segments.common.wthr.weather",
-                "args": {
-                    "unit": "F",
-                    "location_query": "Muncie, Indiana"
-                }
-			},
-			{
-				"function": "powerline.segments.common.net.hostname"
-			}
-		]
-	}
+  "segments": {
+    "right": [
+      {
+        "function": "powerline.segments.common.bat.battery",
+        "args": {
+          "online": " "
+        }
+      },
+      {
+        "function": "powerline.segments.common.bat.battery",
+        "args": {
+          "gamify": true,
+          "steps": 10,
+          "online": " "
+        }
+      },
+      {
+        "function": "powerline.segments.common.time.date",
+        "before": ""
+      },
+      {
+        "function": "powerline.segments.common.time.date",
+        "name": "time",
+        "before": "◴ ",
+        "args": {
+          "format": "%H:%M",
+          "istime": true
+        }
+      },
+      {
+        "function": "powerline.segments.common.wthr.weather",
+          "args": {
+            "unit": "F",
+            "location_query": "Portland, Indiana",
+            "temp_hottest": "90",
+            "temp_coldest": "32"
+          }
+      },
+      {
+        "function": "powerline.segments.common.net.hostname"
+      }
+    ]
+  }
 }

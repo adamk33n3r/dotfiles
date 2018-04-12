@@ -68,8 +68,15 @@ function rm
       echo 'use del'
       return
     end
+    if test $argv[1] = '-f'
+      set argv $argv[2..-1]
+    end
     for file in $argv
-      set fileName (basename "$file")
+      if not test -e $file
+        echo "rm: cannot remove '$file': No such file"
+        continue
+      end
+      set fileName (basename -- "$file")
       set dir ~/.trash/$fileName
       set date (date -Iseconds)
       set dest "$dir/$fileName~$date"
@@ -87,27 +94,46 @@ alias git=hub
 alias del=/bin/rm
 #alias python=ipython
 alias vless="/bin/sh /usr/share/vim/vim74/macros/less.sh"
-#alias ls="ls --color=auto --indicator-style=classify --block-size=M"
+alias ls="ls --color=auto --indicator-style=classify --block-size=M -h"
 alias open="xdg-open"
 alias py2="vf activate py2"
 alias py3="vf activate py3"
 alias art="$HOME/myfarms/site/artisan"
 alias py="ipython"
+alias dc=docker-compose
 
-set -gx PATH $HOME/projects/depot_tools $HOME/bin /usr/local/bin ./node_modules/.bin $PATH /usr/bin/core_perl $HOME/mfbin $HOME/.composer/vendor/bin /opt/ibm/db2/V11.1/bin
-set -gx NODE_PATH /usr/lib/node_modules
-set -gx ANDROID_HOME /opt/android-sdk
+function dusk
+  env HEADLESS=false $HOME/myfarms/api/artisan dusk $argv
+end
+
+set -l prepend $HOME/bin /usr/local/bin ./node_modules/.bin $HOME/.yarn/bin
+set -l append /usr/bin/core_perl $HOME/mfbin $HOME/.composer/vendor/bin
+
+for path in $prepend
+  if not contains $path $PATH
+    set PATH $path $PATH
+  end
+end
+
+for path in $append
+  if not contains $path $PATH
+    set PATH $PATH $path
+  end
+end
+
+set -x NODE_PATH /usr/lib/node_modules
+set -x ANDROID_HOME /opt/android-sdk
 
 if test -z $CRD
-    set -gx CRD $HOME
+    set -x CRD $HOME
 end
 
 function setcrd
     set -eg CRD
     if test -z $argv
-        set -gx CRD (pwd)
+        set -x CRD (pwd)
     else
-        set -gx CRD "$argv"
+        set -x CRD "$argv"
     end
 end
 
@@ -131,6 +157,16 @@ function loop --description 'Perform command after <enter>'
     end
 end
 
+function loopi --description 'Perform command every n seconds'
+    set -l i $argv[1]
+    set -l cmd $argv[2..-1]
+    while true
+      eval $cmd
+      echo
+      sleep $i
+    end
+end
+
 #if status --is-login
 #    if test -z "$DISPLAY" -a $XDG_VTNR = 1
 #        exec startx
@@ -138,7 +174,8 @@ end
 #end
 
 if status -i
-    complete -x --authoritative --command tma --arguments (tma --_completion (commandline -cp))
+    complete -x -c tma -a (tma --_completion (commandline -cp))
+    complete -c git -n '__fish_git_using_command co' -a '(__fish_git_ranges)' -d 'Branch'
 end
 
 function tmux_new
@@ -157,10 +194,11 @@ source /usr/share/virtualfish/auto_activation.fish
 source /usr/share/virtualfish/global_requirements.fish
 source /usr/share/virtualfish/virtual.fish
 
-set -gx TERM xterm-256color
+set -x TERM xterm-256color
 exit
+
 if not status -l; and test -z $TMUX
-    set -gx TERM xterm-256color
+    set -x TERM xterm-256color
     tmux_attach
     or tmux_new
 #    or echo "tmux failed to start; using plain fish shell"

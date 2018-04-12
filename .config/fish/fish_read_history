@@ -1,2 +1,22 @@
 - cmd: hello
   when: 1421774186
+- cmd: hello
+  when: 1455837306
+- cmd: llllll
+  when: 1456189584
+- cmd: DB::getQueryLog();
+  when: 1456248338
+- cmd: DB::getQueryLog();
+  when: 1456421821
+- cmd: DB::getQueryLog();
+  when: 1457052043
+- cmd: DB::getQueryLog();
+  when: 1457130449
+- cmd: choices
+  when: 1461964036
+- cmd: match-multiple
+  when: 1461964039
+- cmd: select
+  when: 1461964043
+- cmd: select-multiple
+  when: 1461964045

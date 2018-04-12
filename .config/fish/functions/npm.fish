@@ -1,0 +1,1 @@
+/home/akeenan/.config/fisherman/fnm/functions/npm.fish

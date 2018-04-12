@@ -1,0 +1,1 @@
+/home/akeenan/.config/fisherman/menu/menu.fish

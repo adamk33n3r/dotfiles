@@ -1,0 +1,1 @@
+/home/akeenan/.config/fisherman/await/functions/await.fish
