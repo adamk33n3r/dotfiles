@@ -1,19 +1,47 @@
 [user]
 	name = Adam Keenan
-	email = adam.keenan@myfarms.com
+	email = adam.g.keenan@gmail.com
 [alias]
 	st = status
 	ci = commit
-	co = checkout
+  #co = !git-checkout-store
+  co = checkout
 	br = branch
+	nb = co -b
+	pr = pull-request
+	hist = log --pretty=format:'%C(yellow)[%ad]%C(reset) %C(green)[%h]%C(reset) | %C(red)%s %C(bold red){{%an}}%C(reset) %C(blue)%d%C(reset)' --graph --date=short
+	psuh = push
+	gud = diff HEAD..(git rev-list HEAD)
+  mr = lab merge-request
+[merge]
+  tool = meld
 [core]
 	editor = vim
+  pager = diff-so-fancy | less --tabs=4 -RFX
+	autocrlf = input
+	safecrlf = true
+	excludesfile = /home/akeenan/.gitignore_global
 [push]
-	default = simple
+	default = current
+  followTags = true
 [branch]
 	autosetupmerge = true
 [color]
     ui = auto
 [color "status"]
     changed = red bold
-    untracked = black bold
+    untracked = white
+[commit]
+	gpgsign = true
+[diff]
+	compactionHeuristic = true
+[color "diff-highlight"]
+	oldNormal = red bold
+	oldHighlight = red bold 52
+	newNormal = green bold
+	newHighlight = green bold
+[interactive]
+	diffFilter = diff-so-fancy
+[gitlab]
+	token = 7zayxpynJSdzBHgZJ8zc
+	url = http://gitlab.myfarms.com
