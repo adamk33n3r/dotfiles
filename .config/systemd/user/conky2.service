@@ -1,0 +1,9 @@
+[Unit]
+Description=Conky, man
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/conky -b
+
+[Install]
+WantedBy=default.target

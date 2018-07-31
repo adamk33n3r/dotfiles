@@ -1,0 +1,9 @@
+[Unit]
+Description=Manage udev events in userspace
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/udevedu
+
+[Install]
+WantedBy=default.target
