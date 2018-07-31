@@ -1,9 +1,18 @@
-#set -g powerline /usr/lib/python3.6/site-packages/powerline
-
-#set fish_function_path $fish_function_path "/usr/lib/python2.7/site-packages/powerline/bindings/fish"
-#powerline-setup
-# from https://gist.github.com/mamiu/87df7050dccaf2c890dd
 . ~/.config/fish/.promptline.fish
+bind '[1~' beginning-of-line
+bind '[4~' end-of-line
+
+############
+# ENV VARS #
+############
+
+source $HOME/mfbin/load_env.fish
+set -gx GITLAB_TOKEN o7zayd6zq6bEus2Bc97V
+set -gx EDITOR vim
+set -gx NODE_PATH /usr/lib/node_modules
+set -gx TERM xterm-256color
+set -gx MANPATH $HOME/.linuxbrew/share/man $MANPATH
+set -gx INFOPATH $HOME/.linuxbrew/share/info $INFOPATH
 
 set -g topleft (printf '\u250c')
 set -g bottomleft (printf '\u2514')
@@ -48,66 +57,9 @@ set __fish_git_prompt_char_stashstate '↩'
 set __fish_git_prompt_char_upstream_ahead '↑'
 set __fish_git_prompt_char_upstream_behind '↓'
 
-bind '[1~' beginning-of-line
-bind '[4~' end-of-line
 
-#if status --is-login
-#    set PPID (echo (ps --pid %self -o ppid --no-headers) | xargs)
-#    if ps --pid $PPID | grep ssh
-#        tmux has-session -t remote; and tmux attach-session -t remote; or tmux new-session -s remote; and kill %self
-#        echo "tmux failed to start; using plain fish shell"
-#    end
-#end
-
-function rm
-    if not count $argv > /dev/null
-      echo 'No args supplied'
-      return
-    end
-    if test $argv[1] = '-r'
-      echo 'use del'
-      return
-    end
-    if test $argv[1] = '-f'
-      set argv $argv[2..-1]
-    end
-    for file in $argv
-      if not test -e $file
-        echo "rm: cannot remove '$file': No such file"
-        continue
-      end
-      set fileName (basename -- "$file")
-      set dir ~/.trash/$fileName
-      set date (date -Iseconds)
-      set dest "$dir/$fileName~$date"
-      mkdir -p "$dir"
-      mv --backup=numbered "$file" "$dest"
-    end
-end
-
-set -x EDITOR vim
-
-source $HOME/mfbin/load_env.fish
-
-alias git=hub
-#alias rm=trash
-alias del=/bin/rm
-#alias python=ipython
-alias vless="/bin/sh /usr/share/vim/vim74/macros/less.sh"
-alias ls="ls --color=auto --indicator-style=classify --block-size=M -h"
-alias open="xdg-open"
-alias py2="vf activate py2"
-alias py3="vf activate py3"
-alias art="$HOME/myfarms/site/artisan"
-alias py="ipython"
-alias dc=docker-compose
-
-function dusk
-  env HEADLESS=false $HOME/myfarms/api/artisan dusk $argv
-end
-
-set -l prepend $HOME/bin /usr/local/bin ./node_modules/.bin $HOME/.yarn/bin
-set -l append /usr/bin/core_perl $HOME/mfbin $HOME/.composer/vendor/bin
+set -l prepend $HOME/bin /usr/local/bin ./node_modules/.bin $HOME/.yarn/bin $HOME/.linuxbrew/bin
+set -l append /usr/bin/core_perl $HOME/mfbin $HOME/.config/composer/vendor/bin
 
 for path in $prepend
   if not contains $path $PATH
@@ -124,21 +76,23 @@ end
 set -x NODE_PATH /usr/lib/node_modules
 set -x ANDROID_HOME /opt/android-sdk
 
-if test -z $CRD
-    set -x CRD $HOME
-end
+###########
+# Aliases #
+###########
 
-function setcrd
-    set -eg CRD
-    if test -z $argv
-        set -x CRD (pwd)
-    else
-        set -x CRD "$argv"
-    end
-end
+alias ls="ls --color=auto --indicator-style=classify --block-size=M -h"
+alias open="xdg-open"
+alias art="$HOME/myfarms/site/artisan"
+alias del=/bin/rm
+alias dc=docker-compose
+alias svim="sudo -E vim"
 
-function getcrd
-    echo -n $CRD
+####################
+# Useful Functions #
+####################
+
+function dusk
+  env HEADLESS=false $HOME/myfarms/api/artisan dusk $argv
 end
 
 function vimf
@@ -167,43 +121,91 @@ function loopi --description 'Perform command every n seconds'
     end
 end
 
-#if status --is-login
-#    if test -z "$DISPLAY" -a $XDG_VTNR = 1
-#        exec startx
-#    end
+# Enables a sort of "trash" functionaility to your rm command
+function rm
+    if not count $argv > /dev/null
+      echo 'No args supplied'
+      return
+    end
+    if test $argv[1] = '-r'
+      echo 'use del'
+      return
+    end
+    if test $argv[1] = '-f'
+      set argv $argv[2..-1]
+    end
+    for file in $argv
+      if not test -e $file
+        echo "rm: cannot remove '$file': No such file"
+        continue
+      end
+      set fileName (basename -- "$file")
+      set dir ~/.trash/$fileName
+      set date (date -Iseconds)
+      set dest "$dir/$fileName~$date"
+      mkdir -p "$dir"
+      mv --backup=numbered "$file" "$dest"
+    end
+end
+
+################################
+# CRD (Current Root Directory) #
+################################
+
+if test -z $CRD
+    set -x CRD $HOME
+end
+
+function setcrd
+    set -eg CRD
+    if test -z $argv
+        set -x CRD (pwd)
+    else
+        set -x CRD "$argv"
+    end
+end
+
+function getcrd
+    echo -n $CRD
+end
+
+# Adds one additional change to the default cd function which allows cd to $CRD
+function cd --description 'Change directory relative to root'
+	# Skip history in subshells
+	if status --is-command-substitution
+		builtin cd $argv
+		return $status
+	end
+
+	# Avoid set completions
+	set -l previous $PWD
+
+	if test $argv[1] = - ^/dev/null
+		if test "$__fish_cd_direction" = next ^/dev/null
+			nextd
+		else
+			prevd
+		end
+		return $status
+	end
+
+  if test -z $argv[1]
+      builtin cd $CRD
+  else
+      builtin cd $argv[1]
+  end
+	set -l cd_status $status
+
+	if test $cd_status = 0 -a "$PWD" != "$previous"
+		set -g dirprev $dirprev $previous
+		set -e dirnext
+		set -g __fish_cd_direction prev
+	end
+
+	return $cd_status
+end
+
+# Completion for the `tma` command
+#if status -i
+#    complete -x --authoritative --command tma --arguments (tma --_completion (commandline -cp))
 #end
-
-if status -i
-    complete -x -c tma -a (tma --_completion (commandline -cp))
-    complete -c git -n '__fish_git_using_command co' -a '(__fish_git_ranges)' -d 'Branch'
-end
-
-function tmux_new
-    tmux new
-    #and kill %self
-end
-
-function tmux_attach
-    tmux attach
-    #tmux has -t 0
-    #and tmux new -t 0
-end
-
-set -g VIRTUALFISH_COMPAT_ALIASES "hi"
-source /usr/share/virtualfish/auto_activation.fish
-source /usr/share/virtualfish/global_requirements.fish
-source /usr/share/virtualfish/virtual.fish
-
-set -x TERM xterm-256color
-exit
-
-if not status -l; and test -z $TMUX
-    set -x TERM xterm-256color
-    tmux_attach
-    or tmux_new
-#    or echo "tmux failed to start; using plain fish shell"
-#else
-#    echo "tmux is already running according to \$TMUX: $TMUX"
-end
-
-rvm default
