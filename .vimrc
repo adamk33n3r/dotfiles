@@ -11,23 +11,40 @@ let &t_SR = "\<Esc>[4 q"
 let &t_EI = "\<Esc>[2 q"
 
 " git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+"set rtp+=~/.vim/bundle/Vundle.vim
+"call vundle#begin()
+"
+"Plugin 'VundleVim/Vundle.vim'
+"Plugin 'kchmck/vim-coffee-script'
+"Plugin 'vim-airline/vim-airline'
+"Plugin 'vim-airline/vim-airline-themes'
+"Plugin 'pangloss/vim-javascript'
+"Plugin 'groenewege/vim-less'
+"Plugin 'digitaltoad/vim-jade'
+"Plugin 'wavded/vim-stylus'
+"Plugin 'leafgarland/typescript-vim'
+"Plugin 'wincent/Command-T'
+"Plugin 'christoomey/vim-tmux-navigator'
+"Plugin 'posva/vim-vue'
+"
+"call vundle#end()
 
-Plugin 'VundleVim/Vundle.vim'
-Plugin 'kchmck/vim-coffee-script'
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
-Plugin 'pangloss/vim-javascript'
-Plugin 'groenewege/vim-less'
-Plugin 'digitaltoad/vim-jade'
-Plugin 'wavded/vim-stylus'
-Plugin 'leafgarland/typescript-vim'
-Plugin 'wincent/Command-T'
-Plugin 'christoomey/vim-tmux-navigator'
-Plugin 'posva/vim-vue'
 
-call vundle#end()
+"let &t_SI = "\<Esc>[6 q"
+"let &t_SR = "\<Esc>[4 q"
+"let &t_EI = "\<Esc>[2 q"
+
+
+execute pathogen#infect()
+colo gruvbox
+set visualbell
+set t_vb=
+if &term =~ '256color'
+    " disable Background Color Erase (BCE) so that color schemes
+    " render propertly when inside 256-color tmux and GNU screen.
+    " see also http://snk.tuxfamily.org/log/vim-256color-bce.html
+    set t_ut=
+endif
 
 nmap ,h  :wa<cr>:execute '!set_current_test'.expand('%:p').' '.line('.')<cr><cr>
 nmap  :wa<cr>:execute '!run_current_test'<cr><cr>
@@ -61,13 +78,16 @@ set shell=/bin/bash
 set bg=dark
 "colorscheme solarized
 set t_Co=256
-colorscheme xoria256noback
+"colorscheme xoria256noback
 
 set autochdir
 
 set undofile
+silent !mkdir ~/.vim/undo > /dev/null 2>&1
 set undodir=~/.vim/undo
+silent !mkdir ~/.vim/swap > /dev/null 2>&1
 set directory=~/.vim/swap
+silent !mkdir ~/.vim/backup > /dev/null 2>&1
 set backupdir=~/.vim/backup
 
 "set spell spelllang=en_us

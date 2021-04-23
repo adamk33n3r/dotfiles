@@ -15,13 +15,12 @@ begin
     # choose one of the following themes:
     # airline, airline_insert, airline_visual, jelly, promptline,
     # lightline, lightline_insert, lightline_visual
-    set promptline_theme "powerline"
+    set promptline_theme "airline"
 
     set cwd_dir_limit 3
-    set cwd_truncation_symbol "⋯"
-    #set cwd_truncation_symbol "..."
+    set cwd_truncation_symbol "⋯ "
      
-    set battery_threshold 100
+    set battery_threshold 15
     set battery_symbol ""
     set battery_percent_sign "%"
 
@@ -145,16 +144,10 @@ function __promptline_git_status -d "get status of current git branch"
         set -l modified_count 0
         set -l has_untracked_files 0
         set -l added_count 0
-        set -l is_clean 0
+        set -l is_clean ""
      
-        set -l behind_count (git rev-list --left-right --count '@{upstream}...HEAD' 2>/dev/null | awk '{print $1}')
-        if test -z $behind_count
-          set behind_count 0
-        end
-        set -l ahead_count (git rev-list --left-right --count '@{upstream}...HEAD'  2>/dev/null | awk '{print $2}')
-        if test -z $ahead_count
-          set ahead_count 0
-        end
+        set -l behind_count (git rev-list --left-right --count '@{upstream}...HEAD' | awk '{print $1}')
+        set -l ahead_count (git rev-list --left-right --count '@{upstream}...HEAD' | awk '{print $2}')
      
         # Added (A), Copied (C), Deleted (D), Modified (M), Renamed (R), changed (T), Unmerged (U), Unknown (X), Broken (B)
         git diff --name-status | while read line
@@ -172,7 +165,7 @@ function __promptline_git_status -d "get status of current git branch"
                     set added_count (math $added_count + 1)
             end
         end
-
+     
         test -z (git ls-files --others --exclude-standard | head -1); or set has_untracked_files 1
      
         test (math $unmerged_count + $modified_count + $has_untracked_files + $added_count) -eq 0; and set is_clean 1
@@ -277,6 +270,9 @@ function __promptline_right_prompt -S -d "draw the right part of promptline"
     if begin; test $show_return_value = "yes"; and test $return_value -ne 0; end
         __promptline_wrapper "$return_value_symbol$return_value" "$slice_prefix" "$slice_suffix"; and set slice_prefix "$slice_joiner"
     end
+    if begin; test $show_battery_level = "yes"; and test -n "$LAST_BATTERY_LEVEL"; and test "$LAST_BATTERY_LEVEL" -le "$battery_threshold"; end
+        __promptline_wrapper "$battery_symbol$LAST_BATTERY_LEVEL$battery_percent_sign" "$slice_prefix" "$slice_suffix"
+    end
  
     # section "y" header
     set slice_prefix "$y_sep_fg$rsep$y_fg$y_bg$space"
@@ -287,13 +283,6 @@ function __promptline_right_prompt -S -d "draw the right part of promptline"
         __promptline_wrapper (__promptline_vcs_branch) "$slice_prefix" "$slice_suffix"; and set slice_prefix "$slice_joiner"
     else if test $show_git_status = "yes"
         __promptline_wrapper (__promptline_git_status) "$slice_prefix" "$slice_suffix"; and set slice_prefix "$slice_joiner"
-    end
-
-    set -l slice_prefix "$warn_sep_fg$rsep$warn_fg$warn_bg$space"
-    set -l slice_suffix "$space$warn_sep_fg"
-    set -l slice_joiner "$warn_fg$warn_bg$alt_rsep$space"
-    if begin; test $show_battery_level = "yes"; and test -n "$LAST_BATTERY_LEVEL"; and test "$LAST_BATTERY_LEVEL" -le "$battery_threshold"; end
-        __promptline_wrapper "$battery_symbol$LAST_BATTERY_LEVEL$battery_percent_sign" "$slice_prefix" "$slice_suffix"
     end
  
     # close sections
@@ -310,10 +299,7 @@ set -U HOSTNAME (hostname)
 # solution seems to be a advantage, because the battery level refreshes
 # automatically without hitting enter to get the current percentage. But on
 # Linux the current battery level is always printed one step later.
-
-#-d "if the .battery.fish file doesn't exist, create it"
-
-if not test -f "$BATTERY_FILE"
+if not test -f "$BATTERY_FILE" -d "if the .battery.fish file doesn't exist, create it"
     printf "\n# osx\n" > "$BATTERY_FILE"
     printf "if test (uname) = \"Darwin\"\n" >> "$BATTERY_FILE"
     printf "    set current_capacity (ioreg -rc AppleSmartBattery 2>/dev/null | grep CurrentCapacity | awk -F' ' '{print \$NF}')\n" >> "$BATTERY_FILE"
@@ -322,9 +308,9 @@ if not test -f "$BATTERY_FILE"
     printf "end\n\n" >> "$BATTERY_FILE"
     printf "# linux\n" >> "$BATTERY_FILE"
     printf "for possible_battery_dir in /sys/class/power_supply/BAT*\n" >> "$BATTERY_FILE"
-    printf "    if begin; test -d \"\$possible_battery_dir\"; and test -f \"\$possible_battery_dir/energy_full\"; and test -f \"\$possible_battery_dir/energy_now\"; end\n" >> "$BATTERY_FILE"
-    printf "        set current_capacity (cat \"\$possible_battery_dir/energy_now\")\n" >> "$BATTERY_FILE"
-    printf "        set battery_capacity (cat \"\$possible_battery_dir/energy_full\")\n" >> "$BATTERY_FILE"
+    printf "    if begin; test -d \"\$possible_battery_dir\"; and test -f \"\$possible_battery_dir/charge_full\"; and test -f \"\$possible_battery_dir/charge_now\"; end\n" >> "$BATTERY_FILE"
+    printf "        set current_capacity (cat \"\$possible_battery_dir/charge_now\")\n" >> "$BATTERY_FILE"
+    printf "        set battery_capacity (cat \"\$possible_battery_dir/charge_full\")\n" >> "$BATTERY_FILE"
     printf "        set -U LAST_BATTERY_LEVEL (math \$current_capacity \* 100 \/ \$battery_capacity)\n" >> "$BATTERY_FILE"
     printf "    end\n" >> "$BATTERY_FILE"
     printf "end\n" >> "$BATTERY_FILE"

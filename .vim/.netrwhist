@@ -1,7 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/akeenan/myfarms2/scenarios/cotton/4/manure_type_id'
-let g:netrw_dirhist_2='/home/akeenan/myfarms2/scenarios/cotton/5/app_time_id'
-let g:netrw_dirhist_3='/home/akeenan/myfarms/site/.templates'
-let g:netrw_dirhist_4='/home/akeenan/myfarms/site/.templates/AngularComponent'
-let g:netrw_dirhist_5='/home/akeenan/myfarms/site/.templates'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/akeenan/myfarms/site/vendor/laravel/framework/src/Illuminate/Routing/Middleware'
+let g:netrw_dirhist_2='/home/akeenan/myfarms/api/app/Http/Middleware'
+let g:netrw_dirhist_3='/home/akeenan/myfarms/MyJohnDeereAPI-OAuth2-PHP-Example/src/Domain/Oauth2'
+let g:netrw_dirhist_4='/home/akeenan/myfarms/site/vendor'
+let g:netrw_dirhist_5='/home/akeenan/.config/yarn/global/node_modules'
+let g:netrw_dirhist_6='/home/akeenan/.config/yarn/global/node_modules/bent'
+let g:netrw_dirhist_7='/home/akeenan/myfarms/site/storage/user/43938/fieldview/asHarvested'
+let g:netrw_dirhist_8='/home/akeenan/.vim'
+let g:netrw_dirhist_9='/home/akeenan/dotfiles/.vim'

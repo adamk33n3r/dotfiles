@@ -7,7 +7,7 @@
   #co = !git-checkout-store
   co = checkout
 	br = branch
-	nb = co -b
+	nb = checkout -b
 	pr = pull-request
 	hist = log --pretty=format:'%C(yellow)[%ad]%C(reset) %C(green)[%h]%C(reset) | %C(red)%s %C(bold red){{%an}}%C(reset) %C(blue)%d%C(reset)' --graph --date=short
 	psuh = push
@@ -18,7 +18,7 @@
 [core]
 	editor = vim
   pager = diff-so-fancy | less --tabs=4 -RFX
-	autocrlf = input
+	autocrlf = false
 	safecrlf = true
 	excludesfile = /home/akeenan/.gitignore_global
 [push]
@@ -27,21 +27,30 @@
 [branch]
 	autosetupmerge = true
 [color]
-    ui = auto
+	ui = true
 [color "status"]
     changed = red bold
     untracked = white
 [commit]
-	gpgsign = true
+	gpgsign = false
 [diff]
 	compactionHeuristic = true
 [color "diff-highlight"]
 	oldNormal = red bold
 	oldHighlight = red bold 52
 	newNormal = green bold
-	newHighlight = green bold
+	newHighlight = green bold 22
 [interactive]
-	diffFilter = diff-so-fancy
+	diffFilter = diff-highlight
 [gitlab]
 	token = 7zayxpynJSdzBHgZJ8zc
 	url = http://gitlab.myfarms.com
+[color "diff"]
+	meta = yellow
+	frag = magenta bold
+	commit = yellow bold
+	old = red bold
+	new = green bold
+	whitespace = red reverse
+[vain]
+	default = b00b5
