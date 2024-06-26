@@ -57,3 +57,5 @@
 	default = b00b5
 [safe]
 	directory = /mnt/c/dev/CC10
+[credential]
+	helper = store
