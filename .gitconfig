@@ -1,0 +1,59 @@
+[init]
+	defaultBranch = master
+[http]
+	sslCAInfo = /home/adam/winhome/.ao_ssl/ca-bundle.crt
+[user]
+	name = Adam Keenan
+	email = adam.g.keenan@gmail.com
+[alias]
+	st = status
+	ci = commit
+  #co = !git-checkout-store
+  co = checkout
+	br = branch
+	nb = checkout -b
+	pr = pull-request
+	hist = log --pretty=format:'%C(yellow)[%ad]%C(reset) %C(green)[%h]%C(reset) | %C(red)%s %C(bold red){{%an}}%C(reset) %C(blue)%d%C(reset)' --graph --date=short
+	psuh = push
+	gud = diff HEAD..(git rev-list HEAD)
+  mr = lab merge-request
+[merge]
+  tool = meld
+[core]
+	editor = vim
+  #pager = diff-so-fancy | less --tabs=4 -RFX
+	autocrlf = false
+	safecrlf = false
+	excludesfile = /home/adam/.gitignore_global
+[push]
+	default = current
+  followTags = true
+[branch]
+	autosetupmerge = true
+[color]
+	ui = true
+[color "status"]
+    changed = red bold
+    untracked = white
+[commit]
+	gpgsign = false
+[diff]
+	compactionHeuristic = true
+[color "diff-highlight"]
+	oldNormal = red bold
+	oldHighlight = red bold 52
+	newNormal = green bold
+	newHighlight = green bold 22
+[interactive]
+	diffFilter = diff-highlight
+[color "diff"]
+	meta = yellow
+	frag = magenta bold
+	commit = yellow bold
+	old = red bold
+	new = green bold
+	whitespace = red reverse
+[vain]
+	default = b00b5
+[safe]
+	directory = /mnt/c/dev/CC10
